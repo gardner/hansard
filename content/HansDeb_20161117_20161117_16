@@ -1,0 +1,771 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Appointments — Controller and Auditor-General - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_16" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_16/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Appointments — Controller and Auditor-General</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20161117_20161117_16/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_16" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20161117_20161117_16/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_16/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20161117_20161117_16/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_16/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20161117_20161117_16/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard is-draft">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Debate"><strong>APPOINTMENTS</strong></p><p class="SubDebate"><strong>Controller and Auditor-General</strong></p><p class="Speech"><a name="time_20161117 15:08:12" ></a><strong>Hon GERRY BROWNLEE (Leader of the House)</strong>: I move, <em>That </em><em>pursuant to section 7(2) and clause 1 of schedule 3 of the Public Audit Act 2001</em><em>,</em><em> the House recommend to the Governor-General that Martin Thomas Harold Matthews of Wellington be appointed as Controller and Auditor-General for a term not exceeding 7 years</em><em>,</em><em> commencing on 1 February 2017.</em> The process for choosing a nominee for a position like this, which is an Officer of Parliament, is exhaustively undertaken, under your chairmanship, Mr Speaker, with the assistance of other parties' representatives to the Officers of Parliament Committee. I know that there were a number of applicants who would have met the bill, but the committee has decided to support Martin Matthews. </p><p class="a">My own experience of Martin Matthews is working alongside him for 3 years, as the Minister of Transport, when he was running the transport ministry. What I can assure the House is that he is a first-class public servant. His career in the Public Service started in the Audit Office, and I think the broad experience that he has had since his early days as an auditor through to being chief executive of a very large Government department will serve him well in the role of Auditor-General. We therefore unreservedly support his appointment.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 15:09:51" ></a><strong>Hon TREVOR</strong><strong> MALLARD (Labour—Hutt South)</strong>: First, before I speak directly to the motion, I want to place on record the thanks of the House to Lyn Provost for the work she has done as Auditor-General—and, before that, as the first civilian and first woman Deputy Commissioner of Police—and for her work with a number of the members of the House at the State Services Commission. Her public service has been brilliant, and I hope that although she clearly cannot take a normal Public Service role now, her talents are well used.</p><p class="a">The Leader of the House has outlined the background of Martin Matthews. Again, I have had the advantage of working with Mr Matthews when he was chief executive, in that case, of the Ministry for Culture and Heritage and before that when he was the Assistant Auditor-General. I say to the Leader of the House that Mr Matthews has a very good understanding of not only being a good public servant when the responsibility is to Ministers but also the role of the Auditor-General and working in that role, which has quite a different responsibility—a responsibility to this House and more broadly to the country. </p><p class="a">I think it would not be fair for this appointment to proceed through the House without referring to what might be described as an elephant in the room, and that is a case that I will not refer to in any detail but it involved Mr Matthews' previous ministry. All I want to say is that members of the committee looked into this very, very carefully, were well briefed on the issue, and came to the conclusion that Mr Matthews' handling of the matter was described to us as having been exemplary. That meant that something that might otherwise be seen as a disadvantage was, in fact, seen in the end to reinforce the decision that the committee previously made subject to this matter being dealt with to appoint Mr Matthews. </p><p class="a">I am sure he will be a fine Auditor-General and I wish him well in the role over the next 7 years, much of which time I hope he would be reporting to a committee that I chair.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 15:12:37" ></a><strong>BARRY COATES (Green)</strong>: We welcome the appointment of Martin Matthews as Controller and Auditor-General. We note that he is well qualified for the role, having served almost 2 decades in the Audit Office previously, including 8 years as Assistant Auditor-General. He then served a decade in the chief executive role for the Ministry for Culture and Heritage, followed by 8 years as Chief Executive of the Ministry of Transport. We noted in this role his statement, as a self-confessed petrolhead, that it would not make sense to own a car in 30 years' time. We agree, although we think it may happen far sooner than that. </p><p class="a">This is also an appropriate opportunity to offer thanks to the former Auditor-General Lyn Provost for her work. She was the first woman Auditor-General and we thank her for her exemplary service, particularly most recently her report into the Saudi sheep deal. We note the challenges facing Martin Matthews as incoming Auditor-General into this crucial role at this important time: a recent fall in New Zealand's standing in the Corruptions Perception Index, highlighted by the report from Amnesty International New Zealand. It talked about a lack of transparency and the rising public concern over issues of probity of public finance. So we think this is an important role at an important time. We welcome Martin Matthews into this role and wish him well in his tenure. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 15:14:28" ></a><strong>PITA PARAONE (NZ First)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">New Zealand First supports the appointment of Mr Martin Matthews as the Controller and Auditor-General. Mr Matthews has had a distinguished career in the Public Service, and my personal knowledge of him goes back to when he was the chief executive officer of the Ministry for Culture and Heritage. I particularly want to acknowledge his efforts in being responsible for the lead Government agency in the Year 2000 celebrations, and particularly the celebrations in Waitangi. It was in that capacity that I knew him, and given the to-ing and fro-ing of what happens in Waitangi in ordinary years, 2000 was a special one, and I just want to acknowledge his efforts in that regard. </p><p class="a">But I want to point out just one particular role that the Controller and Auditor-General has, and that is being "independent of executive the government and Parliament in discharging the functions of the statutory office,". I want to highlight that the Auditor-General provides independent assurance that public entities are operating and accounting for their performance, in keeping with Parliament's intentions. I want to emphasise the word "independent". I am sure that Mr Matthews is aware of that and will discharge his duties in such a manner. We in New Zealand First have no doubts that he will carry out his duties without fear or favour, and we wish him all the best in his new role.</p><p class="a">In conclusion, we also want to acknowledge Mr Matthews' immediate predecessor, Lyn Provost, who held the position since 2009, for her service and particular exercising in regard to the independent nature of the position.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 15:16:59" ></a><strong>MARAMA FOX (Co-Leader—Māori Party)</strong>: Along with the other parties that have acknowledged the work of the previous Auditor-General, Lyn Provost, we too would like to offer our thanks to her and her team. Indeed, the Office of the Auditor-General has been professional in recent days, given that it has had no office to operate out of but still has performed its duties here, assisting the members of various select committees.</p><p class="a">We want to welcome the appointment of Martin Thomas Harold Matthews as the new Controller and Auditor-General. We note his extensive public service, as has been mentioned, but there is an even more interesting story to be told about Mr Matthews and his connection to the Māori Party—that is right, specifically to one of the founders of our party. Yes, the former Māori Party co-leader Sir Dr Pita Sharples might not have known it then, when he organised a youth conference some 30 years ago, but it was there that Mr Matthews first set his eyes on Heather, the woman who would eventually become his wife. Thirty-three years later, they have three children—we call that "whakapapa in action". So we would like to welcome the new Auditor-General and his family to this most auspicious role.</p><p class="a">We also note that Mr Matthews has links to the Hawke's Bay, having grown up in Napier, and ties to Te Wai Pounamu, through his parents and wife who are from there. So we extend to them our aroha for their friends and relatives who may have been affected by Sunday's earthquake.</p><p class="a">Mr Matthews has a huge job ahead of him as our country's top public-spending watchdog, keeping a close eye on more than 4,000 groups that administer taxpayer and ratepayer dollars. We encourage him to widen the scope of how his office audits taxpayer-funded entities, to ensure that it is including two further points in their work: whether those groups are giving effect to the principles of Te Tiriti o Waitangi, and whether they are recruiting a diversity of staff that reflect our community.</p><p class="a">The Māori Party views all Government departments and local government entities as agents of the Crown, and therefore they have an obligation to give effect to the principles of Te Tiriti—not just in those organisations that have a Māori name or a specific role to play for Māori, but across all public sector services, which Māori are high users of. We cannot escape that Te Tiriti o Waitangi is our founding document. Just some of Te Tiriti principles we encourage the new Auditor-General to look at are whether those Crown agents are working in partnership and good faith with Māori, living up to their duty to actively protect Māori interests, allowing Māori to retain rangatiratanga over their resources and taonga, and properly consulting with Māori.</p><p class="a">The Māori Party believes that if the Office of the Auditor-General gives more credence to Te Tiriti, we will be able to assess whether the spend is fit for service to all communities as well as to Māori. For years the party has been calling for all legislation to be measured against Te Tiriti as a value-add to the legislative framework. We believe there is space to be made for our country's founding document in the work of the Office of the Auditor-General.</p><p class="a">We also think that the Office of the Auditor-General should be asking the groups at audits how many staff they have of diverse ethnicities that better reflect their community. Our party believes that there is an unconscious bias across out public sector—this is the palatable term; the other term is "institutional racism". We know that the only way to tackle that is by ensuring the principles of Te Tiriti are upheld.</p><p class="IndentMarginalone">Motion agreed to.</p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

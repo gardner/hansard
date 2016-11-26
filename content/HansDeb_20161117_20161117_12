@@ -1,0 +1,806 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Oral Questions—Questions to Ministers - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_12" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_12/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Oral Questions—Questions to Ministers</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20161117_20161117_12/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_12" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20161117_20161117_12/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_12/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20161117_20161117_12/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_12/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20161117_20161117_12/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="QOA"><strong>ORAL QUESTIONS</strong></p><p class="QType"><strong>QUESTIONS TO MINISTERS</strong></p><h4 class="QSubjectHeading"><strong>Building Code—</strong><strong>Review</strong></h4><p class="SubsQuestion"><strong>1. </strong><strong>PHIL TWYFORD (Labour—Te Atatū)</strong> to the <strong>Minister for Building and Housing</strong>: Does he believe there needs to be a review of the Building Code given the damage sustained by modern buildings, such as Statistics House, in this week's earthquakes?</p><p class="SubsAnswer"><a name="time_20161117 14:05:31" ></a><strong>Hon Dr NICK SMITH (Minister for Building and Housing)</strong>: I raised with the Ministry of Business, Innovation and Employment the idea of doing a review of the seismic standards on Tuesday, in light of modern buildings like Statistics House suffering unexpected structural damage. The issue is not the building code but the more detailed standards. I expect to finalise the details of that review later today. The overall performance of most buildings in the quake was good, but there may be others like Statistics House that require further investigation, as more information comes to hand with the hundreds of assessments that are currently taking place across Wellington. </p><p class="SupQuestion"><strong>Phil Twyford</strong>: What does he make of the fact that none of the damaged buildings that are now closed featured in a Wellington City Council list of 663 earthquake-prone buildings published on 3 November?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: I assume the member is referring to a very detailed issue in respect of the ductility of columns of a range of buildings, and the first thing is I would make the point that that is just one of many issues that relate to the seismic performance of a building. Councils have followed up and ensured the vast bulk of those buildings have had new assessments. The information that I saw in the media, which was that the Molesworth Street building was one of those, is incorrect. </p><p class="SupQuestion"><strong>Phil Twyford</strong>: Does he think that the standard of compliance with the building code should be reviewed in relation to the modern buildings that have sustained significant damage?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: As I said in the answer to the primary question, I am satisfied with the overall performance of buildings. Seismic engineering is actually a very complex field, such that Monday's earthquake focused in the spectra of those buildings between five and 10 storeys. So those building owners who are sitting and thinking "Hey, my building's a one-storey or a two-storey building and it is earthquake-prone, but I don't have a problem with because it survived Monday." are mistaken, because we could equally have an aftershock, or another earthquake that is in a different part of the spectrum, in which those buildings would be very vulnerable. That is why I would urge members of the public, building owners, and the Parliament to ensure that they use the very best seismic engineering expertise in making these technical judgments about building safety.</p><p class="SupQuestion"><strong>Phil Twyford</strong>: What advice has he received on whether the siting of multi-storey buildings on reclaimed land was appropriately taken into account in the consenting process?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: One of the most important learnings from the Christchurch earthquake that is internationally significant is that the level of shaking experienced by a building does vary significantly with foundation type. That was not understood well prior to Christchurch because for most earthquake events there has been only a single seismograph record. The uniqueness of Christchurch is that there were over a hundred seismographs installed in the 1990s, which enabled that information. So, with that, there have been changes in engineering practice and standards so that, today, the type of foundations that a building is sitting on impacts on those loadings. The member may be aware that the Government adopted a new earthquake loading standard in September, which took on board those learnings.</p><p class="SupQuestion"><strong>Tim Macindoe</strong>: What advice has the Minister had about why many earthquake-prone buildings in areas like Cuba Street suffered relatively light damage, whereas other larger buildings suffered significant damage? </p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: That is very much a function not just of the strength of the earthquake but about the frequency of the shaking. Each building has a different natural frequency, and Monday's earthquake meant that buildings between six and 10 storeys tall were particularly vulnerable, but any subsequent aftershock could be in quite a different spectrum. For instance, if it was for a very short period, then it would be those one- and two-storey buildings that would be more vulnerable. That is, again, why I stress that building owners need to take good seismic engineering advice, and not draw simplistic conclusions about how strong their buildings are.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Has he received any specific advice about Statistics House and the impact of the earthquake on it, and does he believe that CentrePort, the owner of the building, could be more helpful in being more open about what has happened to the building?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: Yesterday I visited the Statistics New Zealand building, and was briefed, both by CentrePort and by its engineers, about what they thought were the difficulties in the corner where some of the tee slabs have collapsed. The advice was that it was because of the very long nature of the earthquake. Remember, the major earthquake in Christchurch was about 12 seconds—this was a 90-second-long earthquake, and, as a consequence, the number of cycles that the building experienced was higher. Having said that, there does need to be more detailed, thorough investigation into whether there are learnings from the building standards to ensure that we have the very best science and standards applied to new building construction.</p><p class="SupQuestion"><strong>Phil Twyford</strong>: Is he satisfied that public safety is being adequately protected, with around 60 buildings in Wellington not in use because of earthquake damage, and with the risk of how those damaged buildings might behave in the event of another large quake given that GNS Science says that there is a 30 percent chance of another quake of magnitude 7 to 7.8 in the next 30 days?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: The new earthquake-prone buildings legislation that this Parliament passed in May, and which some members of this House chose to criticise as an overreaction—I would suggest that members of this House actually say that this Government was absolutely right to take a national approach to requiring older buildings to be upgraded. The additional challenge we have now is that there are buildings, such as those on Molesworth Street, that have suffered significant damage from Monday's quake, and, in my view, the Wellington City Council is taking a proper approach of cautiousness, with cordons around those. A further issue, which I have discussed with the Acting Minister of Civil Defence, which may require additional measures, is ensuring that those buildings that do pose a risk are brought down as quickly as possible, and we may need additional legislation in that regard. Ironically, earlier this month, I took a paper to Cabinet to approve policy changes around improvements in the Building Act from the Christchurch learnings. We may need to bring forward those legislative changes to be able to react more quickly given this week's events.</p><p class="SupQuestion"><strong>Marama Fox</strong>: Is the Minister aware of any dangers posed to parts of Parliament Buildings that specifically house the press gallery; if so, are there any immediate plans to strengthen that area, keeping the members of the press gallery safe? </p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: The specific responsibility for buildings lies with the buildings' owners. In this case the Speaker may not be pleased but he is responsible for the buildings on the site. I would, however, say, firstly, that Parliament House is base-isolated with internationally leading technology and is one of the safest buildings—equally so is the Beehive. It is correct that the annexe in which the press gallery is located is not up to the full 100 percent standard of code. It is not identified—as in, being under 33 percent—as an earthquake-prone building, but I would commend both the Speaker and the Leader of the House on the work that they are doing to upgrade these buildings and make them safer for all their occupants.</p><p class="SupQuestion"><strong>Tim Macindoe</strong>: Further to the Minister's answers to some of the previous questions, what changes have been made since the Christchurch earthquakes to improve our systems for managing seismic risk?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: Firstly, there have been the significant changes to the Building Act that were passed earlier this year, and the Government is currently consulting on the detailed regulations to implement them. The big change there is that we have always, in this country, left it to councils to determine the issues around earthquake-prone buildings; now we have a national approach. Secondly, a big gain since Christchurch has been a new field guide for assessments and the training after an earthquake event. This gives me far more confidence about the quality and the consistency of the initial assessments being done on buildings in those areas impacted by Monday's quakes. Thirdly, there have been over a dozen changes through new standards, new practice notes, and new guidelines—learning from Christchurch to make sure that our earthquake systems are the very, very best.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Earthquake, </strong><strong>Kaikōura</strong><strong>—</strong><strong>Impact on GDP</strong></h4><p class="SubsQuestion"><strong>2. </strong><strong>ANDREW BAYLY (National—Hunua)</strong> to the <strong>Minister of Finance</strong>: What reports has he received on the expected impact of the Kaikōura earthquake on gross domestic product?</p><p class="SubsAnswer"><a name="time_20161117 14:15:39" ></a><strong>Hon BILL ENGLISH (Minister of Finance)</strong>: In the short term the earthquake is clearly having a major impact on the economies of Kaikōura and surrounding areas. But in contrast to the Christchurch earthquake, the impact looks to be relatively localised. The upper South Island region, which includes Tasman, Nelson, Marlborough, and the West Coast, makes up 3.5 percent of New Zealand's economy or $8.3 billion in regional gross domestic product. By comparison, Canterbury's GDP was $33 billion, and Wellington's $32 billion. The ANZ and BNZ are predicting a small dint in economic activity in the final part of this quarter and the first quarter of next year. The preliminary advice I have received suggests that this could be about right.</p><p class="SupQuestion"><strong>Andrew </strong><strong>Bayly</strong>: What lessons have been learnt from the Christchurch earthquakes?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: As the Prime Minister said yesterday, they are two different events presenting different challenges. One of the biggest lessons from Christchurch is how resilient and adaptable New Zealanders and New Zealand businesses are. Despite the devastation caused by those earthquakes, the impact on GDP was less than many expected, if only because businesses whose premises were destroyed found other premises to operate out of, employing their staff and meeting the needs of their customers. That is why we are doing everything we can in the coming months to assist businesses to keep going and to weather the immediate impact of the quake.</p><p class="SupQuestion"><strong>Andrew </strong><strong>Bayly</strong>: What effect will the Kaikōura earthquake have on the Government's future investment plans?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: We are obviously going to have to invest significant sums of money in things that just a week ago we did not anticipate. It will take some time to get a clearer picture of the impact of the earthquake on the Government's overall investment programme. Ideally, we would be able to continue with all other investments at the same time as incurring the cost of fixing the damage. We may be able to do that because we have got a growing economy, the Government's books are in good shape, and domestic and international confidence in New Zealand remain high. We will get the opportunity to consider these issues both in the context of the half-year update, due in about a month, and then in Budget 2017.</p><p class="SupQuestion"><strong>Andrew </strong><strong>Bayly</strong>: What other lessons have been learnt from recent unexpected events?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: I think the principal lesson is simply the vulnerability of New Zealand to natural disasters, even if we have got better at being resilient to international economic shocks. The Government is actually just tipping over $17 billion of expenditure in the rebuild of Christchurch—a significantly higher amount than we anticipated at the time of the earthquakes—but because of good reasonable fiscal constraint we have been able to hold relatively low levels of debt, and debt is now just beginning to drop. So the reason we are able to repair the damage caused by this earthquake is general fiscal prudence across the public services but also the cost of repairing Christchurch has been well managed, particularly by my colleague Gerry Brownlee, the Minister in charge of the Christchurch earthquake.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Pike River Mine Disaster—</strong><strong>Recovery Operation</strong></h4><p class="SubsQuestion"><strong>3. </strong><strong>DENISE ROCHE (Green)</strong> to the <strong>Minister for the Environment</strong>: Is he satisfied that everything possible has been done to recover the bodies of the 29 men who were killed at the Pike River Mine six years ago?</p><p class="SubsAnswer"><a name="time_20161117 14:19:45" ></a><strong>Hon Dr NICK SMITH (Minister for the Environment)</strong>: Yes.</p><p class="SupQuestion"><strong>Denise Roche</strong>: Given that answer, has advice from technical experts—including former chief mines inspector Tony Forster, mine ventilation expert David Creedy, and founding member of the Mines Rescue Trust Tony Wyatt—that was supplied to the Government by Pike River families been investigated fully?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: There will always be a range of different technical opinions, but the law that this Parliament passed set the responsibility for issues of health and safety in the workplace with the director and the chief executive of the company responsible—in that case it is Solid Energy. Over $5 million was spent on trying to find a safe way into the drift. Those legally responsible concluded it could not be done safely.</p><p class="SupQuestion"><strong>Denise Roche</strong>: Why has the Minister told the families that the drift leading into the mine is to be sealed temporarily, when it involves a 20 metre – thick wall and requires a hundred truckloads of concrete?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: There has been extensive consultation with the Pike River Families Group on the design of the seal, with the design being shared with them over the last 12 months and changes made to it as a consequence of family representations. The exact design, if you wanted to know, of the seal consists of a Type C seal, which WorkSafe requires to be installed by the end of this month. That is about 600 millimetres thick, of what is called Stopcrete. In addition to that, there is an additional wall 30 metres further away, which is built at the portal. That is then in-filled with softer material. It is our view that the design of the seal needs to be such that the site is safe, so the area can be included in the Paparoa National Park and those who wish to acknowledge and visit the site can do so safely.</p><p class="SupQuestion"><strong>Scott Simpson</strong>: What were the risks identified by the mining experts engaged to find a way into the drift that led to Solid Energy's decision that it could not be done safely?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: Firstly, the mine post-disaster is 98 percent methane, and now has within it over 100,000 cubic metres of explosive gas. Secondly, the experts advised that there were still likely to be residual heat sources capable of triggering an explosion if oxygen was ever present. Thirdly, that the 2010 explosions in the mine would have fractured the strata in the mine, and there was a high risk of further rockfalls. Finally, they were concerned that the mine design was always fundamentally flawed in only having one means of egress, which made entry so unsafe.</p><p class="SupQuestion"><strong>Denise Roche</strong>: Does the Minister agree with Bernie Monk and Sonya Rockhouse, both of whom lost children in the mine disaster, that the mine is a crime scene and that all action possible needs to be taken to investigate that crime scene?</p><p class="SupAnswer"> <strong>Hon Dr NICK SMITH</strong>: No, I do not, for this reason: we had a royal commission of inquiry into the Pike disaster. It did conclude that there were significant failings, and it also concluded that no crime was committed.</p><p class="SupQuestion"><strong>Denise Roche</strong>: Given the advice from other experts that it is safe to go into the drift—the drift, not the mine—why will the Government not show some compassion by re-entering the drift and providing some sense of closure for the families of the Pike 29?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: If the Government believed there was a safe way of getting into the drift, we would have done so. But the consistent expert advice is that it cannot be done safely. I had a phone call this morning from the previous chair of Solid Energy, who received the very first reports on getting access to the drift, and he, again, emphasised to me that the very early advice it received from day one was that it would be highly likely to be unsafe.</p><p class="SupQuestion"><strong>Denise Roche</strong>: Why is the Government passing the buck to Solid Energy for this decision to seal the drift when it knows full well that it could re-enter the drift safely and investigate what went on there?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: If there is any lesson to learn from Pike, it is that politicians should not be making decisions on safety. Furthermore, the law that this Parliament—the law that this Parliament—passed put the responsibility for safety on the directors and chief executives of companies. The chief executive and company that is responsible for this site is Solid Energy, and I would urge members' caution on trying to override those legal responsibilities when we are dealing with issues of safety, because that, actually, is the most important lesson from Pike.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>New Zealand Qualifications Authority—</strong><strong>Marking of Exams</strong></h4><p class="SubsQuestion"><strong>4. </strong><strong>CHRIS HIPKINS (Labour—Rimutaka)</strong> to the <strong>Minister of Education</strong>: Will the exam papers completed by students sitting cancelled scholarship exams on Monday be marked, as NZQA advised on Twitter; if so, how will those results be fairly compared with students who will have to sit a different exam at a later date?</p><p class="SubsAnswer"><a name="time_20161117 14:26:08" ></a><strong>Hon ANNE TOLLEY (Minister for Social Development)</strong>: on behalf of the <strong>Minister of Education</strong>: I am advised that, as per the Minister's answer in the House yesterday, she is awaiting advice on how this technical process will work. I understand this advice is imminent, but I can advise that, firstly, the New Zealand Qualifications Authority (NZQA) will use a common marking schedule across both exams and, secondly, every year a benchmarking process is used to ensure that exams are equivalent to previous years.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Why is she willing to have students sitting scholarship exams sit different tests on different days for the same subjects but will not allow those students whose NCEA exams were disrupted by earthquakes the same opportunity?</p><p class="SupAnswer"><strong>Hon ANNE TOLLEY</strong>: Scholarship exams are different because they are not covered by the emergency-derived grade process. Two thousand three hundred and sixteen students were due to sit the scholarship exams, and 585 of those were in affected regions and would have been unable to secure a scholarship grade had the exam gone ahead. NZQA is preparing a comparable exam for students who were not able to undertake the scholarship history exam. Arrangements are expected to be finalised and advised to schools by the end of today.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: If it is possible to mark different scholarship exam papers for the same subject using a common marking schedule, as NZQA has claimed and the Minister has claimed in her answer, why is it not possible to do the same for NCEA exams?</p><p class="SupAnswer"><strong>Hon ANNE TOLLEY</strong>: I thought I had just answered that. Scholarship exams are different in that there is no derived marking process. So if you do not sit the exam, you have no opportunity to get a scholarship.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Does she accept that a magnitude 7.5 earthquake the night before an exam, students being evacuated from their homes due to a tsunami warning, followed by rolling aftershocks during the exam can have an impact on those students' ability to demonstrate their true abilities in that exam?</p><p class="SupAnswer"><strong>Hon ANNE TOLLEY</strong>: There is an established process for dealing with such incidences as those. This policy is in place to ensure that students are not disadvantaged. An emergency-derived grade process applies where an event occurs that affects a significant number of students that is beyond their control. A school liaises with the affected students and applies to NZQA on its behalf for an emergency-derived grade. Derived grades are based on standards-specific evidence as defined by NZQA rules and guidelines. Students can achieve Merit and Excellence through this process, and have done so.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Will those students who went ahead and sat their NCEA exams still be able to apply for an emergency-derived grade?</p><p class="SupAnswer"><strong>Hon ANNE TOLLEY</strong>: I do not have that information and I am not prepared to discuss on a hypothetical basis.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Will she now ensure that all students who sat NCEA exams on Monday this week and feel that they were disadvantaged by lack of sleep, worry about their friends or relatives, aftershocks during the exams, or who were unable to sit their exams because the examination venue was closed will have the opportunity to sit or resit as soon as possible after the currently scheduled exams conclude; if not, why not?</p><p class="SupAnswer"><strong>Hon ANNE TOLLEY</strong>: I think there are two different things. On the first point I am unable on behalf of the Minister to make that commitment; that would be wrong. On the second, there is a process where those students can apply for that derived grade process, and the scholarship exam was cancelled because there is not a derived grade process.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Earthquake, </strong><strong>Kaikōura</strong><strong>—</strong><strong>Magnitude</strong></h4><p class="SubsQuestion"><strong>5. </strong><strong>MATT DOOCEY (National—Waimakariri)</strong> to the <strong>Minister of Civil Defence</strong>: What are the implications of the Kaikōura earthquake being upgraded from a magnitude 7.5 to a 7.8?</p><p class="SubsAnswer"><a name="time_20161117 14:31:25" ></a><strong>Hon GERRY BROWNLEE (Acting Minister of Civil Defence)</strong>: GNS Science informed my office yesterday afternoon of a revised magnitude after reassessing data from stations across the country. It said that because it took over a minute for the fault to rupture during the event, the standard method normally used to calculate energy released during an earthquake was insufficient. The revised magnitude tells us what everyone knew: that it was a big earthquake. GNS Science has published the earthquake's decay curve, which represents the daily forecast of the number of magnitude 5 or greater earthquakes as a result of the initial, magnitude 7.8 earthquake. As is expected with larger earthquakes, the revised magnitude does have an effect on the probability of forecasting aftershocks, meaning it is forecast that aftershocks may be larger in magnitude for a longer period of time. The decay curve shows the likelihood of earthquakes greater than magnitude 5 decreasing over time, as was seen in Christchurch. I would like to assure the House that it does not change what happened or how central government and local authorities have responded; it simply provides us with more knowledge about how significant this earthquake was.</p><p class="SupQuestion"><strong>Matt Doocey</strong>: What update can he provide about the Government's response to the earthquake in the Kaikōura and Hurunui communities?</p><p class="SupAnswer"><strong>Hon GERRY BROWNLEE</strong>: There have been regular updates. Today, in fact, the local member of Parliament for Kaikōura, Stuart Smith, is undertaking as much as is possible—a door to door investigation into the circumstances in the lower part of the electorate. I am pleased to report to the House that we have completed the successful evacuation of over 800 people who have registered from Kaikōura, together with local civil defence groups and other Government agencies. Our priority continues to be ensuring the safety and well-being of those affected. Essential supplies are continuing to be delivered into Kaikōura. Good progress is being made with opening a roadway, although for some time it will be a difficult traverse. In the lower part of Canterbury, there has been minor damage, but places like Hanmer Springs, Cheviot, Parnassus, and Rotherham have some claims through the Earthquake Commission, which will be dealt with. No homes have been red-stickered. Power, sewerage, and water are all working through, but the notice is still in place for boiling water in Parnassus and Rotherham—it is a natural precaution. Over time, the issues that have emerged in all of those communities will be dealt with.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Earthquake, </strong><strong>Kaikōura</strong><strong>—</strong><strong>Update on Affected Areas</strong></h4><p class="SubsQuestion"><strong>6. </strong><strong>RON MARK (Deputy Leader—NZ First)</strong> to the <strong>Minister of Civil Defence</strong>: Can he update the House on the situation in quake-affected areas?</p><p class="SubsAnswer"><a name="time_20161117 14:34:26" ></a><strong>Hon GERRY BROWNLEE (Acting Minister of Civil Defence)</strong>: It would take a very long time for me to update the House on all matters. As the member would have seen when he was in Kaikōura today, there is a lot of activity on the ground, and that is true from one end of the Marlborough electorate to the other, as well as, in fact, here in Wellington. So what I would suggest—not being disrespectful to the member—is that he keep an eye on those regular civil defence updates that are posted on the website.</p><p class="SupQuestion"><strong>Ron Mark</strong>: Has he had a report back from the Minister for Primary Industries, who is now touring small towns in rural Kaikōura—on the outskirts of Kaikōura—that have been affected by the earthquake; if he has, can he tell us and update the House as to how those families and those isolated areas are faring?</p><p class="SupAnswer"><strong>Hon GERRY BROWNLEE</strong>: As the member knows, the Hon Nathan Guy was on the same flight as him this morning, and at the conclusion of his investigations into the circumstances that the fishing industry up and down the Canterbury coast now finds itself in, he took to the skies to get into some of those more remote areas. I would expect to be updated by him, as would a number of other Ministers, later in the evening. When that comes through, we will, of course, want to take action for any immediate needs that may have been discovered, but our assessment is that given the status of the communications in the whole of the province, we would have known by now if there were any particularly dire circumstances that needed addressing. So it will be, I suspect, the ongoing needs of the farming community—tipped-over fences, power lines; we have seen some of the slips that have isolated stock, etc., and there will also be, of course, because there are so many slips, any number of shingle roads that also have some difficulties. So there will emerge quite a picture of what needs to be done to assist people in that regard. Today the Minister for Economic Development and the Minister for Social Development have announced their business support package, and that, of course, is a start under what will be a watching brief from the Government.</p><p class="SupQuestion"><strong>Ron Mark</strong>: Further to that answer, will he, after seeing the widespread damage to small businesses and farms, raise in Cabinet the need to amend the Income Tax Act 2007 to classify earthquake remediation and strengthening as repairs and maintenance?</p><p class="SupAnswer"><strong>Hon GERRY BROWNLEE</strong>: I would not be specific about what the Government might do in that regard. He will, of course, remember that in Christchurch some of the obligations that people had by the particular date were amended—it was suspended. All of that has been looked into. The one thing that is essential in all of these circumstances is to encourage people to continue with their activity as much as they possibly can, recognising the difficulty of the circumstances that they find themselves in and being there to support them through those difficulties.</p><p class="SupQuestion"><strong>Ron Mark</strong>: What can he and the Minister of Police do to assist front-line police officers in Kaikōura right now, who are frustrated by people in Kaikōura who are not locals and not emergency workers but who have decided to stay on, taking advantage of the generosity of the locals and the marae and spending their nights drinking and partying?</p><p class="SupAnswer"><strong>Hon GERRY BROWNLEE</strong>: Firstly, can I acknowledge the superb work of the New Zealand Police and the Defence Force personnel who are there alongside the civil defence people, who are putting in many, many hours to try to make things better, and, of course, those good people at the marae, who have opened up to create the welfare centre. Without them, the whole response would have looked pretty shallow. You always, unfortunately, get opportunists in these circumstances. We had some of that in Christchurch. My advice to people who are visiting and who have had an opportunity to get on with their travels would be to get on with their travels, but, on the other hand, if they want to deposit the minimal funds that they have in Kaikōura, we are also grateful for that. At the end of this week, I think some of the need for the very generous hospitality that has been extended will have diminished, and that may see them pack up sticks and go.</p><p class="SupQuestion"><strong>Ron Mark</strong>: Would he look into, with the Minister of Police, reports that police officers caught people looting the stranded train and ensure that the officers and the people of Kaikōura responsible for those apprehensions are congratulated?</p><p class="SupAnswer"><strong>Hon GERRY BROWNLEE</strong>: I should say that at this point I have not had a report to that effect, but if that is the case and the police have apprehended those people, we would expect the full force of the law to come down on them. That is simply burglary, and in the circumstances, it is at the upper end of the scale and we would expect the courts to reflect that in any proved case when it comes to sentencing.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Earthquake, Kaikōura—</strong><strong>Recovery and Support for Businesses</strong></h4><p class="SubsQuestion"><strong>7. </strong><strong>TODD BARCLAY (National—Clutha-Southland)</strong> to the <strong>Minister for Economic Development</strong>: What Government support is available to businesses in areas most affected by the Kaikōura earthquakes?</p><p class="SubsAnswer"><a name="time_20161117 14:40:20" ></a><strong>Hon STEVEN JOYCE (Minister for Economic Development)</strong>: Earlier today the Hon Anne Tolley and I announced a package of support to provide assistance to businesses in and around the Kaikōura area that were affected by the 14 November earthquake. A wage subsidy package for an initial period of 8 weeks will be made available to businesses of 20 employees or fewer in the areas of Kaikōura, Cheviot, Waiau, Rotherham, Mount Lyford, and Ward, all of which were seriously impacted. The areas I have mentioned are likely to have the most dramatic and long-lasting effects, given the current uncertainty around the main highway and the coastline. The scheme will be kept under review, and there is opportunity for other areas to be included if that is required. The support subsidy mirrors what was offered to businesses in Christchurch following the Canterbury earthquakes, with $500 per week per full-time permanent employee and $300 per week per part-time permanent employee.</p><p class="SupQuestion"><strong>Todd Barclay</strong>: Why is the Government supporting businesses in earthquake-affected areas?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: The package is very important because there are some businesses that experienced a sudden and likely to be sustained drop in revenue, and it will give them the confidence to retain their permanent staff while we all achieve more certainty on the future of the impacted towns and key industries like tourism, hospitality, and fisheries. Although there have been many businesses in both the North Island and the South Island that have been affected to some degree by these quakes, the unique circumstances here are that these towns are built along the State highway. That particular road has been severely damaged and has also been a coastline, which has been massively altered. Nobody yet knows when their livelihoods will be able to be restored. It is clear that if we did not move quickly, employment could dry up in these towns. More will need to be done, but the Government is determined to help those towns get through the worst of it while we work through their recovery.</p><p class="SupQuestion"><strong>Todd Barclay</strong>: How else is the Government supporting businesses in earthquake-affected areas?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: The member asks a good question. Today's package is an initial package to provide some certainty to impacted local businesses and their staff. Other Ministers will be taking papers to Cabinet shortly, to provide further support for local businesses. The Minister of Revenue is currently developing a package with Inland Revenue Department officials, and the Minister for Primary Industries is also developing some initiatives with his officials to support the primary sector in the affected areas. These will be announced in the days ahead. The Government is doing all it can to help the people of the Kaikōura District and surrounding areas get back on their feet.</p><p class="SupQuestion"><strong>Dr David Clark</strong>: How will the programmes support businesses, rather than employees, in the rebuilding of their enterprises and, more particularly, how will the programmes support businesses such as Whale Watch Kaikōura, which has more than 20 employees?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: In response to the first part of the question, the challenge in this area is interesting and slightly different from Christchurch because in most cases the actual businesses have not suffered substantial harm in terms of the buildings and so on, beyond what can be met with insurance. It is the loss of custom that has been the issue, as I think the member alludes to. That is why, with slightly different criteria here, it is not a case of damaged premises that is a qualifying situation; it is the fact that the revenue has gone for that business for a period of time. In relation to larger businesses, we have taken the view in Christchurch and here that larger businesses have more capacity to support themselves over that period, but we retain the flexibility to respond. The Government has made it clear, and Minister Tolley and I have made it clear today, that we are keeping a watching brief on all aspects of the package and we have the flexibility to respond further if required.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Pike River Mine Disaster—</strong><strong>Recovery Operation</strong></h4><p class="SubsQuestion"><strong>8. </strong><strong>Hon DAMIEN O</strong><strong>'</strong><strong>CONNOR (Labour—West Coast - Tasman)</strong> to the <strong>Minister for the Environment</strong>: What new technical information or advice did he receive, if any, in relation to the possible recovery of the Pike River Mine drift, prior to the meeting he attended in Greymouth yesterday?</p><p class="SubsAnswer"><a name="time_20161117 14:44:51" ></a><strong>Hon Dr NICK SMITH (Minister for the Environment)</strong>: The new technical information I received was on the methane levels in the drift, which I shared with the families yesterday. It shows that methane levels in the mine beyond the new seal, 30 metres into the drift, have rapidly increased and are now over 90 percent. The mine has over 100,000 cubic metres of this explosive gas present, and, combined with the other risks, confirms the advice that entry and recovery of the drift cannot be done safely.</p><p class="SupQuestion"><strong>Hon Damien O</strong><strong>'</strong><strong>Connor</strong>: Why will he not take the advice of the former chief inspector of mines, with 40 years' international mining experience, who spent several years fixing the regulatory failings of the Pike River disaster, and override the decisions of the board of a bankrupt company, Solid Energy, and allow the recovery of the drift?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: I spoke with the gentleman concerned at least year's anniversary, and as far as he was prepared to go with me, it was the issue of might—might. Equally so, under our health and safety law, the advice we do need to take is from those who are legally responsible. Over $5 million has been spent on investigating whether it was possible to gain entry to the drift, and the conclusion of that advice is that it could not be done safely.</p><p class="SupQuestion"><strong>Hon Damien O</strong><strong>'</strong><strong>Connor</strong>: Does the Minister agree with Tony Forster, a former mines inspector, who in an email to the families yesterday said "New Zealand mining law permits the recovery of a single-entry heading under the scheme designed for that purpose. A suitable scheme already exists, in my opinion.", and does he accept his offer to be "honoured to take part in, or lead, a drift recovery."?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: Legal decisions under the health and safety at work legislation, which this Parliament passed, and the legal responsibility for safety rests with Solid Energy currently, and when the mine is sealed it will then return to the Department of Conservation, and the director-general, Lou Sanson, would then be the person who takes that responsibility. The advice I have received is that a combination of risks—100,000 cubic metres of methane now in the mine, the issue that there is likely to be a heat source that could trigger an explosion, the fact that the mine was always unsafe without an egress, and the damage that has been done to the strata, increasing the risk of a rockfall—makes the overall risk profile too high, such that the drift cannot safely be entered.</p><p class="SupQuestion"><strong>Hon Damien O</strong><strong>'</strong><strong>Connor</strong>: How can a Crown Minister ignore the realities that this mine on Crown lands, administered by a Crown-owned enterprise that has failed—how can he ignore the advice of independent people who say that this is possible; and why is he trying to hide behind the veil of Solid Energy, a failed company?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: When the Pike River Coal company transferred the site over to Solid Energy with an explicit directive and budget from this Government to develop a plan for entry to the drift, both that member and the families welcomed Solid Energy taking over because it was New Zealand's largest mining company most likely—most likely—to have the expertise around safety. What I find galling from that member is that the very lessons of Pike River are that we should not be cavalier about safety, we should follow the law that this Parliament passed, and we should follow the very best of expertise in ensuring the safety of New Zealand workers.</p><p class="SupQuestion"><strong>Hon Damien O</strong><strong>'</strong><strong>Connor</strong>: How much, or what percentage, of the Government's $1.8 billion surplus would be needed to honour Prime Minister John Key's commitment to re-enter the drift and recover whatever is possible from that drift?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: I have reviewed multiple quotes from the Prime Minister, and when he said at the time of the disaster that the Government would make every effort to get access to the drift, he conditioned it absolutely properly: "if it could be done safely". And I say to this House, after the loss of life at Pike, why would we now want to be cavalier about safety? I know there is some public interest in the issue of the new technical information in respect of Pike. I seek leave of the House to table the data that has been provided by Segas Professional about the level of methane in the drift of the Pike mine. </p><p class="Interjection"><strong>Mr SPEAKER</strong>: In view of the sensitivity of the issue, I will put the leave. Leave is sought to table that recent technical advice. Is there any objection to it being tabled? There is not. It can be tabled.</p><p class="IndentMarginalone">Document, by leave, laid on the Table of the House.</p><p class="Interjection"><strong>Hon Damien O</strong><strong>'</strong><strong>Connor</strong>: I seek leave to table two documents, one being an email from Tony Forster to Bernie Monk, as a representative of the families, stating, quite clearly, that he would be honoured to take part in, or lead, a drift recovery. That is dated 16 November 2016. </p><p class="Interjection"><strong>Mr SPEAKER</strong>: And the second document?</p><p class="Interjection"><strong>Hon Damien O</strong><strong>'</strong><strong>Connor</strong>: The second document is a Beehive release outlining the CV and experience of Mr Tony Forster when he was appointed as chief inspector of mines by this Government.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Again, I will put the leave for both of those documents. Leave is sought to table both of them. Is there any objection to them being tabled? There is not. They can be tabled.</p><p class="IndentMarginalone">Documents, by leave, laid on the Table of the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Earthquake, Kaikōura—</strong><strong>Damage to Transport Infrastructure and Government Response</strong></h4><p class="SubsQuestion"><strong>9. </strong><strong>DENIS O</strong><strong>'</strong><strong>ROURKE (NZ First)</strong> to the <strong>Minister of Transport</strong>: If the Prime Minister has described SH1 as "really stuffed", what are his plans, if any, to assist the repairs of CentrePort, upgrade Lyttelton Port for ferries, repair SH1 and alternative routes, as well as rail in both islands?</p><p class="SubsAnswer"><a name="time_20161117 14:51:44" ></a><strong>Hon SIMON BRIDGES (Minister of Transport)</strong>: The important thing in relation to plans is to keep in mind that we are still in the response and recovery phase following the widespread devastation caused by the earthquakes in the early hours of Monday morning. However, a more detailed picture is emerging as more information comes to hand. I think, if we just take roading, for example—obviously, an incredibly important example—the Government has already moved quickly to repair and open roading links, but the scale and the complexity of the slips on State Highway 1, which the member mentions, are unprecedented and the task ahead of us is huge. But I do want to assure the public and the member that planning and work is well under way across the Government's transport agencies to restore transport infrastructure as quickly as possible. </p><p class="SupQuestion"><strong>Denis O'Rourke</strong>: If the Government agrees to pay subsidies to freight transport operators moving freight to the South Island, will he give the House an undertaking that those subsidies will be given even-handedly to all operators, including KiwiRail?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: I am not quite sure what the member is alluding to, but what I can say—as I think I have said to the member already this week in this House—is that we will be considering all of the options. Clearly, in relation to time-sensitive freight, land transport is going to be incredibly important. I think it is important to note there that State Highway 7 is up and running, and that is making a real difference. But, of course, there are also coastal shipping options that I think are going to be important in this area. Already we are seeing ports respond to that with plans for capacity, and work going on there. We have also seen—and I think this has been in the <em>New Zealand</em> <em>Herald</em>—public discussion about Lyttelton Port and KiwiRail's work with it to assess the viability of some ferrying options down to that port.</p><p class="SupQuestion"><strong>Denis O</strong><strong>'</strong><strong>Rourke</strong>: What discussions has he and/or Government officials had with KiwiRail concerning the costs it faces to restore earthquake-damaged rail infrastructure?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: I am talking to the chief executive of KiwiRail twice daily—in the morning and the evening. We are talking about many aspects of the earthquake recovery. I should make clear for completeness that I am doing that with all of the chief executives across the various transport agencies and authorities. My broad advice from him and others at this time is that funding and cash flow is not an issue. </p><p class="SupQuestion"><strong>Denis O</strong><strong>'</strong><strong>Rourke</strong>: What discussions has he and/or Government officials had with the Lyttelton Port Co. concerning any infrastructure upgrades and any other needs it may have to ensure it can cope with roll-on, roll-off ferries and other shipping requirements resulting from the earthquakes?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: I personally have not talked to the Lyttelton Port Co., but I am certainly aware that KiwiRail has assessed and continues to—as I said in answer to, I think, the primary question—assess the viability of some of the options there. I believe the Ministry of Transport has as well. I just make the point, once again, that there is a range of coastal shipping options here. In fact, we are fortunate as a country to have the number of options that we do in this area, and we may, potentially, be able to call on several of those options. </p><p class="SupQuestion"><strong>Sue Moroney</strong>: Will he ensure the restoration of South Island main trunk line following the Kaikōura<strong> </strong>earthquake?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: I think it has been made clear that, yes, I think it is important that we do that, both in relation to State Highway 1 and the rail line. </p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Climate Change—</strong><strong>Marrakech Conference and Fossil of the Day Award</strong></h4><p class="SubsQuestion"><strong>10. </strong><strong>GARETH HUGHES (Green)</strong> to the <strong>Minister for Climate Change Issues</strong>: Is she concerned that New Zealand received a "Fossil of the Day" award at the climate change conference in Marrakech?</p><p class="SubsAnswer"><a name="time_20161117 14:56:28" ></a><strong>Hon SIMON BRIDGES (Acting Minister for Climate Change Issues)</strong>: No.</p><p class="SupQuestion"><strong>Gareth Hughes</strong>: Is it a good look to be singled out from 197 other nations by global climate experts for obstructing action on climate change?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: I entirely disagree with that characterisation. My understanding is that we received it for fossil fuel subsidies. The fact of the matter in that area is that in terms of the best reviews in this area, and, indeed, one by APEC in 2015, we were found to have—and they were comprehensive in their assessment—absolutely no inefficient fossil fuel subsidies. I would argue that we are a leader in this area, and there are many other countries that these NGOs should direct their attention to before they do us, including those that have many, many, many billions of dollars' worth of inefficient fossil fuel subsidies.</p><p class="SupQuestion"><strong>Gareth Hughes</strong>: So you do not accept it is a double standard to call on other Governments to end fossil fuel subsidies—</p><p class="Interjection"><strong>Hon Gerry Brownlee</strong>: That's not a question; that's a statement.</p><p class="SupQuestion"><strong>Gareth Hughes</strong>: —while offering tax breaks and subsidies, estimated to be $46 million, to incentivise the exploration of oil and gas activity?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I will let the Minister address it.</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: That is, effectively, a World Wildlife Fund piece of advocacy that the member refers to. If you actually go and look at the real evidence from APEC, where it came in and comprehensively assessed all of our policies, including the tax settings, it found there were absolutely no inefficient fossil fuel subsidy reforms. I will make it clear, in relation to this area of fossil fuel subsidies, that we are a world leader that goes out consistently and advocates against them, and we are having great success on the world stage in this area. Far from being a hypocrite, as I say, I think we show real leadership in this area, and we should be proud as a country of what we do.</p><p class="SupQuestion"><strong>Gareth Hughes</strong>: Given that 80 percent of known fossil fuels need to stay in the ground in order to stop climate change and to stick to our international obligations, how can your Government justify exploring for more?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: We know that a diversity of energy is required. It is a transition, and it is going to take time. Fossil fuels will, I hate to tell the member, have to be part of the mix for some time to come. I think we can be incredibly proud of what we do in relation to energy in renewables—where some 83 or 84 percent of our electricity at the moment comes from renewables—and we will be pushing that advantage into other areas as well.</p><p class="SupQuestion"><strong>Gareth Hughes</strong>: Is the message to the Pacific Island parliamentarians here today that New Zealand does not have to reduce emissions, can use creative accounting, can use fraudulent carbon credits, can give agriculture a taxpayer-funded free ride, can give oil drillers tax breaks and free Government data, can burn more coal and gas for power—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Bring the question to a conclusion.</p><p class="SupQuestion"><strong>Gareth Hughes</strong>: —just because we signed a piece of paper in Paris?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: Every single thing that the member purported to allege as fact in that question is wrong. I reject it all. The truth of the matter, when it comes to the Pacific Islands, is that we stand with them. We are putting hundreds of millions of dollars into those countries—because they are our friends and because we believe in them—to turn their energy supply into renewables, and I think New Zealanders should be incredibly proud of what we do in the Pacific in this area of energy and climate change.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Land Information New Zealand—</strong><strong>Earthquake Recovery Support</strong></h4><p class="SubsQuestion"><strong>11. </strong><strong>JOANNE HAYES (National)</strong> to the <strong>Minister for Land Information</strong>: What is Land Information New Zealand doing to support the ongoing earthquake recovery efforts?</p><p class="SubsAnswer"><a name="time_20161117 15:00:31" ></a><strong>Hon LOUISE UPSTON (Minister for Land Information)</strong>: Land Information New Zealand, or LINZ, is supporting and enabling the response and recovery by working in partnership across central and local government and the private sector. It has deployed surveying experts to work alongside GNS Science and others to best understand how the earthquake has affected the land. In particular, LINZ is utilising elevation data to understand how land may have shifted, not just horizontally but vertically. LINZ's hydrographic team is focusing on the safety of navigation at sea, following the earthquakes, and working with both Maritime New Zealand and the harbourmaster. This work will help to inform the medium-term response and recovery programme. In addition, my colleagues Minister Brownlee and Minister Tolley have just announced activation to assist people needing financial and other support following the 14 November earthquake. The 0800 779997 number will operate 7 days a week, from 7 a.m. until 9 p.m., until further notice.</p><p class="SupQuestion"><strong>Joanne Hayes</strong>: How important are geospatial information and aerial imagery in the surveying work? </p><p class="SupAnswer"><strong>Hon LOUISE UPSTON</strong>: Geospatial information and data allows both central and local government agencies and industry to better understand changes in land. Arterial imagery and elevation, or lidar data, taken from planes and satellites, are feeding into the impact assessment to help with the recovery. This work is fundamental in informing better decision making.</p><p class="SupQuestion"><strong>Joanne Hayes</strong>: How is LINZ making data more available to support agencies and businesses to make informed decisions? </p><p class="SupAnswer"><strong>Hon LOUISE UPSTON</strong>: The Government has made a real push towards making all of its data across agencies more open and accessible, including through the LINZ data service and data.gov.nz. LINZ is a lead agency in this work, and it is clear that there is a real thirst for geospatial information, highlighted by the 44 percent increase in the LINZ data service users from the previous year. Events over the last few days reinforce the importance of accurate open data to assist in smarter, safer, and speedier decision making. This can also be applied to a range of other uses, including hazard control, pest control, greater utilisation of land, and innovation by businesses that are growing our exports.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Civil Defence Emergency Management System—</strong><strong>Tsunami Warning System</strong></h4><p class="SubsQuestion"><strong>12. </strong><strong>CLARE CURRAN (Labour—Dunedin South)</strong> to the <strong>Minister of Civil Defence</strong>: Does he support the call from Dr Ken Gledhill, Director of GeoNet, for a 24/7 tsunami warning system; if so, when will the Government provide the funding for that system?</p><p class="SubsAnswer"><a name="time_20161117 15:03:23" ></a><strong>Hon GERRY BROWNLEE (Acting Minister of Civil Defence)</strong>: Work on that possibility had begun before the events of last Monday morning, and will continue. Once all that work is completed then we will be able to make a determination about how the result of that work may be implemented.</p><p class="SupQuestion"><strong>Clare Curran</strong>: Is today's <em>Dominion Post</em> editorial correct that the situation is insane that GeoNet does not have round the clock staffing, that "every minute counts", and that "The Government must take action straight away."; if so, why will he not urgently provide the funding for this?</p><p class="SupAnswer"><strong>Hon GERRY BROWNLEE</strong>: Largely because we have a group of people inside the Government working on the prospect, and I would rather take their advice than that of the <em>Dominion Post</em>. </p><p class="SupQuestion"><strong>Clare Curran</strong>: Does he agree that the tsunami warnings on Monday morning were confusing to the public, given that tsunami sirens in New Brighton and Sumner did not sound until 2 hours after the earthquake struck, and an hour after the national civil defence website instructed coastal residents to move to higher ground immediately? </p><p class="SupAnswer"><strong>Hon GERRY BROWNLEE</strong>: All decisions about turning on sirens, etc., are made by local authorities. I think the breakdown here has occurred in the transfer of information from the civil defence emergency management bunker to that particular authority, and I am still trying to find out exactly what happened there. </p><p class="SupQuestion"><strong>Clare Curran</strong>: Why is it that a national public emergency alert system is not yet available to the public, given that his Government has spent $538,000 in the last 2 years to develop such a system, which has been found to be well designed and was described by the previous Director of Civil Defence Emergency Management as having the potential to be a critical component of a public alerting system?</p><p class="SupAnswer"><strong>Hon GERRY BROWNLEE</strong>: Work on having a public alerting system has been, as the member points out, going on for quite some time. That work will continue once civil defence is away from its immediate task of assisting in this current event. I would expect that in due course there will be a public warning system. What I would have to say to the member is that there are many of us who have experienced public warning systems in other jurisdictions, and observed that many people become somewhat inured to the message that comes through those systems unless they are less frequent and more targeted. There is no simple answer to all of this. I think there is a great deal to be learnt out of the very real, frightening, and threatening situation that developed on Monday morning, and I am sure that all of those lessons will be packaged into a response for the future.</p><p class="SupQuestion"><strong>Clare Curran</strong>: Does he accept it is a priority for New Zealanders to have a properly functioning tsunami 24/7 warning system and a national emergency public alerting system?</p><p class="SupAnswer"><strong>Hon GERRY BROWNLEE</strong>: Given that the Government has been working on this for a time and has committed funds to it, it would be churlish for me to say anything other than yes.</p><p class="QOAEnd"><a name="time_20161117 15:07:32 " ></a><strong> </strong></p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

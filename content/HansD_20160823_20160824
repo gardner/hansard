@@ -1,0 +1,881 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Tuesday, 23 August 2016 (continued on Wednesday, 24 August 2016) - Volume 716 - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansD_20160823_20160824" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansD_20160823_20160824/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Tuesday, 23 August 2016 (continued on Wednesday, 24 August 2016) - Volume 716</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansD_20160823_20160824/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansD_20160823_20160824" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansD_20160823_20160824/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansD_20160823_20160824/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansD_20160823_20160824/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansD_20160823_20160824/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansD_20160823_20160824/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BeginningOfDay"><strong>TUESDAY, 23 AUGUST 2016</strong></p><p class="Urgency"><strong>(</strong><em><strong>continued on </strong></em><em><strong>Wednesday, </strong></em><em><strong>24 August 2016</strong></em><strong>)</strong></p><p class="BillDebate"><strong>SMOKE-FREE ENVIRONMENTS (TOBACCO STANDARDISED PACKAGING) AMENDMENT BILL</strong></p><p class="SubDebate"><strong>In Committee</strong></p><p class="Speech"><a name="time_20160824 09:01:12" ></a><strong>JAMI-LEE ROSS (Junior Whip—National)</strong>: I seek leave for the Smoke-Free Environments (Tobacco Standardised Packaging) Amendment Bill to be debated as one question and voted on separately.</p><p class="Speech"><a name="time_20160824 09:01:26" ></a><strong>The CHAIRPERSON (Hon Chester Borrows)</strong>: Leave is put for that purpose. Is there any objection? There appears to be none.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="MarginHeading"><strong>Parts 1 and 2, schedule, and clauses 1 and 2</strong></p><p class="Speech"><a name="time_20160824 09:01:31" ></a><strong>Hon ANNETTE KING (Deputy Leader—Labour)</strong>: Good morning, Mr Chairman. I can see that there is a lot of interest in the passage of this bill. Can I say that this is a red-letter day and that we are now at the Committee stage of this very important bill, a bill that will bring in plain packaging on tobacco products. It is something that Labour called for in 2011. The Government, in 2013, decided that there would be a new regulatory scheme to standardise tobacco products and packaging, and here we are, in 2016, about to go through the Committee stage of this bill. </p><p class="a">The reason why we are keen to see it passed is that tobacco is a unique product. It is unique in that it kills a large percentage of those who consume it. About 5,000 people die each year from smoking and second-hand smoke exposure. That is 13 people a day dying from a product that has, as I said, unique qualities to it, which is why we wanted to see yet another tool to tighten the screws on tobacco consumption and tobacco prevalence in New Zealand. </p><p class="a">There has been a lot of work done over many years to tighten those screws and to reduce the percentage of New Zealanders smoking, and I can recall the very first piece of legislation, which was legislation of the Rt Hon Helen Clark when she was Minister of Health. It was controversial at the time because she brought in legislation to ban smoking in the workplace, and many workers who had gone to work and puffed up large were very angry at the thought that they could no longer do that. When we think back to the late 1980s, when that bill came in, and our attitudes today, you can see how much has changed. </p><p class="a">Over the years there have been other measures that have been put in place, such as getting smoking out of bars and restaurants and increasing excise tax. I would like to commend the work that was done by the Hon Tariana Turia, who did a lot of work when she was with Labour and then when she was part of this Government around tobacco consumption, and she was very keen on the annual increase on the excise duty, which we support. </p><p class="a">So we have seen a reduction, but, as one of the signatories to the Framework Convention on Tobacco Control and one of the first to ratify that UN convention, we were very pleased to put in place the measures that it recommends in that framework, and one of them is plain packaging. So now we are putting in place yet one more measure. </p><p class="a">The plain packaging legislation—and this part of the bill is the main part of the bill. It is also important around the name of this bill, and at the Health Committee we decided that the name was not appropriate. I recall Sir Geoffrey Palmer saying that when you name a bill—and I think this was when he was chair of the Law Commission—it ought to reflect what the bill is about, so having names that confuse the public is not appropriate. Well, in the original name of this bill, as people will know, it was plain packaging. Of course, there is nothing plain about the packaging that is going to be put on the standard cigarette packets in New Zealand. They are far from plain—they are graphic. In fact, they show some horrific examples of what can happen if you smoke. </p><p class="a">We have seen some of the examples of what these would be, and the Minister Peseta Sam Lotu-Iiga, when he replies, may like to share with us some of what the New Zealand examples would be. I know that there has been a call for us to have some unique graphic pictures on our packaging that are of a New Zealand flavour. We know what the Australians did, and other countries, but there has been a call for us to have some unique graphics of our own that relate to New Zealand. So the Minister may like to address that, because we have not seen what those—</p><p class="Interjection"><strong>Hon Peseta Sam Lotu-Iiga</strong>: They haven't been finalised yet.</p><p class="ContinueSpeech"><strong>Hon ANNETTE KING</strong>: Oh well, the Minister said they have not been finalised. I am sure, as a responsible Minister, he would like to share them with the House when they are finalised, and maybe he would even like an input from the very good Health Committee, which would be very happy, Minister, to look at them when you have finalised them to see whether we think that they do have a particular New Zealand flavour. </p><p class="a">In fact, we have recommended a change to the bill—and I know that the Minister is going to accept it—which is that we should change it from the "Smoke-free Environments (Tobacco Plain Packaging) Amendment Bill" to the "Smoke-free Environments (Tobacco Standardised Packaging) Amendment Bill". That is what we have had suggested from the select committee. It is standardised packaging. It is not plain packaging, for the very reason that I have set out. </p><p class="a">I just wanted to say that in the select committee, when we were putting up some amendments—we put up three main amendments to the bill, Minister, and I think you have probably accepted them all. They are the "(Tobacco Standardised Packaging)", the offence for the sale of certain tobacco products in small quantities, and the offence for the sale of certain herbal smoking products in small quantities—so, restrictions and offences. Those were amendments that we put up, and I am pretty sure that they are going to be supported. </p><p class="a">But I wanted to say that at the select committee, we worked in a very collegial way over those amendments, and we were also not moved, Minister, by the tobacco industry's protests about plain packaging. I do know that there are a couple of members opposite who are former tobacco lobbyists, who were very keen on tobacco. I do not know whether they have changed their minds, but, of course, Chris Bishop, a former Philip Morris spokesperson, said there are not any studies to suggest—</p><p class="Interjection"><strong>Hon Peseta Sam Lotu-Iiga</strong>: Get out of the gutter.</p><p class="ContinueSpeech"><strong>Hon ANNETTE KING</strong>: No, no, this is important, Sam. He said this—and it is on the record so we should share it—"There aren't any studies to suggest that plain packaging will work at stopping people from taking up smoking or helping them to quit". There is not one study to suggest that, he said. The Minister does not agree with it, otherwise he would not be backing this bill, and I believe that the National Government does not believe it. I certainly know that a doctor like Dr Shane Reti would not agree with that. So I think that maybe young Chris Bishop learnt a thing or two when he has got in here, because we do have research cited in the <em>New Zealand Medical Journal</em> that states that New Zealand studies show that "Plain packs that feature large graphic health warnings are significantly more likely to promote cessation among young adult smokers than fully or partially branded packs." So I think that there is evidence that it will work.</p><p class="a">It is not the panacea—let us get that straight. It is just one more measure. So it is not going to suddenly stop everybody smoking, but, Minister, you know, and this Committee knows, that it is yet another tool to use to help discourage people from smoking. </p><p class="a">We do support this bill, and we do support its speedy passage. So getting this Committee stage finished and having the third reading and Royal assent for this bill is very important to those of us who care about the health of New Zealanders. </p><p class="a">Minister, I am pleased that you are actually here with this bill. I do have questions that I asked you over many months about what was happening, and you were particularly cagey for a long time, but suddenly the bill is here and we are passing it. I cannot say whether it was you who was holding it up, but I do believe that we did lack the courage in New Zealand to follow the Australians, who put this in place several years ago. They said to the tobacco companies: "Go to hell. We are sovereign. We make our own public health policy. We are not going to be told by any tobacco company what we ought to do." They put the legislation in place, they took the hit of being taken to court, and we sat back and said: "Oh, we better wait and see what Australia does. It might be a problem." </p><p class="a">I wish that we, as a country that has been a leader in tobacco control, had been the country that had had the courage to do it—that we had stood up and said that we firmly believed in reducing the consumption of tobacco in New Zealand for the health of New Zealanders and to prevent some of those 5,000 deaths a year—but we did not. We were very slow followers. </p><p class="a">Minister, I am not saying that is your fault. You are a person who, I am sure, believes that we need to take this measure, or otherwise you would not be taking this bill through the House. But perhaps you might like to reflect on why it took us so long, and why we did not have the courage to take this bill—well, certainly, I had the courage, and others had courage. But we did not have the courage of the Government to do this.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 09:11:49" ></a><strong>Hon Peseta SAM LOTU-IIGA (Associate Minister of Health)</strong>: I take great pleasure in coming to this Committee stage to talk about this standardised packaging legislation. I thank the member Annette King for her contribution. It was good right up until the 7-minute mark, when she decided to have a go at members opposite about past statements, because the focus is on the health of New Zealanders; it is not about scoring political points across this House. It is not about making accusations about what members opposite did in their past lives. This is about the 4,500 to 5,000 people who die prematurely every year because of tobacco smoke—the 4,500 to 5,000 people who die prematurely. And so this bill contains measures—regulation-making powers—to control aspects of the design, of the physical appearance of cigarettes. And we know from the Australian legislation—the Australian experience since 2012—that these things work.</p><p class="a">So what does it do? The member Annette King spoke quite eloquently about the history of the Labour Party. She spoke quite eloquently about Tariana Turia, and I acknowledge her, because it is her driving force that has brought this legislation alongside the Government. This bill actually removes company colours; it removes logos and other marketing ploys that are designed to attract people to smoke. Essentially, they are almost designed to attract people to kill themselves. And if you recall the many years ago when there were advertisements on TV and there were logos and advertisements at sporting events that had this notion of attracting people to tobacco.</p><p class="Interjection"><strong>Hon Annette King</strong>: A long time ago.</p><p class="ContinueSpeech"><strong>Hon Peseta SAM LOTU-IIGA</strong>: That is a long time ago, and it made it look attractive. So this is just another step—another step in the long journey of bringing about change that will change the culture around smoking in this country.</p><p class="a">This bill does impose controls on marketing—on advertising—and I know that some of the more liberal free-marketeers out there will say that this is an impingement on intellectual property rights and freedoms and liberties. But we have got to remember what is at the heart of this bill, and it is the health of all New Zealanders. I take the member's point around standardised packaging; I have accepted that that is the more appropriate term to use in this space. But it is intended to restrict the ability of the tobacco industry to promote and advertise these products, and that is a good thing, because I believe that will lead to more people's lives being saved, to people living longer, and to people being able to contribute to their communities, to live with their families, and just to live better lives overall.</p><p class="a">So what is the experience in Australia? Well, in Australia, the Australian Government's official post-implementation review has found that it has made a sizable addition to contributing to lowering the smoking prevalence rates. It says that about 25 percent of the decline over the last 4 years can be attributed to standardised packaging. That is a good thing. What it shows is that it has increased the number of intentions to quit as well as recorded quit attempts in Australia. Alongside all the other smoking cessation tools and products that help people get off tobacco, it has shown that it has, in fact, saved lives in Australia.</p><p class="a">I think the other point to mention here is that other jurisdictions around the world have taken on standardised packaging: Ireland and the UK in May earlier this year, France has passed legislation, and I hear that Canada—and these are some of our closest allies, if you like. They are jurisdictions that have very similar laws to New Zealand and similar histories and backgrounds. They have taken on standardised packaging legislation. Canada also intends to do it, and I am proud of the fact that New Zealand is progressing this legislation through the House this year.</p><p class="a">The other point that will be made, and may be made, is around the illicit trade of tobacco. I see Barbara Stewart there. She is sort of champing at the bit to make points on behalf of the tobacco industry. What it is about is that there is no evidence—</p><p class="Interjection"><strong>Hon Annette King</strong>: Talking about political point-scoring.</p><p class="ContinueSpeech"><strong>Hon Peseta SAM LOTU-IIGA</strong>: No, I do it with a smile. I do it with a smile; you do it with a nasty streak. [<em>Interruption</em>] No, no, Barbara and I are really good mates, but there is absolutely no evidence whatsoever that any illegal sales of tobacco will increase. There is no evidence. But we know that the police will keep a watching brief on these developments, as they do with increases in tax and various other things that impact on the sale of tobacco.</p><p class="a">In terms of the timing for this legislation—and I know there will be a couple of Supplementary Order Papers put forward by the New Zealand First Party—the Government has not yet set a date for standardised packaging. It needs to go through this House, of course. It also needs to go through the regulation-making period. But just know that there will be ample time not just for the industry but also for the public to adjust to these laws, and the legislation is pretty explicit. There is a 12-week wash-through period, and that period is actually greater than the Australian period, so—</p><p class="Interjection"><strong>Barbara Stewart</strong>: It didn't work in Australia.</p><p class="ContinueSpeech"><strong>Hon Peseta SAM LOTU-IIGA</strong>: No, she shakes her head, but anyway, I just want to say that this legislation is welcomed. It is welcomed by our Government. It is clearly welcomed by Opposition parties, and we welcome their support on this. But coming back to the heart of the matter, we know that smoking is highly addictive. We know that all smokers take it up at quite a young age and that this piece of legislation is just another tool in the tool box around increasing taxes—in the tool box that we will be looking at in consultation around e-cigarettes and whether they will have an impact on smoking rates. It is also part of the tool box around the point of display that this Government has put in place, alongside support from other parties.</p><p class="a">We know that a high proportion of those smokers take it up because of its attractiveness. We know that pack design—product presentation—which is used to enhance the appeal of these products, must be attacked at source. That is why standardised packaging makes sense intuitively, and it makes sense in terms of the mechanics of it—the aesthetics of it—and that is why standardised packaging is important in order to reach our 2025 goal of a smoke-free New Zealand. Standardised packaging also supports New Zealand's international obligations, which the member opposite, Annette King, talked about: our commitments under the World Health Organization framework for the convention on tobacco control.</p><p class="a">We are proud to be a part of that convention. We support it, and we support the goals around it, combined with other measures, particularly those measures that our Government is putting in place to focus on high-needs populations. We know that Māori rates are well over 30 percent and Pacific rates are in the mid-20s. We know pregnant women have rates that are ridiculous. So we support that convention, and that is why there has been a realignment of the services towards those high-needs groups in order to bring down the rates for smoking.</p><p class="a">This is another step in the right direction. It is another step in the comprehensive programme that this Government has around tobacco control. I welcome the support across this Committee, and I look forward to the questions that may come from members opposite. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 09:20:24" ></a><strong>IAIN LEES-GALLOWAY (Labour—Palmerston North)</strong>: I thank the Associate Minister of Health Sam Lotu-Iiga for that contribution to the debate, but what the Minister did not address was the core question that Annette King asked him, which was: why so long, Minister? Why has this bill taken so long to progress from when it was first proposed as an idea? The Labour Party proposed it back in 2011, the Hon Tariana Turia introduced this legislation in 2013—why are we now, in 2016, only at the Committee stage? </p><p class="a">I would like to propose a few reasons why I think that is the case. The first is that the Hon Tariana Turia is no longer in this Parliament and is no longer the Minister in charge of this bill. National had no interest at all in legislation designed to reduce the harm caused by tobacco. For years and years and years, it railed against changes that were made by successive Labour Governments. It did nothing to reduce the harm caused by tobacco when it was in Government in the 1990s, and, at every opportunity, it campaigned against parties or MPs who introduced or supported legislation to reduce the harm caused by tobacco. That changed only when National entered a relationship with the Māori Party. </p><p class="a">Good on Tariana Turia for her efforts. She championed getting rid of tobacco displays, she championed increasing the excise tax, and she championed introducing plain packs, or standardised packs, as we now talk about. That all came to a halt when Tariana Turia left. That speaks loudly, I think, to National's lack of enthusiasm for reducing the harm caused by tobacco and the sorry state of the Māori Party now that its leadership has left the Parliament, and it has far less influence in its role now. This was something that was a key priority for the Māori Party, and it has gone right on the backburner since Pita Sharples and Tariana Turia left this House. I think the Māori Party, frankly, is a shadow of what it could have been, especially in this area. </p><p class="a">Of course, in the last few years, National has professed to have had a road to Damascus moment and has supported all those pieces of legislation to reduce the harm caused by tobacco. But we know that deep down inside, this is still not at its core. This still is not in its DNA. When you have got people like Chris Bishop saying that there are not any studies that suggest plain packaging will work or that it is stopping people from taking up smoking or helping them to quit smoking—that there is not one study to suggest that—you know that, actually, within the National Party caucus, the members do not really believe this stuff. Shane Reti might. He is sitting very quietly up the back. </p><p class="a">I recall when Dr Paul Hutchison crossed the floor to vote with the Labour Government in favour of legislation to reduce the harm caused by tobacco, and I am sure that if the roles were reversed and this was a Labour bill, Shane Reti would be crossing the floor to support this legislation because I doubt that a National Party in Opposition would actually support this. It would use this to campaign and rail against the Government. The best indicator of future behaviour is prior behaviour, and that is the behaviour that we saw from the National Party every time Labour tried to do things to reduce the harm caused by tobacco. </p><p class="a">Let us not forget, of course, "the Boy Wonder", Todd Barclay. He had a lot to say about tobacco control before he came into the House as well. He was another one of those tobacco lobbyists. </p><p class="Interjection"><strong>The CHAIRPERSON (Hon Chester Borrows)</strong>: Well, we have all said things before we came into the House.</p><p class="ContinueSpeech"><strong>IAIN LEES-GALLOWAY</strong>: Sorry, what was that, Mr Chair?</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Chester Borrows)</strong>: Well, it is just—</p><p class="ContinueSpeech"><strong>IAIN LEES-GALLOWAY</strong>: He was the one getting into—</p><p class="Intervention"><strong>The CHAIRPERSON (Hon Chester Borrows)</strong>: What I would suggest—I suppose I should stand up if he is going to stand up. I would suggest that if we are going to keep it relevant, what comments people may have said long before they came to Parliament—even in short lives—may not necessarily be applicable. The difficult thing is, of course, as Chair I do not get to make a speech; I would make a really good one on this.</p><p class="Intervention"><strong>Hon Annette King</strong>: I raise a point of order, Mr Chairperson. I think that should also be applied to the Minister, who made, I think, an unfortunate accusation against Barbara Stewart that she was going to be speaking on behalf of the tobacco industry. Of course, as you know, no member can be accused of being in the pocket of anybody.</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Chester Borrows)</strong>: Let us just—well, interesting you should make that particular comment. </p><p class="Interjection"><strong>Hon Peseta Sam Lotu-Iiga</strong>: I'll apologise.</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Chester Borrows)</strong>: Have you called upon the Minister to apologise?</p><p class="Interjection"><strong>Hon Annette King</strong>: I can't do that.</p><p class="Intervention"><strong>The CHAIRPERSON (Hon Chester Borrows)</strong>: No? Well, let us just leave it at that. Let us just say that we have a few slaps either way, and let us just see whether we can debate the issue. Congratulations.</p><p class="ContinueSpeech"><strong>IAIN LEES-GALLOWAY</strong>: Ha, ha! Thank you, Mr Chair. Well, I would just say that it was not that long before he came into Parliament—he is not old enough to have had long before he came into Parliament—</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Chester Borrows)</strong>: You old sage.</p><p class="ContinueSpeech"><strong>IAIN LEES-GALLOWAY</strong>: —Todd Barclay was railing against the idea that there was evidence to support having plain or standardised packaging for tobacco products. </p><p class="a">So yes, we do support this, because the evidence is clear that every step we take to clamp down on the tobacco industry to reduce the prevalence and the visibility of tobacco products has an impact. As other members have said, including the Minister, there is no one silver bullet. No one claims that this is the silver bullet, no one claims that excise tax increases are the silver bullet, and no one claims that getting rid of advertising was the silver bullet, but putting all those things together over years and adding in education—they all have an impact. This has always been the next logical step. </p><p class="a">I hate it when we are beaten by the Aussies. I enjoyed watching the Bledisloe Cup match over the weekend. I enjoy the fact that we have held the Bledisloe Cup since 2002. I love beating the Aussies, and I hate it when we get beaten by them. It is sad that we, as a nation that in the past has been at the forefront of controlling tobacco and that has taken huge steps to reduce the harm caused by tobacco, allowed ourselves not just to be beaten by the Aussies, but once we were beaten by the Aussies, we then sat back and watched from a distance to see what they would do and what the impact would be on them before we as a nation had the courage to step up and actually do this. But it is good to see that this is being progressed. </p><p class="a">I would like to speak very briefly about the New Zealand First Supplementary Order Papers 198 and 199. These seek to have a long transition period between the current regime and when this regime comes into force. Actually, I reiterate what the Minister said. The industry—both the manufacturers of tobacco, which are large global companies that have the resources to change very quickly, and the retailers—has known this is coming for a long time. It has known this was coming since 2013, and we have given it the transition period. We have given it plenty of warning by the Government dragging its feet on this legislation. In fact, the bill as it is written gives it plenty of time to transition from the current regime to the new regime. If the industry is not getting ready for it now, then it has got a problem and it is not paying attention. Anybody who works in that industry ought to be preparing themselves for the time when standardised packaging comes into place. So we will not be supporting New Zealand First's Supplementary Order Papers. </p><p class="a">We think the bill as it is drafted does a good job. We support the idea that we need to take one more step to reduce this harm. It is a product that kills 5,000 people a year when used as directed by the manufacturer. We had lots of debate about lots of different substances—the harm caused by alcohol, the harm caused by illicit drugs. The difference between those and tobacco, particularly alcohol and tobacco, is that alcohol is extremely harmful when abused. It is addictive, lots of people abuse it, and lots of people get addicted to alcohol, but with tobacco, this is a product that when used as the industry expects you to use it, kills half of the people who use it, and that amounts to 5,000 people a year. </p><p class="a">So I am surprised, frankly, that any party is opposing this legislation. I am surprised that it has taken us so long to progress this legislation, and I am proud to be a member of a party that promoted this idea early and that has a long track record of supporting legislation that reduces the harm caused by tobacco, because anybody who opposes things that are proven to reduce the harm caused by tobacco has to seriously think about their priorities.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 09:31:00" ></a><strong>BARBARA STEWART (NZ First)</strong>: Firstly, I would like to clarify for the Minister in the chair, Peseta Sam Lotu-Iiga, and the Committee and the public of New Zealand that New Zealand First is not in the hands or the pocket of the tobacco industry. We definitely are not, and I am very disappointed that the Minister did not apologise for an entirely erroneous statement that he knows is untrue. Tobacco is a legal product in New Zealand and the Government enjoys the excise tax, so I am amazed that he was so condemning of New Zealand First.</p><p class="a">But I would like to talk about the two Supplementary Order Papers (SOPs) that are in my name for the Committee to consider at this stage of the debate. I did ensure that the Minister was aware of these SOPs before they were published and I reached out to him, but he did not come back and talk these through, which I found very disappointing. I sent an email through and it was not responded to.</p><p class="a">Both SOPs basically look at extending the lead-in time for compliance for manufacturers and for the retailers of tobacco products. We believe, in New Zealand First, that the legislation has not learnt from our own example when we passed legislation requiring graphic health warnings, but also, when we look at the Australian example, when it moved from branded to plain packaging. We need to be realistic as a Parliament and recognise the logistical and the operational challenges for manufacturers and retailers when introducing standardised packaging.</p><p class="a">It is a change from what is there, and although the Minister says everyone has known about it for years, the exact dates are definitely not there in place, even now. When I look at my SOP 198, that looks to provide manufacturers with a realistic time frame for transitioning from branded to standardised stock. We know that tobacco packaging is printed in huge quantities, and I know the Minister knows this as well. It is unrealistic for manufacturers to have a very minute stock of packaging when they know that this legislation is going through the House, but there is still no set date for it. We need to give manufacturers a definitive time to comply. We need to look at the problem from their point of view as well.</p><p class="a">SOP 199 looks to provide tobacco retailers with a realistic time frame to manage stock and changeover issues that we have seen arise in the past. The bottom line is that 12 weeks is not sufficient to basically get rid of all of your old stock and sell it on, because it is impractical to work out what is required. No doubt the Minister would be very happy when some of these ram raids are carried out, because then all of the cigarettes, all of the tobacco, is taken by these people. So we are very disappointed that the Minister did not reach out and at least consider it.</p><p class="a">We have looked at the Australian examples quite realistically and for a long time, so we want to learn from that particular issue. I am hoping that the other parties will at least consider businesses and the business time frame in how a business operates, even though I know that many of these people have not been small-business owners themselves and do not understand the mechanics of business. </p><p class="a">So for SOPs 198 and 199 we would like the support of the Committee. We know that the legislation is going to be passed and we know that this is the new regime that is coming, but we would like manufacturers and businesses to at least have a realistic time frame to get through their stock. Thank you. </p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 09:35:42" ></a><strong>KEVIN HAGUE (Green)</strong>: I have spoken in the House on a number of occasions about some of the settings that this Government has. One of its settings is to shrink the size of the State, to withdraw from functions that New Zealanders have traditionally collectivised and determined that as a society we will take care of each other through. National has been pulling back those boundaries. Another of its settings has been that where that is no longer possible—so, where it is politically untenable to shrink the size of the State, where public opinion has mounted to the point that some kind of action is required—National has responded not with substantive action but with gesture, a small step in the direction that is required.</p><p class="a">It was interesting to hear the Minister Peseta Sam Lotu-Iiga speak about the compelling evidence of harm that tobacco is causing in this country. Indeed, Minister, it is causing that harm. But rather than responding with a comprehensive suite of measures, National is responding, again, with gesture—with small steps taken as small and as slowly as the Government can get away with. The Minister gave a list of countries that are moving on plain packaging, but I want to echo the Hon Annette King and her comments to say that New Zealand at one point was a leader on tobacco control—a leader on actually limiting the damage being caused by tobacco in our country. We have stepped back, under this Government, from that role as a leader. We are now not even a fast follower; we are a slow follower.</p><p class="a">The other speakers have rightly praised Tariana Turia, and I want to add to that list my praise for Helen Clark, for Annette King, and for Hone Harawira, who have been leaders on tobacco control from this House. But I also want to extend to the Minister in the chair, the Hon Peseta Sam Lotu-Iiga, the challenge and the encouragement to actually step forward to become a leader in this area too. We have, as a Parliament, as a Government, all endorsed this fantastic goal of having a smoke-free Aotearoa by 2025. We are currently not on track for achieving that goal, and yet when experts have recommended more aggressive excise tax increases, the Government has responded with the least measure that it can. Although experts have all endorsed the effectiveness of this standardised packaging bill in front of us today, we have actually had 2 years of delays, when, in fact, the Government's reason for the delay, or the reason it espoused for the delay—fear of investor-State dispute settlement mechanisms—really has been proven to be nothing more than a paper tiger, as all of the advocates for tobacco control were saying from the beginning.</p><p class="a">So the smoke-free Aotearoa 2025 goal is one that we should be pursuing, not with timid and isolated steps but with comprehensive measures. I want to see this bill passed as quickly as it possibly can be, and I want to see the Minister in the chair actually step forward with other measures. How about some supply-side control? How about a register of retailers? How about all of those other measures that the Māori Affairs Committee recommended to this House? </p><p class="a">The submissions that the Health Committee heard on this bill were all strongly in favour of the bill, with the exception, I have to say, of those from the tobacco industry itself and its proxies—those individuals who appeared before the select committee with sponsorship from the tobacco industry, which had supported their "research". The evidence of effectiveness that the select committee heard was compelling. On that basis one would have hoped that the Government could move faster.</p><p class="a">I want to say that the Green Party certainly supports the change in the name of the bill. I am very pleased to know that the Government and all the National Party members will be voting for the bill itself and for that change.</p><p class="a">I want to highlight our disagreement with the New Zealand First minority view in the select committee report. The New Zealand First minority view says that New Zealand First believes that there are "more effective" measures. Well, I would like to know what those would be, because if there are measures that are more effective than this one, which we know has great evidence of effectiveness, let us actually debate those. Let us debate them and pass them into law as quickly as we can.</p><p class="a">The truth is that New Zealand First has generally voted against tobacco control measures. My friend Barbara Stewart has several Supplementary Order Papers in her name, and she has spoken in this debate about those. I have to say that I recognise the difficult situation that Barbara Stewart may be in, in relation to this debate, but I have to say that the Green Party will be opposing the Supplementary Order Papers in her name. </p><p class="a">What those Supplementary Order Papers do is to further delay the implementation of this bill, and, as Iain Lees-Galloway has said, this is a bill that was introduced in December 2013 and its first reading was in February 2014. The industry has known that this was coming. Barbara Stewart said in her contribution that there are members in the House who have not been small-business owners. Well, I have been. I have owned and managed multiple small businesses—and large businesses, for that matter—and I can say with confidence that small-business owners are perfectly capable of interpreting the fact that a bill is before the House and that most of the parties in the House are saying that they want it to be implemented without further delay.</p><p class="a">I agree with the contribution that Iain Lees-Galloway made—that, in fact, there has been enough delay already. I am reminded of the tactics and the strategy that the industry has used from the word go—from the Doll and Hill study back in the 1950s, which first made the definitive connection between tobacco consumption and lung cancer. The industry has, from the word go, attempted first of all to deny the findings of the research, then to obfuscate—that is what we saw in the evidence before the select committee—and, finally, to delay. Its sole motivation is profit maximisation and protection of its commercial position, and I do not believe that this House should facilitate that purpose. Enough delay already—this bill should be passed, forthwith.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 09:44:53" ></a><strong>RIA BOND (NZ First)</strong>: I want to respond to the member Kevin Hague, who has just talked about New Zealand First's Supplementary Order Papers 198 and 199. I want to point out to that member that the reason why these Supplementary Order Papers have been produced by my fine colleague Barbara Stewart, who has not got the tobacco lobbyists in her pocket, as Minister Lotu-Iiga claims, but he will not get up and man up and say sorry to her. I want to address the fact that, as the bill says—</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Chester Borrows)</strong>: Order! The member cannot use a phrase such as that in her speech like that. There has been some dialogue between the members. I think the member should just move on.</p><p class="ContinueSpeech"><strong>RIA BOND</strong>: Thank you, Mr Chair. I will do that.</p><p class="a">I want to point out that the bill reads, under clause 2, "Commencement": "(1) This Act comes into force on a date appointed by the Governor-General by Order in Council." That gives the manufacturers and the retailers no security whatsoever. It then says: "(2) However, if this Act is not in force by the day that is 18 months after the date on which it receives the Royal assent, it comes into force on that day." So the issue—which is why Barbara Stewart provided her Supplementary Order Papers—is that there is no security of an actual date given to manufacturers or retailers.</p><p class="a">Mr Hague also got up and said that, as a former small-business owner, he believes that business owners can actually get themselves into line with changes when they are aware that bills are going through the House. Well, Mr Hague, I am sorry to tell you, but small-business owners are, in this case, little dairies on the corners, which I grew up going to and buying things from as a kid; the garages that actually used to be owned by Kiwis but now the owners find it hard to speak English; and the supermarkets that have the issue that they actually do buy the cigarettes in quantity—in thousands. So I do not find that comment about the fact that small businesses would be relatively organised and savvy to be quite true.</p><p class="a">The issue—which, again, is why Barbara has brought these Supplementary Order Papers to the Committee—is that the needed transition time and production time needs to be fair on the manufacturers and give them time to comply. In terms of the production line and what actually happens in this instance, they have to approve of a new plain packaging design. This goes back and forth through the manufacturers to approve the design, and then they actually have to go through and change their production line, change the actual calibrations to their machinery, and change how their establishments inside their manufacturing lines are working. That is no easy process for manufacturers to go through. I think the practical element, in terms of bills in this House, sometimes gets lost on members.</p><p class="a">What we are asking for in Supplementary Order Paper 198 is an actual, definitive date. I think, too, that we actually set a precedent when New Zealand changed from text health warnings to graphic health warnings. That gave manufacturers 12 months. A definitive date—that is all we are asking for. Give the manufacturers an actual, definitive date—there would not need to be a Supplementary Order Paper put forward if this were the case.</p><p class="a">I also want to talk further about the fact that the logistical and operational issues for manufacturers surrounding plain packaging—it has been brought to our attention that the time frame, again, is what actually concerns them the most. I do happen to think the 12 weeks' wash-out, as the Minister said earlier, is hardly good enough. We have seen from the examples in Australia that this did not actually work for them and caused massive problems. In fact, the Australians had to backtrack when they realised what a mess they had actually made of this. They did backtrack and they did provide a better time frame.</p><p class="a">I want to also talk again about the fact of the impact on small businesses. I think that this bill does demonstrate a distinct lack of awareness of the commercial realities of being a small-business owner. I think that because we do have a lot of dairies on the corner that do sell cigarettes behind the plain doors now—as I said, they stockpile. They buy these cigarette packets in quantities, in thousands, in cartons. These dairy owners, petrol stations, and supermarkets are going to be left out of pocket, and that is a serious concern for New Zealand First. We need to protect our small businesses, and this bill does not actually do that. It does not take into account that these small businesses have dumped thousands of dollars into buying cigarettes.</p><p class="a">I want to refer to a media statement, or a media release, if you like. It says here that the move to not have any consideration of what the impact of plain packaging would be on small businesses—because they were not given a definitive date, they wanted know, if anything, whether retailers were going to receive compensation. This was from one of the Australian retailers, and I too wonder about that myself, because the retailers are going to actually lose quite a lot of money in stock sitting there. I wonder, too, whether this Government is going to compensate the retailers.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 09:50:04" ></a><strong>CHRIS HIPKINS (Labour—Rimutaka)</strong>: I am happy to take a brief call on the plain packaging of cigarettes and to give my absolute and full support to this bill. It is important to remember that this is not an issue that just affects the people who smoke the cigarettes. It affects everybody around them, including children, including people who are in public places, including people who are in the workplace, and including the people who, when they are using public transport, sit next to someone who smokes. </p><p class="a">This is an issue that affects everybody, and I think that the plain packaging of tobacco is well and truly justified. The burden that this will place will predominantly fall on the tobacco industry, and I want to be clear about this: I have never been confused about my own position when it comes to the tobacco industry. I have never been conflicted in my own position. It is an industry entirely without conscience and entirely without any moral compass. This is an industry that sets out to kill its customers, and it does so without any sense of remorse, so the fact that this Parliament is passing legislation that is going to disadvantage it is, in my view, nothing to be ashamed of and is something that we should be fully in support of. </p><p class="a">I have always been in favour of measures that will reduce smoking and that will reduce the harm that comes from smoking. I have to say to the members opposite who have changed their position, or have been confused about their position, that they should search deeply within themselves to find their own moral conscience and ensure that they do the right thing in supporting this, not just because they are told to do so by their party but because they actually find within themselves the belief that this is the right thing to do—because it is the right thing to do. </p><p class="a">I refer in particular to the members who have said things like "there aren't any studies to suggest that plain packaging will work at stopping people from taking up smoking or helping them to quit smoking. There's not one study to suggest that". That was a comment from a National member of Parliament. Another comment from the same National member of Parliament: "we are worried about retailers. We are worried about the impact of plain packaging on intellectual property treaties that New Zealand is subject to, and global trade treaties." </p><p class="a">Those, of course—members will be well aware—were the comments of Chris Bishop, who is a National member of Parliament. The fact that he may have made those comments, as the Chair pointed out, before he was a member of Parliament does not change the facts of the matter. When voters vote, they vote for us based on who we are as people, and what people say before they become members of Parliament has a bearing on the views that voters should be entitled to form of us. I want to say very clearly that I have always been opposed to the tobacco industry and the tobacco lobby, and I will continue to speak out against them at every available opportunity. </p><p class="a">This bill has been on Parliament's Order Paper since 2013. The industry and all of those who work within the industry have had plenty of time to adapt and prepare for this law change that we will be progressing today. There is simply no justification for saying that it should be further delayed because of the cost that it will bear on business. The cost will predominantly fall on the tobacco companies, whose job, as I have said, is to kill people. That is what they set out to do. The product that they supply—they know that it kills people, and they continue to supply it, they continue to promote it without any sense of remorse, and I think the Parliament is doing absolutely the right thing in passing this legislation without any further delay.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 09:54:03" ></a><strong>LOUISA WALL (Labour—Manurewa)</strong>: Tēnā koe e Te Māngai o Te Whare, tēnā koutou katoa. I want to just take us through a bit of history, because we have been talking a lot about the origins of this piece of legislation. In 1989, the New Zealand Department of Health's Toxic Substances Board recommended that cigarettes be sold only in white packs with black text—so no colours and logos. So, in fact, we have been crediting Australia this whole time for leading the way, but we actually had the idea. I want to acknowledge that Canada, in the 1990s, had a parliamentary committee that also looked at the issue of plain packaging or standardised packaging. For them, it was part of a reasonable step in the overall strategy to reduce tobacco consumption. </p><p class="a">We are here today because, as a country, we have committed to Smokefree Aotearoa 2025, and so I want to commend the Minister for the bill. It is a bill that we have been waiting a long time to debate, but this year we have debated two bills that, I think, have substantially impacted on not only smoking rates but ongoing smoking among young people. In fact, from the research, it is young people who will benefit the most from this plain packaging legislation. Clause 5 of the bill amends section 3A(1)(b) of the principal Act to read: "to regulate and control the marketing, advertising, and promotion of tobacco products …". There is an explicit understanding that tobacco consumption is incredibly harmful, and so this bill is intended to improve public health. </p><p class="a">Those of us who have spoken today are on the whole, I believe, advocates for public health, because we know that there are some products that are killing us, and this is one of those products. On average, 5,000 people who smoke die every year. We have got over 550,000 smokers in this country. Five thousand people is a heck of a lot of people dying every year from a preventable practice, I will call it. We also have 350 people die from second-hand smoking—so those who do not smoke who think this bill is irrelevant to them, well, actually it is—and we have 70 babies die every year from sudden, unexpected death in infancy, and that is associated with the environments that our children are growing up in. </p><p class="a">For Māori and Pacific, the rates are a lot higher. Our prevalence rate in New Zealand is 20 percent; for Māori it is 34 percent and for Pacific it is 26 percent. The interesting thing to note is that, currently, the Australian prevalence rate is just over 16 percent, but 3 years ago, when it brought plain packaging in, it was like ours—20 percent. So there is evidence that this piece of legislation will reduce smoking by 3 percent. </p><p class="a">I find the whole debate about the time frames for plain packaging really interesting, and it is just because I have looked at other pieces of legislation. To New Zealand First, I want to acknowledge your Supplementary Order Papers, because in France and the UK, from May this year, they brought in standardised or plain packaging. But in terms of non-plain packages, in France they have allowed until 1 January 2017 for the sale of non-plain packages.</p><p class="Interjection"><strong>Barbara Stewart</strong>: That's a reasonable lead-in.</p><p class="ContinueSpeech"><strong>LOUISA WALL</strong>: Yes—so that is a 9-month lead-in, and in the UK they actually legislated for a year, so they can still sell the non - plain packaged cigarettes up until May 2017. That is how other jurisdictions have dealt with this particular issue, and I just thought it was my responsibility to also highlight that.</p><p class="Interjection"><strong>Barbara Stewart</strong>: Thank you.</p><p class="ContinueSpeech"><strong>LOUISA WALL</strong>: No problem. </p><p class="a">In terms of the evidence about the effectiveness—and there is a lot of evidence about the effectiveness. Cancer Australia particularly focuses on the decrease of youth uptake, and I have just found another survey that reinforces that the decrease in uptake from young people was also relevant to Torres Strait and Aboriginal youth. There is generic application of this particular tool to decrease the uptake of smoking and the consumption of smoking by young people right across the board, so we would anticipate that Māori, Pacific, Asian, and other groups in society will benefit from this particular initiative. What the evidence basically said was that the plain packaging or standardised packaging actually makes the whole product less attractive, and that is what we want. I think the whole point for the marketers and advertisers of tobacco is to make these amazing packs that people want to put on the table because they are proud to be associated with them. That is why this piece of legislation is so important. </p><p class="a">There were also negative perceptions and feeling about the pack and smoking it in a public place, and so young people actually hid the pack. They did not want people to know that this was the pack that they were smoking, and that decreased their consumption of tobacco around others. They actually chose to go without and so it decreased their consumption, and it also increased the thoughts to give up. I think that is the part of the equation now that I want to highlight—and I will take the opportunity with the Minister—because all these initiatives are fantastic, but what we have to make sure is that people who want to quit have the resources to do so. So I am hoping that there will be a corresponding increase in the availability of smoke-free, or auahi kore, resources so that those who want to give up are helped to give up. </p><p class="a">I know, from my father's experience, that those tools included going to a hypnotist. It also includes patches. Some people need counselling. Some people actually need to be giving up smoking in team events, and there is a little initiative called Wero, which has been incredibly successful. Rugby league actually piloted this challenge, and, actually, it enabled families and communities to give up collectively, because that is the other part of the deal. We want families to be smoke-free because we know that young people who grow up in families where two parents smoke are 40 percent more likely to smoke. So all of this package, Minister, will translate into us becoming smoke-free by 2025.</p><p class="a">I think what you have heard today from my colleague Kevin Hague actually is an opportunity for us to work collaboratively across the House. You know, you have got a lot of supporters of this particular kaupapa, and so we would welcome an opportunity to meet with you formally so that we are part of the solution—so that it does not matter who is in Government, actually, and that this kaupapa is taken into the future. I know that there are opportunities coming in terms of the e-cigarettes, and you and your ministry have responded to some evidence about these different tools that help people to give up smoking. So I am very excited about this piece of legislation going through the House.</p><p class="a">I cannot not think and comment about the passion of the Hon Tariana Turia. This really was her legacy, not only for the Parliament but for the people of Aotearoa, and I know she did it because she realised that, as a tool of colonisation, smoking has actually been incredibly pervasive in the lives of Māori. So I want to acknowledge her. I want to acknowledge Hone Harawira, when he was a member of the Māori Affairs Committee, and Tau Henare, who chaired that Māori Affairs Committee, because they too were incredibly passionate and committed to addressing the negative consequences that tobacco continues to have on the lives of Māori. </p><p class="a">I am particularly pleased because this initiative, as I have said before, really is targeted at young people. But, in addition to young people, I do want to say that smokers generally have been turned off, and one of the most important things is the graphic health warnings on these packs. People need to see the reality of what smoking can do, because then they can take some responsibility and make an informed decision about whether they continue to smoke or not. </p><p class="a">But we also know that cigarettes are a drug, and people need help. It is not just about the mind, but when the body craves smoking, then that is a different story. Some people are strong enough to go cold turkey, but, actually, what we know is that people often have to try more than 10 times before they actually give up. So it is having the resilience again and again and again to give up, which is why we need to provide them with as many tools as possible so that they actually can be auahi kore—smoke-free. </p><p class="a">If we do this for this generation, actually, we are doing it for future generations, and so that is what I am most passionate about. I am passionate about this issue because in Manurewa I think we have got one of the highest rates of smoking—over 50 percent. But I am visiting one of my schools next week, James Cook High School—</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:04:07" ></a><strong>POTO WILLIAMS (Labour—Christchurch East)</strong>: Tēnā koe, Mr Chair. In Part 1, new section 3A(1)(b) in clause 5 talks about the purpose of this particular piece of legislation. Having been a member of the Health Committee that heard the submissions, I am very keen for the passage of this legislation, but I want to talk about the actual purpose. </p><p class="a">There are four main articles in the purpose, which actually describe a bit of a journey that this nation has taken in terms of its smoke-free legislation. New section 3A(1)(b) talks about discouraging people from taking up smoking in the first place. The second part of it, if you are a smoker, is actually giving you the tools and the ability to give up smoking. If you are one of those lucky people who have reformed and given up smoking, the third part of this actually looks at supporting you to stay smoke-free. Then the fourth part of this is really about ensuring that those people who are non-smokers are actually not exposed to second-hand smoke. So the purpose of this legislation, as I say, has got a long gestation, and there is quite a whakapapa of legislation that has brought us to this point. We, as a nation, have really been on a journey to becoming increasingly smoke-free, as we ought to be. </p><p class="a">Part 1 also brings into the discussion the vernacular of the industry. We actually start talking about quit programmes, as opposed to stopping smoking or giving up smoking, because the word "quit" is actually associated with the smoke-free industry. There are quit coaches, who help you to give up smoking, and there is Quitline, which is the telephone service that helps you to give up smoking, so I am really pleased that in this legislation we have decided to use the jargon of the industry and put "quit" in the legislation. It is not normal to use terminology like that, but I am really pleased that we have done that in this case. Having a sister who is a quit coach, I felt it was really important to be able to signify that we knew exactly what we were talking about in terms of the industry supporting people to give up smoking. </p><p class="a">New section 21(a) in clause 6—this is where we start to look at the difference between plain packaging and standardised packaging. It was really important to make this point because "plain packaging" actually is a misnomer. "Plain packaging" does not adequately describe what we are talking about here. "Plain packaging" seems to describe, you know, clear, white packaging, but "standardised packaging" has actually got some requirements within the legislation. So standardised packaging looks at several considerations. It looks at the graphics that will be on the packaging. It looks at the colour of the packaging and what the warning messages will be, and the warning messages have to be messages that will be likely to get consumers to reduce their uptake of smoking and they have got to ensure that any false perceptions about the harmful effects of tobacco products are diminished. Standardised packaging also refers to where the producer's logo goes on the particular packet. </p><p class="a">New section 32(1) in clause 11 says quite clearly what the packaging must include, so the messaging has to be about outlining the harmful effects of smoking and the benefits of quitting smoking. It also has to list all the harmful constituent chemicals and ingredients in the smoke and the respective quantities of those ingredients within the smoke, and it talks about the graphics, as well. New section 32(1)(b) actually talks about leaf tobacco—tobacco that you get in pouches, I guess. That information has to be available, but because you do not have the cardboard packaging, it has to be included on a leaflet within the tobacco itself. The amendments to section 36 in clause 13 actually increase the penalties in respect of any offence—[<em>Bell rung</em>]</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: Poto Williams.</p><p class="Intervention"><strong>Ron Mark</strong>: I raise a point of order, Mr Chairperson. I was just wondering—normally the Chair does rotate the speakers across the different parties. We have had four speakers from Labour, one after the after. Is there a change to protocol procedures?</p><p class="Intervention"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: Well, actually, we do not alternate around, especially with parties that have a lot fewer members than other parties. It is a matter of generally sharing proportionately. I do listen carefully to members' speeches to see whether or not they are speaking relevantly when I decide whether or not to give them another call; Poto Williams was, as other members generally have been. The member is on my list to get a call—I have noted that he is going for it—but I think he has also been around long enough to know that it is disorderly to question the Chair as to who gets a call.</p><p class="ContinueSpeech"><strong>POTO WILLIAMS</strong>: As I was saying, clause 13 amends section 36 in respect of offences and the increase in penalties. If you are a manufacturer, importer, or distributer, you can receive a fine not exceeding $600,000. A large retailer, for example, can receive a fine not exceeding $200,000, and in any other case, which would be a small retailer, there will be a fine not exceeding $50,000. </p><p class="a">Clause 9 of the bill amends section 30A, which is a small but very interesting part of the legislation. It restricts the sale of loose or single cigarettes. That is particularly problematic for young people and people who are starting smoking—for example, children. There is a relevant clause, clause 13, which amends section 36(7A), which looks at the penalties should you be a retailer who is selling single cigarettes. That fine is $2,000. There are some transitional provisions that allow for not only distributers but retailers to have a period of time to work through stock that is non-standardised to the new stock that is standardised stock. For distributors that is a 6-week period and for retailers that is 12 weeks. </p><p class="a">I just want to make a couple more comments—firstly, about the submitters. There were quite a few submissions from retailers, grocers, and the like. Some of these submissions were on form submissions. They talked about the standardisation of the packaging causing some confusion within the retail environment. They said that this would increase confusion, they might sell the wrong product, and it would increase delays in actually serving customers. There were high numbers of submitters from around the country who were very supportive of the legislation and who talked quite emotionally about how smoking had impacted on them and their families. There were some submitters who actually wanted us to go further and consider banning smoking in cars. </p><p class="a">The last point I want to make is, I guess—having sat on the select committee under the chairmanship of Dr Paul Hutchison—that it was a good committee. This bill was one of the first pieces of legislation that I was involved with as a new member to the House, but we were inevitably delayed bringing the bill back to the House for further debate because, it is my belief, the Government was waiting to see what the World Trade Organization decision was going to be in respect of the Australian Government around its legislation. We had an opportunity to talk to the Australian officials about their legislation and how effective it had been. At the time, there was only anecdotal evidence that was available—but it was actually quite compelling—that even in the early days the standardised packaging that they had introduced was making an impact on smoking rates in that country. </p><p class="a">I am very pleased that this legislation has come back to the House, and that we are debating this through the Committee stage now. I commend it to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:14:05" ></a><strong>RON MARK (Deputy Leader—NZ First)</strong>: I am so pleased—because I do have to get back to my desk—but I could not help but come down to the Chamber because right at the start of the debate I heard a comment from a Minister that I thought was a little bit unnecessary—</p><p class="Interjection"><strong>Barbara Stewart</strong>: Unparliamentary.</p><p class="ContinueSpeech"><strong>RON MARK</strong>: —and unparliamentary, in my terms, but more so because it was launched at probably the most least confrontational, least controversial, nicest MP in the House, who is New Zealand First's Barbara Stewart. Why would the Minister dare to have a shot at Barbara Stewart because New Zealand First is opposing this bill? Then he went on to make some outlandish statement that New Zealand First was opposing the bill because we supported the tobacco industry.</p><p class="a">So I had to come down to rebut these assertions and remind the Committee of two things. I have heard a lot of comment from the Labour benches in support of this bill, based around harm minimisation, but nothing at all about the need to implement measures against smokers who harm themselves because they blow smoke in the face of a lady at a U2 concert and get punched in the mouth for their actions. Now—</p><p class="Intervention"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: The member will resume his seat. We are now debating the Committee stage of the bill, which are the details both of the bill and of Barbara Stewart's amendment. The comments you are making might have been marginally relevant at first or second reading; they are not now.</p><p class="ContinueSpeech"><strong>RON MARK</strong>: My other point is to add some comment to some of the comments that have been made in the Chamber during this detailed debate in the Committee stage—some things that New Zealand First has considered, as it has considered this bill whilst it sat in caucus. It is these inconsistencies in the debate—in the discussion, in the evidence—that lead us to conclude that we will not vote for the bill, like the fact that we do not believe that the evidence is strong enough.</p><p class="a">We have heard these arguments from the two parties, National and Labour, that are supporting the bill, saying that this plain packaging will reduce smoking, but we heard the same discussions—and these things came up in the hearings—about other measures that were taken that were supposedly going to reduce the levels of harm. We do not think that those things have happened. </p><p class="a">In fact, we have seen harm in another form generated as a result of legislation such as this going through the House. We would point to the price changes. Everyone told us that raising the price of cigarettes would reduce the level of smoking—the same argument that is behind this legislation. On 12 May 2012 I stated in a debate that raising the prices and having this persistent attack on working class New Zealanders who choose to smoke—choose to smoke—would lead to crime. I predicted that in a debate—I did—on television.</p><p class="a">The Government of the day continued with Tariana Turia's measures in that respect, much the same as it is doing now. It ignored the warning. But what have we seen? Well, far from seeing strong evidence that plain packaging will work, we have seen very, very strong evidence that increasing the price—essentially implementing prohibition by economic measures. It is economic prohibition by elevating the price to such a level that you create a black market product and that is why this measure will not work—</p><p class="Intervention"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: OK, now, the member has now gone on for a minute and a half in an area that was part of legislation passed some time ago and is not relevant to the clauses of this bill. Final warning to the member—stay on the clauses of the bill or I will terminate.</p><p class="ContinueSpeech"><strong>RON MARK</strong>: I would like to say, in concluding my speech at this point, that our point is clear and we stand by that. We will vote against this legislation because plain packaging—I still do not understand whether plain packaging means a red shiny package is acceptable as plain packaging or if a blue shiny package, which might well reflect something, is acceptable—I do not know. But a shiny, plain package—what we do understand, and I have not seen it anywhere in the bill, is that in time people become inoculated—</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:18:59" ></a><strong>Hon Peseta SAM LOTU-IIGA (Associate Minister of Health)</strong>: I just want to take the opportunity to answer a few questions, queries, suggestions, and other matters that have been raised across this Chamber. The first issue I will deal with is one that was addressed by Annette King. She asked what the cigarette packets would look like. This packet I am holding is a clear example. It is very similar to the Australian packages. They have some images on them. They have health warnings. As the member has already stated, they will be adapted to New Zealand conditions—there is a Māori health warning. But this is just an example. It is a prototype. It has not been finalised. It will be finalised, of course, as part of the regulations that will go out to form part of this legislation as we proceed not just through the House but through the public consultation process. I am happy to share this with the member after this session—and the Health Committee, of course. </p><p class="a">Secondly, there has been talk about some type of delay in this legislation. Can I just say up front that our Government has been transparent about the fact that we would keep a watching brief on the World Trade Organization (WTO) case that was put against Australia. We would keep a watching brief through our Ministry of Foreign Affairs and Trade officials. We would look at how that case transpired, and we would also look at the evidence around standardised packaging and how it worked in Australia. Some might say, you know, we want to be world leaders at this—like the Olympics, and making these comparisons—but sometimes a cautious approach, a considered approach, and an approach based on science and evidence is the way to go. </p><p class="a">In some debates I hear people talking about science and how we should test it. Well, it has been tested now. The evidence out of Australia—and that was available only earlier this year—showed that a quarter of the reduction of smoking prevalence in Australia could be attributed to standardised packaging. That is evidence now that we can hold up. There is room for members in this Committee who have had opinions that were not tested around science to then change their opinion and vote for a piece of legislation that will, based on evidence and based on science, make a difference—and based on the advice, I should say, from those officials. </p><p class="a">We now know that we are on strong grounds for putting this legislation through the House. We also know, as I have already stated, that other countries are taking up standardised packaging legislation, and those countries are not subject to WTO action. Those are tangible things that we can point to that demonstrate to us that we are on strong ground and that we should proceed with this piece of legislation. I wanted to just address that point—that it is considered—and to members who say that this bill was in the House in 2013, I say that, actually, it was introduced in the House in December 2013. It had its first reading in February, and the progression of this bill is not inconsistent with other bills that have gone through this House. </p><p class="a">I want to thank the member Louisa Wall. She has since left the Chamber, but I just want to note that she talked about the time, in terms of Supplementary Order Papers 198 and 199, in which this legislation should come into force after this bill is passed. She noted the various times. The Health Committee considered these matters. It is important to note that the select committee members looked at these matters, and they rejected these assertions. The reason I made the analogy—and I will state publicly, and I apologise. It was in jest. Barbara Stewart and I have a strong relationship. We have a positive relationship. [<em>Interruption</em>] She seems surprised. But those were the arguments that were put forward by the tobacco industry in the select committee. They were rejected wholeheartedly by the select committee. I reject them wholeheartedly too. </p><p class="a">I think that where the regulations will be developed over time, we need that level of flexibility within this legislation. We know that the regulations have been developed and we know that they will come into force after this bill has been passed, and so we need that flexibility. In terms of the second Supplementary Order Paper—No. 199—in terms of the wash-through, can I say to that member that the transitional provisions in the bill are clear. They currently allow for two wash-through periods, and that member knows that. The 3-month, or the 12-week, wash-through period—the total period—is actually longer than the period that was allowed in Australia. It is longer than that period. </p><p class="a">The member notes—and I will agree with her—that there were some teething issues, but we believe, based on the Australian experience and the extended period under this bill, that there will be sufficient time for wash-through to occur in the New Zealand context. I accept the submission that she has made. However, I reject it, alongside the select committee, in terms of whether this is sufficient time.</p><p class="a">Can I also just come back to members opposite talking about the overall package in terms of this along with tax increases. I can talk about the overall package—</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: No. No, you can't.</p><p class="ContinueSpeech"><strong>Hon Peseta SAM LOTU-IIGA</strong>: —along with the e-cigarettes consultation paper that has been put out there. They talk about working together. I have always had my hand out to work alongside members opposite in terms of these initiatives, and I note that Ms Wall and I constantly go to events relating to smoking cessation and constantly support those groups that are determined to bring down the smoking rates for New Zealanders. I agree with her that this is part of a culture change to make smoking less attractive—</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: OK, I am—</p><p class="ContinueSpeech"><strong>Hon Peseta SAM LOTU-IIGA</strong>: —and I want to come back—</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: The Minister will come back—</p><p class="ContinueSpeech"><strong>Hon Peseta SAM LOTU-IIGA</strong>: —to why this legislation is important. Can I, Mr Chair?</p><p class="Interjection"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: You can sit down when I stand up. I am going to remind the Minister that I have been relatively tight on other parties and, to be fair, I am not going to allow him to reply to irrelevancies from them.</p><p class="ContinueSpeech"><strong>Hon Peseta SAM LOTU-IIGA</strong>: OK. I want to come back to why this legislation is important. It is about the lives of New Zealanders. It is about the 4,500 to 5,000 New Zealanders who die prematurely. It is not about the 4,500 people who die, as some people have said in this Committee; it is that they are premature deaths. They are people—they are New Zealanders—who could have lived longer and enjoyed time with their families and their communities. </p><p class="a">Of course, there is the health cost of smoking, which I think is really important when you consider this piece of legislation as bringing about better change for New Zealanders as a whole. Although members opposite have made relevant points, I believe I have answered those in due course. I have given an undertaking that this Government is committed to this piece of legislation, and is committed to the health of New Zealanders and to bringing down the smoking prevalence of New Zealanders over time.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:27:00" ></a><strong>RINO TIRIKATENE (Labour—Te Tai Tonga)</strong>: I am pleased to make a brief contribution in the Committee stage of this bill. I join with my other colleagues in supporting this legislation, which will bring in the introduction of plain packaging for tobacco products. There is nothing left for me to say in terms of just endorsing the intent and the purpose of this legislation and why we want to enact it, and I do acknowledge the Associate Minister of Health, Peseta Sam Lotu-Iiga, for his work. What I would like to do is focus on what I think is an omission from this legislation. That involves the effect of internet sales and the plain packaging that may apply—well, how this law will apply to private purchases that are made online by folks from vendors over the globe, which is presently allowed, and how that will align with this plain packaging legislation. </p><p class="a">At the moment we have an increasing amount of trade that is conducted online, and I know there are regulation-making powers within the legislation to prescribe the nature of internet sales, but, as I am aware, it is still open to any citizen of this country to jump online and find a relevant vendor around the world, to purchase cigarettes or tobacco products, cigars—whatever is on offer. Those products may comply with, say, US laws around a Surgeon General warning, but they do not go to the extent of the regulations that are prescribed by our own laws. So I just want to clarify—we do have the Minister of Customs in the Chamber at the moment—whether the private purchase of internet sales of branded products, tobacco products, will be prohibited. Will they become a prohibited import? Will they be stopped at the border because they are not compliant with the New Zealand plain packaging legislation? </p><p class="a">I think that as online consumers increase and become more savvy and the world is opened up online, we may have the corner shop selling a plain-packaged cigarette, but it is certainly open for any citizen to purchase their treasured, retro-looking, branded product that you cannot ordinarily get here in New Zealand freely and happily on the internet, provided the Customs Service is able to intercept that product at the border and charge the relevant duty and excise and GST to the purchaser of that product. Will there be an additional prohibition on that product by virtue of the fact that it is not in plain packaging? I think that is a straightforward question. </p><p class="a">At the moment, as I said, it is open to any citizen of this country to jump online, find a vendor, and purchase a box of cigarettes that is beautifully—well, not "beautifully"—brightly coloured, branded, psychedelic coloured, in all the colours of the rainbow, and containing all the different flavours they want. It is open to them. They can purchase them all. They can pick off the shelf any particular product they want. They need not go to the corner store and buy a bland, plain-packaged product. So what is the purpose of this legislation if it does not defeat the increasing number of Kiwis who are shopping online? </p><p class="a">I believe that the legislation does seem to fall short on that very point. How do I know this? Well, I do it myself. I am not actually a smoker, but I have tested the customs system as the Opposition spokesperson on customs, and it is perfectly open to any person to go online, like I do, and buy whatever selected little cigar product, tobacco, anything you want, and in some instances it is not even caught by the Customs Service. But in the very rare occurrence that the beagles at the border do, I think it is a very fair point.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:32:02" ></a><strong>JAMI-LEE ROSS (Junior Whip—National)</strong>: I move, <em>That the question be now put</em>.</p><p class="Speech"><a name="time_20160824 10:31:42" ></a><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: Adrian Rurawhe has been trying for a long time to get a call, so we will give him a shot. It is pretty much a warning here that we are coming to the end of the debate—it is losing steam and relevance.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:32:15" ></a><strong>ADRIAN RURAWHE (Labour—Te Tai Hauāuru)</strong>: I want to speak to clauses 5 and 6, in Part 1. I want to start off in reference to clause 5 and the purpose of the bill. We have all heard that our aim is to have a smoke-free New Zealand by 2025, and I want to point out the real reasons why we need to make that date. Today 13 people, on average, will die from smoking-related issues. That is 5,000 people this year, and by 2025 that is 45,000 people. We need to do this. We need to acknowledge the purpose of this bill, and clause 5(1)(b)(i) says "discouraging people from taking up smoking or using tobacco products;". That is why we need to do this. There are 45,000 people who will die by 2025. We must not as a Committee delay this legislation any further. We must not put up and accept Supplementary Order Papers that delay this date. We have to acknowledge, as the Committee of the whole House, that too many New Zealanders will die by 2025—the same population as where I live, just south of Whanganui, wiped out of New Zealand. That is why I am standing up here to support this bill.</p><p class="a">I want to acknowledge the Health Committee and the changes that it has made to this bill. It has changed the language, and I point to clause 5(1)(b)(ii). The words "encouraging people to give up smoking" have been changed to "encouraging people to quit smoking". I think that language is a lot more robust, and it is the language that is being used as part of the initiatives to help people to stop smoking—indeed, to quit smoking.</p><p class="a">In clause 6(a)(ii) there has been a change to section 21 with the addition of the words "and cultural", so it changes to "further reduce any social and cultural acceptance and approval of smoking and tobacco products;". I support that wholeheartedly.</p><p class="a">I listened very carefully to the Minister's last contribution. I think that having the word "cultural" in there, to me, means things like the design of that standardised packaging. There is scope in there for a cultural dimension, and I think that in the communities that I represent in Te Tai Hauāuru there are different cultural aspects or signs that could be put on that packaging to indicate that it is not good for you—and they are not necessarily words, and they are not necessarily images of people who are suffering from smoking-related diseases. In the Māori culture, in a number of iwi around the country, there are certain symbols that we like to avoid. Some of those symbols represent messages. For example, in some iwi there are particular birds that are regarded as messengers of bad luck, or impending death in some instances. So I think there is a whole scope around just including those two words in the changes to this bill that gives the opportunity to have that reflected in that plain packaging. I wanted to speak about that, as well.</p><p class="a">I want to acknowledge the good work of the Health Committee but also that of past select committees, including the Māori Affairs Committee, which, in its inquiry, really pushed the boundaries around this area.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:37:17" ></a><strong>JAMI-LEE ROSS (Junior Whip—National)</strong>: I move, <em>That the question be now put</em>.</p><p class="IndentMarginalone">Motion agreed to.</p><p class="IndentMarginalone">Part 1 agreed to.</p><p class="VoteReason">A party vote was called for on the question, <em>That Part 2 be agreed to</em>.</p><p class="VoteCount"><strong>Ayes 108</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 14; Māori Party 2; United Future 1.</p><p class="VoteCount"><strong>Noes 13</strong></p><p class="VoteText">New Zealand First 12; ACT New Zealand 1.</p><p class="VoteResult">Part 2 agreed to.</p><p class="IndentMarginalone">The question was put that the amendments set out on Supplementary Order Paper 199 in the name of Barbara Stewart to the schedule be agreed to.</p><p class="VoteReason">A party vote was called for on the question, <em>That the amendments be agreed to</em>.</p><p class="VoteCount"><strong>Ayes 12</strong></p><p class="VoteText">New Zealand First 12.</p><p class="VoteCount"><strong>Noes 109</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 14; Māori Party 2; ACT New Zealand 1; United Future 1.</p><p class="VoteResult">Amendments not agreed to.</p><p class="Speech"><a name="time_20160824 10:39:59" ></a><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: I now want to clarify the ACT Party vote on Part 2. Was the ACT Party voting for or against?</p><p class="Interjection"><strong>Joanne Hayes</strong>: Against.</p><p class="ContinueSpeech"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: It was voting against?</p><p class="Interjection"><strong>Joanne Hayes</strong>: Yes.</p><p class="ContinueSpeech"><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: Right, thank you. We have got it right.</p><p class="VoteReason">A party vote was called for on the question, <em>That the schedule </em><em>be agreed to</em>.</p><p class="VoteCount"><strong>Ayes 108</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 14; Māori Party 2; United Future 1.</p><p class="VoteCount"><strong>Noes 13</strong></p><p class="VoteText">New Zealand First 12; ACT New Zealand 1.</p><p class="VoteResult">Schedule agreed to.</p><p class="VoteReason">A party vote was called for on the question, <em>That clause 1 be agreed to</em>.</p><p class="VoteCount"><strong>Ayes 108</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 14; Māori Party 2; United Future 1.</p><p class="VoteCount"><strong>Noes 13</strong></p><p class="VoteText">New Zealand First 12; ACT New Zealand 1.</p><p class="VoteResult">Clause 1 agreed to.</p><p class="IndentMarginTextFollowing">The question was put that the amendment set out on Supplementary Order Paper 198 in the name of Barbara Stewart to clause 2 be agreed to.</p><p class="VoteReason">A party vote was called for on the question, <em>That the amendment be agreed to</em>.</p><p class="VoteCount"><strong>Ayes 12</strong></p><p class="VoteText">New Zealand First 12.</p><p class="VoteCount"><strong>Noes 109</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 14; Māori Party 2; ACT New Zealand 1; United Future 1.</p><p class="VoteResult">Amendment not agreed to.</p><p class="VoteReason">A party vote was called for on the question, <em>That clause 2 be agreed to</em>.</p><p class="VoteCount"><strong>Ayes 108</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 14; Māori Party 2; United Future 1.</p><p class="VoteCount"><strong>Noes 13</strong></p><p class="VoteText">New Zealand First 12; ACT New Zealand 1.</p><p class="VoteResult">Clause 2 agreed to.</p><p class="IndentMarginalone">Bill to be reported without amendment presently.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>JUDICATURE MODERNISATION BILL</strong></p><p class="SubDebate"><strong>In Committee</strong></p><p class="Speech"><a name="time_20160824 10:43:27" ></a><strong>JAMI-LEE ROSS (Junior Whip—National)</strong>: I seek leave for the Judicature Modernisation Bill to be debated as one question, with all votes taken separately at the end.</p><p class="Speech"><a name="time_20160824 10:43:43" ></a><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: Is there any objection to that process? There appears to be none.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="MarginHeading"><strong>Parts 1 to 6, schedules 1 to 11, and clauses 1 and 2</strong></p><p class="Speech"><a name="time_20160824 10:43:48" ></a><strong>JACINDA ARDERN (Labour)</strong>: Mr Chair, you will see, just as a visual aid, that the Judicature Modernisation Bill is a weighty bill—</p><p class="Interjection"><strong>Denis O</strong><strong>'</strong><strong>Rourke</strong>: Door stop.</p><p class="ContinueSpeech"><strong>JACINDA ARDERN</strong>: —a door stop, as my colleague has described. But despite the fact that it is so weighty there does seem to be some universal support—near-universal support, at least—for what this weighty document is attempting to do. So that theme will probably come through in the debate today. </p><p class="a">The Judicature Act as it stands is over 100 years old. There is universal agreement that it absolutely needed to be updated, and so I do thank the Ministry of Justice and Minister Adams for the work that has been done in that regard. It has taken some time. The Law Commission did produce recommendations to consolidate this document—the Judicature Act with the District Courts Act and the Supreme Court Act—some time ago. So, as I say, it is timely that we finally come to the point of reaching the Committee stage here today. </p><p class="a">I want to run through some of the substantive changes that this bill also introduces. Even though we will be debating this as one question, I will thematically go through and begin with some of the Part 1 changes. I think it is fair to categorise the Part 1 changes as being focused on simplification, on streamlining, and on transparency. There are a couple of opportunities that are missed here, and I will touch on them briefly as well. Part 1 repeals the Supreme Court Act 2003 and the Judicature Act 1908, and creates the new Senior Courts Bill, which will put all of the courts—the High Court, the Court of Appeal, and the Supreme Court—under one system. In doing so, it streamlines the appointment of non-permanent judges; establishes a judicial panel for hearing certain types of commercial cases; repeals the commercial list, which has set out case management approaches; and gives more power to restrict vexatious civil litigants, an area where we are seeing more self-representation, which is probably timely. </p><p class="a">Originally, it also required the publishing of—and part of this provision remains—information relating to reserved judgments, recusal from cases, and suitability of judges holding employment or other offices, and I note a useful Supplementary Order Paper 66 from the Greens on declarations around pecuniary interests in this regard. It also talks about requiring final written judgments to be published unless a good reason exists not to do that. We have had a Supplementary Order Paper (SOP) from the Minister in that area, and I just want to touch on that SOP very, very quickly. </p><p class="a">SOP 197 by the Minister makes, by and large, a few changes that we are generally supportive of—particularly around things like commencement dates, superannuation subsidies for acting judges, and the like—but one of the things it does is reverse the requirement for mandatory publication of decisions online. We are slightly disappointed that that has happened. We do think that there needs to be a longer-term plan to allow that to happen. Down the track we will ask officials what we are doing to make sure we have greater transparency. If you want to make a judicial complaint, for instance—I have had people come to me and say they want to do that, but the lack of transcribed rulings and judgments from hearings makes that difficult. So that, I think, ultimately would be a good place for us to head to. </p><p class="a">I want to come, though, to some of our SOPs that cover this part. We have a couple of really substantive SOPs that on the face of it may seem simple, but that capture matters of constitutional importance and weight, which I will be seeking the Committee's support for. In fact, one of the SOPs in my name that I want to speak to, SOP 62, was not originally raised by me but actually by members of the judiciary. In particular, I want to refer to Justice McGrath's retirement speech, which has been referenced in the media. A retirement speech is obviously the chance to reflect on a lengthy career as a member of the judiciary and of our legal fraternity, and the fact that this retiring judge used that special opportunity to reflect on what was happening here in Parliament in respect of this particular provision to me speaks to the weight of this issue. </p><p class="a">I want to read from that retirement speech—just for a moment, if the Committee would let me, because it relates directly to Part 1. He said: "Just bearing that in mind, I hope you will forgive me if I detour for a few minutes to raise a matter of a constitutional kind that causes me some concern. Our constitution is an informal one. It is not set out in any single document. It has been described as the product of a complex mass of forces of a political, legislative, prerogative and judicial kind. As a result the New Zealand constitution is found in some rules that have been enacted by Parliament, some rules of common law stated by the Courts and a number of conventions which are [appropriately described as] established understandings … Most New Zealanders seem happy with [these arrangements] and so am I. I do not favour replacement of them with a [formal] constitution …".</p><p class="a">He goes on: "But I believe there are gaps in our constitutional arrangements … And we also need to ensure that we do not [as a society,] inadvertently create new gaps [in our constitution]. The Constitution Act 1986 provides that Parliament continues to have full power to make full laws. [Now that recognises,] with clarity, that Parliament is the supreme law making power of the nation. There is no equivalent provision [in that Act] stating the role of the judicial branch, or indeed the underlying concept of the judicial function which is to uphold the rule of law. That gap was filled, to some extent, when this Court, the Supreme Court of New Zealand, was established in 2003. The legislation stipulated that nothing [in the Act] 'affects New Zealand's continuing commitment to the rule of law and the sovereignty of Parliament'. Commitment to the rule of law is a simple but important constitutional concept. It means our nation's commitment to the principle that all persons and all bodies, whether public or private, must comply with the law and are entitled to exercise all rights that it gives them. Upholding this principle is the central role of the Courts." </p><p class="a">That provision, as set out in the Supreme Court Act 2003, in this act of consolidation to create the Judicature Modernisation Bill, is lost. That rule-of-law provision, once this bill is enacted—voted for in this House—will no longer exist. I want to acknowledge at this point that in the select committee I posed this question, both to the Attorney-General and to the Minister of Justice, and was met with sympathy on this issue. They acknowledge that it is an important provision. The question in debate has come down to where it is best placed. I do not dispute the argument that the Constitution Act would be the appropriate place for the rule-of-law provision. I do not dispute that. I think I would probably agree with both Ministers on that point. The issue, however, is that our opportunity here, at this point in time, is to amend only the Judicature Modernisation Bill. </p><p class="a">We did seek advice from the Clerk of the House on whether or not it would be possible to make a subsequent amendment to the Constitution Act, and were told it was out of scope. So herein lies our one opportunity. If, in the future, the Government was to say "We would like to place it separately in the Constitution Act.", I would have no trouble supporting that. But as a holding pattern I would absolutely seek the House's support to have it, in the meantime, sit where it has sat for over 10 years now—in the Judicature Act, as it consolidates the Supreme Court Act of 2003.</p><p class="a">It is an incredibly important provision. I know that it may not have registered with many New Zealanders, and I can see good cause for why—I can see good cause for why. But it has, for instance, been the subject of debate amongst the legal fraternity. We cannot look lightly on our constitutional provisions, simply because members of the public may not have engaged directly with them. It is our job to ensure that those provisions are robust where they should be, and upheld. That is why I see it as our job today, in this House, to support such provisions. Our SOP 62 is not the only SOP that speaks to that issue. </p><p class="a">I would say, also, that entrenching some of the conventions around consultation for the appointment of Māori Land Court judges, under Supplementary Order Paper 202 in Louisa Wall's name, fits in that space as well—as does my SOP 63, which amends clause 3 of the bill, which enables important legal matters, including legal matters relating to the Treaty of Waitangi, to be resolved with an understanding of New Zealand's history, conditions, and traditions. Again, it is another provision from the Supreme Court Act 2003 that has been lost in the consolidation of the Judicature Modernisation Bill—all incredibly important. </p><p class="a">I do just want to reflect briefly that Dr Richard Cornes, who is a senior lecturer at Essex University and a visiting fellow at the Legal Issues Centre, Otago University, has also written on the need for us to retain this rule-of-law provision. I know that he has worked hard to raise the profile of this issue with members of this House as well, and I thank him for that work.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:54:01" ></a><strong>Hon DAVID PARKER (Labour)</strong>: I want to continue this discussion in respect of the clause that should preserve in the Judicature Modernisation Bill the provision that comes from the Supreme Court Act 2003, which emphasises that nothing in that Act, or indeed this Act, affects New Zealand's continuing commitment to the rule of law and the sovereignty of Parliament. I want to explain the background to the original decision in 2003 and take up some of the points that were raised by Jacinda Ardern.</p><p class="a">In 2003, when the Supreme Court was brought into being, it was fresh after the Court of Appeal decision in the foreshore and seabed case. Considerable disquiet was felt within this Parliament as to that decision going too far—not in the finding that there were unexpunged or unextinguished common law interests to be argued for in the foreshore and seabed case but the finding that the Māori Land Court had jurisdiction to consider them. The Māori Land Court, being a court of statutory jurisdiction having no inherent jurisdiction, was found by the Court of Appeal in that case to have jurisdiction over the foreshore and seabed, despite the fact that nowhere in that Act, which is called Te Ture Whenua Māori Act and in its English translation is called the Māori Land Act, was there any reference to anything that was wet. </p><p class="a">The Court of Appeal could have gone back to the <em>Hansard</em> at the time of the passing of that legislation and it would have found no reference to any area of foreshore or seabed.</p><p class="Interjection"><strong>Chris Bishop</strong>: That's not right.</p><p class="ContinueSpeech"><strong>Hon DAVID PARKER</strong>: It would have found only reference to dry land in the debates. Therefore, there was surprise on both sides of the House, Mr Bishop, that the New Zealand Court of Appeal had found that there was jurisdiction in the Māori Land Court to determine the claims to unextinguished interests in the foreshore and seabed. So when the Supreme Court legislation was passed at the same time, Parliament thought fit to remind the Supreme Court that was being created that this Parliament remains sovereign in respect of legislation.</p><p class="Interjection"><strong>Chris Bishop</strong>: Ha, ha!</p><p class="ContinueSpeech"><strong>Hon DAVID PARKER</strong>: Mr Bishop, you might laugh, but that is the reason why this was put in. I was part of those discussions within the Labour caucus, and your colleagues would have been part of those discussions as well.</p><p class="a">There is a proper debate to be had as to whether the courts should have the right to overrule primary legislation in New Zealand. That is a proper constitutional debate to have. I am with Justice McGrath there; I am not with the Rt Hon Sir Geoffrey Palmer. I do not think that we should hand over to the courts the power to strike down primary legislation. I think the experience in other parts of the world where that occurs, whether it is the United States or some other jurisdictions, shows that you actually get to wrong outcomes. There are essentially complex political decisions that lie under those sorts of headline issues in constitutions, like freedom of expression, where you go one step under it and you have got to consider whether it is fair to have campaign financing laws. Some jurisdictions overseas, including in Australia and the United States, have struck down laws similar to those that we have in New Zealand to control big money in elections as being an unfair incursion on the freedom of speech.</p><p class="a">I am not one of those people who think we should confer jurisdiction on the courts to do that. I want to make sure they do not think they have got the right to take it. Having said that, I always acknowledge that there is a limit to the sovereignty of Parliament, which goes back to the Bill of Rights 1688, when there was a division of powers between the courts and Parliament. There are some things that lie in there or have their roots in the Magna Carta that are so fundamental that I do not think Parliament has the sovereignty to overrule. I think that there is this sort of grey area arising from those ancient documents, which were referred to in the Privileges Committee when we were considering the changes to defamation laws, arising out of the Erin Leigh case against the Attorney-General in respect of something that occurred in the last Government. We actually put that in our select committee report—that there is, at least in the view of some members, including me, a limit to the sovereignty of Parliament that arises from those ancient documents, not from the granting of some new jurisdiction to the courts later. That is a very important point of principle.</p><p class="a">I like the greyness of those boundaries at one level. If we had an egregious New Zealand Government that set up concentration camps and started to torture people, I do not think you would necessarily have to rely on international conventions—you might be able to. You could also rely upon those ancient laws to strike that down, but that is where I think the limits to the sovereignty of this—</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:59:03" ></a><strong>The CHAIRPERSON (Hon Trevor Mallard)</strong>: I will call the Hon Amy Adams, but I do recognise the fact that the member is mid-flight and I will recommend to my successor that we come back to you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:59:13" ></a><strong>Hon AMY ADAMS (Minister of Justice)</strong>: I apologise to the Hon David Parker. I just want to take a very quick call to—I thought it might assist the Committee if I indicate that the Government will be supporting Supplementary Order Paper 62 in the name of Jacinda Ardern. It saves the Committee time debating the point, just to make it very clear at this early stage that we accept a lot of what Ms Ardern said in her comments. We do believe the place for it is in the Constitution Act but, none the less, we are persuaded that there is certainly no harm in maintaining it in the interim—but I certainly welcome the record in <em>Hansard</em> showing that when the appropriate time presents itself, we would like to see it removed from this legislation and placed in its appropriate place. I thought it might assist the House just to clarify that point, and I apologise to Mr Parker.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 10:59:54" ></a><strong>Hon DAVID PARKER (Labour)</strong>: Thank you for that indication, Minister Adams. Can I also just put on the record that in the Labour Party we were somewhat reluctant to agree to a single debate here. We wanted a part by part debate, because this is a very serious piece of legislation, governing all of our courts. But we were presented with the option from the Minister that if we agreed to a single debate, we would remove the uncertainty as to whether we would get National's vote for Supplementary Order Paper 62. Having spoken with my colleague Jacinda Ardern and discussed the pros and cons of that, actually, this is such a fundamental provision in this bill that we thought we should bank that—that that was the most important thing that was going down at this Committee stage and we should get it through. I suspect that when the final votes come—well, actually, we already know that we have got the good support of New Zealand First and the Greens—we are going to get support from other minor parties like United Future and get it across the line anyway, which is why the Government might have rolled on it. I do not know. The Minister shakes her head; she may not know either. That might be a little bit cynical of me.</p><p class="Interjection"><strong>Jono Naylor</strong>: What clause of the bill is that? What clause of the bill is that in?</p><p class="ContinueSpeech"><strong>Hon DAVID PARKER</strong>: This is Supplementary Order Paper 62 that I am talking about.</p><p class="a">Having put that provision in there in the Supreme Court Act, you have got to consider what the effect of taking it out would be. Even if it was not necessary to put it in the Supreme Court Act—and arguably it was not; it was just stating what was the underlining position at law—its having been in there, for Parliament to withdraw it in this iteration could actually change the law. So even if the original provision was not necessary, to actually omit it from the replacement legislation for the Supreme Court and other courts below it in the hierarchy of courts would have meant that the law meant something different to what it meant before that provision was in there. That would in itself have created uncertainty that is best avoided.</p><p class="a">I agree that this provision is best sat in the Constitution Act, but, actually, it is the same effect whether it sits in the Constitution Act or in this Act. It is of the same legal effect, and it would be of the same legal effect to not have it—sorry, that is not quite good English. The effect of not having it would have had legal effect, whether it does not sit in the Constitution Act or it does not sit in this Act. It needs to be in one of these pieces of legislation. That is the most important issue, in my opinion, in this debate that we are having, because by and large, I think, the Justice and Electoral Committee has done a very good job on the rest of the legislation and has reached agreements that I can concur with.</p><p class="a">I will say one final thing: equity and good conscience jurisdiction is going up to $5,000 on the recommendation of the select committee, but not up to the full amount of the jurisdiction of the disputes tribunal, which has a jurisdiction of, I think, $15,000—it can be a bit more, if people agree. I agree that the select committee has got that right. There is rough justice in the disputes tribunal. It is rough at times. You have got limited rights of appeal. It has an equity and good conscience jurisdiction, which means it does not actually have to follow the law. Even its process protections are pretty thin, compared with traditional courts. The answer to people who have got serious legal problems lies in the courts, and I think we should be careful not to say: "Anything goes; we will just throw the dice up in the air and see where it lands on the basis of how someone feels on the day, on an equity and good conscience basis." We should actually make sure that our courts are accessible so that the rule of law can be applied rather than brushed over.</p><p class="a">With those comments, I will take my seat. I am so pleased—I really am so pleased—that Jacinda Ardern's Supplementary Order Paper, which I have also been advocating for, is going to be passed.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 11:03:48" ></a><strong>DENIS O</strong><strong>'</strong><strong>ROURKE (NZ First)</strong>: New Zealand First was going to vote against this bill at this stage despite this being a very much-needed piece of legislation and a long time in development. The two reasons were the compulsory retirement of judges provision and also the failure to reaffirm the principles concerning the rule of law and the sovereignty of Parliament. Now that we hear that that latter provision will now be reinserted into the bill, it makes it possible for New Zealand First to vote in favour of the bill. So I am pleased to be able to say that, because we do think that that matter—the reaffirmation of the principles concerning the rule of law and the sovereignty of Parliament—is extremely important, and I am glad to see, therefore, that they are going to be put back into the bill. </p><p class="a">Jacinda Ardern quoted from the speech of Sir John McGrath, and I just want to add one more quote to that, which I think sums it up very well. He said: "It means our nation's commitment to the principle that all persons and all bodies, whether public or private, must comply with the law and are entitled to exercise all rights that it gives them. Upholding this principle is the central role of the Courts." So that, for me, puts it in a nutshell—the central role of the courts. There is a lot more I would have said about that issue had the Government not indicated that it will support Supplementary Order Paper (SOP) 62, but now that it has, I can move on to the other issue I want to talk about, and that is that New Zealand First does not support clause 132 regarding the compulsory retirement of judges and, therefore, does support Supplementary Order Paper 61.</p><p class="a">There are a four reasons for this, and the first is it is actually ageism—clearly and unmistakably ageism. The Government should be ensuring that people who are capable and who wish to work beyond the age of 70 are given the opportunity to do so. Secondly, under the Human Rights Act, discrimination on the grounds of age is, in fact, unlawful. It is unlawful for employers, who may not contract for a fixed age for retirement age. If that is the principle there, then it should be the principle everywhere. Thirdly, it is an unnecessary provision. Few people carry on when they are actually unable to perform adequately, and even if they did, the Chief Judge could and should advise and counsel judges in that position, and the bill could just have said that instead. Fourthly, the age of 70 is not, in fact, so late in life these days for very many very able people that they are forced to retire at that age. In fact, when you think about it, the huge experience of judges who reach the age of 70 actually makes them extremely valuable, and their expertise should not be lost if they wish to carry on.</p><p class="a">New Zealand First believes very strongly in this. We oppose clause 132. We support SOP 61, and I call upon the Government to give that a little bit more thought, because it is actually not the right thing to do and it should agree with and adopt SOP 61. If it does not do so, that would not be sufficient in itself for us to vote against the bill as a whole, because it is a very important piece of legislation and one that has been a long time coming and is very much needed in this country. With those comments, I will leave it there, but I do hope that in addition to adopting SOP 62, the Government will reconsider and will now also adopt SOP 61.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 11:08:05" ></a><strong>PEENI HENARE (Labour—Tāmaki Makaurau)</strong>: Tēnā koe, Mr Chair. Thank you very much for this opportunity. I too want to express our gratitude and certainly our support for the acceptance of Supplementary Order Paper 62, introduced by the member Jacinda Ardern from this side. In my brief contribution at this point in time I do want to speak to some of the other Supplementary Order Papers (SOPs) that have been presented on the Judicature Modernisation Bill by our side of the House, certainly by my colleague Jacinda Ardern and, of course, Louisa Wall. I will speak to Supplementary Order Paper 202 briefly, because I know that the member here Louisa Wall will certainly elaborate a bit further, but it says: "In clause 192, after subsection (1) … insert: (1A) Before giving advice to the Governor-General under subsection (1) on the appointment of a Judge to the Māori Land Court, the Attorney-General must seek advice or recommendations from the Minister for Māori Development." </p><p class="a">Although some might say that is a convention that is already in place and that is what already takes place currently, we would like to see that it be put into this particular bill by way of this SOP to cement that process in place, to make sure that the person who is responsible for pushing through the current Te Ture Whenua Māori Bill, and, also, overseeing Te Ture Whenua Act, actually has a role to play in advising the Attorney-General, to make sure that, in the vein of Pūao Te Atatū, the services that are being given and those who are doing the service actually reflect the people whom they are serving. </p><p class="a">I know, with my experience through the Māori Land Court, that for many years before my time, in the time of my grandfather and in the time of my father, many of the judges who presented, while learned gentlemen and ladies, were challenged quite often around their cultural competence, if you like, in dealing with pretty touchy subjects around Te Ture Whenua, what whenua means to people, and, I guess, the court process in general, given the nature of the claims that were presented by the many people through Te Ture Whenua and through the Māori Land Court. </p><p class="a">So I think it is a good SOP. I think it is one that is necessary so that, like I say, that advice from the person who is on the ground, from the person who is speaking to those who are affected by legislation or by bills such as this, and, of course, Te Ture Whenua Act, are best reflected in the appointments made by the Attorney-General. </p><p class="a">I also want to speak to Supplementary Order Paper 63 from Jacinda Ardern, which states: "After clause 3(d) … insert … (e) enable important legal matters, including legal matters relating to the Treaty of Waitangi, to be resolved with an understanding of New Zealand conditions, history, and traditions." I think this is really important. Many of my constituents whom I deal with in Tāmaki Makaurau and also in my relations in Te Tai Tokerau often begrudge the fact that there are just not enough references to Te Tiriti o Waitangi throughout legislation—this particular piece, as well as many others. But this SOP looks to change that in clause 3 by "enabling important legal matters, including legal matters relating to the Treaty of Waitangi, …". </p><p class="a">What I also like with this is that it gives it context so that it can "be resolved with an understanding of New Zealand conditions, history, and traditions." I think that is a very good step forward. The ongoing debate around the Treaty of Waitangi and its place in our country—some would rather see it closed, and others want to have this debate continue. As we move forward as a country I think it is important that such an SOP be included in this particular bill to make sure that those voices and that dialogue can be heard around the Treaty of Waitangi.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 11:13:08" ></a><strong>LOUISA WALL (Labour—Manurewa)</strong>: Tēnā koe e Te Māngai o Te Whare. Thank you for the opportunity to speak on this Committee stage debate of the Judicature Modernisation Bill. I would like to congratulate the Minister of Justice and the select committee, because this is probably the biggest bill that I have ever seen come through the House. Although I am now on the Justice and Electoral Committee, I have played no part in coming to this point in the process, but I want to acknowledge those who have been here throughout this piece of legislation. </p><p class="a">My contribution, really, at this point in the proceedings, is to talk about my Supplementary Order Paper (SOP) 202. I am not quite sure whether or not it fits, but, hopefully, we will be able to figure out where it is best in terms of inclusion in this piece of legislation. I was motivated to write this SOP because the Judicature Modernisation Bill is about—and I will go to the purposes, set out in clause 3(a)—consolidating "in a single statute the provisions of the Judicature Act 1908 and the Supreme Court Act 2003; …", and under clause 3(b)(iii) it is about "judicial and other officers, including their—(A) selection; and (B) appointment and conditions; …". So I really want to focus on that, particularly in terms of the Māori Land Court, because, currently, Māori Land Court judges are appointed under section 7 of Te Ture Whenua Māori Act 1993.</p><p class="a">The Governor-General by warrant appoints "fit and proper persons". No reference in that piece of legislation is made as to who advises the Governor-General on the appointment. So from our perspective as a Labour Party, the "fit and proper person"—actually, that is fundamental to what my SOP is trying to address, because we believe that the person who can determine who is a fit and proper person to be a Māori Land Court judge is actually the Minister for Māori Development. I have included that in my SOP—and I will read it out: "To apply the generic provisions of appointment of Judges set out in this Bill would result in a failure to recognise the distinctive nature of the relationship between Māori land, Māori land owners, Māori Land Court and the Minister for Māori Development." So, essentially, we are trying to preserve in statute a convention that has been operating. We all know that convention is overridden by statute, so this seemed an opportune time to deal with this particular issue. I think the other point I wanted to make is that, yes, I realise that "advises" is hugely specific because, essentially, what it does say is that the Minister for Māori Development will select the Māori Land Court judges. </p><p class="a">I was also motivated to bring this Supplementary Order Paper to the House because I think there have been concerns from some of the submitters and some Māori Land Court judges, and I have had some feedback from one of the Māori Land Court judges. I was trying to figure out whether this SOP fits in this part of the legislation, because the heading of Part 2 is "District Court", Subpart 2 is about judges, and then clause 192 is about the appointment of judges. So there seems to be a need for clarity about whether this is the appropriate place in this bill for the SOP to fit. It all, then, stems from whether or not Māori Land Court judges hold District Court warrants, so I went on to the Ministry of Justice website. It is interesting. Under the title "Courts" it has got "Jury Service", "Going to court", "Civil", "Criminal". Then it talks about all the different branches, I thought, of District Court warrants, which are Youth Court, Family Court, coroner's court, Employment Court, Environment Court—and included in these is the Māori Land Court. So there does need to be a determination from the officials—and if I am wrong, I am wrong. </p><p class="a">What I have thought is that there is another part in this legislation, which is clause 568. Clause 568 references the amendment to Te Ture Whenua Māori Act 1993. So I am looking at another SOP, then, that will amend this particular part of the clause. I have not quite figured out where we are going to put it, but the convention that we want to put into statute, in my SOP, will now fit into here. I want to thank the Minister in the chair, the Hon Amy Adams, actually, for taking the time to converse with me this morning, and to highlight that we have possibly got things wrong—yeah, after netball training—because if that is the case, then I will withdraw the SOP that is on the Table and I will put to the House another SOP. </p><p class="a">I am really happy to do that, but what I hope is that behind my intentions people will see that what I am trying to do is actually about the mana of the role of the Minister for Māori Development and the mana of the role of our Māori Land Court judges. I did ring—well, Nanaia Mahuta did, actually, on my behalf—Judge Caren Fox this morning to ask about her warrant, but her particular warrant is for the Māori Land Court and the Environment Court. Having a convention written in statute—given the opportunity that this bill presents, because we are modernising the Judicature Modernisation Bill, to put into statute a convention that seems to be long-running and everybody is committed to—I just do not understand why there could possibly be any problem with it. </p><p class="a">I would also like to thank my colleagues from across the Chamber, because—I did this very quickly—I talked to Denis O'Rourke in the Chamber last night, and I know New Zealand First is supporting my Supplementary Order Paper. I also emailed it to David Clendon, and I want to thank him because he indicated that the Greens are going to support my Supplementary Order Paper. At the end of the day, I think that we all agree that that principle of the Minister for Māori Development appointing the Māori Land Court judges is incredibly important. So if there is an opportunity for that convention to now be part of statute, so that everybody knows and it is transparent, then I actually think that is a positive development. </p><p class="a">I just want to say that this is no slight upon anybody. I know that the generic aspects of this piece of legislation—again, I kind of intimated that the Attorney-General, by default, actually has a lot of power in this process, because they will be determining whom they advise that the Governor-General then gives a warrant to serve our country and our courts. It is no disrespect, so I hope that it is not taken in that vein, but what I wanted to do is to just consolidate, as I said before, the mana of the Minister for Māori Development, the mana of our Māori Land Court judges, the importance of our whenua, and the mana of our whenua and how it is administered. That was the intention behind my Supplementary Order Paper. As I said, if I have to withdraw what is currently on the Table and come back to the Committee with an amended Supplementary Order Paper, then I will do so. So the Minister might like to provide that clarity to the Committee, and then we can all move on with some, I guess, definitive direction about how we can address this particular issue. Kia ora tātou.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 11:21:39" ></a><strong>Hon TE URUROA FLAVELL (Minister for Māori Development)</strong>: Tēnā koe, Mr Assistant Speaker, kia ora tātau katoa. Ka mihi rā ki te āhuatanga o tēnei rā ātāahua, he rā hōu, ā, ka mutu, kai konei tātau ki te kōrero i ngā take o te wā. Kai te rongo ake ki te āhuatanga o te kōrero o taku tuahine a Louisa Wall, koinei au i hara mai ai ki Te Whare i tēnei rā ki te āta whakautu i ētahi o āna āwangawanga mō tēnei o ngā kaupapa.</p><p class="a">[<em>Thank you, Mr </em><em>Assistant</em><em> Speaker, and greetings to us all. I acknowledge the situation indeed about this beautiful day; it is a new one, and furthermore we are here to talk about matters of the moment. I hear the tenor of my sister colleague Louisa Wall's contribution, and that is why I came here to the House today: to make a considered response to some of her concerns to this proposal.</em>]</p><p class="a">I very much appreciate the sentiments provided by Louisa Wall, who got in touch with us to give us the view about this particular clause of the bill. I can tell her that this has been very much discussed with both the Minister of Justice and the Attorney-General, as we tried to line it up with Te Ture Whenua Māori legislation. So I stand here to give some responses to some of the queries that she has made. I acknowledge that they are well motivated, and that it is all about the best intentions of ensuring a part for the Minister for Māori Development, and indeed to place all of the Ministers in their right place. </p><p class="a">So let me offer some explanations to some of the issues that the member has raised. The member's Supplementary Order Paper 202 seeks to add a provision to clause 192 of the Judicature Modernisation Bill that is related to appointing Māori Land Court judges The first point to note is that clause 192 of this bill deals with the appointment of District Court judges; this has nothing to do with Māori Land Court judges. In the context of clause 192, the downside is that the Supplementary Order Paper (SOP) is basically meaningless. </p><p class="a">The Māori Land Court appointments are covered under clause 568 of the Judicature Modernisation Bill. If Supplementary Order Paper 202 were amended to refer to clause 568 it would still be meaningless, for the following reasons—I will try to outline those. The appointment of Māori Land Court judges is covered by section 7 of Te Ture Whenua Maori Act 1993, which says that judges are appointed by warrant by the Governor-General. There is no mention of any Minister. The equivalent provision in Te Ture Whenua Māori Bill is in clause 427, and is exactly the same as the current Act, namely that appointments are made by the Governor-General, and there is no mention of any Minister. </p><p class="a">Although not prescribed in legislation, the appointment of Māori Land Court judges by the Governor-General is made on the recommendation of a Minister, with the agreement of the Cabinet appointments and honours committee. The recommending Minister is always the Minister responsible for the department that administers Te Ture Whenua Maori Act. That department, now and in the future, will still be Te Puni Kōkiri. Ministerial responsibility for Te Puni Kōkiri is decided by the Prime Minister. It has always been the Minister of Māori Affairs and/or the Minister for Māori Development. </p><p class="a">Relating that back to the member's SOP, the SOP assumes the Judicature Modernisation Bill makes the Attorney-General the recommending Minister, and that is incorrect; it does not. If the Supplementary Order Paper—</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160824 11:25:10" ></a><strong>The CHAIRPERSON (Lindsay Tisch)</strong>: I am sorry to interrupt the honourable Minister. The time has come for me to report progress.</p><p class="IndentMarginalone">House resumed.</p><p class="IndentMarginalone">The Chairperson reported the Smoke-free Environments (Tobacco Standardised Packaging) Amendment Bill without amendment, and progress on the Judicature Modernisation Bill.</p><p class="IndentMarginalone">Report adopted.</p><p class="CentredEndingBold"><strong>The House adjourned at 11.26 a.m</strong>.</p><p class="a" ></p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

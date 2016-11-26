@@ -1,0 +1,806 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	General Debate - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_08" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_08/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>General Debate</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20160629_20160629_08/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_08" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_08/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_08/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_08/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_08/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_08/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Debatealone"><strong>GENERAL DEBATE</strong></p><p class="Speech"><a name="time_20160629 15:17:55" ></a><strong>METIRIA TUREI (Co-Leader—Green)</strong>: I move, <em>That the House take note of miscellaneous business</em>. This National Government is dozing and denying—dozing and denying. Look at them; they are, basically, asleep. Look at that; they are sleeping on the job—on the most important issues that face this nation. They are dozing and denying. This Government is asleep at the wheel, and what is it doing? It is driving families up against the wall—families who are living in cars, and kids who are sick in hospital with avoidable diseases. Waterways are polluted, and the economy is designed to make the rich richer, Mr Woodhouse. That is National. That is what National has made of our beautiful country, Aotearoa New Zealand. National members certainly talk big. There is no doubt that they talk big, but they do bugger all.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order!</p><p class="ContinueSpeech"><strong>METIRIA TUREI</strong>: They spin the facts—yes, Mr Speaker—they deny the reality of pollution, and they rehash old social policy because they have no new ideas. They turn their gaze away from the families who need them the most. It is shameful, short-sighted, and an indictment on the Prime Minister and all of those who are in his Cabinet.</p><p class="a">Far from governing for all New Zealanders, the Prime Minister and his Government are content to leave 150,000 children without the basics, but they need to live a decent life. This Government is content with 40 percent—40 percent—of New Zealand families sharing just 3 percent of the nation's wealth between them. It is satisfied with a rate of chronic lung infections in children that is at seven times—seven times—the OECD average. It is happy to leave 50 percent of Pasifika children living in overcrowded homes, and it is ignorant of the growing rate of homelessness that is infecting our country. So much for the brighter future that National promised New Zealand. This National Government is entrenching hardship and insecurity. It has policies that make children sick and leave New Zealanders living on the street. The Government is dozing and denying while ordinary New Zealanders suffer the effects. Those members so not suffer the effects; they are part of the top 10 percent, who are doing quite well under this Government. The rest of New Zealand are the ones who are suffering.</p><p class="a">We heard today, of course, from the Parliamentary Commissioner for the Environment. We heard in her scathing report her criticism of the Government over the health of our environment. She has rightly criticised the Government for not providing New Zealanders with real information about how our natural environment is doing. National repeatedly cut funding to conservation, and that means we are losing the fight to protect the kea, the kiwi, and the pekapeka, and all of those natural environments and native species—iconic native wildlife, the birds, the bush, the rivers, and all of these things that are our children's birthright. National is squandering our children's birthright. National has shown that it is far more interested in spinning stories about New Zealand's clean, green image rather than facing up to the reality of unswimmable rivers, declining native bird populations, and the major effects of climate change, which are hurting farmers, hurting our communities, and concerning coastal communities.</p><p class="a">This Government is out of touch, uncaring, dozing, and denying. We must create a more equal, inclusive society in this country. Protecting our environment is fundamental to our future, and that is why we must change the Government. New Zealand deserves a Prime Minister and a Government that will build homes for New Zealand families, cut climate emissions, protect our environment, and end child poverty in this country. New Zealanders are compassionate, responsible, and trustworthy, and New Zealanders deserve a Government that is the same. We will change the Government, and the Green Party intends to deliver that new Government to this country. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 15:22:37" ></a><strong>Hon MAGGIE BARRY (Minister for Seniors)</strong>: Having heard from "Ms Denial" and "Mr Dozy", who are the co-leaders of the Green Party, and looking at the intellectual lack of rigour and the absolute paucity of policies from Labour, the Greens, and the other malcontents, I feel certain that they will be destined to occupy the Opposition benches for a long time to come. But rather than dwell on their inadequacies—because that would take far more time than this House has at its disposal—I intend, instead, to focus in my call today on the excellent leadership and policies that John Key and this National-led Government have delivered to New Zealand.</p><p class="a">Here on the National benches, we are all united behind our leader, unlike Labour over there with—what is it—five leaders in the past 8 years; so far, anyway. Across the Tasman, they have had six Prime Ministers, and will possibly have a seventh after this weekend. We really need to understand that strong leadership is at the heart of the stability of any Government. Many countries with far less political stability and poorly performing economies really are struggling to deal with the horrible situations that unfold internationally. Really, global economic uncertainty now seems to be the new normal, whether it is Brexit, the outlook for growth in China, interest rates in the United States, dairy price fluctuations, or even the act of terrorism that unfolded in Turkey today. Things happen internationally; Governments and leadership need to be flexible and need to be able to understand what they need to do to put things right.</p><p class="a">The lessons that I think New Zealand learnt from the 1973 experience when Britain entered the European Economic Community are ones that still apply today as that country prepares to depart it. We actually have a situation in New Zealand where we know and understand that you cannot just put all your eggs in one basket and trade with only one nation. It is also important to understand that we will not get rich just from selling to ourselves, a market of 4 million people. New Zealand, under John Key and this National Government, understands that very well, and we are a far more diversified export economy than we were in the past. National's focus is very much on making New Zealand an open, diversified trading nation, which means we are better equipped to deal with the global risks that are beyond our control. So although our relationship with the United Kingdom remains important, we now have a much more diverse range of trading partners. Australia and China take more of our exports than the European Union. Countries in the Asia-Pacific region make up our most valuable trading partners. These are the realities.</p><p class="a">In the past 8 years this John Key - led National Government has worked hard to build a resilient economy, and we now have a very strong, broad foundation for future growth. When we look at tourism, for example, it has now overtaken dairy with export earnings worth more than $13.5 billion. Our books are back in the black. Treasury is forecasting rising surpluses and falling Crown debt. Our economy is expected to grow at around 3 percent on average over the next few years, and wages are continuing to rise. That is the thing that is going to make the difference to New Zealand families and to the New Zealand quality of life. When we look at the situation that we have improved on in the past 3 years, there are more than 200,000 more jobs. By 2020 the unemployment rate in New Zealand is predicted to drop to about 4.6 percent, with another 170,000 jobs, and the average wage is forecast to rise to $63,000—that is per year, and that is more than $16,000 more than was the case with the average wage when we took power.</p><p class="a">As the Minister for Seniors, I would say I am very proud indeed of the fact that New Zealand superannuation has increased again, in April—it went up with the Budget. Overall, that means that in the past 8 years it has gone up 38 percent, and that is more than double the rate of consumer price inflation over the period. The weekly rate for a married couple on superannuation stands at $591.94 net a week. That is tangible, and those are the kinds of things that make a huge difference to the quality of people's lives.</p><p class="a">Our strong economy puts us in very good shape indeed to deal with the global uncertainty. Our total exports have increased—by almost $2 billion, in fact, last year, and that was on the back of solid performances from tourism, as I said, the beef sector as well, ICT, wine, and much of the manufacturing sector. Crisis—what crisis? The Opposition benches are wrong again around all of that. The international uncertainty has, in fact, brought out the best in New Zealanders—the resilience of New Zealand exporters who were forced to become very, very strong, and they have done that. Since 2008 we have grown, and we are equipped—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! The member's time has expired.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 15:27:48" ></a><strong>JACINDA ARDERN (Labour)</strong>: It is hard not to feel like the world is in political turmoil at present—Brexit, and the rise in right-wing, extreme movements that I would describe as forms of fundamentalism, and I would include in that the rhetoric and the apparent popularity of Donald Trump in the United States. We are seeing a rallying cry that is, ultimately, born out of fear and is born out of anger, that has been fed half-truths and misinformation, and we should all be concerned about that. But none of us, even in this New Zealand Parliament, despite all of the differences between us and those other global counterparts, can afford to be complacent, particularly when you ask the question: "Where did all of this come from?". Where did all of this international uncertainty—dissatisfaction—come from?</p><p class="a">Well, in New Zealand, it will come from here—it will come from this graph. This crude graph is a representation of almost anything we need to know about what is wrong with New Zealand right now. It is a representation of the inequality that exists here in New Zealand. These are the numbers that were released by Statistics New Zealand just this week. They show what many of us in this House already know, but what the Minister of Finance today, right here, denied was even a problem.</p><p class="Interjection"><strong>Hon Maurice Williamson</strong>: What, that high-income people pay a lot more tax?</p><p class="ContinueSpeech"><strong>JACINDA ARDERN</strong>: It shows, Maurice Williamson, that 10 percent of the population in New Zealand owns 60 percent of the wealth—10 percent of the population in New Zealand owns 60 percent of the wealth. In contrast, the bottom 20 percent in New Zealand owe—they owe—more than what they own. And as far as distribution goes, if you want to put the final nail in the coffin for inequality in New Zealand, 40 percent of New Zealanders have 3 percent of the wealth—the bottom 40, of course.</p><p class="a">I fear that "inequality" gets bounced around as a turn of phrase. It is used in political rhetoric, and it can sometimes lose its meaning. But behind those figures, behind that graph, sit people who, ultimately, have lost their hope. My point is that what we are seeing internationally absolutely has the ability to happen here in some other form—has absolutely the ability to rise up and be fed by political misinformation if the wrong lightning rod is given as to what the answer is to the questions: "How do we make change? How do we bring back that egalitarian society?". The fact that this has even occurred in New Zealand is a marker of political failure. It is a failure to provide job security and decent wages. This is a result of a low-wage economy. It is a failure to provide secure, decent, affordable housing. This is the result of a Government that does not believe in State housing—does not believe that that is a fundamental human right. It is a failure to provide decent, free, accessible education, or at least just a place where you are able to afford to bring up your family off the back of a 40-hour-a-week job. These were all, at one time, fundamentals of New Zealand society.</p><p class="a">But I do want to offer a message of hope. There is a reason New Zealand does not have to experience the political turmoil of other countries. And that is because we do have the ability—through politics, through what often seems like this ugly beast—to make change. Let me give you an example. Child poverty in New Zealand is disgraceful: 305,000 children living in poverty. There have been two times in New Zealand's history when we have seen dramatic changes in those numbers. One was in the 1990s, when child poverty spiked horrifically, because the Government brought in a black Budget. The second time was when child poverty started to decline in New Zealand, and it was when Labour brought in Working for Families. Those two examples demonstrate that politics and policies and ideas matter. They make a difference for good or for evil, depending on what you choose. </p><p class="a">The fact that we in this Parliament have the power to make change is a powerful tool. We should use it to give New Zealanders hope. We should use it to say to the next generation of voters and New Zealanders that, actually, some of those values that we in this Labour Party consider so dear—the fundamental idea of Norman Kirk that all anyone ever needs is something to do, somewhere to live, someone to love, and something to hope for rings as true today as it did then. And we should convince the members of the public that, in this place, we can use that power for good and turn this round.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 15:33:01" ></a><strong>Hon NICKY WAGNER (Minister of Customs)</strong>: New Zealand is a stable, well-functioning, democratic country, with one of the longest continuing parliamentary processes in the world. We are consistently ranked as one of the most peaceful and one of the least corrupt countries in the world. I think we should be very proud of that. It means that we are not quick to anger, we are reasonable and rational in our thinking—most of the time—we respect the opinions of others, we respect the rule of law, and we respect our democratic history. We are an exception in this modern world. </p><p class="a">So let us just reflect on the past decade. Internationally there has been a series of traumatic events: wars, uprisings, terror attacks, and, of course, the global financial crisis. All of these things have created huge disruption, huge uncertainty, and misery for many, many people around the world. And New Zealand has had its fair share of challenges during that time. We have had the Canterbury earthquakes, we have had the Pike River disaster, we have had the <em>Rena</em> wreck, and of course we too suffered from the global financial crisis. But I think we have managed to come together, we have managed to work hard together, and we have managed to get over those difficult events as well as possible. </p><p class="a">The New Zealand economy was in recession in 2008, and it was later hit by the global financial crisis. A large spending increase by the Labour Government in the 2000s proved to be unaffordable when our revenues fell. If we look at the projections for the Budget of 2009, it showed that if the National Government had continued and maintained that lavish spending we would have faced never-ending deficits, and net debt would have exceeded 60 percent of GDP in the early 2020s. We would have had no buffer to manage international uncertainty. </p><p class="a">The Government's plan throughout the global financial crisis was to invest to support the economy. It was an approach that cushioned New Zealanders and their families from the worst effects of that recession, and we have worked hard to get on top of spending and to deliver better public services within tight financial constraints. We focused on getting better value for taxpayers' money, and particularly supporting our vulnerable people. We even managed to increase benefits for the first time in 43 years. </p><p class="a">National remains focused on managing the Government's finances responsibly and sensibly. We continue to pay down debt. We are building a more productive, more competitive, and more resilient economy. But the rest of the world is not as prudent, nor as stable. The world is full of political unrest. During the time that John Key has been our Prime Minister, Australia has gone through four Prime Ministers, and one of them was a retread. Canada has moved from a Conservative Government to a high-spending Liberal Government. The US has moved from Republican to Democrat, and we now have the Hillary and Donald show. Some people are calling that "Trumpsit", because it could be equally as disruptive as Brexit and equally as dangerous to us and the rest of the world. </p><p class="a">But New Zealand maintains a stable, strong, consistent, fiscally responsible National-led Government, and we are being rewarded by solid economic growth. The latest GDP data shows New Zealand's annual growth rate is 2.8 percent, which is in the top 10 of the OECD. I think it is important that we understand that being a stable, predictable democracy with a resilient and an inclusive population gives us a huge advantage on the global stage. We have done well, under the leadership of John Key and Bill English. We are in good shape to face an increasingly uncertain world. I am proud to be a New Zealander and proud of our track record. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 15:37:16" ></a><strong>Su'a WILLIAM SIO (Labour—Māngere)</strong>: Nothing of what the Minister of Customs or her colleagues said means anything to the people and families who are struggling today. Nothing of what they have said in this House today is going to help an elderly couple—75 and 70 years old—who saw me on Monday, who are going to be evicted by Housing New Zealand and have been given 90 days' notice without any support for other accommodation. Nothing of what that Minister or any of her colleagues said is going to help the growing number of people who are living in homeless situations, who are forced to live in a car. </p><p class="a">I think it is time that we evaluate this Government, and seriously evaluate it, because when it came into power 8 years ago—and next year marks its third term—it promised a brighter future for all New Zealander, did it not?</p><p class="Interjection"><strong>Hon Member</strong>: For all New Zealanders.</p><p class="ContinueSpeech"><strong>Su'a WILLIAM SIO</strong>: For all New Zealanders. It promised a brighter future for all New Zealanders. Let me ask the Government: why is it that Te Puea Marae is taking on people during the winter season? Why is that? Why is it that ordinary families who have never had to protest before are protesting in Park up for homes Māngere? Why is it that they are protesting in Māngere? Why is it that they are protesting in Ōtara? Why is it that on Saturday they protested here in Wellington? It is because they are not receiving the brighter future that this Government promised. We now have 42,000 people living in the pre-housing situation. That means that they are living in garages or cars. That does not include the thousands of people who are living in emergency homes. Those people are not receiving the brighter future. Garages were built for vehicles, not for families with children. Cars are a mode of transportation, not for people to live in. Those people are not receiving the brighter future that this Government promised them. </p><p class="a">I have here a report released yesterday by the department of statistics, which, I have to say—</p><p class="Interjection"><strong>Hon Annette King</strong>: Shall we believe them?</p><p class="ContinueSpeech"><strong>Su'a WILLIAM SIO</strong>: Well, this is the Government ministry that we charge, as a Parliament, to provide quality information for this House in order for us to make decisions. I feel like grabbing the Minister by the neck, in a theoretical way, and saying to him: "Look at this report. Look at this report and what it says."</p><p class="Interjection"><strong>Pita Paraone</strong>: Control yourself.</p><p class="ContinueSpeech"><strong>Su'a WILLIAM SIO</strong>: I am trying to control myself—because, as my colleague Jacinda Ardern said, 10 percent of New Zealanders are controlling 60 percent of the wealth.</p><p class="Interjection"><strong>Pita Paraone</strong>: How much?</p><p class="ContinueSpeech"><strong>Su'a WILLIAM SIO</strong>: Ten percent of New Zealanders are controlling 60 percent of the wealth. Furthermore, if you look at this report you will see that the median wealth of a European family is $114,000—$114,000. But then we look underneath that and we see that for the Asian population, it is $33,000. That is the median wealth. For the Māori population, it is $23,000. For the Pasifika population, it is $12,000—$12,000—which is nine times lower than the European population is receiving. </p><p class="a">I am not downing the European population. I think it is important, because it is not us and them; it is about what that Government promised. Every New Zealander should have a brighter future. That is not what we have received in the last 8 years, and I said today to the group of students who came from Southern Cross Campus that the consequence of what is happening here and what is happening to our communities—high unemployment, low incomes, unaffordable housing—is a direct consequence of this Government's policy, and that the only way that we can change this is to change the Government. That is the message. </p><p class="a">That is the message that I am saying to all of our young people, because the only way that we can truly have a brighter future is when this lot are no longer in power, no longer in control of policy, because the inequality that we now face today is a direct consequence of everything that they have done. They are not here for the rest of New Zealanders; they are here only for their friends and mates—that top 10 percent. I say to this Government here: "Get ready to leave because if you do not change policy now to address the inequality, we are going to get rid of you in 2017."</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 15:42:31" ></a><strong>Dr KENNEDY GRAHAM (Green)</strong>: Last week the Ombudsman released his review of the Rebstock inquiry. He concluded that the inquiry contained numerous flaws. He has made four recommendations to the State Services Commission: a public apology to the diplomat criticised in the report, reimbursement for his expenses, compensation for damage to his reputation, and a review of the legislative guidance for future inquiries. It is just as well we once thought fit to emulate the Nordic model of Government in setting up the Ombudsman's office, so that the corrosion of public standards of this kind can be halted and, hopefully, reversed.</p><p class="a">The Rebstock review of 2013 was an example of the politicisation of New Zealand's public system. I am not sure which is worse: the Henry report or the Rebstock report. One was referred to the Privileges Committee; one to the Ombudsman. Both revealed a hubris on the part of those close to Government. Both have been subjected to criticism and remediation. But the criticism in this case does not stop at the vindictiveness of the author and the truculence of the State Services Commissioner; it extends to ministerial cynicism and spin.</p><p class="a">Yesterday the current Minister of State Services offered her view. "If you read [the report] carefully," she thought, "what it says is that there were certainly some procedural matters that we should be learning from and that shouldn't have happened in that way. But I actually think there's been a misinterpretation of the report itself, in that it's saying it made allegations against people that shouldn't have been made, and that's certainly not the way I read it." I invite the Minister to have a more thorough read. The conclusions of the Ombudsman's report, on page 3, are these: the Rebstock inquiry's finding exceeded its terms of reference, the diplomat criticised in the report was not treated fairly in terms of natural justice, the manner in which the evidence was portrayed was skewed, the manner in which the diplomat's actions had been addressed was disproportionate, and the publication of the final report was unjust. Specifically, Minister, read paragraphs 166 to 186 and 192 to 197.</p><p class="a">Last week the Prime Minister viewed things from his end-of-the-day position of personal comfort. Paula Rebstock "made one mistake," he said. "Clearly people need to take some learnings from it, but I don't think it's terminal in terms of her capacity to work for the government." It may indeed not be terminal for her capacity to work for this Government. That is the political concern. This Government has hoisted "New Zealand Inc." to the top of its flagpole. It has strengthened the role of the executive in relationship to the legislature. It has allowed political interests to intrude into the Public Service. It has thrown a business model at the Ministry of Foreign Affairs and Trade. It has vilified, sought to crucify, two top diplomats of unimpeachable integrity.</p><p class="a">The first half of my career was in the Ministry of Foreign Affairs. The thought of applying a business model to the professional diplomatic method that prevailed in the institution back then would have drawn incredulity and revulsion, and it should do so today. I knew—still know—the two diplomats who have, with their families, been to hell and back as a result of the work of Paula Rebstock and Iain Rennie at the behest of this Government. There are no finer people, no finer New Zealanders, than Derek Leask and Nigel Fyfe.</p><p class="a">What can we glean from this sorry affair that might improve our system of governance? Once the apology, the reimbursement, and the compensation are taken care of, we shall all need to focus on the fourth recommendation: a review of the guidance contained in the State Sector Act for future such inquiries. In the name of natural justice and good governance, we cannot allow this kind of thing to occur again.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 15:47:21" ></a><strong>Rt Hon WINSTON PETERS (Leader—NZ First)</strong>: Today we expose fraud involving our largest meat exporter, Silver Fern Farms. What happened at Silver Fern Farms is a disgrace because it involves unlawful covert behaviour and corruption, and the regulators—the so-called new sheriffs in town—are again failing to do their job. I have faced that sort of behaviour from officialdom in the past. They did not succeed back then and they will not succeed now. </p><p class="a">We have an incompetent Financial Markets Authority (FMA), which finds no fault with Silver Fern Farms' information package to shareholders recommending they sell majority ownership or face receivership or liquidation, when it contained outright lies—the profits were understated by 84 percent and the debt overstated by 24 percent. This is from a management lying to its ownership. How do we know that? The information given to the Chinese buyer was four times more substantial, and for a 4-year period, not a 1-year period. The information package for the Chinese utterly contradicts information given to the New Zealand farmer shareholders. The FMA and the Companies Office, with the Chinese buyer information available but apparently unread by them, find no sin in this sort of behaviour. </p><p class="a">To summate, on 16 October 2015 the shareholders voted on a set of lies, which were revealed 24 days later when the annual results of the company became known. They had been given a totally false financial picture. Every chief executive officer (CEO) reads the monthly accounts, and every director sees the monthly management accounts. Yet Dean Hamilton, its claimed CEO, repeatedly lied to the media. He lied to journalist Allan Barber in early June when he said that an Overseas Investment Office decision before 30 June was an extremely serious event because Silver Fern Farms' banking facilities would lapse. Two days ago, on <em>The Country</em> show, he said that 30 June was "not a problem". He is a serial deceiver. Three weeks ago it was extremely serious; this week it is not. </p><p class="a">The Silver Fern Farms board is either utterly incompetent or totally corrupt, with the number of people with their nose in the trough. I am asking the management and board these questions. Is CEO Dean Hamilton an employee, or a contractor billing Silver Ferns Farms over $100,000 a month? Is it true that Goldman Sachs, arranging the deal with Shanghai Maling, received $695,000 a month? The Companies Office and the FMA tell us that there is no wrong, and Silver Fern Farms CEO Dean Hamilton says they have been vindicated. Well, that is what Fay Richwhite said back then, but when we got behind the charade, we know what happened after that. </p><p class="a">We in this country do not like corporate troughers and lazy, expensive bureaucrats protecting the establishment. So today we are exposing a racket at Silver Fern Farms for the bureaucrats to suck on. In 2009 Silver Fern Farms let a transport contract to a company called Livestock Logistics without a tender process. It was worth tens of millions of dollars. Livestock Logistics does not own trucks. Its challenge is to increase optimisation. In short, it is a ticket-clipping middleman. So why was there no written contract between Silver Fern Farms and Livestock Logistics? Well, I have got proof, which I want to table today, that Ernst and Young, seeking to see the contract, could not find a written contract. </p><p class="a">It gets worse. Up until 15 September, the very day that the board recommended selling to the Chinese, one man, Brian William Bourke, held 100 percent of the shares in Livestock Logistics. The other director was none other than Silver Fern Farms' chief operating officer, Kevin Winders. These two go back to the PGG Wrightson days. Only in New Zealand can you stuff up one merger and land a far better job. For farmers, their transport costs have gone up by over $16 million since 2007-08 to $66.6 million in 2015. There have been a million fewer lambs in 7 years, yet farmer transport costs increased by over 40 percent. This is not an honest transaction—from the same directors who failed to tell the shareholders the truth, and a management who had their fingers in the till. </p><p class="a">There is more to come in the following weeks, but we are calling for an inquiry into Silver Fern Farms and Government agencies that have failed to protect small shareholders and, worse, set out to defraud them. Mr Barclay decided to call and try to get a meeting with Mr Hamilton. He was denied. All he got was a phone call. So over there is a backbench member who knows exactly what I am saying, because he was expressing concern about the interest of the shareholders. He got fobbed off, and he has not raised a finger in this House. That is a disgrace. </p><p class="a">My warning to Silver Fern Farms management and its board members is that if you think you are going to get away with this, then look out for the court case that is coming, for further exposures over the next few weeks. You are not going to lie to New Zealand farmers and New Zealand workers and get away with it. The National Party might allow that—the National Party might be provincial New Zealand - based, and it has not raised a finger—but we are going to raise the roof until we get at the truth.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 15:52:29" ></a><strong>SIMON O'CONNOR (National—Tāmaki)</strong>: I was listening to the television last night, actually. It was a debate of Nigel—</p><p class="Intervention"><strong>Rt Hon Winston Peters</strong>: I apologise. I seek leave to table the Ernst and Young report that sets out that it could not find the written contract it was seeking.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I need the date of the report and I need to be assured that it is not readily available to the members.</p><p class="Interjection"><strong>Rt Hon Winston Peters</strong>: No, it is not readily available—it is most certainly not. This is from 10 November 2015. Here it is here.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Leave is sought to table that Ernst and Young report, dated 10 November 2015. Is there any objection to it being tabled? There is none. It can be tabled.</p><p class="IndentMarginalone">Document, by leave, laid on the Table of the House.</p><p class="ContinueSpeech"><strong>SIMON O'CONNOR</strong>: I was going to have a crack at the member but because he apologised, which is quite unusual, I am actually going to be ultra-nice today and not have a crack at the United Kingdom Independence Party—I mean, New Zealand First. </p><p class="a">Over the last few days anyone who is interested in politics, one way or another, has been talking about Brexit. Of course I have certainly found, as I have gone around the electorate, that although people are always interested in what the Government is doing, actually there has been a lot of conversation with me around Britain's decision to leave the EU. I am not going to opine on that for two reasons. Firstly, I do not think my particular opinion on staying or leaving is all that relevant. Secondly, it is something that is already done. </p><p class="a">But I thought that one of the things I wanted to actually touch on—and it will be somewhat academic, I'm afraid—is really what I think is one of the more disturbing aspects that has come out of the particular debate and how it reflects towards New Zealand and other countries, and that is, really, the changing public view of experts. Why I say that is that if you look at what was occurring around the debate in the United Kingdom, the views of experts were largely ignored. In fact, the debates took on a bit of an edge of deciding it was a wonderful thing to deliberately ignore experts. Why I raise this is because there is actually a bit of a disturbing rise, I would suggest to this House, in popularism. Often there are people on both sides of the House who will talk around what we see around the likes of the Nigel Farages, what we see in terms of, particularly, the likes of Donald Trump in the United States, and of those in other countries. What we see is that popularism is gaining a toehold—a foothold, if you want—and, again, expert opinions are being snubbed. </p><p class="a">I think, unfortunately—I apologise if this is somewhat academic, but it is something I need to get off my chest—it is, ultimately, a dumbing down of the debate. It is an ignoring of the facts and a rejecting of study and experience. You hear—as we did through the Brexit debates and as we have seen in the American presidential election and across other countries, and, indeed, we hear it here at times—that simply being an expert is dismissed, and all it is going to be is an appeal to a sort of popular opinion, as if that in itself is of great value. This concerns me greatly. There is also a sort of sense that because someone has feelings about a topic that that is somehow important. </p><p class="a">It may betray my philosophical background and training, but, actually, just feeling something is not enough. In fact, I was talking to a bunch of young students on Monday and I pointed out to them, as I am repeating here, that what you feel is largely irrelevant unless you can explain it reasonably. But the problem with this populist politics by Donald Trump and others is that somehow feelings are more important or that if someone has an opinion, then somehow that opinion is automatically and must always be valuable. I think that to some people in New Zealand in particular, again, simply having an opinion does not make it valid; it has to be tried and tested. I suppose I am suggesting that even though experts are not always right, we need to actually base our decision making on expertise and critique that accordingly, rather than on ideology or emotion—or, in fact, as we have seen, I think, through the UK, on spite. </p><p class="a">So I just want to point out too that it is ironic in an age when we do have so much information—so much information—and in no way, therefore, could we ever know everything, that we are therefore less prepared to listen to experts. I think I actually want to turn to New Zealand as an example and what you see in some of the political discourse, often from smaller parties.</p><p class="Interjection"><strong>Fletcher Tabuteau</strong>: TPP, for example.</p><p class="ContinueSpeech"><strong>SIMON O'CONNOR</strong>: Actually, the Trans-Pacific Partnership is a really good example of listening to experts and not popularism and, really importantly too, engaging. But the long and the short, take the science of climate change. Quite rightly, the Greens and others will point out that the majority of scientists agree that we have issues with climate change. We should—and rightly—listen to the experts. But the paradox develops, and why I talk about opinion and popularism is actually that scientists are also quite definitive around things like genetic engineering—I wonder whether Steffan Browning is here to hear that. Genetic engineering, Steffan—scientists are really clear on that. Scientists are really clear on fluoridation. Scientists are incredibly clear on immunisation. And, yet, opinion, feelings, populist sentiment oppose these things. I suppose—not only as a constituency MP, a person of my own training and background, but also as the chair of the Health Committee—I think it is really important that we engage with experts and not necessarily follow the lead that we have seen in America, the UK, and elsewhere.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 15:58:02" ></a><strong>MATT DOOCEY (National—Waimakariri)</strong>: It is a pleasure to rise and take a call in this general debate. Can I first start by acknowledging a great achievement in my electorate—Karanga Mai Young Parents' College and Early Learning Centre. Recently, a few weeks ago in Auckland, I was fortunate to be there, in attendance, at the Prime Minister's Education Excellence Awards, where it won the Education Focus 2016 Prize. So well done to that school—well done to the students and well done to the teachers. Let us not forget that it would be only a few years ago that with teen parents we would have put them on a benefit and just sent them on their way. Now they are engaging in flexible, 21st century education systems, so that they can go on and be productive members of New Zealand's society, and, of course, their kids can go on and be productive members of the community as well. That school—Karanga Mai—is based in Kaiapoi High School. What is significant there is that Kaiapoi, a town in my electorate, was very hard hit in the first earthquakes. We call them the Christchurch earthquakes, but, of course, they are the Canterbury earthquakes. In the first earthquake in September 2010, Kaiapoi lost about a thousand residential houses; the whole town centre was decimated. So what a great achievement for that community to celebrate.</p><p class="a">We had the Prime Minister come in recently to open the new Enterprise North Canterbury building in Kaiapoi. He is a proud born and bred Cantabrian who loves coming down and checking in to Canterbury on the rebuild. That new building is a key anchor project for that town's recovery, and now they have another achievement to celebrate with Karanga Mai Young Parents College and Early Learning Centre winning at the Prime Minister's Education Excellence Awards. On this side of the House, this Government knows that we need to support education, and we need to get our young people educated for a globalised world, because our educated young people will be navigating their way in a globalised world, competing for jobs, competing for incomes, and competing for investment.</p><p class="a">I just want to take a moment—it is the first time that I have spoken since the Budget. I just want to acknowledge the support Waimakariri schools got in the Budget. We are the third-fastest growing electorate, the third-biggest district by population in the South Island now—just taken over from Invercargill. We have received some great investment into our schools. When I look at the schools lined up for classrooms: Oxford Area School, Rangiora High School, Kaiapoi High School, Rangiora Borough School, Southbrook School, Ashgrove School, Swannanoa School, Kaiapoi North School, and Kaiapoi Borough School that is great news for those students, great news for those parents, and great news for the teachers, and education in the Waimakariri.</p><p class="a">What we know is that the world is a competitive place. In a globalised system countries compete and develop their economies. We know New Zealand is a fantastic place. New Zealanders are voting with their feet; a lot of New Zealanders are staying, and there are a lot of Kiwis coming home. But let us not forget there will be thousands of Kiwis every year, this year and next year, who will be going off on that great Kiwi tradition, the OE. A lot of our young people will head off on their OEs, they will base themselves in London, Europe, and further afield. With all their travelling they will travel to various countries. They will understand and gain their world view that in a globalised world some countries choose to be competitive and through a developed economy they improve the well-being of their people, they protect their economy—and some countries are not competitive. It is as stark as that; it is a choice.</p><p class="a">It is great to be in a country that has a strong and stable economy, a strong and stable Government—and it is a strong and stable Government to charter through a global world where there are a lot of uncertainties at this time, whether that be economic uncertainties, political uncertainties, or a range of security concerns. What we know when we look at the track record of this Government going forward—GDP growth rate at 3 percent, the envy of other OECD countries—is that it is to do with the hard-working Kiwis getting up early and working hard for this country. This Government is backing hard-working Kiwis: 200,000 jobs created in the last 3 years, another 170,000 jobs forecast for the next 3 years; that is because we are backing New Zealand businesses on a domestic and international stage. We are backing them to spend an extra dollar and to employ an extra staff member. What we are doing is returning the books back to surplus and paying off debt. In a complex, globalised world we need security, stability, and strength, and that is what this Government provides.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:03:17" ></a><strong>RINO TIRIKATENE (Labour—Te Tai Tonga)</strong>: I would like to draw the House's attention to something I have spotted on TradeMe. There is a moral compass, formerly owned by National, up for auction. It is in perfect working order because it has never been used. That is what we have got from this National Government—its internal compass is locked on the 10 percent. It is locked on the well-to-do and those at the top, and that is where it is stuck, and that is where it has stayed for the last 8 years. How do we have proof of that? Well, look at the appalling figures around the rising inequality that our country has these days. It is absolutely appalling. Ten percent of the population control 60 percent of the country's wealth. That is absolutely appalling. The bottom 40 percent have 3 percent of the country's wealth. </p><p class="a">Those are really sobering figures, so I would just like to call on John Key and his pantomime characters in National to take a bow. Take a bow—take a bow for making 10 percent of the population control 60 percent of our wealth. Why do they not take another bow at this: once upon a time New Zealand was one of the most egalitarian countries in the world, and now we are famous—what for? For inequality. So I say: "Take a bow, members of the National Government." They are a bunch of poor actors, led by the chief of the cast John Key. They are very poor actors. </p><p class="a">How can Kiwis expect equality from such an unbalanced group of politicians? It is the Government of smoke and mirrors, and its Ministers are well known for telling half-truths—they are well known for it. Look who we saw today—Maggie Barry. I call her "Poison Ivy"—much like the 1080 that she is sprinkling on all of our lands down in the deep south, to protect our birds. That is right; she is "Poison Ivy". There she is, there she is—"Poison Ivy". Let us go into the Disney comparison. I would call her the evil queen, the wicked queen from <em>Snow White</em><em> and the Seven Dwarfs</em>. That is right. This is the cast of Disney characters that make up this National Government. </p><p class="a">Who do we have next? Dear old Nicky Wagner. What Disney movie would she come out of? I would say she is Cruella de Vil from <em>101 Dalmatians</em>. It is a very appropriate characterisation for that very poor Minister. If this National Government was a Disney film, what would it be? It would be <em>Pinocchio</em>. It would be <em>Pinocchio</em> because all of the half-truths that are coming—and the untruths—from its very poor Ministers. Or maybe it could be the new one—maybe it could be "<em>Finding Tory</em>". That is right, that is the new Disney movie for this poor cast of poor pantomime characters from this atrocious National Government—absolutely. </p><p class="a">Those members can continue to take a bow, because what are we seeing? We see, and I think, in all seriousness, that when New Zealanders sit down to watch the 6 o'clock news they are getting sick of watching the stories of whānau sleeping in cars and being crammed in garages. They are sick of seeing whānau in homeless situations. That has all happened under this Government's watch in the past 8 years. So take a bow for that—take a bow for what you have caused for all of those whānau out there. </p><p class="a">The overseas experience that we are seeing is that people are rising up around the world. We have seen it with Brexit. People are marching in the streets. They are revolting against inequality—social and income related. I will just say "Kia mataara! Watch out!" to this Government because it is time to go. It is time to go, and I know the perfect way to do it. The way to do that—[<em>Interruption</em>] I would visit a beautiful place on the Māhia Peninsula called Tawapata. Go there, you have set up Rocket Lab and that is the perfect way for you to absolutely blast off and get out of Government; get out of running this country. New Zealand needs a change. We need a change. We need to get rid of this cast.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:08:35" ></a><strong>MAUREEN PUGH (National)</strong>: It is my pleasure to stand and rise and follow "Noddy" and his diatribe. Amidst the growing economic global uncertainty around the world, this is a fantastic time to be a Kiwi. While most of our friends in the UK and in Europe face uncertain times, we here can take comfort in the fact that the innovation, passion, and creativity of Kiwis is driving the economic prosperity of this country. One of the key focuses of this National Government is to grow the economy, and we do this well because we have the stewardship of the world's best Minister of Finance, Bill English. Managing the finances of the country is not unlike managing the budget in your own household: the more income you earn, the more things that you can spend it on. And so it is with Government. The more avenues that we open up to increase our income, the more that the Government can invest in our country, our communities, individuals, businesses, and the environment, but without an ever-increasing income stream this is simply not possible. Our ongoing success can be confidently attributed to the free-trade agreements that we have negotiated with our trading partners, and, of course, the best of those is yet to come with the Trans-Pacific Partnership (TPP) agreement.</p><p class="a">I am from a region with a vast and very diverse range of industries: horticulture, dairying, mining, tourism, and forestry. All of these industries stand to benefit from the TPP agreement. As to the value to New Zealand of these export markets, one, for example, is fruit and vegetables, and this is worth $1.2 billion to New Zealand. Kiwifruit alone is worth $18.4 million, and dairy exports to our TPP partners are worth a massive $4.3 billion—and not forgetting wine, of course, which is worth $839 million. All of these stand to benefit from massive tariff reductions. Our goal in the National Party and in this Government is to reduce debt to around 20 percent of GDP by 2020.</p><p class="a">Compared with other countries, New Zealand is doing extremely well under this Government, reining in its costs while maintaining spending on new assets and investing very heavily in our future. To bring you some comparisons with net debt in other countries, at the end of 2015 the USA had 104 percent debt to GDP, Australia had 34 percent, Japan had 229 percent, and the UK had 89 percent. New Zealand is doing extremely well under this National Government.</p><p class="a">This ongoing economic success has meant that we can invest in regions like mine. Grey Base Hospital received $97 million to replace an aged and outdated facility. Recently we announced, with the Hon Nikki Kaye, an investment of $1 million into Motueka High School to cater to its growing population. This Government has formed a partnership between the Buller District and the Ministry of Social Development to help workers to hold those positions in that district while they develop opportunities, and a new bridge is planned over the Taramakau River so that cars and trucks do not have to share with trains. Despite scaremongering by some of the Opposition members, road funding to the West Coast has increased by nearly $10 million since 2008. When the economy does well, we all do well.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:12:53" ></a><strong>FLETCHER TABUTEAU (NZ First)</strong>: I want to just reply to some of the statements from the previous speaker from across the House there, Maureen Pugh, and address some of the statements that she made. I think what the member across the House needs to do is to listen to the presidential candidates in the US—both sides of the spectrum. Whether you respect one or disrespect the other, both sides of the conversation in the US right now tell every New Zealander that New Zealand First has been saying exactly the same thing: that the Trans-Pacific Partnership (TPP) will carve the heart out of middle New Zealand. It will compromise jobs in New Zealand.</p><p class="a">Mr Simon O'Connor spoke about listening to experts—the expert analysis on the TPP. The only independent one that we could make reference to spoke of job losses in the thousands in New Zealand alone. That is the expert analysis that the National Party has chosen to ignore and instead go with its feelings on international trade. If it was a conversation about just trade and tariff removals, New Zealand First would be on board, but the TPP is an example of this Government's deliberate ignorance, if I do so say. It is an example of how it chooses to hear experts when they support its case, but on the TPP it did not want to hear from the experts there.</p><p class="a">Speaking about experts and jobs, one week after the Budget was released in New Zealand the new books came out. They actually pointed out—no one noticed and the Government was not going to talk about it—that the Government surplus that it is so desperately trying to fund was $1 billion less than what the Budget told New Zealand it was. We were told about a $1.6 billion surplus—sorry, I am trying to find my notes; here they are—and then a week later we were told that, actually, the surplus was less than it was in the Budget before. So it just keeps going backwards for this National Government.</p><p class="a">I have got the 10-month Financial Statements of the Government here in front of me—just a little bit of light reading. I wish New Zealanders could see it, because looking at core Crown expenses—there are about 15 entries here—every single one of them, when compared with the financial year before, is a negative number; every single Government entry, in terms of core Crown expenses. Social security and welfare, down $479 million; health down $453 million. Where is another one? Primary services, down $83 million.</p><p class="a">It is just a litany of a story that this National Government wants the public of New Zealand to believe about how the Minister of Finance is this wonderful manager of our money, and yet the Government is cutting money from every core Crown service. Bear that in mind: it is cutting money from every aspect of the Budget and at the same time this Government's debt is spiralling out of control. The National Government inherited either zero or $8 billion debt from the Labour Party 8 or 9 years ago when it came in. Now we are talking in excess of $80 billion to $90 billion of debt. That is the legacy of this National Party. That is what it is achieving.</p><p class="a">I say to the New Zealanders listening today that you are getting everything that the National Party promised: the policy settings and the legislation that it chooses to pass or it chooses to ignore—say, taxing multinational corporates that are avoiding their obligations in this country, ignoring the pressures of the housing market, painting a picture of GDP growing in New Zealand when, in fact, per-person, it is decreasing. I want to end on the note that as the Government quotes OECD figures on GDP growth it ignores OECD reports that say that New Zealand's overall wealth has declined because of the growing inequality gap in New Zealand. That is the legacy of this National Government and it absolutely must change. Thank you.</p><p class="IndentMarginalone">The debate having concluded, the motion lapsed.</p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

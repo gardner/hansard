@@ -1,0 +1,2105 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p1 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Read Hansard Reports - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/?Criteria.PageNumber=37" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+		<meta name="robots" content="noindex, follow" />
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DONH-A.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DONH-A.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DONH-A.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DONH-A.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+					<div class="header__search">
+		<span class="header__search-label header__label">Search</span>
+		<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+		<div class="header__search-combo input-combo">
+			
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+		</div>
+	</div>
+
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DONH-A.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+
+	<div id="main-content">
+		
+
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+
+	<div class="wrapper cf">
+		<div class="main main--two-col">
+			<h1>Read Hansard Reports</h1>
+
+			
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+
+				<div class="lede"><p>Welcome to the new Hansard listing page. Here you can read the official report of debates in the House of Representatives. If you’re a regular user, you may notice some changes. For example:</p>
+<ul>
+<li><span>draft, corrected, and final versions of Hansard are now published here, all in the same place</span></li>
+</ul>
+<ul>
+<li><span>oral questions are now published here, not on a separate page</span></li>
+</ul>
+<ul>
+<li><span>all content is displayed under the sitting day (click the + sign to expand)</span></li>
+</ul>
+<p><a data-id="2513" href="/en/pb/hansard-debates/how-to-understand-hansard/" title="How to explore Hansard">Check out our guide on how to search and use Hansard </a></p>
+<p><a data-id="3548" href="/en/visit-and-learn/how-parliament-works/need-more-information/" title="Need more information?">For more help, contact the Parliamentary Information Service</a></p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+
+	<div class="wrapper ajax-container js-ajax-container cf" id="filterformsearchtarget">
+		
+
+
+<div class="main main--two-col" role="main">
+	<div class="tab-listing tab section--border-bottom">
+		
+		
+
+
+	<ul class="tab__menu">
+			<li class="tab__menu-item js-tab__item is-selected">
+				<a href="/en/pb/hansard-debates/rhr/"
+				   data-ajax-url="/en/ajax/hansardlisting/read/6227"
+				   class="tab__menu-link js-tab__link">
+					Read
+				</a>
+			</li>
+			<li class="tab__menu-item js-tab__item ">
+				<a href="/en/pb/hansard-debates/rhr/search"
+				   data-ajax-url="/en/ajax/hansardlisting/search/6227"
+				   class="tab__menu-link js-tab__link">
+					Search
+				</a>
+			</li>
+	</ul>
+
+
+		<div class="tab__body">
+			
+
+	<span class="listing-result">
+		Displaying 721 - 740 of 1251
+		
+
+	</span>
+
+
+
+	<div class="hansard__list-header grid--full">
+		<div class="grid__item list__header hansard__body">
+			<span>Title</span>
+		</div>
+		<div class="grid__item list__header hansard__status">
+			<span>Progress</span>
+		</div>
+		<div class="grid__item list__header hansard__doctype">
+			<span>Document Type</span>
+		</div>
+		<div class="grid__item list__header hansard__date">
+			<span>Sitting Date</span>
+		</div>
+	</div>
+		<ul class="hansard__list js-hansard">
+				<li class="hansard__list-item is-expanded">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090312?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090312?Criteria.PageNumber=37" 
+					   data-loaded=true>
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090312/volume-652-week-6-thursday-12-march-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 6 - Thursday, 12 March 2009">
+									Volume 652, Week 6 - Thursday, 12 March 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090312/856de738a9e448a193fab4fbd43ff3726ed47f0d" class="theme__link">
+									View PDF (668k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								12 March 2009
+							</dd>
+						</dl>
+					</div>
+
+
+
+
+	<ul class="hansard__sub-list">
+			<li class="hansard__sub-item ">
+				<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090312/49HansD_20090312_00000001?Criteria.PageNumber=37" 
+				   class="hansard__toggle--parent js-hansard__toggle" 
+				   aria-hidden="true" 
+				   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090312/49HansD_20090312_00000001?Criteria.PageNumber=37">
+					<b></b><b></b>
+				</a>
+				<div class="hansard__content cf">
+					<div class="hansard__body">
+						<h3 class="hansard__heading">
+							<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090312_00000001/business-statement" 
+							   class="theme__link" 
+							   title="Business Statement">
+								Business Statement
+							</a>
+						</h3>
+					</div>
+					<dl>
+						
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+						<dt class="visuallyhidden">Document type</dt>
+						<dd class="hansard__definition hansard__doctype">
+							Debate
+						</dd>
+						<dt class="visuallyhidden">Date</dt>
+						<dd class="hansard__definition hansard__date">
+							12 March 2009
+						</dd>
+					</dl>
+				</div>
+
+			</li>
+			<li class="hansard__sub-item ">
+				<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090312/49HansD_20090312_00000025?Criteria.PageNumber=37" 
+				   class="hansard__toggle--parent js-hansard__toggle" 
+				   aria-hidden="true" 
+				   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090312/49HansD_20090312_00000025?Criteria.PageNumber=37">
+					<b></b><b></b>
+				</a>
+				<div class="hansard__content cf">
+					<div class="hansard__body">
+						<h3 class="hansard__heading">
+							<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090312_00000025/speaker-s-rulings-questions-for-oral-answer-ministerial" 
+							   class="theme__link" 
+							   title="Speaker’s Rulings — Questions for Oral Answer—Ministerial Responsibility">
+								Speaker’s Rulings — Questions for Oral Answer—Ministerial Responsibility
+							</a>
+						</h3>
+					</div>
+					<dl>
+						
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+						<dt class="visuallyhidden">Document type</dt>
+						<dd class="hansard__definition hansard__doctype">
+							Debate
+						</dd>
+						<dt class="visuallyhidden">Date</dt>
+						<dd class="hansard__definition hansard__date">
+							12 March 2009
+						</dd>
+					</dl>
+				</div>
+
+			</li>
+			<li class="hansard__sub-item ">
+				<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090312/49HansD_20090312_00000073?Criteria.PageNumber=37" 
+				   class="hansard__toggle--parent js-hansard__toggle" 
+				   aria-hidden="true" 
+				   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090312/49HansD_20090312_00000073?Criteria.PageNumber=37">
+					<b></b><b></b>
+				</a>
+				<div class="hansard__content cf">
+					<div class="hansard__body">
+						<h3 class="hansard__heading">
+							<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090312_00000073/questions-for-oral-answer-questions-to-ministers" 
+							   class="theme__link" 
+							   title="Questions for Oral Answer — Questions to Ministers">
+								Questions for Oral Answer — Questions to Ministers
+							</a>
+						</h3>
+					</div>
+					<dl>
+						
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+						<dt class="visuallyhidden">Document type</dt>
+						<dd class="hansard__definition hansard__doctype">
+							Debate
+						</dd>
+						<dt class="visuallyhidden">Date</dt>
+						<dd class="hansard__definition hansard__date">
+							12 March 2009
+						</dd>
+					</dl>
+				</div>
+
+			</li>
+			<li class="hansard__sub-item ">
+				<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090312/49HansD_20090312_00000872?Criteria.PageNumber=37" 
+				   class="hansard__toggle--parent js-hansard__toggle" 
+				   aria-hidden="true" 
+				   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090312/49HansD_20090312_00000872?Criteria.PageNumber=37">
+					<b></b><b></b>
+				</a>
+				<div class="hansard__content cf">
+					<div class="hansard__body">
+						<h3 class="hansard__heading">
+							<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090312_00000872/taxation-business-tax-measures-bill-second-reading" 
+							   class="theme__link" 
+							   title="Taxation (Business Tax Measures) Bill — Second Reading">
+								Taxation (Business Tax Measures) Bill — Second Reading
+							</a>
+						</h3>
+					</div>
+					<dl>
+						
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+						<dt class="visuallyhidden">Document type</dt>
+						<dd class="hansard__definition hansard__doctype">
+							Debate
+						</dd>
+						<dt class="visuallyhidden">Date</dt>
+						<dd class="hansard__definition hansard__date">
+							12 March 2009
+						</dd>
+					</dl>
+				</div>
+
+			</li>
+			<li class="hansard__sub-item ">
+				<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090312/49HansD_20090312_00001056?Criteria.PageNumber=37" 
+				   class="hansard__toggle--parent js-hansard__toggle" 
+				   aria-hidden="true" 
+				   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090312/49HansD_20090312_00001056?Criteria.PageNumber=37">
+					<b></b><b></b>
+				</a>
+				<div class="hansard__content cf">
+					<div class="hansard__body">
+						<h3 class="hansard__heading">
+							<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090312_00001056/insolvency-amendment-bill-first-reading" 
+							   class="theme__link" 
+							   title="Insolvency Amendment Bill — First Reading">
+								Insolvency Amendment Bill — First Reading
+							</a>
+						</h3>
+					</div>
+					<dl>
+						
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+						<dt class="visuallyhidden">Document type</dt>
+						<dd class="hansard__definition hansard__doctype">
+							Debate
+						</dd>
+						<dt class="visuallyhidden">Date</dt>
+						<dd class="hansard__definition hansard__date">
+							12 March 2009
+						</dd>
+					</dl>
+				</div>
+
+			</li>
+	</ul>
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090311?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090311?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090311/volume-652-week-6-wednesday-11-march-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 6 - Wednesday, 11 March 2009">
+									Volume 652, Week 6 - Wednesday, 11 March 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090311/55977be5a073b89c10a60638ca5d0be79aa22127" class="theme__link">
+									View PDF (779k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								11 March 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090310?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090310?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090310/volume-652-week-6-tuesday-10-march-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 6 - Tuesday, 10 March 2009">
+									Volume 652, Week 6 - Tuesday, 10 March 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090310/ce54e5c01cc98f4eae8cff9f1d1bd3789bf979e8" class="theme__link">
+									View PDF (739k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								10 March 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090305?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090305?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090305/volume-652-week-5-thursday-5-march-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 5 - Thursday, 5 March 2009">
+									Volume 652, Week 5 - Thursday, 5 March 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090305/95f5cddc9e5f268a637e08b20dcb80640e5b7817" class="theme__link">
+									View PDF (628k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								05 March 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090304?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090304?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090304/volume-652-week-5-wednesday-4-march-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 5 - Wednesday, 4 March 2009">
+									Volume 652, Week 5 - Wednesday, 4 March 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090304/3408fd1c168e146c9693dc41074ebd7bf95b0274" class="theme__link">
+									View PDF (728k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								04 March 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090303?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090303?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090303/volume-652-week-5-tuesday-3-march-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 5 - Tuesday, 3 March 2009">
+									Volume 652, Week 5 - Tuesday, 3 March 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090303/b2bfd33705d57981c13522ffcb6feca94e2c51d5" class="theme__link">
+									View PDF (1352k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								03 March 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090219?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090219?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090219/volume-652-week-4-thursday-19-february-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 4 - Thursday, 19 February 2009">
+									Volume 652, Week 4 - Thursday, 19 February 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090219/947035ef142cdac89effec98dfeb32492949da95" class="theme__link">
+									View PDF (652k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								19 February 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090218?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090218?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090218/volume-652-week-4-wednesday-18-february-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 4 - Wednesday, 18 February 2009">
+									Volume 652, Week 4 - Wednesday, 18 February 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090218/2e323ef6b1c971d1124e434b5a916096e78cadc5" class="theme__link">
+									View PDF (731k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								18 February 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090217?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090217?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090217/volume-652-week-4-tuesday-17-february-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 4 - Tuesday, 17 February 2009">
+									Volume 652, Week 4 - Tuesday, 17 February 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090217/4c41eebbcbda7b943af5485aba64121959afd3e4" class="theme__link">
+									View PDF (537k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								17 February 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090212?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090212?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090212/volume-652-week-3-thursday-12-february-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 3 - Thursday, 12 February 2009">
+									Volume 652, Week 3 - Thursday, 12 February 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090212/397e21e39bdd62bbbc89c30605fde37b4967985e" class="theme__link">
+									View PDF (867k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								12 February 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090211?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090211?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090211/volume-652-week-3-wednesday-11-february-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 3 - Wednesday, 11 February 2009">
+									Volume 652, Week 3 - Wednesday, 11 February 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090211/05caa60b4ef0260cc51adf0ca7f7bd72ffe969e3" class="theme__link">
+									View PDF (796k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								11 February 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090213?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090213?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090213/volume-652-week-3-tuesday-10-february-2009-continued" 
+								   class="theme__link" 
+								   title="Volume 652, Week 3 - Tuesday, 10 February 2009(continued on Wednesday, 11 February 2009)">
+									Volume 652, Week 3 - Tuesday, 10 February 2009(continued on Wednesday, 11 February 2009)
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090213/e99584ee6aa94a4b7be0f8ca014e758d7c68958d" class="theme__link">
+									View PDF (601k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								10 February 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20090210?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20090210?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20090210/volume-652-week-3-tuesday-10-february-2009" 
+								   class="theme__link" 
+								   title="Volume 652, Week 3 - Tuesday, 10 February 2009">
+									Volume 652, Week 3 - Tuesday, 10 February 2009
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20090210/e99584ee6aa94a4b7be0f8ca014e758d7c68958d" class="theme__link">
+									View PDF (601k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								10 February 2009
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20081218?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20081218?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20081218/volume-651-week-2-tuesday-16-december-2008-continued" 
+								   class="theme__link" 
+								   title="Volume 651, Week 2 - Tuesday, 16 December 2008(continued on Thursday, 18 December 2008)">
+									Volume 651, Week 2 - Tuesday, 16 December 2008(continued on Thursday, 18 December 2008)
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20081218/cd57619296cbb1aea1064dc5397213a40a33aa6f" class="theme__link">
+									View PDF (781k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								16 December 2008
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20081217?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20081217?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20081217/volume-651-week-2-tuesday-16-december-2008-continued" 
+								   class="theme__link" 
+								   title="Volume 651, Week 2 - Tuesday, 16 December 2008(continued on Wednesday, 17 December 2008)">
+									Volume 651, Week 2 - Tuesday, 16 December 2008(continued on Wednesday, 17 December 2008)
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20081217/f3ada06e48ca3535f7ec14d7cd62be4bd736f97c" class="theme__link">
+									View PDF (1172k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								16 December 2008
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20081216?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20081216?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20081216/volume-651-week-2-tuesday-16-december-2008" 
+								   class="theme__link" 
+								   title="Volume 651, Week 2 - Tuesday, 16 December 2008">
+									Volume 651, Week 2 - Tuesday, 16 December 2008
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20081216/cff0c91fa22d32ca8bbff917673e011ddb6067b4" class="theme__link">
+									View PDF (850k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								16 December 2008
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20081213?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20081213?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20081213/volume-651-week-1-tuesday-9-december-2008-continued" 
+								   class="theme__link" 
+								   title="Volume 651, Week 1 - Tuesday, 9 December 2008(continued on Saturday, 13 December 2008)">
+									Volume 651, Week 1 - Tuesday, 9 December 2008(continued on Saturday, 13 December 2008)
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20081213/8668dd3519ff719540a645afe063786ba5e4045d" class="theme__link">
+									View PDF (794k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								09 December 2008
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20081212?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20081212?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20081212/volume-651-week-1-tuesday-9-december-2008-continued" 
+								   class="theme__link" 
+								   title="Volume 651, Week 1 - Tuesday, 9 December 2008(continued on Friday, 12 December 2008)">
+									Volume 651, Week 1 - Tuesday, 9 December 2008(continued on Friday, 12 December 2008)
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20081212/f0c3940c1db25d044ca34e11e301bcf28ed046f9" class="theme__link">
+									View PDF (1167k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								09 December 2008
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20081211?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20081211?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20081211/volume-651-week-1-tuesday-9-december-2008-continued" 
+								   class="theme__link" 
+								   title="Volume 651, Week 1 - Tuesday, 9 December 2008(continued on Thursday, 11 December 2008)">
+									Volume 651, Week 1 - Tuesday, 9 December 2008(continued on Thursday, 11 December 2008)
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20081211/4cabdb9f364aa664190f15838a4683a0e3fdca11" class="theme__link">
+									View PDF (1243k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								09 December 2008
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+				<li class="hansard__list-item ">
+					<a href="/en/pb/hansard-debates/rhr/drilldown/49HansD_20081210?Criteria.PageNumber=37" 
+					   class="hansard__toggle js-hansard__toggle" 
+					   aria-hidden="true" 
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227/49HansD_20081210?Criteria.PageNumber=37" 
+					   >
+						<b></b><b></b>
+					</a>
+					<div class="hansard__content cf">
+						<div class="hansard__body">
+							<h2 class="hansard__heading">
+								<a href="/en/pb/hansard-debates/rhr/document/49HansD_20081210/volume-651-week-1-tuesday-9-december-2008-continued" 
+								   class="theme__link" 
+								   title="Volume 651, Week 1 - Tuesday, 9 December 2008(continued on Wednesday, 10 December 2008)">
+									Volume 651, Week 1 - Tuesday, 9 December 2008(continued on Wednesday, 10 December 2008)
+								</a>
+							</h2>
+
+								<span class="hash__icon iconf-file-pdf"></span>
+								<a href="/resource/en-NZ/49HansD_20081210/8fd3a8fcafeb6b6878a4437dcbe22afe20828c01" class="theme__link">
+									View PDF (1196k)
+								</a>
+						</div>
+
+						<dl>
+							
+
+
+<dt class="visuallyhidden">Progress</dt>
+<dd class="hansard__definition hansard__status">
+	<span class="hansard__icon iconf-book js-tooltip" aria-hidden="true">
+		<div class="tooltip__body theme__border js-tooltip-body">
+			<p>Text incorporated into the bound volume</p>
+		</div>
+	</span>
+</dd>
+
+							<dt class="visuallyhidden">Document type</dt>
+							<dd class="hansard__definition hansard__doctype">
+								Daily
+							</dd>
+							<dt class="visuallyhidden">Sitting Date</dt>
+							<dd class="hansard__definition hansard__date">
+								09 December 2008
+							</dd>
+						</dl>
+					</div>
+
+				</li>
+			</ul>
+
+
+
+
+<div class="list-controls">
+	
+	
+		<ul class="pagination cf js-pagination">
+
+				<li class="pagination__item pagination__prev">
+					<a href="/en/pb/hansard-debates/rhr/?Criteria.PageNumber=36"
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227?Criteria.PageNumber=36"
+					   class="theme__link js-pagination-link"
+					   title="Previous  ">
+						<span class="iconf-arrow-left pagination__icon" aria-hidden="true"></span>Previous  
+					</a>
+				</li>
+
+				<li class="pagination__item">
+						<a href="/en/pb/hansard-debates/rhr/?Criteria.PageNumber=34"
+						   data-ajax-url="/en/ajax/hansardlisting/read/6227?Criteria.PageNumber=34"
+						   class="theme__link js-pagination-link"
+						   title="Page 34">
+							34
+						</a>
+				</li>
+				<li class="pagination__item">
+						<a href="/en/pb/hansard-debates/rhr/?Criteria.PageNumber=35"
+						   data-ajax-url="/en/ajax/hansardlisting/read/6227?Criteria.PageNumber=35"
+						   class="theme__link js-pagination-link"
+						   title="Page 35">
+							35
+						</a>
+				</li>
+				<li class="pagination__item">
+						<a href="/en/pb/hansard-debates/rhr/?Criteria.PageNumber=36"
+						   data-ajax-url="/en/ajax/hansardlisting/read/6227?Criteria.PageNumber=36"
+						   class="theme__link js-pagination-link"
+						   title="Page 36">
+							36
+						</a>
+				</li>
+				<li class="pagination__item">
+						<span class="is-selected">37</span>
+				</li>
+				<li class="pagination__item">
+						<a href="/en/pb/hansard-debates/rhr/?Criteria.PageNumber=38"
+						   data-ajax-url="/en/ajax/hansardlisting/read/6227?Criteria.PageNumber=38"
+						   class="theme__link js-pagination-link"
+						   title="Page 38">
+							38
+						</a>
+				</li>
+				<li class="pagination__item">
+						<a href="/en/pb/hansard-debates/rhr/?Criteria.PageNumber=39"
+						   data-ajax-url="/en/ajax/hansardlisting/read/6227?Criteria.PageNumber=39"
+						   class="theme__link js-pagination-link"
+						   title="Page 39">
+							39
+						</a>
+				</li>
+				<li class="pagination__item">
+						<a href="/en/pb/hansard-debates/rhr/?Criteria.PageNumber=40"
+						   data-ajax-url="/en/ajax/hansardlisting/read/6227?Criteria.PageNumber=40"
+						   class="theme__link js-pagination-link"
+						   title="Page 40">
+							40
+						</a>
+				</li>
+
+				<li class="pagination__item pagination__next">
+					<a href="/en/pb/hansard-debates/rhr/?Criteria.PageNumber=38"
+					   data-ajax-url="/en/ajax/hansardlisting/read/6227?Criteria.PageNumber=38"
+					   class="theme__link js-pagination-link"
+					   title="Next ">
+						Next <span class="iconf-arrow-right pagination__icon" aria-hidden="true"></span>
+					</a>
+				</li>
+		</ul>
+
+</div>
+		</div>
+	</div>
+</div>
+
+
+	
+	
+
+		
+
+
+<div class="sidebar">
+	
+
+
+
+	<div class="pod pod--lb pod--filter js-filter">
+		<h3 class="filter__heading">Filtering</h3>
+
+		<p>Use the filters to refine listing items</p>
+		
+		
+
+<form action="/en/pb/hansard-debates/rhr/" class="js-filter-form" data-ajax="true" data-ajax-begin="$.publish(&#39;/filter/update&#39;, { id: &#39;filterformsearchtarget&#39;, event: &#39;begin&#39; })" data-ajax-complete="$.publish(&#39;/filter/update&#39;, { id: &#39;filterformsearchtarget&#39;, event: &#39;complete&#39; })" data-ajax-method="Get" data-ajax-mode="replace" data-ajax-update="#filterformsearchtarget" data-ajax-url="/en/ajax/hansardlisting/read/6227" id="form0" method="Get">
+
+
+<div class="filter__field">
+	<div class="filter__expander js-date-range js-expand-collapse ">
+		<h4 class="filter__field-heading--expander js-expand-collapse__header">
+			Date range <span class="filter__expander-icon iconf-plus theme__color" aria-hidden="true"></span>
+		</h4>
+		<div class="filter__expander-body grid js-expand-collapse__body">
+			<div class="filter__input-wrapper grid__item one-whole">
+				<div class="filter__dropdown">
+					<label class="visuallyhidden" for="criteria_Timeframe"><span>Date Period</span></label>
+					<select class="filter__dropdown-select js-timeframe-select" id="criteria_Timeframe" name="criteria.Timeframe"><option value="">All</option>
+<option value="7.00:00:00.000">Within the last week</option>
+<option value="31.00:00:00.000">Within the last month</option>
+<option value="93.00:00:00.000">Within the last 3 months</option>
+<option value="365.00:00:00.000">Within the last year</option>
+<option value="range">Specified range</option>
+</select>
+					<span class="filter__dropdown-icon iconf-arrow-down theme__color" aria-hidden="true"></span>
+				</div>
+			</div>
+			<div class="filter__datepicker-wrapper grid__item one-half">
+				<label class="visuallyhidden" for="criteria_DateFrom">DateFrom</label>
+				<input class="filter__input filter__datepicker js-datepicker js-custom-input" id="criteria_DateFrom" name="criteria.DateFrom" placeholder="From" type="text" value="" />
+				<label for="criteria_DateFrom" class="filter__datepicker-icon iconf-calendar theme__color" aria-hidden="true"></label>
+			</div>
+			<div class="filter__datepicker-wrapper grid__item one-half">
+				<label class="visuallyhidden" for="criteria_DateTo">DateTo</label>
+				<input class="filter__input filter__datepicker js-datepicker js-custom-input" id="criteria_DateTo" name="criteria.DateTo" placeholder="to" type="text" value="" />
+				<label for="criteria_DateTo" class="filter__datepicker-icon iconf-calendar theme__color" aria-hidden="true"></label>
+			</div>
+			<div class="filter__field-error grid__item one-whole js-range-error"></div>
+		</div>
+	</div>
+</div>			<button class="btn theme__btn js-filter-submit" title="Apply filters">Apply filter</button>
+</form>
+	</div>
+
+</div>
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+</div>
+
+
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-7T13-34-50.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-7T13-34-50.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

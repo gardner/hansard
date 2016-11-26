@@ -1,0 +1,956 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Thursday, 22 September 2016 - Volume 717 - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansD_20160922_20160922" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansD_20160922_20160922/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Thursday, 22 September 2016 - Volume 717</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansD_20160922_20160922/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansD_20160922_20160922" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansD_20160922_20160922/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansD_20160922_20160922/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansD_20160922_20160922/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansD_20160922_20160922/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansD_20160922_20160922/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BeginningOfDay"><strong>THURSDAY, 22 SEPTEMBER 2016</strong></p><p class="a"><a name="time_14:00:00" ></a><strong>Mr Speaker</strong> took the Chair at 2 p.m.</p><p class="a"><strong>Prayers</strong>.</p><p class="Debate"><strong>VISITORS</strong></p><p class="SubDebate"><strong>Kuwait</strong><strong>—</strong><strong>Kuwait - New Zealand Parliamentary Friendship Group</strong></p><p class="Speech"><a name="time_20160922 14:01:16" ></a><strong>Mr SPEAKER</strong>: I am sure that members would wish to welcome members of the Kuwait - New Zealand Parliamentary Friendship Group, led by Dr Khalil Abdullah Ali, who are present in the gallery.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Debatealone"><strong>BUSINESS STATEMENT</strong></p><p class="Speech"><a name="time_20160922 14:01:40" ></a><strong>Hon SIMON BRIDGES (Deputy Leader of the House)</strong>: When the House resumes on Tuesday, 11 October the Government will look to complete the Committee stages of a number of bills on the Order Paper and the third reading of the bills that were formerly the Judicature Modernisation Bill, presently on the Order Paper as items 24 to 46, starting with the Senior Courts Bill.</p><p class="Speech"><a name="time_20160922 14:02:02" ></a><strong>CHRIS HIPKINS (Senior Whip—Labour)</strong>: I wonder whether the Deputy Leader of the House can confirm that the Government intends to take urgency to deal with the critical issue of the electrifying carpet that seems to be bedevilling the Minister of Energy and Resources in his office.</p><p class="Speech"><a name="time_20160922 14:02:16" ></a><strong>Hon SIMON BRIDGES (Deputy Leader of the House)</strong>: How very droll. No, no, we are not doing that.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="QOA"><strong>ORAL QUESTIONS</strong></p><p class="QType"><strong>QUESTIONS TO MINISTERS</strong></p><h4 class="QSubjectHeading"><strong>Electricity Industry—</strong><strong>Performance of Mixed-Ownership Companies</strong></h4><p class="SubsQuestion"><strong>1. </strong><strong>IAN McKELVIE (National—Rangitīkei)</strong> to the <strong>Minister of Finance</strong>: What reports has he received on the performance of mixed-ownership electricity companies since their partial sale?</p><p class="SubsAnswer"><a name="time_20160922 14:04:26" ></a><strong>Hon BILL</strong><strong> ENGLISH (Minister of Finance)</strong>: Treasury advises me that in the 5 years before the Government sold a minority stake in three State-owned electricity companies—Mighty River Power, Meridian Energy, and Genesis—the combined dividends averaged $365 million a year. In the 3 years since, the average is $442 million a year. In other words, the Crown has received more in dividends, owning 49 percent of the companies, than it did when it owned 100 percent of the companies.</p><p class="SupQuestion"><strong>Ian McKelvie</strong>: What other benefits has the partial sale of State-owned electricity companies delivered for New Zealanders?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: The part sale raised $4.3 billion. This money has been invested in schools, hospitals, the Canterbury rebuild, delivering better education, healthcare, and transport infrastructure. Because we have been able to finance those things out of the proceeds of the sale, we have been able to reduce New Zealand's indebtedness.</p><p class="SupQuestion"><strong>Ian McKelvie</strong>: Has the part sale of State-owned electricity companies led to an escalation in power prices?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: That is a very good question. At the time, there were assertions that the sale of the companies would drive prices up. In fact, since the first company was listed, in May 2013, the energy component of electricity prices has increased by less than the rate of inflation—that is, the prices increased by 2 percent when inflation was 2.5 percent. In fact, in the year to March the average cost of electricity paid by consumers fell for the first time—fell for the first time—in 15 years. That is in sharp contrast to the situation under the previous Government, when prices rose around 70 percent.</p><p class="SupQuestion"><strong>Ian McKelvie</strong>: What safeguards are in place to protect the public interest in power companies?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: The conditions on which the sale was made were set in order to protect the public interest, and they are that the Government maintain a majority shareholding, that New Zealand investors would be at the front of the queue for buying shares, and that the capital freed up would be used to fund new public assets and enable the Government to build infrastructure without increasing debt. Those conditions have been met.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Economy—</strong><strong>Real Disposable Income and Economic Growth</strong></h4><p class="SubsQuestion"><strong>2. </strong><strong>GRANT ROBERTSON (Labour—Wellington Central)</strong> to the <strong>Minister of Finance</strong>: Is it correct that real disposable income per capita grew by 0.5 percent on average in the last year according to the latest Statistics NZ data, and does he think this represents working New Zealanders getting a fair share of economic growth?</p><p class="SubsAnswer"><a name="time_20160922 14:07:42" ></a><strong>Hon BILL ENGLISH (Minister of Finance)</strong>: The answer to the first part of the question is yes. The answer to the second part of the question is that that does not measure whether workers are getting a fair share of economic growth. Real disposable income includes returns on capital, international transfers, and is subject to changes in the terms of trade. What is more important for workers is a different measure, and that is wages—it is called wages. On these measures, families are getting a fair share of economic growth. In the last year wages increased 2 percent, compared with inflation of just 0.4 percent. In fact, under this Government, real take-home pay for workers is increasing at four times the rate that it did under the previous Government.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: How can it be fair on working New Zealanders, if economic growth really is tracking along at about 3 percent, that average wage rises have in fact been between 1.5 and 2 percent over the last year?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: GDP is measuring something different from wages, and wages are just a component of what makes up economic growth. In fact, real wages have been rising. I know that the member finds that hard to believe, but even coming out of a recession in 2009-10, New Zealand households have enjoyed the benefits of moderate but consistent increases in their real incomes.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: In light of that answer, can he confirm that low wage rises are in fact a trend, with average wage rises in New Zealand below 2 percent for the last 4 years?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: Of course, the question is: low relative to what? In fact, relative to inflation, wage increases now are higher than when inflation was 5 percent under the previous Government. Wages were going up at 5 percent then, and so was inflation. So, in fact, there were zero real wage increases, and now real wages are going up somewhere between 1 and 2 percent.</p><p class="SupQuestion"><strong>Tim Macindoe</strong>: What trends can the Minister report on on increasing wages earned by workers, and by how much are wages increasing ahead of inflation?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: As I said earlier, wages are a pretty good measure—in fact, they are a better measure of what wages households are getting than per capita real national disposable income. Since the Government was elected in 2008 wages have increased 25 percent. Inflation over that period has been just 12 percent. Wages are set to continue rising, with Treasury forecasting a further 8 percent increase over the next 4 years and for the average wage to go to around $63,000. An economy that is growing around 2.5 to 3 percent with relatively low inflation will continue to deliver real wage increases.</p><p class="SupQuestion"><strong>Gran</strong><strong>t Robertson</strong>: Why does he continue to deny the reality for many New Zealanders, which is that they have had very modest wage increases alongside massively increased housing costs, today described by the Reserve Bank Governor as excessive, and a New Zealand Income Survey that shows that 28 percent of New Zealanders—the highest percentage ever—are paying more than a third of their income in housing costs?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: There is a debate to be had about the proportion of household incomes that are now spent on housing. It stands to reason that if house prices are going up and some households are borrowing heavily, then the proportion that they spend on housing is rising. I might point out two things: on average, servicing costs for household debt are pretty similar, if not a bit lower, than they were 4 or 5 years ago, and, somewhat surprisingly, recent data about rents in Auckland say that rents in Auckland are not rising.</p><p class="SupQuestion"><strong>Tim Macindoe</strong>: How does New Zealand's growth in real disposable income per capita compare with Australia's?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: In so far as real disposable income is a measure that shows us what is happening in an economy, growth in New Zealand's real disposable income has exceeded that of Australia since 2012. If we look at growth in real disposable incomes, we can see the effects of Australia's mining boom between 2010 and 2013 and New Zealand's dairy boom between 2012 and 2015. But, in fact, on average, New Zealand's has risen faster.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Will he listen to the economic commentator who said "Strong GDP growth will make little difference to average earners." and get on with addressing the housing costs that New Zealanders are facing and review the immigration settings, which are holding down wage growth, or has he stopped listening to himself?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: It would certainly be more intellectually uplifting than listening to the member. Occasionally, I do have to listen to myself because sometimes other people do not always agree. But the fact is that underlying the member's anxiety is the data that consistently shows New Zealand has an economy growing at 2.5 to 3 percent—in fact, currently it is at 3.5 percent. That puts it in the top two or three of the developed world for growth rates right now. Although the member is worried that that is not enough, the Government is certainly not complacent, and we have a programme of ongoing microeconomic reform to underpin further growth.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Does he not get it that the problem here is that working New Zealanders are not getting a fair share of that growth, especially when they are facing the kinds of housing cost increases that they are and when debt-to-income ratios in households are the highest that they have ever been, and why will he not get on the side of working New Zealanders and help lift their wages?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: Where I agree with the member is that among any number of measures of economic growth, what actually happens to household wages is a very important one. The fact is, by historical standards, our households are seeing moderate and consistent increases. There is no data the member has referred to today that even measures whether it is the distribution of income across the economy or whether it is fair. The member is just randomly picking statistics and trying to tell us that that tells us what is happening to workers. </p><p class="SupQuestion"><strong>Tim Macindoe</strong>: How does New Zealand's growth in GDP per capita under this Government compare with growth in other OECD countries?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: This is yet another measure, along with measures of real wages, that shows progress in the economy. The OECD data shows that since 2008, growth in New Zealand's GDP per capita is the seventh fastest among 35 countries. That is higher than GDP per capita growth in Australia, the US, the UK, Germany, Japan, and the OECD average. By comparison—just to pick a random period—from 1999 to 2008, instead of being seventh fastest among 35 OECD countries, New Zealand over that period was 20th fastest. </p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Climate Change—</strong><strong>Government Measures to Address</strong></h4><p class="SubsQuestion"><strong>3. </strong><strong>BARBARA KURIGER (National—Taranaki - King </strong><strong>Country)</strong> to the <strong>Minister for Climate Change Issues</strong>: How is the Government helping New Zealanders better understand what action New Zealand is taking to tackle climate change?</p><p class="SubsAnswer"><a name="time_20160922 14:16:44" ></a><strong>Hon PAULA BENNETT (Minister for Climate Change Issues)</strong>: Today I released this snapshot—<em>New Zealand's Action on Climate Change</em>—outlining all the action New Zealand is taking to tackle climate change. It highlights the significant work going on across central and local government, as well as in the private sector. For example, we have programmes in place to encourage foresters to plant 17 million trees by 2020 and to double the number of electric vehicles each year. Last year we invested $31 million into understanding climate change and its impacts. New Zealanders should be proud of what we have done and confident that we are up to the challenges ahead. </p><p class="SupQuestion"><strong>Barbara Kuriger</strong>: What is New Zealand contributing to the efforts to reduce emissions from agriculture?</p><p class="SupAnswer"><strong>Hon PAULA BENNETT</strong>: Emissions from agriculture are a challenge for New Zealand, but that also means we have a fantastic opportunity to be world leaders in finding a scientific solution. We are a key player in the 46-country-strong Global Research Alliance on Agricultural Greenhouse Gases, which is leading research about how to increase food production without growing emissions. Our farmers are already changing, and without some of the efficiency improvements that they have made, our agricultural emissions would have increased by 40 percent since 1990. </p><p class="SupQuestion"><strong>Barbara Kuriger</strong>: What are the next steps for our action on climate change?</p><p class="SupAnswer"><strong>Hon PAULA BENNETT</strong>: As I have said, we have got a lot to be proud of, but, equally, I think we have got a lot of work to do. In the next few weeks we will ratify the Paris Agreement with the agreement of the House, locking in our ambitious targets for 2030. We are also working internationally to phase down the use of hydrofluorocarbons, which could cut our greenhouse gas emissions by 2 percent and which are known to be really dangerous to the environment. Domestically, we have established, or are about to establish, technical advisory groups on adaptation forestry and agricultural emissions. New Zealand is up for the challenge. </p><p class="SupQuestion"><strong>James Shaw</strong>: Why does the pamphlet entitled <em>New Zeal</em><em>and's Action on Climate Change</em> fail to mention that New Zealand's emissions have increased 19 percent on her Government's watch?</p><p class="SupAnswer"><strong>Hon PAULA BENNETT</strong>: As I clearly said in my answer to other questions, we have got challenges ahead and we want to see ourselves reducing those emissions. On per head of population measure, of course, that has reduced, and it would have gone up a lot higher if we had not been making the changes that we have.</p><p class="SupQuestion"><strong>James Shaw</strong>: Why does the pamphlet entitled <em>New Zealand's Action on Climate Change</em> fail to mention that the most recent Ministry for the Environment projection of our future emissions is that they will increase 96 percent if her Government's policies remain unchanged?</p><p class="SupAnswer"><strong>Hon PAULA</strong><strong> BENNETT</strong>: It is because, as the pamphlet's back page clearly says, we are going to change. We need to do more, we are up for the challenge, and we are going to bend that curve.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Primary Industries, </strong><strong>Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>4. </strong><strong>JAMES SHAW (Co-Leader—Green)</strong> to the <strong>Minister for Primary Industries</strong>: Does he stand by his statement that there is no "hard evidence" to support the Director of Fisheries Management's claim that fish discarding is a systemic failure of the current system?</p><p class="SubsAnswer"><a name="time_20160922 14:20:16" ></a><strong>Hon JO GOODHEW (Associate Minister for Primary Industries)</strong> on behalf of the <strong>Mi</strong><strong>nister for Primary Industries</strong>: What the Minister actually said in the House earlier this week regarding that comment by the Director of Fisheries Management is that "Dumping and discarding is an issue that successive Governments have been trying to deal with and grapple with over a period of time." He added that—[<em>Interruption</em>]</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! [<em>Interruption</em>] Order! This is a question that is on notice. It is an important issue, and I do not want a continual barrage coming from the Hon David Cunliffe.</p><p class="ContinueSpeech"><strong>Hon JO GOODHEW</strong>: He added: "The [quota management system] is now 30 years old. We have the operational review under way, and I am sure that through that process the necessary changes will be made." </p><p class="SupQuestion"><strong>James Shaw</strong>: Were Ministers aware of the extent and seriousness of fish dumping before the Simmons report, which showed that more than double the amount of fish caught are dumped at sea; if not, why not?</p><p class="SupAnswer"><strong>Hon JO GOODHEW</strong>: What I can say is that an independent review was commissioned into three fisheries compliance investigations, because of concerns. The Heron report has given us a pathway forward, and I am unable to speculate as to what was known or not.</p><p class="Interjection"><strong>James Shaw</strong>: I raise a point of order, Mr Speaker. My question was whether Ministers were aware of the extent of fish dumping before the Simmons report, and that is quite a specific question. The Minister did not answer that.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Then, I might add, the member went on and added something else to his question, so he actually asked two supplementary questions. But forgiving him for a minute on that, the Minister has then answered that there were three reports that were made available, so they knew of the issue. She then went on to say that she was unable to specifically answer the question you have asked, and, I think, on an occasion when we acknowledge it is a Minister acting on behalf of another Minister, that is satisfactory.</p><p class="SupQuestion"><strong>Richard Prosser</strong>: When will the Government act on a commission of inquiry into fisheries management, which was called for by New Zealand First 3 months ago?</p><p class="SupAnswer"><strong>Hon JO GOODHEW</strong>: I am able to report that back in August last year The Future of our Fisheries review was undertaken, and we know that that will address many issues in relation to this and the quota management system.</p><p class="SupQuestion"><strong>Richard Prosser</strong>: How can he trust a fisheries monitoring agency that is owned by commercial fishing companies to monitor itself?</p><p class="SupAnswer"><strong>Hon JO GOODHEW</strong>: There is currently a contract out for just 15 vessels under Snapper 1, and, in fact, the fisheries compliance people look at the evidence taken from the cameras on those vessels.</p><p class="SupQuestion"><strong>James Shaw</strong>: How does the Minister think that the preliminary Operation Achilles report in July 2013 "found its way into the hands of industry", and how many other investigation reports have found their way into the hands of industry?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Again, there are two supplementary questions. The Minister can address either one.</p><p class="SupAnswer"><strong>Hon JO GOODHEW</strong>: I personally have no knowledge of the answer to the first question, and therefore cannot answer that.</p><p class="SupQuestion"><strong>James Shaw</strong>: Will the Minister commit to an independent review of the quota management system in light of the recommendations of the revelations made in the Heron report?</p><p class="SupAnswer"><strong>Hon JO GOODHEW</strong>: I think it is important that we understand that what we have within the Mike Heron QC report, which was an independent report, was a look at some compliance investigations to determine whether the processes were heading in the right direction. In fact, this report showed that in some cases they were flawed. The Ministry for Primary Industries Director-General, Martyn Dunne, has said that changes will be happening. It is regrettable that they were flawed, but changes will be happening. At the same time, our quota management system is now 30 years old. It is time for a review, and we will be doing that review in good faith.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Youth Guarantee Policy—</strong><strong>Prime Minister's Statements</strong></h4><p class="SubsQuestion"><strong>5. </strong><strong>CHRIS HIPKINS (Labour—Rimutaka)</strong> to the <strong>Minister for Tertiary Education, Skills and Employment</strong>: Does he agree with John Key, who said when announcing the Youth Guarantees policy that "the bottom line is this—the days of 16- and-17-year-olds being able to leave school and drift along aimlessly while being financially supported by the Government are at an end?".</p><p class="SubsAnswer"><a name="time_20160922 14:25:46" ></a><strong>Hon STEVEN JOYCE (Minister for Tertiary Education, Skills and Employment)</strong>: Absolutely yes. The Youth Guarantee scheme was introduced, commencing in 2010, to address the problem of young people leaving school with low achievement and destined to be "neet" and in receipt of a benefit from age 18. It was significantly expanded in 2012, when the ineffective Youth Training programme was absorbed into the scheme. The purpose of that change was to give the Youth Training students a stronger focus on educational achievement, as well. It has been very effective in improving educational achievement at National Certificate of Educational Achievement (NCEA) level 2. It is also, along with other programmes, improving employment outcomes. More young people are achieving NCEA level 2 than ever before, while young people aged 15 to 19 and not in education, employment, or training are at the lowest levels on record. "Neets" overall are back to pre - global financial crisis levels.</p><p class="Interjection"><strong>Darroch Ball</strong>: Not pre-2008 levels. </p><p class="ContinueSpeech"><strong>Hon STEVEN JOYCE</strong>: Yes—September 2008, actually. </p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Did the latest monitoring report of the policy find that participants in the Fees-free scheme are more likely to end up on benefits after completing the programme; if so, does he think that the days referred to by the Prime Minister over 8 years ago are now at an end?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: No. In terms of the Fees-free side there has not been a big increase in terms of employment of that 2012 cohort, but it is important to note that that report was done in 2014 and only takes into account the employment considerations for the 2012 cohort, which was the first year that it was transferred from Youth Training to Youth Guarantee. In terms of the educational achievement, we have seen a significant lift in that. In terms of the employment achievement, it is probably a little bit early, but we also want to see that lift over time.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Did the evaluation find that the young people participating in the programme were more—or less—likely to end up on a benefit as a result of participating in the programme?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: I understand that it was about the same. </p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Has he read the line in the report that states that "any difference in outcomes between these groups can be attributed to the programme"; if so, does he think that an additional 2,020 young people receiving benefits, 869 more "neets", and 440 fewer people in full employment are good outcomes?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Again, there are two supplementary questions there—the Minister can address either. </p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: What I know about that report is that it actually underlines the increase in educational achievement at NCEA level 2. The member can try to ignore that if he wishes, but that is the primary aspiration of that scheme—to lift NCEA level 2 achievement—because we all know that if you get at least NCEA level 2, you can do better in the future. In terms of employment, frankly, the member is way too early, because it relates only to the first year of Youth Training. He should wait and see how it goes—and anyway, "neets" are now at their lowest level for 15- to 19-year-olds that they have ever been.</p><p class="SupQuestion"><strong>Dr Jian Yang</strong>: What new steps is the Government taking to ensure more young people—[<em>Interruption</em>] Sorry, I will start again.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! Every member has a right to ask a question.</p><p class="SupQuestion"><strong>Dr Jian Yang</strong>: What new steps is the Government taking to ensure more young people are engaged in education and training?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: Well, as indicated in the primary answer to this question, the Government is making good progress in reducing the number of disengaged young people, with more young people achieving NCEA level 2 than ever before, and "neet" rates, particularly of 15- to 19-year-olds, at the lowest percentage levels that we have ever had—right back to 1989. So we now see an opportunity to do more, and this week education Minister Hekia Parata and I announced a new Youth Guarantee programme, a secondary-tertiary programme called DualPathways, alongside the other programmes. This will allow students to be enrolled part-time both in secondary school at years 12 and 13, and part-time in either tertiary education or industry training. That will allow more young people to fully explore career options while they are still enrolled at school and get a head start on the skills employers are looking for. It is the latest in a number of programmes that are serving to bring "neet" levels to record lows.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: So is the Minister seriously arguing that if participation in the Fees-free scheme increases a young person's likelihood of achieving NCEA level 2 but also increases their likelihood of ending up on a benefit, that is a successful outcome?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: Well, again, for the member's benefit, let me take him through the cohorts that are measured in that report. Those cohorts relate to 2010, 2011, and 2012. The 2012 cohort for the first time picked up the failing Youth Training programme, which was not even delivering educational outcomes; it was delivering nothing. That programme came into Youth Guarantee in 2012. We now have the educational achievement to show for it and we are also, through the "neet" numbers, seeing the lowest numbers of 15- to 19-year-old "neets" that we have ever seen since the series began in 1989.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: So is he seriously arguing that students are better off having participated in a programme—being forced to participate in a programme by the Government—that makes them more likely to end up on a benefit at the end of it?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: Firstly, nobody is forced to participate in the scheme. They are not forced to participate.</p><p class="Interjection"><strong>Hon Members</strong>: They are!</p><p class="ContinueSpeech"><strong>Hon STEVEN JOYCE</strong>: Nobody is forced to participate in Youth Guarantee's Fees-free programme, but they are achieving educational outcomes at NCEA level 2 that will last their entire lives. I think that is an excellent outcome for those young people. The member can pooh-pooh it if he likes, but I know young people who are very proud of achieving level 2 NCEA when they dropped out of school at 14, turned up at Fees-free Youth Guarantee, and now have their NCEA level 2. To me that is worth a lot for those students.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Children, State Care—</strong><strong>Announcements</strong></h4><p class="SubsQuestion"><strong>6. </strong><strong>MATT DOOCEY (National—Waimakariri)</strong> to the <strong>Minister for Social Development</strong>: What recent announcements has she made regarding support for children and young people in care or at risk of going into care?</p><p class="SubsAnswer"><a name="time_20160922 14:33:43" ></a><strong>Hon ANNE TOLLEY (Minister for Social Development)</strong>: This morning I announced that legislation will be introduced to Parliament by the end of the year that will propose new and amended principles to the Children, Young Persons, and Their Families Act 1989 in the critical areas of intensive intervention and care support services. These new principles will ensure better support for children and young people in care or at risk of going into care, and will also increase support for families and caregivers. The current care and protection system is not meeting the needs of vulnerable children, and this new legislation will underpin two important aspects of the new operating model of the Ministry for Vulnerable Children, Oranga Tamariki.</p><p class="SupQuestion"><strong>Matt </strong><strong>Doocey</strong>: How do these new principles differ from the current principles in the Act?</p><p class="SupAnswer"><strong>Hon ANNE TOLLEY</strong>: We know that the current principles do not place enough focus on intervening early with the right level and type of response to address the impact of harm on a child, and the future risk of harm, so the new principles support an early intervention response, with a focus on safe, stable, and loving care. It will also ensure that decisions made about the child or young person should reflect their views and input. The new principles will make it clear that where a child is removed and cannot be returned to their immediate family, decisions should be centred on the child's or young person's best interests, understanding their views and needs. These changes to the fundamental principles of the Act are an integral part of the biggest overhaul of care and protection that this country has ever seen.</p><p class="SupQuestion"><strong>Jacinda Ardern</strong>: If Oranga Tamariki, the Ministry for Vulnerable Children, has no responsibility for reducing child poverty, does she genuinely believe it is instead the role of Work and Income, as she stated in her press statement last night?</p><p class="SupAnswer"><strong>Hon ANNE TOLLEY</strong>: I have made it very clear for over a year and a half now—I do not know where that member has been; maybe under a rock somewhere—that the role of the new Ministry for Vulnerable Children, Oranga Tamariki, is to focus on the care and protection of those children who either are in State care or are at risk of going into State care. The hardship and difficulties faced by many other New Zealand children are the responsibility of all of Government.</p><p class="SupQuestion"><strong>Matt </strong><strong>Doocey</strong>: How were these new principles developed?</p><p class="SupAnswer"><strong>Hon ANNE TOLLEY</strong>: The new Ministry for Vulnerable Children, Oranga Tamariki, will be completely child-centred, and this has been reflected in the development of these principles. The revised principles reflect and incorporate feedback from the Youth Advisory Panel. This panel worked closely with the Expert Advisory Panel on its report and business case last year, and I want to acknowledge the valuable contribution of these young people. These amended principles also largely reflect feedback from the Children's Commissioner. The youth panel told me, and told Parliament, that we need to stop experimenting with their lives and, wherever possible, we need to get it right first time. This Government is committed to seeing this happen.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Transport, Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>7. </strong><strong>JULIE ANNE GENTER (Green)</strong> to the <strong>Minister of Transport</strong>: Does he stand by his statement that "there will come a point of time where you can't just keep adding lanes to the motorway"; and does he think that time has come for Auckland?</p><p class="SubsAnswer"><a name="time_20160922 14:37:55" ></a><strong>Hon SIMON BRIDGES (Minister of Transp</strong><strong>ort)</strong>: Yes; and no.</p><p class="SupQuestion"><strong>Julie Anne Genter</strong>: Given that 50 years of motorway building has not fixed congestion in Auckland, why is his Government still proposing to spend another $6.5 billion adding more lanes to Auckland motorways in the next 10 years, rather than building the rapid transit network that Aucklanders would like?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: Well, I think the member will find it was not me; in fact, it was officials from across both central government and local government and people with independent expertise who determined that, indicatively, these are the sorts of projects that will really get Auckland moving.</p><p class="SupQuestion"><strong>Julie Anne Genter</strong>: So can he confirm whether a detailed business case was completed for the $1.85 billion East-West Link motorway when he announced it would be fast tracked in January last year?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: Yes, well, that is a project that the Government feels strongly needs to be done, and the reason for that is that that is a message we are getting consistently from across the spectrum in Auckland as a project that will really get Auckland moving and, in particular, freight and industry moving in the biggest, busiest industrial area within New Zealand.</p><p class="Interjection"><strong>Julie Anne</strong><strong> Genter</strong>: I raise a point of order, Mr Speaker. My question was pretty straight. It asked whether he could confirm whether a detailed business case was completed for this project.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No. It then went on to mention the fact that the project was "fast tracked"—they were the words that the member used—so I could accept that the member has addressed that. I think when I consider the first part of your question, "Was there a detailed business case?", the Minister has not addressed that. I will allow the member to repeat the question.</p><p class="Interjection"><strong>Richard Prosser</strong>: I raise a point of order, Mr Speaker. To assist the order of the House, I think if you look at the <em>Hansard</em>, the Minister's first word was "Yes", so he did answer that question. </p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! I do not need that sort of help from Mr Prosser.</p><p class="SupQuestion"><strong>Julie Anne Genter</strong>: Can the Minister confirm whether a detailed business case was completed for the East-West Link motorway when he announced it would be fast tracked?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: Yes, as I think the member knows, because she has sent in about 50,000 Official Information Act requests on this issue. We have done very detailed investigations on this issue. We have gone through a range of options in great detail, and we feel very confident we have come out with the best long-term project here.</p><p class="SupQuestion"><strong>Julie Anne Genter</strong>: Given that a detailed business case has not been completed for the East-West Link, is the Government now admitting that it is not using objective expertise to inform which projects are going to be prioritised in the next 10 years in Auckland? </p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: I think the member has missed the tenor of my last answer. As I say, the New Zealand Transport Agency has done very detailed investigations in relation to the East-West Link project, and we feel very confident that it is the right project—it is a project that Auckland wants. I will also make quite clear that we have many other plans in place to keep Auckland moving.</p><p class="SupQuestion"><strong>Julie Anne Genter</strong>: Does the Minister understand that there is an opportunity cost to spending billions of dollars on additional motorway lanes, and that if that money was used on high-capacity busways and railways first, it would actually help more Aucklanders get around, not only on public transport but on the roads that already exist?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: I think the member is exactly right. That is why we have set up the Auckland Transport Alignment Project, so that in an evidence-based way we are going through and determining the projects that represent the best value for money to deal with congestion. That includes a wide range of projects in public transport, but also in arterial roads, motorways, and the like, because they all, combined, represent the best value to deal with Auckland's transport issues.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Māori Development—</strong><strong>Performance of Ministers</strong></h4><p class="Speech"><a name="time_20160922 14:42:49" ></a><strong>KELVIN DAVIS (Labour—Te Tai Tokerau)</strong>: I seek leave to hold my question over until the Minister for Māori Development is available to answer.</p><p class="Speech"><a name="time_20160922 14:42:51" ></a><strong>Mr SPEAKER</strong>: Leave is sought for that course of action. Is there any objection? There is objection. </p><p class="SubsQuestion"><strong>8. </strong><strong>KELVIN DAVIS (Labour—Te Tai Tokerau)</strong> to the <strong>Minister for Māori Development</strong>: Does he believe that the lives of Māori have improved during his time as Minister for Māori Development?</p><p class="SubsAnswer"><a name="time_20160922 14:43:16" ></a><strong>Hon PAULA BENNETT (Minister for Social Housing)</strong>: on behalf of the <strong>Minister for Māori</strong><strong> Development</strong>: Yes.</p><p class="SupQuestion"><strong>Kelvin Davis</strong>: How have Māori lives improved, with the Māori homeownership rate plummeting to just 28 percent under his watch, and with Māori facing a rate of homelessness more than five times greater than the European population?</p><p class="SupAnswer"><strong>Hon PAULA BENNETT</strong>: The Māori Housing Network provides funding of approximately $17.6 million per annum for housing projects aimed at improving the quality and affordability of homes, as well as increasing the number of whare available. The Māori Housing Network is supporting 87 projects around the motu. These projects include helping to repair 243 whānau homes, building 42 new affordable homes, supporting provision of emergency housing facilities, and providing infrastructure for 116 houses. This is making a difference, and that is what the focus is on.</p><p class="SupQuestion"><strong>Kelvin Davis</strong>: Why has his Kāinga Whenua Loan Scheme failed so dramatically to build houses, given fewer than five loans have been given out each year?</p><p class="SupAnswer"><strong>Hon PAULA BENNETT</strong>: They are currently running projects throughout the country and going around and speaking at different events to make sure that they are talking to people about how they might be working. We will be seeing that number increase.</p><p class="SupQuestion"><strong>Kelvin Davis</strong>: Does he think his Māori Housing Network is really going to help Māori into homes, when it organised more workshops last year than it built houses?</p><p class="SupAnswer"><strong>Hon PAULA BENNETT</strong>: The whole idea is to be talking to people and making sure that the projects do fit with what they want locally and what they need. The answer to that question is a definite yes.</p><p class="SupQuestion"><strong>Kelvin Davis</strong>: Does he accept that he has overseen some of the worst declines for Māori homeownership, that there are children living in cars, and that he is a Minister in a Government that his co-leader called a "slum lord"?</p><p class="SupAnswer"><strong>Hon PAULA BENNETT</strong>: I think that the Minister for Māori Development is making huge inroads when it comes to Māori housing and how that can be done, from Te Ture Whenua Māori land to how they are actually pulling that together, to the loans that are available to making sure that our young people do have access. I think it is making progress.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: How have the lives of Māori improved if Te Puni Kōkiri and Whānau Ora commissioning agencies—[<em>Interruption</em>] </p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! I will require substantially less interference from my right-hand side. The member can start his question again.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: How have the lives of Māori improved if Te Puni Kōkiri and Whānau Ora commissioning agencies have exited almost 30 of the 50 contracts nationwide that were transferred from the Ministry of Social Development, while he keeps the funding and enjoys a slush fund of almost $3 million?</p><p class="SupAnswer"><strong>Hon PAULA BENNETT</strong>: That member has made his views pretty clear in this House many times on how he sees Whānau Ora operating. The reality is that it has showed that more than 11,500 whānau are being supported to improve and achieve things across their lives. This is about working alongside Māori in their homes, in their communities, and seeing them be aspirational and working towards success, not about actually holding funds close to them and not making a difference.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Pacific Peoples—</strong><strong>Pacific Employment Support Services Launch</strong></h4><p class="SubsQuestion"><strong>9. </strong><strong>ALFRED NGARO (National)</strong> to the <strong>Minister for Pacific Peoples</strong>: What recent announcement has he made about supporting young Pacific people into sustainable employment, education, and training?</p><p class="SubsAnswer"><a name="time_20160922 14:47:05" ></a><strong>Hon Peseta SAM L</strong><strong>OTU-IIGA (Minister for Pacific Peoples)</strong>: Last Friday I relaunched the Pacific Employment Support Services scheme in Manukau. This scheme focuses on getting young Pacific people into employment, education, and training. I am delighted that a further $4.6 million has been allocated to run the programme for the next 4 years. Four providers will work together across Auckland and Hamilton, and the programme expects to provide essential support to get 2,000 young Pacific people into work or training over the next 4 years.</p><p class="SupQuestion"><strong>Alfred Ngaro</strong>: What evidence is there that the scheme is truly making a difference?</p><p class="SupAnswer"><strong>Hon Peseta SAM LOTU-IIGA</strong>: The evaluation of the pilot programme showed that over 1,400 young Pacific people have already benefited from the scheme since it began as a pilot. Of those, over 81 percent were placed into work or training schemes. It was clearly evident from speakers last Friday that this programme makes a real difference to these young Pacific people and their families. It does this by motivating, matching, and training young people to give them the support and the confidence that they need to succeed in the workplace and in their training programmes.</p><p class="SupQuestion"><strong>Su'a</strong><strong> William Sio</strong>: Are Pacific parents correct that his Government promised a brighter future, but instead what they got was high youth unemployment and that "Almost a quarter of Pacific students reported that their parents worry about not having enough food, and 36 percent said someone at home sleeps in a room not designated for sleeping (e.g., a garage or living room),", as highlighted in the health and well-being of Pacific youth report released today?</p><p class="SupAnswer"><strong>Hon Peseta SAM LOTU-IIGA</strong>: The report by Auckland UniServices showed that Pacific young people are actually making good progress. Recent results show that they have improved family and school relationships, significant reductions in substance abuse, and improved educational goals.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Local Government, Ministe</strong><strong>r—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>10. </strong><strong>DARROCH BALL (NZ First)</strong> to the <strong>Minister of Local Government</strong>: Does he stand by all his statements?</p><p class="SubsAnswer"><a name="time_20160922 14:49:31" ></a><strong>Hon Peseta SAM LOTU-IIGA (Minister of Local Government)</strong>: Yes, in the context in which they were made.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: Does he stand by his statement to the Local Government Commission in March this year that "What you're going to get is models that are appropriate for the individual regions, we're not going to impose this from Wellington, there's no 'one size fits all' …"?</p><p class="SupAnswer"><strong>Hon Peseta SAM LOTU-IIGA</strong>: Yes, I do.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: If that is the case, will he now amend the Local Government Act 2002 to reflect the race-based appointments incorporated into the Taranaki Iwi Claims Settlement Bill, which will force the Taranaki Regional Council to include six unelected iwi representatives?</p><p class="SupAnswer"><strong>Hon Peseta SAM LOTU-IIGA</strong>: I have not made any announcements on that bill, nor am I responsible for that bill.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: Would he agree that it is fair and democratic to force a council that was democratically elected to include six members based on race who hold the same status and remuneration and expenses; if so, why?</p><p class="SupAnswer"><strong>Hon Peseta SAM LOTU-IIGA</strong>: That is a hypothetical question. That is a hypothetical question; I do not have to answer.</p><p class="Interjection"><strong>Darroch</strong><strong> Ball</strong>: I raise a point of order, Mr Speaker. This is hardly—[<em>Interruption</em>]</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! I cannot hear the point of order.</p><p class="Interjection"><strong>Darroch Ball</strong>: This is hardly a hypothetical question. I can ask—</p><p class="Interjection"><strong>Mr SPEAKE</strong><strong>R</strong>: Order! The Minister has interpreted it as a hypothetical question. It was a difficult question—[<em>Interruption</em>] The member will resume his seat. It was a difficult question for me to write down because it was a fairly lengthy question, but that is the answer the Minister has given, and when I consider the generality of the primary question, we will move forward.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: Why is the Government ignoring a referendum in the New Plymouth area last May, when 83 percent opposed race-based appointments to local government, by now ramming six non-elected appointments down Taranakians' throats?</p><p class="SupAnswer"><strong>Hon Peseta SAM LOTU-IIGA</strong>: I would note that we are not ignoring that referendum held last year. That is not true.</p><p class="Interjection"><strong>Darroch Ball</strong>: You are.</p><p class="ContinueSpeech"><strong>Hon Peseta SAM LOTU-IIGA</strong>: No, we are not.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Small Businesses—</strong><strong>Business Surveys</strong></h4><p class="SubsQuestion"><strong>11. </strong><strong>Dr PARMJEET PARMAR (National)</strong> to the <strong>Minister for Small Business</strong>: How will small businesses benefit from this Government's move to reduce the time it takes to complete business surveys?</p><p class="SubsAnswer"><a name="time_20160922 14:52:05" ></a><strong>Hon CRAIG FOSS (Minister for Small Business)</strong>: Under this Government Statistics New Zealand has taken yet another step towards being digital by default and open by default by moving three more business surveys online. Small businesses will now save time by completing four surveys—the Agricultural Production Survey, the Economic Survey of Manufacturing, the quarterly Wholesale Trade Survey, and the Quarterly Business Survey—online. An additional 15 business surveys will be available to be completed online by mid-2017, and our aim is to have all business surveys online in 2018. Small businesses will continue to benefit from the reduced time taken to fill out these surveys while also contributing their data to create more information for more informed markets across New Zealand.</p><p class="SupQuestion"><strong>Dr Parmjeet Parmar</strong>: As well as making it easier to complete business surveys, what steps is the Government taking to reduce the number of small businesses that have to complete a business survey?</p><p class="SupAnswer"><strong>Hon CRAIG FOSS</strong>: The number of businesses surveyed over recent years has reduced from 268,000 businesses to 72,000 businesses. The biggest reductions have been amongst small businesses. This has been made possible as Statistics New Zealand has made better use of administrative data collected by other organisations across Government. I expect Statistics New Zealand to look for further opportunities for further reductions. This is great news for many small business owners across New Zealand, and for operators, who, of course, can now spend less time on administration and more time on their business.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Primary Industries, Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>12. </strong><strong>Hon DAMIEN O'CONNOR (Labour—West Coast - Tasman)</strong> to the <strong>Minister for Primary Industries</strong>: Does he stand by all his statements?</p><p class="SubsAnswer"><a name="time_20160922 14:54:08" ></a><strong>Hon JO GOODHEW (Associate Minister for Primary Industries)</strong> on behalf of the <strong>Minister for Primary Industries</strong>: Yes, in the context they were given. In particular, the Minister stands by his statement that yesterday's announcement was "great news for dairy farmers", with Fonterra raising its forecast payout to well above break even for most farmers. The Minister notes that this statement contrasts with the statements of some members, who have previously expressed more dire forecasts for that industry.</p><p class="SupQuestion"><strong>Hon Damien O'Connor</strong>: Does he stand by his statement that the tender process for monitoring commercial fishing was a "very open and transparent process"; if so, what is open or transparent about letting the commercial fishing industry, which is about to be monitored, veto any firm it did not like?</p><p class="SupAnswer"><strong>Hon JO GOODHEW</strong>: The Minister stands by his statement on that issue.</p><p class="SupQuestion"><strong>Hon Damien O'Connor</strong>: Who does the Minister think is more likely to get vetoed by the commercial fishing industry—(a) a company owned by the commercial fishing industry, or (b) the firm that discovered systemic fish dumping by commercial fishing companies?</p><p class="SupAnswer"><strong>Hon JO GOODHEW</strong>: If you are asking the Minister to second-guess something the commercial fishing industry would do, why does the member not ask them himself?</p><p class="SupQuestion"><strong>Hon Damien O'Connor</strong>: Why did the Minister's officials try to stitch up the tender process so the commercial fishing industry would be monitoring itself?</p><p class="SupAnswer"><strong>Hon JO GOODHEW</strong>: I reject the assertion in the member's question.</p><p class="SupQuestion"><strong>Hon Damien O'Connor</strong>: Does the Minister think New Zealand's international export reputation is at risk when the integrity of the Ministry for Primary Industries and the fishing industry is under question?</p><p class="SupAnswer"><strong>Hon JO GOODHEW</strong>: Quite the contrary. I think what the international industry will see is that we have had an independent inquiry into our fisheries compliance investigations, that we have taken on the chin that in the case of one of them it was flawed, that we have said we have a total commitment to changing the internal processes that have brought this about, and that in fact we are not hiding the fact that there have been mistakes made.</p><p class="QOAEnd"><a name="time_20160922 14:57:06 " ></a><strong> </strong></p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>RANGITĀNE O MANAWATU CLAIMS SETTLEMENT BILL</strong></p><p class="SubDebate"><strong>Second Reading</strong></p><p class="IndentMargin">Debate resumed from 21 September.</p><p class="Speech"><a name="time_20160922 14:57:15" ></a><strong>ADRIAN RURAWHE (Labour—Te Tai </strong><strong>Hauāuru</strong><strong>)</strong>: Tēnā tātou e Te Whare nei. Before the lunch break, I was talking about the disappointment that Rangitāne will be feeling about not having their settlement bill read for a third time tomorrow. I also spoke about the whare, the house, that stands on Te Hotu Manawa o Rangitaane o Manawatu marae, the name of which is Tūturu Pūmau. Within Tūturu Pūmau is a carving representing gifts that were given from Tahupōtiki Wīremu Rātana to Michael Joseph Savage.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">That carving is incomplete because it was the view of the people of Rangitāne that the addressing of their Treaty settlement—the breaches of the Treaty—has not yet been settled. So they will be immensely—[<em>Interruption</em>]</p><p class="Intervention"><strong>Mr SPEAKER</strong>: Order! I apologise for interrupting the member. Can I ask for substantially fewer conversations to take place. This is important legislation, certainly of interest to a large number of people in the gallery, and I expect more respect to be shown by members. If they want conversations to occur, they should move to the lobbies. I apologise for interrupting the member.</p><p class="ContinueSpeech"><strong>ADRIAN RURAWHE</strong>: Thank you, Mr Speaker. As I was saying, within Tūturu Pūmau there is an unfinished carving. It represents unfinished business about the breaches of the Treaty that Rangitāne o Manawatu have suffered. The delaying of the third reading will delay the completion of those taonga within that whare. I want to acknowledge the presence of those from Rangitāne o Manawatu and thank them for their patience. The delay has nothing to do with any action that Rangitāne o Manawatu has taken—in fact, quite the contrary. I do not want to take up any more of the House's time, except to say that this is long overdue. It is another step towards the completion of those taonga in that house. </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 15:00:50" ></a><strong>MARAMA FOX (Co-Leader—Māori Party)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">As with many Treaty settlements, those who begin the journey are not always the ones who end the journey. Those who begin the journey to right the wrongs of the past and dedicate their lives to ensuring that their people have a better future—our whānau who take up this struggle and the whawhai do so not for themselves but for their descendants, for those who are still yet to come, for their tamariki, for their mokopuna, and for their</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">We have already acknowledged those who have lost the struggle along the way and are not here</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">In the submission from Rangitāne o Manawatu Settlement Trust, it acknowledged the recent passing as well of Ngāti Mairehau hapū representative Pōtaka Tāite in April of this year. His loss is undoubtedly felt the most by his beloved wife and children, and we read how Pōtaka was a man steeped in his tikanga and cultural practices, which were part of his daily life. Like many others, he was active in the affairs of his hapū from a very early age. His mother Kararaina Tāite was a founding member of Tānenuiarangi Manawatū Inc. and a negotiator for the Rangitāne o Manawatu Treaty claims until her passing in 2012. Pōtaka, a speaker at the Rangitāne o Manawatu deed of settlement signing was there and was genuinely looking forward to the future of Rangitāne o Manawatu, and he brought his own sense of passion. His loss, like the others, is still keenly felt. </p><p class="a">Rangitāne o Manawatu has been working towards settlement with the Crown since 1998—1998—when Tānenuiarangi Manawatū Inc. gained a mandate to represent the iwi in negotiations. From 1859 to 1866 a Crown purchase of over 500,000 acres of land, in which Rangitāne o Manawatu had customary interest, was made. In July 1998 the Crown and Rangitāne o Manawatu signed terms of negotiation, which brings us to this point. </p><p class="a">It is with a heavy heart, again, today that we acknowledge that we are unable to succeed or to progress to the third reading, which would have happened tomorrow. It has been well canvassed. We are well aware of the political game playing that has ensued, which has put this on hold. I apologise on behalf of this House to our whānau that the game playing of this House has interrupted what has been a long and determined struggle to come to your final day—your final day, iwi o Rangitāne o Manawatu—when we could put these things aside and start to move on. </p><p class="a">One of the things we discussed at length and heard submissions on was around the Tangimoana Crown Forest Licensed Land and 113 to 117 Fitzherbert Avenue, Palmerston North, which will now be transferred to Rangitāne o Manawatu on the settlement date. We heard people making cross-claims in the area, and some of the debate that ensued was about who lives there now, who lived there when, and where is ahi kā? It reminded me, in fact, of the debate that happened often from settlers and the Crown when they came and settled this land: "If you do not live on it, it cannot be yours. If it does not surround your house, then it is free for us to have." That was the similar debate that happened for the Crown forest area.</p><p class="a">On settlement, Rangitāne o Manawatu will have the option to—we will get that—purchase, with a deferred selection period of 2 years from the settlement date, 10 sites within the Rangitāne o Manawatu area of interest. That, again, is somewhat dismaying to me, that, actually, the Crown can gift land for next to nothing to a university, an education institution, or a charity, but yet when it comes to settlement, when negotiations ensue, we have to pay for that land to get it back after it was taken unjustly in the first place. </p><p class="a">So we come to this point, and in the spirit of trying to move on—in the spirit of trying to move on—Rangitāne o Manawatu have taken up the challenge to settle now and to progress into the future and do all the things, all the dreams, and fulfil the aspirations of those who have not made it to this point, who have passed on in the struggle and the fight, and left it to those</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 15:09:28" ></a><strong>METIRIA TUREI (Co-Leader—Green)</strong>: Tēnā koe e Te Māngai o Te Whare. Ki a koutou huri noa i Te Whare, tēnā koutou katoa.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">My dad, Richard, was a farm labourer who was born and raised as a young man in Papawai but lived his adult life in Palmerston North. For his whole life, he was a farm labourer, so he did everything from deer hunting to farm labouring, working all over the Manawatū. He worked all the way from Marton down to Ōpiki, from Tangimoana to Pohangina. We, as a whānau, as a small family—small, working-class Māori family—lived all over the Manawatū area our whole lives. </p><p class="a">This was a place where there was great wealth all around us—there was great wealth. None of it belonged to anybody whom we ever knew. We could see it; we were working the land from which that wealth and privilege was generated. None of it ever belonged to anybody whom we ever knew—not to our whānau, not to our hapū—we did not know. It really is difficult, I think, to describe—although people do try, and some, perhaps more eloquently than me, will be able to—what it is like to grow up in a place where you belong in your bones, you know that when you walk on the ground, that ground is in your blood, but for some reason you are totally disassociated from it. You have been dispossessed from it. You can feel that dispossession in your life, and you can see the effects of that dispossession, but you cannot describe it. You cannot explain why you feel that way—you just know that there is this strange screen between you and the land that you belong to. </p><p class="a">In an environment like that, and with the description of the dispossession of Rangitāne from their land, you can see why it is so difficult to describe. There are no people who you can say did you wrong. You cannot say this person or that person hurt your whānau or took this from you. You cannot describe it in terms of warfare and violence, because, as we know in this case in particular and elsewhere around the country, the dispossession occurred as a matter of law and a matter of economics, and proved to us all that old adage that the pen truly is mightier than the sword. It was through the pen that half a million acres was taken from Rangitāne—half a million acres taken from this people, over a long period of time, with deal after deal and a little bit of trading here and a little bit of misinformation there, all done over years and years and generations with the stroke of a pen. What it does, then, is it leaves those at the end of that in a world feeling like there is no place to stand. That is kind of what it feels like. </p><p class="a">So I am very pleased to stand here and support this settlement bill, because I know how that feels, to be so disassociated from this land that is being talked about tonight. We are disappointed that, as has been said before, it is reparation not compensation for the half a million acres taken. We are overwhelmed by the generosity of the iwi in accepting this settlement, knowing how much was lost and how little is being returned. We are enormously proud of those who have fought for this settlement for decades to have some resolution of the loss that was felt. </p><p class="a">I do not want to speak for too long, because we need to get the settlements done so that people can get on. But it is really important that, perhaps after this, the people of Manawatū—of Palmerston North and all the surrounding rural towns in the area—really get to understand the settlement and the history of the settlement, so they understand the ground that they are standing on. That might make it easier for the kids like me in the future, who will really, truly believe that they belong there; really, truly understand that this is the land that they belong to; and feel that they truly have a place to stand. Kia ora koutou.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 15:15:36" ></a><strong>NUK KORAKO (National)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">It is indeed my pleasure to take this call for the second reading of the Rangitāne o Manawatu Claims Settlement Bill. It is also a privilege to stand, as the chair of the Māori Affairs Committee, and to have this opportunity to contribute to the second reading of this Rangitāne o Manawatu Treaty settlement bill. What I would like to do is go through a number of the processes and a number of the take, actually, that were discussed at the Māori Affairs Committee following the first reading, when moving it through to scrutinising the bill and then seeking information from iwi and also non-Māori as well.</p><p class="a">What I want to highlight—one part of it—is that we received submissions on this bill. There were nine of them. We went to Palmerston North to hear five of the submissions. The majority of the submissions were in support of the deed of settlement. We note, though, that there were a couple that actually did not agree with the settlement. However, I think one of their concerns was about the inclusion of Ngāti Tauira hapū in the claimant definition. Although the reconfirmed mandate in 2007 clarified that Ngāti Tauira members were included in the settlement if they descended from Tānenuiārangi, Ngāti Apa submitted that they should not be included as they are Ngāti Apa hapū. The select committee took a view that although Ngāti Tauira's strongest links were definitely with Ngāti Apa, they have whakapapa and they have social and political links to both. We agreed that it is appropriate that participation of Ngāti Tauira in the Rangitāne o Manawatu settlement is dependent on their having descended from a Rangitāne o Manawatu ancestor. So that was where we actually discussed that, looked at that, and agreed that that should be the case moving forward. </p><p class="a">We also considered concerns from two overlapping groups: Rangitāne o Wairarapa and Rangitāne o Tāmaki-nui-ā-rua. They expressed their opposition to the area of interest defined by Rangitāne o Manawatu. Although we recognise that the other two groups may have interests in the same area, we also noted that it is not an exclusive area of claim and it is not unusual for iwi to have overlapping interests in different areas. Also, the other part of this was that there was no exclusive redress provided in the contested area. So that was really what came out of that actual submission. </p><p class="a">Another area of disagreement between the iwi was the Tangimoana Crown Forest Licensed Land, which is included in this settlement as a commercial redress. Ngāti Kauwhata claim that this forest is part of their ancestral rohe. This settlement would remove any possibility of Ngāti Kauwhata claiming Tangimoana Forest in the future. So we noted that this area is the only Crown forest land within the area of interest for this settlement. However, other iwi with overlapping interests have other Crown forest land available for the settlement and within that area of interest. The primary purpose of commercial redress is to re-establish an iwi's economic base, so we were satisfied that enough Crown land actually remains available for the future settlements in that particular area. </p><p class="a">Finally, some of the submitters from Ngāti Raukawa submitted that their interests overlapped with Rangitāne o Manawatu, and that they would be prejudiced by the exclusive redress provided to Rangitāne o Manawatu. But we understand that there is already in place an amendment to the settlement to address the concerns of Ngāti Raukawa ki Te Tonga. There is also sufficient land remaining, again, to provide that actual commercial redress. The only other amendment we made was that we recommended, as a result of surveys of the redress sites, updates to the legal descriptions contained in the bill. </p><p class="a">I just want to take this opportunity to again acknowledge the iwi of Rangitāne o Manawatu and to mihi to you for coming here today to hear your bill's second reading. I am looking forward to working through—with the Māori Affairs Committee, which is a very pragmatic and very principled committee. We actually work with what we have, and at the end of the day, we actually assist your journey until the end, until the third reading, when this becomes an Act of Parliament. So, kia ora to you, and I look forward to again welcoming you here to Parliament for the third reading.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 15:21:53" ></a><strong>PITA PARAONE (NZ First)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">I stand on behalf of New Zealand First to support this bill and to recognise that this bill, by way of the Crown acknowledging unfortunate episodes in our country's history, tries to rectify the situation by way of redress as is articulated in the bill. As the previous speaker, Nuk Korako, alluded to, this bill was referred to the Māori Affairs Committee and the committee recommended that the bill pass with some amendments, which include some resulting from surveys of the redress sites, and these amendments would update the legal descriptions of a number of land provisions. </p><p class="a">We received nine submissions, and, as previously alluded to, not all of the submitters supported the passing of the bill, and that was one of the issues that the committee had to consider before making its recommendation back to this House. Like all settlements, it does not please everyone, but the attempt has been made to try to offer redress for the actions of the Crown, which have, in this case, left Rangitāne o Manawatu almost landless. This bill is intended to protect what land they have left and ensure that the land that is being offered in this bill helps to secure the long-term future of this iwi. </p><p class="a">The bill was introduced in December last year. It was referred to the Māori Affairs Committee in March of this year, and we reported back to this House at the beginning of this month. Although the physical journey may be regarded as a long one, in terms of the processes of this House, I think it has been fairly quick compared with other settlement bills, and so I want to acknowledge this House for at least giving some urgency to this claim. </p><p class="a">Prior to this bill being presented in the House, some comments were made, and I just want to quote some of the words that were articulated in earlier readings of this bill: "The people of Rangitāne o Manawatū were subjected to legislative prejudice which made their land more susceptible to partition, fragmentation, and alienation. This was enacted in the hope that Māori would abandon their tribal and communal structures of traditional land holdings." It goes on further to say: "By the end of 1880, Rangitāne o Manawatū held about 20,000 acres of land." Fifty years later, this iwi's landholdings had reduced to 2,903 acres, so you can see why this particular bill is very important to the long-term future—particularly the economic future—of Rangitāne o Manawatu. </p><p class="a">When this bill is enacted, it will give effect to the deed of settlement signed between Rangitāne o Manawatu and the Crown in November last year, which, again, signals the rapid progress of this bill through the parliamentary process today. Again, I think that is a reflection of the commitment made by those people who are responsible for this bill, and also on the work that the Māori Affairs Committee did in ensuring that the bill got to this stage. </p><p class="a">Just in closing, I heard the Minister make reference to the lady who has led this charge, Danielle Harris, and everyone has been talking about their whakapapa. I just want to remind this House, and I might have to remind Danielle as well, that she has connections to the north—very strong connections to the north. Perhaps, Danielle, we may need to have you come home and help us with our particular settlement process. Be that as it may, I just make reference to Danielle because I worked with her grandmother—her maternal grandmother—and I will never forget that lady, because she was one of my early mentors when I started with the Māori Affairs department in Auckland. Danielle spent some time working in the office of the Māori Trustee when I was working there, so I have a lot of regard for her. Can I say, Danielle, that I do feel sorry for you—sorry for the fact that it does not matter how much you may have worked to get the settlement to this stage, there will always be people within your iwi who will criticise you and not thank you for the work that you have done.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">Nā reira, Mr Deputy Speaker, I just want to conclude by saying that I commend this bill to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 15:30:03" ></a><strong>MEKA WHAITIRI (Labour—Ikaroa-</strong><strong>Rāwhiti</strong><strong>)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">It is indeed my privilege to take a call on the second reading of the Rangitāne o Manawatu Claims Settlement Bill. Before I kick off and talk about the bill, can I stand here in all humility, on behalf of the people I represent in this House—the iwi I represent in this House—from Te Tai Rāwhiti, from Kahungunu, from Rangitāne to Te Atiawa ki Awanuiārangi a Te Awakairangi—to offer my disappointment that the people of Rangitāne o Manawatu have to wait to see their bill read a third time. Through no doing of yourselves, you have found yourselves subject to yet another delay. So I just want to go on record, on behalf of the people I represent, of Ikaroa-Rāwhiti, and acknowledge your tolerance, as this is of no doing of your own. So ngā mihi ki a koutou. </p><p class="a">In the process of checking and researching this bill—I just want to note that the terms of reference were signed way back on 27 July 1998 with Sir Douglas Graham. The heads of agreement, which was a precursor to the agreement in principle, was signed on 25 November 1999. Then this claim went into a 10-year hiatus and the deed of settlement was initialled in this Whare in the Matangireia room on 1 May 2015. With our colleague Adrian Rurawhe, the member for Te Tai Hauāuru, we joined with the whānau to celebrate that initial signing in the Matangireia room. Then the deed of settlement was finally signed on 14 November 2015, and, of course, we had the first reading on 15 March 2016.</p><p class="a">At the second reading, it is important that we reflect back to the House what transpired through the select committee process, and there are two particular comments I want to make in that regard. I am not a member of the Māori Affairs Committee, but I do have a passion for Treaty settlements and land retention, in terms of staying in the hands of Māori. I do want to acknowledge the work of the very hard-working Māori Affairs Committee, ably chaired by the honourable member Nuk Korako, and, of course, all the members in the House who have participated in dealing with this claim. </p><p class="a">Like all claims, each and every one is unique. After reading this claim, particularly the historical account, I want to just take the opportunity to reflect a couple of passages, because they, for me, summarised just some of the hurt and humiliation that the Rangitāne o Manawatu people suffered. Part 1, clause 8(3) states: "In 1864 the Crown purchased approximately 250 000 acres in the Te Ahuaturanga block from Rangitāne o Manawatu for £12,000. The Crown urged Rangitāne o Manawatu to sell as much land as possible and succeeded in reducing the size of the reserves to be made from the sale for Rangitāne o Manawatu from 5 000 acres to 2 570 acres. The reserves that were made did not include several areas of great cultural significance. After the Crown declined requests from Rangitāne o Manawatu to change the reserves, the iwi repurchased several of their kainga in the block. In 1867 the Crown gave 71 acres of the block to another iwi without consulting Rangitāne o Manawatu. The land is now central Palmerston North and valuable commercial and residential real estate." </p><p class="a">Here we have, yet again, a dispossession of more land of the hau kāinga and gifted to another iwi. In all Treaty settlements, there are pockets where this has occurred, and I just reference that because this is taking land that definitely belonged to Rangitāne o Manawatu and giving it to another iwi. All I can say is that the iwi who has got this land has probably had an injustice done to them. So we have two wrongs that do not equal a right. But I wanted to raise that because it is in the historical account of this bill. So I just wanted to mention that.</p><p class="a">Then I turn to the apology in the bill. This is again Part 1, clause 10(e), which states: "The Crown deeply regrets its failure to appropriately acknowledge the mana and rangatiratanga of Rangitāne o Manawatu. Through this apology and by this settlement the Crown seeks to atone for its wrongs and begin the process of healing. The Crown looks forward to re-establishing its relationship with Rangitāne o Manawatu based on mutual trust, co-operation, and respect for the Treaty of Waitangi and its principles." </p><p class="a">You might ask why I am making reference to that particular clause in the bill. It is because, over recent times in this House, I have seen legislation passed under urgency by a majority that actually goes completely against that statement—completely against that statement. The Public Works Act is an example. We are currently trying to deal with the Kermadecs, which is a Treaty settlement. So when I read statements like this, it is incumbent on the Crown to uphold this when it is dealing with other pieces of legislation, otherwise it makes clauses like this untrue. If we are going to re-establish "mutual trust, co-operation, and respect for the Treaty of Waitangi and its principles.", then that covers everything we do in this House, not just for this particular iwi's Treaty settlement but for all New Zealanders, and I think you get my point on that. </p><p class="a">So, like I said earlier, I want to turn to the contributions and the work of the hard-working Māori Affairs Committee. There are two submissions—I notice there were nine made, but I just want to reference two particularly. One was submitted by Ngāti Apa, and the reason why I want to raise this is that many of our people do not see any value in the select committee process. I wanted to reference these two particular submissions because of the way they were received but also the way in which the committee considered them and has, in a considered way, reported back to the House. So if we, as Māori, are going to have an impact or influence on how legislation is made, then the select committee process—I cannot speak highly enough of it. </p><p class="a">So the two that I want to highlight are the Ngāti Apa submission—and, of course, this is about the Ngāti Apa hapū of Ngāti Tauira. The issue here was that the hapū of Ngāti Tauira is currently in the Ngāti Apa settlement, and, essentially, their submission was that Ngāti Tauira was in Ngāti Apa, but they are also reflected in this bill here, which we are talking about today. What I do notice, and when I read the Māori Affairs Committee response to that—and I think it was a very valid response—is that it was around saying that there are no exclusive rights to a hapū. So although it appears in this bill, it does not mean that everyone has to come under Rangitāne o Manawatu; likewise with Ngāti Apa. I thought that that was a well-considered response to, obviously, Ngāti Apa's concerns. The other one was the one put in by the Rangitāne Settlement Negotiations Trust. In its submission, it talked about the kind of shared area of interests with Rangitāne o Manawatu, and—oh, my time is up. Oh, my gosh, that has been wonderful. I commend this bill to the House. Thank you very much. Aroha mai, kia ora tātau e te whānau.</p><p class="a">[<em>Apologies and my appreciation to us</em><em>,</em><em> the family.</em>]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 15:40:26" ></a><strong>PEENI HENARE (Labour—</strong><strong>Tāmaki</strong><strong> </strong><strong>Makaurau</strong><strong>)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 15:50:27" ></a><strong>JOANNE HAYES (National)</strong>: Kia ora.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">I stand to take this final call in the Rangitāne o Manawatu Claims Settlement Bill, and I am very proud to do this. My contribution is actually going to concentrate on some key figures who have worked behind the scenes to actually get this bill here to the House. First of all, I want to pay tribute to the formidable Ruth Harris—and she was a formidable person. She rubbed a lot of people up the wrong way, but she was formidable in the fact that she drove this particular process for the iwi o Manawatū all the way to this point here today. As I said, her staunch approach did get up the noses of people at times, but I can tell you that during her time it was she who took the head office of Tānenuiārangi from Main Street in Palmerston North and established it at Awapuni Hospital. She needed some funding and she went to seek it not from a Māori, not even from a Pākehā—she went to an Asian, a Chinese investor who actually helped to establish the head office of Rangitāne o Manawatu at the Awapuni Hospital. </p><p class="a">I also want to acknowledge the Fitzgerald whānau: Rangi Fitzgerald, his daughter Lorene, who passed this year and who did a lot of work in behind the scenes—along with Ruth and the Harris whānau. </p><p class="a">Finally, I would like to acknowledge Tānenuiārangi Te Awe Awe. The Te Awe Awe whānau make up the third branch of the whānau Rangitāne o Manwatu. They make up a big portion of how this bill came here to the House, and along the way there were also the rangatira Te Rangi Baker and Auntie Ka Taite and her son, Kim Pōtaka Taite, who were mentioned in the House today. I remember meeting Auntie Ka for the very first time, and I thought that she was a bit grumpy, but she actually held her place in everything that she did. I take my hat off to those women and those men, our tūpuna, who worked diligently to this day. It is a shame that we cannot finish the whole thing off over the next few days, but that is how it is, and today is a celebration for Rangitāne o Manawatu. </p><p class="a">Today we also see the tamariki and mokopuna of those very people whom I have mentioned, who have picked up the baton, picked up where their tūpuna have left off, and they have carried, and continue to carry, the mantle of their forebears as the Post Settlement Governance Entity (PSGE) group, including the daughter of Ruth Harris, another formidable Harris, Danielle. And no, Pita, you cannot have Danielle up north; she is staying with us. She is ours and always has been ours. </p><p class="a">I want to also mention Chris Whaiapū. Chris is the son of Lorene Fitzgerald and the mokopuna of Rangi Fitzgerald, and he is also on the PSGE group, along with Hōhepa Sharland, Tina Kāwana, and Terry Hapi. Although everybody looks at that group and thinks that this is an amazing group together, they carry a load of responsibility for Rangitāne o Manawatu into the future. </p><p class="a">We have heard about the commercial redress of the Tangimoana Forest. Just recently we heard and read in the newspapers about the farms that are coming up for sale through Landcorp—six in the South Island and three in the North Island. Two of those farms are actually in Rangitāne o Manawatu, and Rangitāne, tū mai. In the newspapers, there was a discussion around that the iwi, the settled iwi, who will have the right of first refusal when those farms come up for sale. </p><p class="a">In closing, I just want to say that Tangimoana Forest is one, the other one is the future of Tangimoana station, the Landcorp station. They are going to be the heavyweights of that PSGE group on the way forward for the economic development future of Rangitāne o Manawatu. I stand proudly to commend the bill to the House in this second reading. Kia ora.</p><p class="IndentMarginalone">Bill read a second time.</p><p class="IndentMarginalone"><em>Waiata</em></p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>TARANAKI IWI CLAIMS SETTLEMENT BILL</strong></p><p class="SubDebate"><strong>In </strong><strong>Committee</strong></p><p class="Speech"><a name="time_20160922 15:59:21" ></a><strong>JAMI-LEE ROSS (Junior Whip—National)</strong>: I seek leave for the Taranaki Iwi Claims Settlement Bill to be debated as one question, and separately, afterwards, for Te Atiawa Claims Settlement Bill to also be debated as one question.</p><p class="Speech"><a name="time_20160922 16:00:26" ></a><strong>The CHAIRPERSON (Lindsay Tisch)</strong>: Leave is sought for that purpose. Is there any objection? There is no objection.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="MarginHeading"><strong>Parts 1 to 4, schedules 1 to 3, and clauses 1 and 2</strong></p><p class="Speech"><a name="time_20160922 16:00:32" ></a><strong>Hon CHRISTOPHER FINLAYSON (Minister for Treaty of Waitangi Negotiat</strong><strong>ions)</strong>: Just very briefly, as I mentioned in my second reading speech, the Māori Affairs Committee reported the Taranaki Iwi Claims Settlement Bill back to the House on 2 September and recommended it be passed with a couple of technical amendments. Supplementary Order Paper (SOP) 215 is in my name, and it provides two technical amendments to ensure that particular third-party interests are protected through the bill. The SOP amends the Taranaki Iwi Claims Settlement Bill by inserting a new clause 53(3), recording an easement in favour of the South Taranaki District Council, and making a corresponding amendment to schedule 2. That is the only real issue that arises. </p><p class="a">There has been a little bit of a debate today about Part 2, Subpart 5, dealing with regional council representation. This is not imposed on the council. It has been drawn up as a result of discussions with the council, and it is very happy with what has transpired. It is exactly the same as the proposal set out—and I will come to it when we deal with it—in Part 2, Subpart 6 of Te Atiawa Claims Settlement Bill, where there was no objection. It is also in similar form in the Ngāruahine Claims Settlement Bill. So we have selective concern about race-based policy. I foreshadow that there could be a bit of excitement. </p><p class="a">There has been no opposition to the Rangitāne o Manawatu Claims Settlement Bill; Subpart 3 of Part 2, of course, provided for the establishment of the Manawatū River catchment advisory board, a body set up involving Rangitāne o Manawatu, and also Rangitāne in the Wairarapa, to advise the Manawatu-Wanganui Regional Council in relation to freshwater issues. So we do have selective concern, but the fact of the matter is that this body is as a result of discussions between the various iwi, the Crown, and the Taranaki Regional Council. </p><p class="a">There was some comment made about a referendum that was held in New Plymouth city last year. That dealt with a completely separate issue, which was the establishment of a Māori ward for the New Plymouth District Council. It was a completely different issue, and attempts to conflate them are, with respect—well, actually, with no respect—totally misleading.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="IndentMarginTextFollowing">The question was put that the amendments set out on Supplementary Order Paper 215 in the name of the Hon Christopher Finlayson to clause 53 be agreed to.</p><p class="VoteReason">A party vote was called for on the question,<em> That the </em><em>amendments be agreed to</em><em>.</em></p><p class="VoteCount"><strong>Ayes 107</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 12; Māori Party 2; ACT New Zealand 1; United Future 1.</p><p class="VoteCount"><strong>Noes 12</strong></p><p class="VoteText">New Zealand First 12.</p><p class="VoteResult">Amendments agreed to.</p><p class="IndentMarginalone">Parts 1 to 4, schedules 1 to 3, and clauses 1 and 2 as amended agreed to.</p><p class="IndentMarginalone">Bill to be reported with amendment presently.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>TE ATIAWA CLAIMS SETTLEMENT BILL</strong></p><p class="SubDebate"><strong>In Committee</strong></p><p class="Speech"><a name="time_20160922 16:05:24" ></a><strong>The ASSISTANT SPEAKER (Lindsay Tisch)</strong>: Leave has been granted for this bill to be taken as one question.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="MarginHeading"><strong>Parts 1 to 4, </strong><strong>schedules 1 to 4, and clauses 1 and 2</strong></p><p class="Speech"><a name="time_20160922 16:05:33" ></a><strong>Hon CHRISTOPHER FINLAYSON (Minister for Treaty of Waitangi Negotiations)</strong>: The Māori Affairs Committee has recommended that Te Atiawa Claims Settlement Bill be passed with a couple of technical amendments. I have proposed a technical Supplementary Order Paper (SOP), SOP 224. This is going to make two technical amendments to clause 63 to ensure that certain properties to be exchanged as part of the vesting of the Taumata property, which is a cultural redress property, are able to be vested as intended by the deed of settlement. The changes ensure that the land exchanged for the Taumata property will, in specific circumstances, be treated as cultural redress property. That means, for example, that certain provisions of the Reserves Act will not apply when the reservation as a historic reserve is revoked, and requirements under the Resource Management Act in relation to the subdivision will not be required.</p><p class="a">I commend the bill to the House with the minor technical amendments proposed by SOP 224, and again invite honourable members to read Part 2, Subpart 6, dealing with Taranaki Regional Council representation. If it is not word-for-word exactly the same as in the Taranaki Iwi Claims Settlement Bill, it is, quite frankly, pretty close.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 16:07:05" ></a><strong>PITA PARAONE (NZ </strong><strong>First)</strong>: I realise that I was a bit slow in standing to take the opportunity of talking in the Committee stage of the last bill, but I will certainly take the opportunity of making reference to the issue of representation.</p><p class="a">I know that there is already some discussion as to why we have not opposed all the other Taranaki bills, and I just wanted to explain to the Committee that the clauses in the Taranaki Iwi Claims Settlement Bill that refer to the membership of the council are very specific. They articulate the names of the various tribes; they are to be referred to as Taranaki iwi. That is No. 1.</p><p class="a">No. 2—in opposing that part and supporting that reference here in the Te Atiawa Claims Settlement Bill, we were led to believe that it was a duplication of the Local Government Act. Then, on discovery, we found that in the Local Government Act reference is made to the word "may", whereas in the Taranaki Iwi Claims Settlement Bill—and again I am connecting that bill to this bill—the word that is used is "must". So there is, in our mind, a big difference.</p><p class="Interjection"><strong>Marama Fox</strong>: You got it wrong. It's wrong.</p><p class="ContinueSpeech"><strong>PITA PARAONE</strong>: I just want to make that point, irrespective of the view that some voice on the other side might have. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 16:09:00" ></a><strong>Hon CHRISTOPHER FINLAYSON (Minister for Treaty of Waitangi Negotiations)</strong>: Out of my respect and affection for the honourable member, I will respond. I do say this with the greatest of respect and affection, but what he said is wrong in relation to the definition of the iwi of Taranaki. I refer him to clause 97 of the Taranaki Iwi Claims Settlement Bill and I also refer him to clause 75 of Te Atiawa Claims Settlement Bill—they look pretty much the same to me.</p><p class="a">Then I refer the honourable member to "Iwi representation on the committee", as provided by clause 77 of Te Atiawa Claims Settlement Bill. The iwi of Taranaki may nominate three people each for these positions. The council must appoint the members nominated to the appropriate committee. Then one goes across to clause 99 in the Taranaki Iwi Claims Settlement Bill, which is exactly the same. If he goes to the Ngāruahine Claims Settlement Bill, it is exactly the same.</p><p class="a">I am not going to belabour the point, because we have had a good old stoush about this in the course of the second reading speeches. I certainly do not blame the member, because he is an honourable member and a very hard-working member of the Committee. I value his advice on a number of matters, particularly on that iwi to the North, so I am not going to say what I would otherwise say, were another person in the Chamber.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 16:10:29" ></a><strong>PITA PARAONE (NZ First)</strong>: If that is the case, Minister Finlayson, the position of New Zealand First is that we will need to oppose that Supplementary Order Paper 224.</p><p class="Interjection"><strong>The CHAIRPERSON (Lindsay Tisch)</strong>: We have not come to the votes yet.</p><p class="ContinueSpeech"><strong>PITA PARAONE</strong>: No.</p><p class="Speech"><a name="time_20160922 16:10:47" ></a><strong>The CHAIRPERSON (Lindsay Tisch)</strong>: All right. We are coming to the vote now, so we have the Minister's—[<em>Interruption</em>] Order! We are going to have a vote.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="IndentMarginTextFollowing">The question was put that the amendments set out on Supplementary Order Paper 224 in the name of the Hon Christopher Finlayson to clause 63 be agreed to.</p><p class="VoteReason">A party vote was called for on the question,<em> That the </em><em>amendments be agreed to.</em></p><p class="VoteCount"><strong>Ayes 107</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 12; Māori Party 2; ACT New Zealand 1; United Future 1.</p><p class="VoteCount"><strong>Noes 12</strong></p><p class="VoteText">New Zealand First 12.</p><p class="VoteResult">Amendments agreed to.</p><p class="IndentMarginTextFollowing">The question was put that Parts 1 to 4, schedules 1 to 4, and clauses 1 and 2 as amended be agreed to.</p><p class="VoteReason">A party vote was called for on the question,<em> That</em><em> Parts 1 to 4, schedules 1 to 4, a</em><em>nd clauses 1 and 2 as amended be agreed to.</em></p><p class="VoteCount"><strong>Ayes 107</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 12; Māori Party 2; ACT New Zealand 1; United Future 1.</p><p class="VoteCount"><strong>Noes 12</strong></p><p class="VoteText">New Zealand First 12.</p><p class="VoteResult">Parts 1 to 4, schedules 1 to 4, and clauses 1 and 2 as amended agreed to.</p><p class="IndentMarginalone">Bill to be reported with amendment presently.</p><p class="IndentMarginalone">House resumed.</p><p class="IndentMarginalone">The Chairperson reported the Taranaki Iwi Claims Settlement Bill with amendment and the Te Atiawa Claims Settlement Bill with amendment.</p><p class="Speech"><a name="time_20160922 16:13:51" ></a><strong>The CHAIRPERSON (Lindsay Tisch)</strong>: I move, <em>That the report be adopted</em>.</p><p class="VoteReason">A party vote was called for on the question,<em> That the </em><em>report be adopted.</em></p><p class="VoteCount"><strong>Ayes 107</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 12; Māori Party 2; ACT New Zealand 1; United Future 1.</p><p class="VoteCount"><strong>Noes 12</strong></p><p class="VoteText">New Zealand First 12.</p><p class="VoteResult">Report adopted.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>RANGITĀNE TŪ MAI RĀ (WAIRARAPA TĀMAKI NUI-Ā-RUA) CLAIMS SETTLEMENT BILL</strong></p><p class="SubDebate"><strong>First Reading</strong></p><p class="Speech"><a name="time_20160922 16:15:21" ></a><strong>Hon CHRISTOPHER FINLAYSON (Minister for Treaty of Waitangi Negotiations)</strong>: I move, <em>That the </em><em>Rangitāne</em><em> </em><em>Tū</em><em> Mai </em><em>Rā</em><em> (Wairarapa </em><em>Tāmaki</em><em> nui-ā-Rua) Claims Settlement Bill be now read a first time.</em> I nominate the Māori Affairs Committee to consider the bill. A month ago—only a month ago—I was welcomed on to Mākirikiri Marae in Dannevirke to sign the deed of settlement with Rangitāne o Wairarapa and Rangitāne o Tamaki nui a Rua.</p><p class="a">I am so very pleased to extend a warm welcome to the members of Rangitāne who have travelled to be here in Parliament for the first reading of the bill. I am delighted you are here, and I am delighted that you were able to listen to the second reading of the Rangitāne o Manawatu Claims Settlement Bill. I am sure there are some representatives there, and next week I shall be reporting to Rangitāne in Blenheim, in the Wairau, that their relations are well on the way and, frankly, that some of them should have been here today as well. So thank you very much for coming. It is great to see you here, especially only 1 month after that wonderful signing at Mākirikiri Marae. </p><p class="a">At this time my thoughts go to those members of Rangitāne who have suffered the grievances addressed through this bill and those who began this journey and yet are no longer here to experience this point in the history of their great iwi. They are in our thoughts today. I also acknowledge those who are with us—some of whom are sitting in the gallery today—particularly Mānahi Paewai and Jim Rīmene and Mavis Mullins. The earlier two—although Mavis is everywhere—started this process so many years ago and provided support and guidance to the iwi negotiators as the settlement has progressed. Rangitāne have been served over the years by very devoted negotiators and advisers, and I acknowledge the huge amount of work over many years by the negotiating team. </p><p class="a">It is always dangerous and, indeed, inappropriate, probably, to name individuals, but I do want to acknowledge Tīpene Chrisp in the gallery. Most of the time he is on my side because he works for the Office of Treaty Settlements, but the call of the whānau was too great, and he has been on the other side for this negotiation, as one would expect. Can I acknowledge the chief Crown negotiator Rick Barker for the tremendous work that he has done on this settlement. I am sure he would like to be here today, but I have a feeling he is up in Hauraki. </p><p class="a">I also acknowledge the various Crown agencies and the regional and district councils for their work. And that is not pro forma thanks, because, for example, the Tararua District Council has been very, very helpful as we have dealt with a couple of issues on the way through, and I acknowledge it and its retiring mayor. </p><p class="a">The journey to settlement for Rangitāne stretches back many years. Claims on behalf of the iwi were lodged in the 1980s. Tribunal hearings were held in 2004 and 2005, and the great Wairarapa ki Tararua report was released in June 2010. In October 2011 the Crown recognised the mandate of the Rangitāne Settlement Negotiations Trust to negotiate the settlement of the Treaty claims. Negotiations commenced following the signing of terms of negotiation in 2012. On 28 March 2014 I signed an agreement in principle that set out the settlement package, and, as I said, last month I signed the deed of settlement after it had been ratified by members of Rangitāne. The warmth and the energy of the Rangitāne tamariki radiated on what was otherwise a very cold Dannevirke day. </p><p class="a">The Rangitāne Tū Mai Rā (Wairarapa Tāmaki nui-ā-Rua) Claims Settlement Bill is being considered today and it is going to give legislative effect to the redress that Rangitāne will receive. I want to take a moment to reflect on the history that sits behind the settlement legislation. This came through so strongly at the signing ceremony—and I would love some people who say "Oh, the iwi are only interested in the money." to have been at Mākirikiri Marae, because they would have seen that the history and the cultural redress were at the heart of what iwi members were seeking. It was really a beautiful ceremony. </p><p class="a">Rangitāne welcomed Pākehā settlers to their rohe from the mid-1840s. Rangitāne enjoyed considerable benefits from leasing land to these settlers and trading with them. The Crown then applied pressure on Wairarapa Māori to end the leases and sell their land to the Crown. By the mid-1850s the Crown had acquired about three-fifths of the traditional rohe of Rangitāne. When purchasing land, the Crown led this iwi to expect substantial educational, health, and economic benefits. In the course of time, however, Rangitāne did not experience many of these benefits, nor the prosperity that they could reasonably have expected to receive from settlement in their region; nor did they receive the reserves the Crown had promised to set aside for iwi. </p><p class="a">In the 1860s, through the native land court legislation, the Crown introduced a new land tenure system that was simply inconsistent with Rangitāne traditional customs. In 1871 the Crown acquired considerable areas of Rangitāne land in Te Tapere-nui-o-Whātonga, including 60,000 acres of the Mangatainoka Block, despite the express opposition of Rangitāne leaders. </p><p class="a">Their communities resisted land sales. They attempted to maintain tribal structures through a number of initiatives, including the various Parliaments and the longstanding fight of Nireaha Tāmaki, who took his case to the Privy Council. In a landmark decision, the Privy Council reversed the decision of the Court of Appeal and acknowledged that a system of customary Māori land tenure did exist and deserved recognition in court decisions. It is one of those interesting items of history that when the Supreme Court Bill was going through in the early 2000s, everyone said that we needed a Supreme Court that would be more sensitive to the resolution of Treaty of Waitangi claims—but the Privy Council actually understood this stuff very well indeed. </p><p class="a">The Crown lost more often than it won when dealing with these issues—in fact, so much so that at one stage, one Saturday morning in the early 1900s, there was a gathering of all the judges and the lawyers in Wellington and they had what was called a "protest of the bench and bar", grumbling about a Privy Council decision that had been favourable to Māori. But I digress, so back to the bill. The Government's response to the Privy Council decision was to limit the right of Māori to investigate the Government's land purchases through the courts.</p><p class="a">In 1896, Rangitāne leaders were involved in gifting ownership of the Wairarapa lakes to the Crown. Instead of providing ample reserves in the vicinity of the lakes, as agreed, the Crown provided reserves several hundred kilometres away in the King Country—unbelievable today, but that is what happened. By the early 20th century, it was the same sad story. Rangitāne were virtually landless and their communities struggled to maintain their customary homes, their knowledge, and their language—and then came urbanisation in the 20th century. So it is a grim background and it is one that I invite everyone in the rohe of Rangitāne to read and understand, because they will understand exactly why we are doing what we are doing today. </p><p class="a">Last month at Mākirikiri Marae I presented the Crown apology to Rangitāne, who graciously accepted it, and it was said that it would go a long way to helping Rangitāne people understand who they are. So there is a big settlement package here. </p><p class="a">I am almost out of time, and what I want now is to commend the bill to the House. If it passes it will go to the Māori Affairs Committee, and I know that it is going to do a very good job and get the bill back to the House very, very quickly. I say this all the time, but it is heartfelt every time I say it: it is not possible to compensate Rangitāne fully for the loss and prejudice suffered. I acknowledge the generosity in accepting the apology, and I believe the settlement outlined in this bill is going to help Rangitāne realise their further endeavours and their aspirations. I consider that the bill should proceed without delay to the Māori Affairs Committee. I commend the bill to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 16:25:27" ></a><strong>MEKA WHAITIRI (Labour—Ikaroa-</strong><strong>Rāwhiti</strong><strong>)</strong>: Tēnā koe, Mr Assistant Speaker. Greetings to you, fellow members of the House. E te iwi o Rangitāne ki Wairarapa Tāmaki nui-ā-Rua, tēnā tātou katoa. I want to apologise that I had to abruptly end my last speech—that is what you get when you sit in the House for, what, 6 hours before you get a call on these Treaty bills. So I do apologise, and I do want to acknowledge Danielle and all the negotiators of Rangitāne o Manawatu for a fabulous job. </p><p class="a">It is the first reading of the Rangitāne Tū Mai Rā (Wairarapa Tāmaki nui-ā-Rua) Claims Settlement Bill, and we, no doubt, support it entirely so that we can help facilitate it going off to the Māori Affairs Committee. Then we can have the bill back and get into the second reading and then the third reading so we can ensure that the people, the iwi here, can get on with their affairs. Can I just please acknowledge all those who have come down here and who are in the gallery. You have made mention, Hon Minister for Treaty of Waitangi Negotiations, of Mānahi Paewai. I see Jim Rīmene and, of course, Mavis and Koro Mullins. </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">Rangitāne trace their descent from the explorers of Kupe and Whātonga, rangatira of the mighty waka of <em>Kurahaupō</em>, and the grandfather of the eponymous ancestor Rangitāne. The traditions record that for centuries the Rangitāne people settled in Wairarapa and Tāmaki nui-ā-Rua before 1840, and they have a special association with many places, including the Wairarapa lakes, the eastern coast, and Tapere-nui-a-Whātonga, known by others as Seventy Mile Bush. </p><p class="a">This bill acknowledges the grievances of the Rangitāne people, including the Crown's acquisition of vast areas of land; its failure to properly survey or protect from alienation a number of reserves; its failure to protect Rangitāne from virtual landlessness and from the disintegration of their tribal structures, and the social deprivation that resulted; and, of course, the loss of Te Reo Māori.</p><p class="a">I want to take the time—hopefully, staying within my 10 minutes—to acknowledge that this bill has three parts, and the Minister has outlined, of course, that the important, critical part is the historical account and the apology that form Part 1. Of course, we go into the cultural redress in Part 2, and the Minister touched on the protocols, the statutory acknowledgments and the deed of recognition, the Manuwatū River catchment advisory board, some classification, changes of geographical names, some vesting of cultural redress properties, and, of course, vesting and gifting back of properties. </p><p class="a">In Part 3 we talk about commercial redress, and I want to acknowledge Subpart 1, "Transfer of commercial redress properties and deferred selection properties", Subpart 2, "Licensed land", Subpart 3, "Access to protected sites", and, of course, a topic of debate that has been swirling round this House this week—and for weeks to come—is Subpart 4, "Right of first refusal over RFR land". I just want to say to members of this House, regarding the right of first refusal of land taken under the Public Works Act, that for many iwi who have not settled, or, in the case of this particular iwi, who are in the process of getting legislation through, those mechanisms of reclaiming land are so critical. They are so critical because we have lost so much. We have lost so much, and the ability to ensure that land that was taken under the Public Works Act and is no longer needed for the reason for which it was taken must be offered, uninhibited, back to the original owners. </p><p class="a">Yet in recent times in this House we have passed legislation that nullifies land taken for housing purposes. We have made that call in this House, and I just want it to go on the record that this side of the House put up an amendment to protect iwi interests for future settlements. I must acknowledge the legislation that we passed under urgency—so it did not even go to a select committee. It acknowledges existing Treaty settlements, but for the rest of us who have not got to the starting block, you have missed out through this Act in Parliament. </p><p class="a">So it is very dear to me that every inch of land that is geared towards Treaty settlement—we as parliamentarians must think twice before we move legislation that removes that ability for iwi to get that land that is so critical to them. I wanted to just acknowledge that. In reference to Subpart 4 of Part 3, on the right of first refusal, we do hope that when we scrutinise it in the Māori Affairs Committee—I understand they have been briefed by officials on what right of first refusal actually means, so maybe that will come up in their deliberations. [<em>Interruption</em>] Yes, I will be on time. </p><p class="a">I want to acknowledge the hard work of all the negotiators. As a former Treaty settlement negotiator myself—for my father's iwi of Rongowhakaata—the sacrifice that you put into Treaty claims is immeasurable. The sacrifice you have to make, in terms of where you are yourself—and on your family. You never ever please everybody in the iwi. You never ever please everybody in the iwi, but you are driven to get the absolute best deal. I have no doubt that your negotiators have achieved that. They achieved that on behalf of your iwi members—the best possible deal with the resources and the timing that you have available. So I want to acknowledge you all for the hard work, the perseverance, the compromises, the ear-ringing, and the back-stabbing; that has happened to us all. I just want to acknowledge that, and I want to thank you on behalf of Rangitāne. </p><p class="a">I also want to acknowledge the officials who support the Minister for Treaty of Waitangi Negotiations, the Hon Chris Finlayson. I know his heart is in the right place when he moves to settle Treaty settlements, and so I want to acknowledge and thank the Minister and all those officials who support him. Sometimes we disagree, but I definitely know that the honourable Minister is committed to ensuring that we have settlements that are not just expedient and quick, but are fair. </p><p class="a">But having said that, we also have a responsibility in this House that when we are passing legislation that cuts across not just existing Treaty settlements but, potentially, future Treaty settlements, we need to pause. We need to pause, and that is where I believe that when it comes to our honouring the Treaty—actually, the rubber hits the road. When we are considering legislation that is going to alienate Māori from whenua, then we need to be very, very careful, because our people have lost too much already. I do not want to be part of a Parliament that says: "We've done that Treaty settlement; let's carry on." Everything we do in this House interrelates. </p><p class="a">As I reflect, in Rangitāne's own historical account, they gave land and they sold land in the hope that they would get the benefits in return. The benefits around health, education, and the Reo maintenance were never ever met by the Crown. So that is why I make this point: it is incumbent on everybody in this House that when passing legislation that is going to impact on iwi rights going forward, then all I say is be very considered—kick it back to the select committee process and allow iwi to have their say. Kia ora tātou. </p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 16:34:06" ></a><strong>MARAMA FOX (Co-Leader—Māori Party)</strong>:</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">As the multitude of stars are in the sky, so are the people of Rangitāne on the land. I support this bill coming to the House, and long the journey has been to bring it here. Many have passed, but many remain and the struggle continues. </p><p class="a">This claim concerns Rangitāne taonga—whenua, yes, but in particular, identity, language, and culture. I could talk a lot about the place of the land from Ōwhanga to Akitio, Mangatainoka—famous for tūī—</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">—in 1 minute, 20 seconds.</p><p class="a">Wairarapa lands and Tāmaki Nui-ā-Rua lands are 2,421,543 acres. In the 1840s to 1850s the Crown started to acquire land, but in one year, from June 1853 to January 1854, 1.2 million acres had gone. In the next 10 years, another 400,000-odd acres, and by the turn of the century, another 500,000 acres—84 percent of the whenua was no longer in the hands of our people, and they have less than 1 percent today. It goes right to the heart of the issue. When you are landless, how do you support your whānau? Driven into the pits of poverty, how do we aspire to overcome all of the issues that keep us oppressed? Today is a monumental day to turn the tide.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 16:44:11" ></a><strong>METIRIA TUREI (Co-Leader—</strong><strong>Green)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">The Green Party supports this bill, and we are looking forward to it going through all its stages quickly and progressing quickly. There has been a lot of talk already from members about the redress and the history. One of the things I am really pleased to see in the bill—just to take a slightly different tack—is the redress, the provision for Rangitāne to have positions on the management of the Manawatū River. I know, it is the Green Party; we are talking about this. Ha, ha! I say: yes, please—more Māoris in the management of our rivers, please. That is a great first step in the protection of our awa. </p><p class="a">I am a river kid. This is how we grew up: my dad, when we were living in Ashhurst, would come home from work, and he had this really great Kingswood station wagon. He would pick us up and pick up the soap, and we would be able to ride down to either the Pohangina River on one side of the Manawatū River on the other side of Ashhurst, sitting on the back of the Kingswood doors. You know how you used to be able to put the door of the station wagon down, you could sit on the back of it, and let your little legs dangle over the side. Yes, he would drive slowly down the hill to Pohangina or around to Ashhurst Domain to the Manawatū, and we would swim and wash and just have this fabulous time. We spent summer after summer after summer in those rivers. </p><p class="a">So we know that these rivers at times have been devastated. Manawatū was one of the most polluted rivers in our country for a period there, as a result of run-off from farms and from towns, from these constant sources of pollution. But it was also where dad took us eeling. You know, we were down there all the time getting food as well as swimming and having a wash. These were the ways we lived our lives. We were not posh Māori whanau; we were just ordinary working-class Māori living on the land that we belonged to, swimming in the waters that we belonged to, and taking sustenance from both when we needed to. That was just how you did stuff. </p><p class="a">But we had no control over what was going on, and now at least one step towards that in this bill is Rangitāne having much more involvement in the protection of those awa—the awa that give us life, the awa that were such a joy for ourselves in the past, and for our kids and grandkids well into the future. It is a small part of the bill. There is a lot of description in the bill about the cost to Rangitāne of the confiscations, of the sales, of the failure to deal with the reserves effectively—all of those things. But there are good things as well that will prove enormously beneficial for Rangitāne themselves and for the wider community and for the environment. So I just wanted to highlight that. There are some great things that are going on with this too. </p><p class="a">Finally, I just want to acknowledge Hēnare Kani, who was involved in the negotiations—an absolutely lovely man with a big, big heart, who just puts a huge amount of work into this and also into environmental protection. It is a real passion for him: taking care of our kids and taking care of our environment. Whānau and whenua—that is what it is all about. So, finally, I just want to say congratulations to those who have negotiated to this point. There is a little bit more work to go, but it is the last end of the process and I am looking forward to our participation on the Māori Affairs Committee as we see this bill through. Kia ora koutou katoa.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 16:48:20" ></a><strong>JOANNE HAYES (National)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">I want to carry on with the theme that I had started with my previous speech for Rangitāne o Manawatu and I want to acknowledge some key people who, it is said, without their mahi, without their kaha, we would not be here today. I want to acknowledge Uncle Jim Rīmene and Mānahi Paewai. They were the ones who lodged the claim for both iwi. It was their work behind the scenes that has got us got here today. I want to acknowledge Uncle Dubby Power and his wife, Takoto, from Te Hika o Pāpāuma. He supported the process right through to his passing. I want to acknowledge—and I can see the photos of our tūpuna up there in the gallery—my Uncle Kuki Rīmene. Uncle Kuki was a paramount chief for us in Wairarapa and his wife Auntie Hoagy. Everyone knew her as "Auntie Hoagy"; some people knew her as Auntie Helen, and some people—my mother knew her as "Auntie Grumpy". But anyway she was lovely, my auntie, and together she supported Uncle Kuki all the way for all his mahi in behind this bill.</p><p class="a">I want to turn to the living. I want to acknowledge, again another formidable Rangitāne wahine too, Mavis Mullins, who has done some amazing work not just for Rangitāne but Te Āti-Haunui-a-Pāpārangi has also benefited from her expertise within the governance area and her expertise here as an iwi negotiator along with Richard Jones and Jason Kerehi and Tīpene Chrisp from Wairarapa. The four of you have done an amazing job working with, or sometimes against, our Crown negotiator, Rick Barker. But anyway, with all the ups and downs we have managed to get here today, and Rick has also done an amazing job.</p><p class="a">I want to acknowledge Mike Kāwana. Mike has been like our kaumātua for Wairarapa. He has stepped up into the breach when our kaumātua have passed away. He is like the person that we look to when we go back to Masterton. He was there to keep our marae and our pie warm. Also to Maria Rīmene, who continues to keep the wheels turning for Wairarapa and Masterton. On the Tamaki nui-ā-Rua side I want to acknowledge the chief executive officer of Tāmaki Nui ā Rua, who is Oriana Paewai. Oriana and I go back many years: from our university days right through to our future. Last night I hosted her and another friend of ours up in Bellamy's for dinner. We celebrated our birthdays; our birthdays are only a few days apart and so we celebrated that there last night. But I want to acknowledge Oriana because it has been Oriana who has been keeping me up to speed with what has been going on with the negotiation process for Rangitāne Tū Mai Rā settlement bill.</p><p class="a">Finally, and most importantly, I want to acknowledge my mother. My mother is sitting up there in the gallery. She is in the front row there. I am not sure which photo you are holding, Mum, but I just want to acknowledge you, Te Arorangi Kate Karaitiana Apanui. She married aNgati Porou—my dad. He took her away from Masterton, and kept her away for some years—about 30 or 40 years—and when he passed in 1997, he chose to be buried at Ākura urupā. So he took her away and he brought her back, and on her arrival back at Masterton, Uncle Kuki and Auntie Hoagy grabbed her and said: "You're going to be part and parcel of this now."</p><p class="a">I want to also acknowledge Sandra Edmonds—my cousin sitting up in that part of the gallery over there. She came along with mum this morning—and good luck to you for that, Tom, because sometimes one can get a bit hard to handle, but no doubt you can handle it. Ha, ha!</p><p class="a">Finally, I would like to acknowledge another kuia from Masterton, Hinerau Te Tau, who is also in the gallery up here. Together, her and mum are the oldest kuia from the Wairarapa contingent here and in Masterton.</p><p class="a">I now want to turn and thank Rangitāne for hosting us at Mākirikiri Marae recently with the signing of the deed, when I accompanied the Minister. Yes, it was wet, it was windy, but it was warm inside and the day was a great day, no matter what. I figured that the wet was the tears of our tūpuna and the wind was the gentle breeze from our tūpuna as well, blessing the day.</p><p class="a">As previous speakers have said, confiscation is dreadful. It is a horrible, horrible thing that our people have suffered over the many years, but, you know, we have kind of turned a corner here. The Minister has said many times, in many of his speeches, that the financial redress is never ever going to be the big bulk of money that people think it is going to be. But, you know, for me, it is never ever about the how much you get; it is actually what you do with it, and I think that $32.5 million is a pretty good start for Rangitāne Tū Mai Rā. I think it is a pretty good start because there are so many things that you can invest in into the future. As a member of the Māori Affairs Committee, I look forward to having this bill come to us. I look forward to hearing all the kōrero that is going to come through all the submissions—might be only one, yet—that we will hear. I do not want to take up any more time of the House, or your time, whānau, so I stand and I proudly support this bill and commend it to the House. Kia ora.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 16:54:36" ></a><strong>PITA PARAONE (NZ First)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">I want to first of all congratulate the people of Rangitāne Tū Mai Rā—Wairarapa Tamaki nui-ā-Rua claimants—on bringing their claim to this stage. Although we have some way to go before everything is completed, I think it is worth acknowledging those who have made the effort—and, I am sure, against some strong criticism within their own iwi—to bring forward this settlement.</p><p class="a">I also want to reiterate the point that was made by the Minister for Treaty of Waitangi Negotiations that this settlement will not fully compensate the iwi. It is no different from all other settlements that have been concluded in this House, and, for whatever reason, that is the reality of Treaty claims. I just wanted to have that put on the record, given that there are members of the wider community who are very critical of these settlements. They think that Māori are getting more than what they are entitled to, and yet if they read the history of the claims and the reasons for making those claims, then I am sure their own opinion would change. But then there will be others within the community, and it does not matter how many facts you present them with, they will still have a contrary view. So I support the notion of this bill being referred to a select committee, because it will give the opportunity for members of the iwi, particularly those who might not support the settlement in its present form—it will give the committee the opportunity to hear the background for their dissent, if any, and the rationale for it, and to decide whether or not those concerns can be addressed.</p><p class="a">I just want to run over some of the details of the settlement itself. In so doing, I note that in terms of the area of interest this is the second-largest land area, behind that of Ngāi Tahu. It just goes to show the responsibility that those who have carried this bill to this stage—the size of the load that they have had to bear. Just by way of explanation, the area that is covered in this settlement extends from the north of Dannevirke to Mākaramu, near Porangahau, down to Turakirae, which is Cape Palliser, and it encompasses the wider Wairarapa and Tamaki nui-ā-Rua regions. That in itself gives you an indication of the land mass that this iwi is, certainly, responsible for.</p><p class="a">The settlement summary describes a series of land transactions, including public work takings, by which Rangitāne Tū Mai Rā, who had initially encouraged European settlement and enjoyed considerable benefits from rents and trade, became virtually landless. Today approximately 2 percent of the region is owned under a Māori land title. The settlement includes the vesting of eight sites in Rangitāne and, under other arrangements, the vesting of another five sites, one of which, Pūkaha, or Mount Bruce, is to be gifted back to the Crown. Again, I want to remind the wider public of New Zealand that this is just a mere example of the generosity of iwi claimants to our community. The settlement also includes the establishment of and provisions for participation in the Manawatū River catchment advisory board and the Wairarapa Moana statutory board.</p><p class="a">I just want to extend the comments made by the member for the Green Party, Metiria Turei, in terms of Māori contribution to our environment. I have no doubt that, as part of this settlement, the contribution of the iwi to the care of the Manawatū River and any of its tributaries will certainly be an asset to the wider community.</p><p class="a">The financial redress is not too bad, but it could have been better, although it includes interest less any on-account payments and commercial redress values. I will not go into detail as to what those on-account payments were, but suffice to say they were included in the overall quantum to meet the financial redress under this claim.</p><p class="a">There was also a right to purchase some Ngaumu forest land and some commercial sites in the Treaty settlement land bank, and right of first refusal over some properties for 174 years. I know that there has been some discussion about that length of time, particularly within the Māori Affairs Committee. I am sure that if we as Māori continue our oral tradition, then you can rest assured that the Māori partner in this Treaty settlement will certainly not forget this commitment, even after 174 years. It is important that it becomes a topic of discussion within iwi circles, but it would certainly be helpful if the wider community also kept a record of that commitment.</p><p class="a">Like all other iwi, there have been trials and tribulations that the negotiators have had to endure in negotiating this settlement. I am sure that both parties know that it could have been more. They would have liked to increase the value, the quantum, of the settlement, but for various reasons have not been able to do so. In that respect, we have to acknowledge the generosity of the iwi in accepting the terms that have been offered them.</p><p class="a">I commend the bill to this House. Kia ora.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 17:03:09" ></a><strong>LOUISA WALL (Labour—Manurewa)</strong>: Tēnā koe e Te Māngai o Te Whare.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">I would also like to acknowledge the origins of this Treaty settlement. When we think about the 1975 Treaty of Waitangi Act and the 1985 amendment Act that enabled us then to go back to 1840, there are some Wai claimants that I would also like to acknowledge. Those people are: Wai 166, Mānahi Paewai on behalf of Rangitāne o Tāmaki-nui-ā-Rua Incorporated Society; Wai 171, Hēnare Matua Kani on behalf of descendants of Hēnare Matua; Wai 175, James Rīmene and Pirinihia Te Tau on behalf of Rangitāne o Wairarapa Incorporated Society; Wai 943, Lance Tuiārangi Rātima on behalf of the descendants of Horomona Rātima; Wai 1008, Kerylee Jan Ānaru on behalf of the descendants of Pāhia Ānaru; Wai 1634, Hepa Tātere, Mānahi Paewai, and Lui Paewai; and Wai 1950 under the name of Jocelyn Pattison. I acknowledge these people because they started this process so many years ago. </p><p class="a">In addition to these Wai claimants, we also have some overlapping claims that relate to Rangitāne o Wairarapa and Rangitāne o Tāmaki-nui-ā-Rua, and they are Wai 97, Wai 161, Wai 420, Wai 657, Wai 741, Wai 770, Wai 1568, Wai 1928, Wai 2211, Wai 2213, Wai 2225, Wai 2241, and Wai 2269. The whānau have, through these Wai claims, created an opportunity to negotiate with the Crown. This bill gives effect to the deed of settlement signed on 6 August 2016 in which the Crown and Rangitāne o Wairarapa and Rangitāne o Tamaki-nui-ā-Rua agreed to the final settlement of the historic Treaty of Waitangi claims. So today is an incredibly special day. </p><p class="a">I would like to acknowledge all the whānau here in the House and all the whānau that are not here. I know at times like these we remember the past, as we always focus on the future, and there will be people who are not here anymore. I have probably made a few people cry, because I feel like crying myself as we remember our tūpuna who fought so hard and so long for this day. </p><p class="a">In preparing for today, I got a piece of research, and I want to refer to an extract of a letter that Judge Wainwright wrote about the Wairarapa ki Tararua report. She wrote this to the Minister for Treaty of Waitangi Negotiations, and these were the key points from her perspective: that this is a historically complex and difficult relationship between Ngāti Kahungunu and Rangitāne, that the severe loss of Te Reo Māori in the district needed to be highlighted, that there was vulnerability of many important Māori heritage sites, that it was important to recognise Māori rights in and around the Wairarapa Moana, that the rapid pace at which the Crown purchased the significant tracks of Māori land left the claimants landless, and the ongoing struggles the claimants have in terms of being able to meaningfully engage in, and to have any influence on, what goes on in their rohe. </p><p class="a">I would also like to highlight that the issue of becoming virtually landless meant that we could not maintain our tradition. We could not live communally. As a result of that, we lost our traditional homes, our customary knowledge, and our language.</p><p class="a">What I want to highlight about this bill that is before us today is that if you read through it, it is intermixed with Te Reo Māori and te reo Pākehā—English. I am not sure whether the whānau have seen it, but all throughout the bill you have the Māori text and then you have the Pākehā text. So I want to acknowledge that this is a bilingual bill, and it really is quite significant in terms of the prioritisation, I think, of Rangitāne Tū Mai Rā that impacts on our cultural identity. So having a piece of legislation that is both in Te Reo and in Pākehā, I think, is incredibly important, and it is an incredibly symbolic sign in terms of how you see yourselves going forward. Would it not be wonderful if we could all read this in Te Reo and in English? Maybe that is the aspiration for the future that we can have texts like this in our schools and our babies, our tamariki, can read it. </p><p class="a">I have not really got much more to add other than that this piece of legislation is universally supported across the House. I hope, Minister Finlayson, that we can have another expedited session where we can have some second readings, Committee stages, and third readings. I do think that it is really important, the work that you are doing. I do want to acknowledge you, because the leadership that you have shown in prioritising these bills is something that I think not only the iwi appreciate but we appreciate too. So we stand with you 100 percent in the full resolution of all our Treaty grievances. So, nō reira, safe travels home, whānau. Nō reira, tēnā koutou, tēnā koutou, tēnā tātou katoa.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 17:10:59" ></a><strong>JOANNE HAYES (Third Whip—National)</strong>: I seek the leave of the House that once the speeches are completed for the Rangitāne Tū Mai Rā (Wairarapa Tāmaki nui-ā-Rua) Claims Settlement Bill and the waiata is sung, we adjourn the House.</p><p class="Speech"><a name="time_20160922 17:11:09" ></a><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: The question is that at the completion of the voting on this bill and the associated waiata, the House rises. Is there any objection to that? There appears to be none.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 17:11:27" ></a><strong>KELVIN DAVIS (Labour—Te Tai Tokerau)</strong>: Tēnā koe, Mr Assistant Speaker.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">I would just like to acknowledge Rangitāne for being here today in the House of the people, and I would just like to acknowledge Mānahi Paewai up there. When I got booted out of Parliament in 2011 and had a bit of spare time on my hands, my cousin Nathan Davis was appointed the police sergeant, I think, in Dannevirke. So I, with others of the whānau, went down and had the pleasure of being hosted by Rangitāne in Dannevirke, and, as I said, I would not know whether he was a good cop or a bad cop, or whether he is still alive, or whether they ate him! But so be it; he is your guys' problem now. </p><p class="a">I just want to go over a bit of the history of the claim. I see that in 2004 things really started around the Waitangi Tribunal. There was a series of meetings and a report was written. In March of 2004 this process kicked off, and now we are in 2016. We have to acknowledge the length of time that it took to get to this stage now when Rangitāne are almost at the finishing line. I would just like you all to consider this—and I appreciate that this process has probably worn you out, and there are people who have started the journey and are not here to finish the journey. But just in those evenings when you are exhausted and tired, and thinking "We're almost at the end of the process.", just to lift your spirits, all you need to say is "Thank God, we're not Ngāpuhi." Our journey has been just as long and difficult and fraught—</p><p class="Interjection"><strong>Grant </strong><strong>Robertson</strong>: And you're not even at the start line.</p><p class="ContinueSpeech"><strong>KELVIN DAVIS</strong>: And we are not even at the starting line. We are about 2 inches from the starting line. We have been running the race for 8 years, and we are just 2 inches from the starting line, but we could be putting the car into reverse and going backwards if things do not work out in the next 24 hours or so, Minister Finlayson. </p><p class="a">What a different place New Zealand was in 2004. Helen Clark was the Prime Minister, the English were the Rugby World Cup champions, and I had dark hair.</p><p class="Interjection"><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: And you were skinny.</p><p class="ContinueSpeech"><strong>KELVIN DAVIS</strong>: And I was skinny. Ha, ha! I thought the Assistant Speaker was not allowed to be brought into the debate, but he could not help himself there. </p><p class="a">Everyone has traversed—I will not say transgressed, as Nathan Guy said yesterday—the issues around Rangitāne's settlement. Reading through the bill, what strikes me again—and it strikes me in just about every bill—is the significant land loss that occurred. When I say "significant", it was the Mangatainoka Block in particular, not because of the landmark there that I see when I drive past Mangatainoka, but because at Mangatainoka there were significant land holdings—over 60,000 acres. "[T]he Crown applied pressure to purchase this land even though recognised leaders of Rangitāne opposed sale. By 1890,"—sorry, between 1877 and 1890—"the Crown had acquired over 85 percent of the Mangatainoka Block. Today, less than 1 percent of the original block remains in Māori land title." </p><p class="a">We should never ever underestimate the impact—the cultural impact, the economic impact, the impact in just about every facet of the people's lives—that landlessness has had on them. It has happened all around New Zealand. Again, that is why these settlements are so significant and why they are so important. We need to start turning that around and reversing those impacts. Again, any quantum is just going to be a fraction of what is owed. It is going to be only a fraction of what is lost, and we need to keep that in the forefront of our minds, because again there will be people out there in the country saying: "Oh, look at what all these Māoris are getting. They've got their hands out and they're going to get all these millions of dollars, and it's all a waste of money." We have got to stop focusing on what has been returned; we have got to look at how much was lost and keep that in perspective. It is so important. </p><p class="a">Rangitāne back in the day, around the mid-1840s, "enjoyed considerable benefits from the annual rents and trade with the new arrivals, who leased large areas of land. The Crown applied pressure on Wairarapa Māori to end the leases and instead sell their land …". So here they were: they had leases, they were leasing out the land, they were basically being businessmen and entrepreneurs, and doing what people do in a strong economy, but through the pressure of the Crown that all went. Between 1853 and 1854 "the Crown acquired about 1.5 million acres of land". </p><p class="a">Earlier today I was talking about how much land Taranaki lost—1.2 million acres. I said in the earlier debate that in 1.2 million acres, if we just divided that into quarter acre sections, there would be enough quarter acre sections to have a house for every man, woman, and child in New Zealand. Yet Rangitāne lost more than Taranaki—1.5 million acres. So just today we have been talking about close to 3 million acres of Māori land that has been confiscated or removed from Māori possession. Imagine what Māori could be achieving if we had those 3 million acres now in our possession. That 1.5 million acres was 60 percent of all Rangitāne land. We need to let these figures sink in and just realise and appreciate the enormity of the loss for Rangitāne. </p><p class="a">I would again just like to acknowledge the people in the gallery and all the other tribes that have been here today. The hope is that all of these bills move through the House quickly, so that the people can get on with actually creating the success that we should have had over the last 170-odd years. Might I say that I will get down on my hands and knees tonight and pray that my whanaunga up in Ngāpuhi do the right thing, follow the lead that the tribes have given today, and just get on with the process of settling their claims and being successful Māori, taking care and taking charge of our own destinies.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160922 17:20:44" ></a><strong>ALASTAIR SCOTT (National—Wairarapa)</strong>: There is an advantage in being the last speaker in the House, because one has heard much of the story. So I do not want to repeat much of what was said, but I will repeat some stuff. First of all I would like to acknowledge the people of Rangitāne, particularly these people who have arrived today. I note the photographs of those who have passed, those who started the process who are not able to be here. I acknowledge you here today. </p><p class="a">I would also like to acknowledge the people of the Mākirikiri Marae. Minister Finlayson mentioned the auspicious occasion when we were on the marae and signed the agreement. I was extremely honoured to be a witness to the Minister's signature, and I really appreciated your invitation, your hospitality, and your heartfelt involvement in, and commitment to, the process. I could see at that marae, on the day, as some have already said, the relief that came off your shoulders when the signatures were inevitably signed. </p><p class="a">Being one of the last speakers gives me an opportunity to correct a few things that have been said in the House. Katy Apanui, mother of Jo Hayes, you have done a fantastic job. No matter what Pita Paraone says about being on the right side and the wrong side of the House, I say she is definitely on the right side of the House. So thank you for bringing up such a fantastic lady. She does a great job on this side of the House. Congratulations. You should be proud of your daughter. </p><p class="a">Some of the history has been laid out very eloquently by the Minister for Treaty of Waitangi Negotiations. Kelvin Davis has given a little more of the history. But at the end of the day these people were ripped off. That is the bottom line. They were ripped off. When people ask what we are doing, giving Māori more money—"They've got their hand out. They've always got their bloody hand out."—I say: "Well, come on. Think about the story. Think about the history." Think about the reality. Think about the facts behind this settlement that we are talking about today, and other settlements that we have talked about today. Think about what would happen if your mother, your grandmother, your great-grandmother—think about your great-grandmother. Let us just say she is in a rest home right now, and someone stole everything that she had. Someone stole everything—everything—not just a little bit, not just half, but everything. That is what happened for these people when they became virtually landless. The properties that they had, 3 million - odd acres, with 1½ million acres disappearing in one hit—these people were ripped off. They became landless. They had nothing. </p><p class="a">It is amazing, the generosity and the spirit that I have witnessed on the Mākirikiri Marae, and in other places, from these people. They are demonstrating their generosity, their determination to get through this process, and their graciousness in accepting this settlement. As has been mentioned before, the numbers just do not do any justice to the rip-off that occurred; it is a symbol. </p><p class="a">Can I acknowledge the symbolism of Pūkaha Mount Bruce. Part of the settlement involves 900 hectares of a fantastic conservation area, known as Pūkaha Mount Bruce. It is a large piece of land. But it is with huge generosity and sacrifice and graciousness, I would say, that Rangitāne have gifted it back to the Crown, instantly—without thought. That is a very significant contribution, culturally and spiritually, but not economically. The numbers do not matter, the dollars do not count, because more important is the restoration of mana for Rangitāne around Pūkaha Mount Bruce as being their place, their tūrangawaewae, their place where they can rest their feet—to say that this is our place. So that is much more important than dollars and cents. </p><p class="a">OK, we have got some money involved. We are going to invest that wisely and sensibly. Can I say that having heard some of the next generation, some of the younger people who were involved on the marae on the day, Rangitāne can only look forward to a very positive future, because the young people who spoke on that day—you should be very proud of those young people. They are committed. They have the same spirit, the same drive, that you and the people before you have demonstrated. People talk about young people being, you know, young and hopeless and wayward and useless—some people. But these people whom I saw on the marae were very proud to be Rangitāne and clearly were very capable and very committed. Those who have passed will of course understand that it is about the future, and I can absolutely suggest and commend your youth, your young people, your rangatahi, who will drive the future of Rangitāne well into the future. </p><p class="a">I do not have too much more to say, except that I would like, on behalf of the Wairarapa people, Rangitāne—and Louisa Wall has already acknowledged you, Minister Finlayson, and your contribution to getting this settlement through; your innovative approach. </p><p class="a">I know, with Rangitāne and Ngāti Kahungunu, there was a lot of innovation that had to take place to enable these settlements to come to the House. So, again, it is all about thinking outside the box, outside the square. I congratulate Rangitāne on collaborating with Ngāti Kahungunu to ensure that these settlements are before the House and that they will become done and dusted, as they say. Here, in the first reading, it is part of the journey, but we can be confident, as you have heard through the House today, that we will progress quickly and effectively. Be assured that that will be the case. So congratulations on your collaboration with Ngāti Kahungunu. That is very important. It is an honour and a pleasure to be the last speaker in the House to speak on this bill, and I commend it to the House.</p><p class="IndentMarginalone">Bill read a first time. </p><p class="IndentMarginalone">Bill referred to the Māori Affairs Committee.</p><p class="IndentMarginalone"><em>Waiata</em></p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Debate"><strong>SPEAKER'S</strong><strong> OBSERVATIONS</strong></p><p class="SubDebate"><strong>Kevin Hague—</strong><strong>Resignation</strong></p><p class="Speech"><a name="time_20160922 17:31:41" ></a><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: Thank you. Before I adjourn the House, pursuant to the leave that was taken previously, I do just want to acknowledge that this will be the last time that Kevin Hague is with us. I want to acknowledge him and thank him for making this Parliament a better place. </p><p class="a">[<em>Applause</em>]</p><p class="CentredEndingBold"><strong>The House adjourned at 5.32 p.m.</strong></p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

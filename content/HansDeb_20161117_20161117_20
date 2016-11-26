@@ -1,0 +1,846 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Special Debates — Pacific Parliamentary Forum—Debate on Pacific Issues - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_20" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_20/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Special Debates — Pacific Parliamentary Forum—Debate on Pacific Issues</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20161117_20161117_20/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_20" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20161117_20161117_20/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_20/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20161117_20161117_20/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20161117_20161117_20/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20161117_20161117_20/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard is-draft">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Debate"><strong>SPECIAL DEBATES</strong></p><p class="SubDebate"><strong>Pacific Parliamentary Forum—</strong><strong>Debate on Pacific Issues</strong></p><p class="Speech"><a name="time_20161117 15:21:21" ></a><strong>Hon Peseta SAM LOTU-IIGA (Minister for Pacific Peoples)</strong>: I move, <em>That </em><em>the House note the Pacific Parliamentary Forum being held this week at Parliament, and that it acknowledge the linkages between New Zealand and the countries of the Pacific Islands region and the value of those linkages in enhancing the prosperity and security of the region</em>.</p><p class="a">Oute fa'atulou atu I paia fa'atafafa ole maota nei, Le maota ole Fono faitulafono o Le Malo Tuto'atasi o Aotearoa Niu Sila nei. Le afio o Lau afioga I Le Fofoga Fetalai, Le mamalu Tele o ta'ita'i o Pati eseese, Le paia maua luga I Le nofo a Faipule, ae tainane Le mamalu o Sui usufono mai palemene o nu'u e fia mai atunu'u eseese o Le Pasefika. Talofa talofa lava.</p><p class="a">Kia orana, ni sa bula vinaka, namaste, ko na mauri, yokwe, ekamowir omo, fakaalofa lahi atu, gude, halo keta, malo e lelei, fakatalofa atu, halo, malo, bonjour, gidday, tēnā koutou katoa, and greetings to you all. Before we begin the debate, I just want to express my heartfelt sympathies for the families and the friends of the two people who died in Monday's earthquake, and my thoughts and prayers are with the people of Kaikōura and Marlborough. We are all thinking of you.</p><p class="a">It is an honour to lead this parliamentary debate and to have all 41 foreign delegates, as well as my parliamentary colleagues, here today to debate this motion. Hosting this forum here gives us the chance to build relationships, share ideas, and develop a vision for a prosperous and secure Pacific region. People-to-people exchanges like this give us, as leaders of our nations, valuable insights and lead to lifelong Pacific relationships that help people across the Pacific live well and prosper. I hope and trust the meetings that you have had in Auckland and here in Wellington will have covered the issues that matter to Pacific people in the region. </p><p class="a">Today more than 7 percent of people, or well over 320,000 people, living in New Zealand describe themselves as Pacific. By 2026 the Pacific peoples are expected to make up 10 percent of the population, well over half a million people. New Zealand is a migrant nation historically today, and will be well into the future. Pacific people have migrated here for many decades, and families like my own have come here to get better educations for our children, to find higher-paying jobs, and to lead healthy, better lives. </p><p class="a">Although we in this House might disagree about some matters, we do agree that the key to unlocking the potential of Pacific peoples not just here but across the region is in education. Through education people have come here to pursue their dreams, their aspirations, and their hopes. More than 92 percent of Pacific children in this country now participate in early childhood education. This lays the foundations for learning and makes starting school a better experience for our children. Over 81 percent of Pacific students now finish secondary school with work-ready qualifications—level 1 NCEA—and nearly 13,000 Pacific students graduated with tertiary qualifications last year.</p><p class="a">With these higher rates of education has come record employment for Pacific people in Aotearoa New Zealand. Over 138,000 people now have jobs. That is the highest number on record. The Pacific people's participation rate is high, at 64.1 percent. It is done through a focus on education by our families, and also the Government working together with other groups in the community to promote education.</p><p class="a">The Pacific Business Trust, which the Ministry for Pacific Peoples funds, supports growing businesses and start-ups. The trust's vision is for clients' dreams to become outstanding New Zealand and international businesses—for example, the trust helped Tim Lauagiagi, the owner of Capital Taxis. Tim went to the trust with an idea. The staff used their expertise to develop Tim's concept and then turn it into something much, much bigger.</p><p class="a">As well as education and business success, health is an important determinant of quality of life. Since 2003 the rate of rheumatic fever in this country has halved. Immunisation rates for Pacific children are now in the mid-90s, compared with 2007 when it was about 63 percent. Of course, in this country, children under 13 have free access to GPs and prescriptions are filled for free, and for Pacific kids that is a big, big advantage.</p><p class="a">Pacific influence in music, theatre, poetry, and comedy is also growing, and we need to look no further than our very own emeritus professor Albert Wendt, who holds New Zealand's highest honour as member of the Order of New Zealand. Albert has been an influential figure here in New Zealand and across the Pacific, and he is regarded internationally as one of the world's leading indigenous novelists and academics. We also are proud in this country of events such as Pasifika and ASB Polyfest, and they reflect the unique cultural identity and diversity of Aotearoa New Zealand.</p><p class="a">I am proud to be the Minister for Pacific Peoples, and it is a position that is charged with specifically dealing with the success of our Pacific communities. My ministry and the team of people there work tirelessly to fulfil the vision of nurturing and growing successful Pacific peoples. New Zealanders care about Pacific people region-wide, and our focus is far broader than the Pacific peoples living in this country. Right throughout the Pacific, New Zealand enjoys extraordinarily close ties at political, economic, and people-to-people levels, and this forum reflects our commitment to the Pacific to join with the Pacific in sharing a lot of these ideas.</p><p class="a">Each year we welcome 9,000 Pacific workers through the Recognised Seasonal Employer scheme: around 4,000 from Vanuatu; nearly 15,000 from both Samoa and Tonga; and there are almost 600 Solomon Islanders here, as well as workers from Fiji, Tuvalu, Kiribati, and, of course, Papua New Guinea. They are in New Zealand picking apples, stone fruit, or vegetables, and pruning grapes. And regardless of where they come from, the goals of the workers are to earn money to help them and their families and their communities back home. I saw first-hand last year how those funds were being used on building houses in Samoa, supporting businesses, and, also, uplifting families.</p><p class="a">New Zealand is committed to supporting labour mobility opportunities for Pacific workers through the PACER Plus negotiations. That involves work beyond horticulture and viticulture into industries such as fisheries and carpentry. New Zealand also helps with direct foreign assistance in various Pacific countries. Around 60 percent of our international development assistance, which is about a billion dollars over the current 3-year period, goes to the Pacific directly.</p><p class="a">That aid focus is on initiatives that will dramatically improve Pacific countries' ability to build their economies and look after their people. A great example of this work being done is to build renewable energy capacity that will reduce dependency on extensive polluting diesel. From Tonga to the Marshall Islands, New Zealand is pursuing initiatives in this area. The Pacific Energy Conference in Auckland a few months ago produced added backing where international donors committed to $1 billion in investments. This year's conference, which was co-hosted by the New Zealand Government and the European Union, built on the success of the summit in 2013 where $900 million of energy projects across the region were committed to. </p><p class="a">All up, this is a $2 billion investment, increasing access to clean, reliable and affordable energy in the Pacific. This is important—and I know that the delegates will be debating climate change but no one wants the Pacific nations submerged under rising sea levels or badly affected by climate change. The increasing development of clean renewable energy will help improve the well-being and the lives of our Pacific peoples. New Zealand is committed to the Pacific because we are invested in our neighbourhood. We want to see successful Pacific peoples here and around the region. Success will grow on the back of our Pacific values—not just money or investment; it is about the values of hard work, faith, commitment to family, reciprocity, self-belief—and I know together we will continue to build a prosperous, peaceful, and stable Pacific.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 15:31:05" ></a><strong>ANDREW LITTLE (Leader</strong><strong> of the Opposition</strong><strong>)</strong>: Tēnā koutou katoa, talofa lava, kia orana, malo e lelei, bonjour, and warm Pacific greetings to all the dignitaries and parliamentarians in attendance today. I had the great pleasure to meet some of you yesterday, and it is great to see those members here in the House as we debate the very important issues about our relationship with the Pacific and Pacific countries. Can I just acknowledge the Minister for Pacific Peoples, Peseta Sam Lotu-Iiga, and his contribution just now—always constructive and, I know, deeply heartfelt from the Minister, because of his responsibilities and his contribution to New Zealand as well.</p><p class="a">Can I acknowledge all of the countries—the many different countries—that are represented by the delegation: American Samoa, Australia, the Cook Islands, French Polynesia, Fiji, Kiribati, the Marshall Islands, Nauru, New Caledonia, Niue, Papua New Guinea, Samoa, the Solomon Islands, Tonga, Tuvalu, Vanuatu, and Wallis and Futuna Islands. You are all very welcome here in this House. Can I also acknowledge His Excellency Matua the Honourable Shane Jones, Ambassador-at-large in the Pacific, for the tremendous work that I know he is doing in strengthening and building the relations between New Zealand and many Pacific countries, which are so important not only to New Zealand but to the region at large. The relationship between all of our countries as Pacific neighbours is important to all our futures. </p><p class="a">I want to begin by acknowledging also the enormous contribution made to New Zealand—our economy and our society—by our own Pasifika community here. That started with the early Pacific migrants who came to work in New Zealand industries that were crying out for labour, who helped our nation's economy grow, who laid the foundations for the vibrant and diverse Pacific community in New Zealand today. We are a better, stronger, more vibrant, and more prosperous country for your presence here.</p><p class="a">Their children and grandchildren are in all walks of life in New Zealand. Pacific people are to be found in our Parliament, our Public Service, in the professions, business, local government, and in our churches. Pacific people have also made an amazing contribution to our sporting life and to the arts and culture of New Zealand. Pacific painters, poets, writers, dancers, musicians, and fashion designers are helping create a new Pacific style in New Zealand.</p><p class="a">The honourable Minister referred to Albert Wendt. My connection with Albert Wendt goes back to my old school, New Plymouth Boys' High School—we are both old boys of that school. I still remember the day he came to speak to our school, to talk about his time there and the contribution that he has made to our culture, to our literature, to our academia, and we are all the better for it.</p><p class="a">For my own Labour Party, we must never take for granted the fantastic support that we receive from the Pacific community. Our close ties to the Pasifika community are reflected in our five Pasifika MPs: Su'a William Sio, Carmel Sepuloni, Kris Faafoi, Poto Williams, and Jenny Salesa with heritages from Samoa, the Cook Islands, Tonga, and Tokelau.</p><p class="a">In Labour, we are proud of our history of advancing the interests of Pacific people here in New Zealand. When Labour was in Government it established structures such as the Pacific Business Trust, the Pasifika Education Centre, Pasifika TV, and the Pacific radio networks of Niu FM and Radio 531pi to enable the Pacific communities to thrive in New Zealand, while holding on to their languages and cultures and heritage values.</p><p class="a">Our party is also looking forward to the future. Our recent Future of Work Commission included working closely with the Pacific community on a new vision for the future of that community—one built on aspiration and inclusion. We know that our country is so much better off because of our good relations with the wider Pacific as well. In 2013 our exports to the Pacific were worth $1.3 billion. That year 96,000 Pacific people visited our country—a huge boost to our tourism sector, but also a strengthening of family links between us and those many Pacific countries. </p><p class="a">For New Zealand to succeed, our Pacific neighbours need to succeed and our Pasifika community here needs to succeed also. We need to ensure that the dreams we all share—a good job, a good home, opportunities for our children to do well, and security and dignity for the people we love, when times are hard—are within reach for every person in the Pacific, because right now our region faces some daunting challenges.</p><p class="a">The first is the imminent threat of climate change. Here in New Zealand we have always prided ourselves on our tradition of moral courage on the world stage—on taking a stand for what is right, on stepping up to the big challenges and the tough fights. Past Labour Governments did that, for example, over the nuclear threat in the South Pacific when we sent a frigate to Mururoa Atoll to protest against French nuclear testing.</p><p class="a">There is no greater challenge in our lifetime than that of climate change. It threatens our economy, our planet, and our way of life. For many Pacific nations, it threatens their very existence. New Zealand must be a leader in the fight against climate change. That means a real plan to reduce emissions and an independent climate commission tasked with carbon budgeting. It also means playing our part in assisting our Pacific neighbours as they deal with the impact of climate change. That means adequate levels of aid to assist with the impact of severe weather events like the recent cyclones in Fiji. It means increasing our refugee quota to take in more people from the Pacific who have been displaced by climate change.</p><p class="a">We must do more at home to tackle the challenges in front of our own Pacific people. We must do more to ensure their aspirations are being met. That means fixing the housing crisis that is holding so many people back—especially in Auckland, our great Pacific city. It means restoring the $1.7 billion that has been cut from our health system. It means recommitting ourselves to the principle of free public education and acknowledging that education does not stop after high school, which is why we must provide 3 years of free training for people across their working lives. </p><p class="a">We must also tackle the growing burdens of poverty and inequality that fall disproportionately on our Pasifika communities. That is why we must push for higher wages, more secure employment for our people, and more support for young people who want to start their own businesses. We need to be seeing more young Pasifika entrepreneurs building their own companies and generating wealth with their ideas. We can do that here in New Zealand, and we must commit to the same objectives with our Pacific neighbours in their countries.</p><p class="a">In our party we are committed to a better future for every person in the Pacific. We are committed that our country acts as a force for peace and economic and political stability in our region. We are committed to doing more to fight climate change, more to expand opportunity, and more to support our Pacific people here at home. We are committed to ensuring every person in the Pacific has the ability to chase their own dreams and achieve their full potential. I look forward to working with our friends from around the Pacific and around this region to make this happen.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 15:39:50" ></a><strong>MARAMA DAVIDSON (Green)</strong>: Tēnā koe e Te Māngai o Te Whare</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">It is my absolute, deep honour to be able to speak on behalf of the Green Party today as our spokesperson on Pacific peoples and Pacific issues. Kia ora koutou katoa. I still have the sand in my shoes from Mission Bay in Auckland this morning, where I stood with deep pride alongside our Pacific sisters as we released a karanga, a call, to the moana to unite our Pacific and tangata whenua voices for peace in the Pacific region and around the world, and to acknowledge the voices of Pacific and tangata whenua women against war and against all forms of oppression. I am shaking the sand off from that event and have come straight here to Wellington to speak in Parliament, because we need to support the community voices and the community projects that are organising against the militarisation of the Pacific and that are best suited to be able to provide our own Pacific solutions to the threats of violence and war and oppression in the Pacific region. </p><p class="a">It was also an action that highlighted our connection to our whanaunga of Te Moana-nui-a-Kiwa, because together we are mokopuna of Tangaroa; together we are mokopuna of the Pacific Ocean. So it is my absolute pleasure to bring the sands from Mission Bay, from the rohe of Ngāti Whātua, here to this House of Representatives in Aotearoa to speak on behalf of the Green Party. </p><p class="a">I want to also raise, in keeping with the theme of standing in solidarity against war and oppression, the need for Pacific nations and Aotearoa to stand in solidarity with West Papua. We have been inspired by Pacific youth in particular, and I want to acknowledge Oceania Interrupted, a leadership group, again of amazing young Pacific women, who have been standing alongside tangata whenua wahine to raise our voices in support of the freedom and independence of West Papua. The Green Party of Aotearoa wishes to acknowledge the inspiring leadership of Pacific nations who are supporting the independence, self-determination, and human rights of West Papua. We absolutely acknowledge the effort in the Pacific to urge the Melanesian Spearhead Group and the Pacific Islands Forum to give them full member status, and we thank those Pacific leaders who have advocated so long and so strong for them at the United Nations—Papua merdeka. </p><p class="a">We want to understand—and as my colleagues of the House have stipulated, we cannot state strongly enough that we are a Pacific nation. As for my own ancestors, as a daughter of Ngāpuhi, Ngati Porou, and Te Rarawa, and as an indigenous woman of Aotearoa, I acknowledge my tūpuna and their voyages, their journeys, through the Pacific and our whanaungatanga bond that meets the shores and the waters of the moana on this land to maintain the blood connections to our Pacific nations of your lands. The Pacific communities are a massive, vibrant part of Aotearoa and in my home community of Manurewa in South Auckland, where I live. The South Auckland region—Manukau City—has the largest Pacific community in the world. It is a community to which I have belonged for 20 years, and of which I am incredibly proud. </p><p class="a">I want to quickly mention in my other portfolios and in my work in South Auckland, the focus on homelessness and housing issues. I absolutely must acknowledge that Pacific families often carry the biggest burden of any housing issues facing our country, and that we, again, must provide the local community solutions, and support the community groups in the Pacific communities that are best placed to come up with the solutions if they are well supported, as we saw with the work from Te Puea Marae in Māngere and also Manurewa Marae. We know that our people have the solutions; they just need the support. </p><p class="a">The New Zealand leadership role in the Pacific is incredibly essential to build the collective Pacific voice on climate action, and I look forward to hearing from my colleague Gareth Hughes who will expand more on the Green Party's long and strong advocacy for addressing climate change seriously. Our cross-Government, parliamentary, and community action is how we must address climate action, social development, peace, and justice. </p><p class="a">The investment from Government and NGOs has to be guided by the local people of each of our communities and of each of our nations, and coordinated in partnership with them. We have already seen the enormous potential for positive outcomes, when our Government and the NGOs, working in the Pacific, are open to broad discussions about things such as community building, enabling women's participation in politics, child protection, and social well-being, as well as the much-needed solar panels and water pumps. </p><p class="a">As I bring my contribution to an end I want to mention that economic development has been a priority for a while now, but there cannot be economic development without sustainable economic development, which requires families to be healthy, to be in a state of well-being, and to be well educated. We need to lower our incidences of family violence, improve the accessibility and quality of water, improve sanitation, and develop more reliable energy sources in places that are going to provide a home in the future for coming Pacific mokopuna.</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">The Green Party is committed to working with parliamentarians and grassroots communities across the Pacific on developing relationships, and I acknowledge the delegation's time here with us. On your visit to Ōrākei Marae, you were welcomed to Aotearoa, which is directly above the Mission Bay part of the Auckland Harbour, where I spent this morning with our Pacific sisters. I hope your time here is productive and of use to you. We look forward to building on and strengthening and continuing to have the discussions that will see us working together as Pacific nations in the Pacific region. Tēnā koutou katoa.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 15:49:07" ></a><strong>PITA PARAONE (NZ First)</strong>: </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">I will leave it to his excellency Shane Jones to translate that for our visitors. </p><p class="a">As I understand, this debate is timely in that it coincides with the 2016 Pacific Parliamentary Forum, presently being held here in Wellington, which our distinguished visitors have come to attend. Aotearoa New Zealand's relationship with the Pacific and its people is not merely one of a geographical nature. The arrival of Kupe was the genesis of our historical connection. There is a famous Polynesian proverb, which in translation says "To reach its destination, the canoe must be paddled on both sides". That, for us in New Zealand First, defines our relationship with our Pacific cousins, who are intertwined into the very fabric of our society. </p><p class="a">All New Zealanders are Pacific Islanders, but I suppose we can coin what Hawaiians say of Hawaii, which is "We are from the big island". Our history goes back far, and during this centennial of the Great War we recognise the sacrifice our Pacific brethren made in the cause of freedom. New Zealand is a nation of the Pacific, and for peace and security, we must be committed to helping our neighbours enjoy a more prosperous future. The Rt Hon Winston Peters, the leader of New Zealand First, has played a leading role in bringing this about as a former and, I must add, highly successful Minister of Foreign Affairs. </p><p class="Interjection"><strong>Su'a William Sio</strong>: Under a Labour Government, was it? </p><p class="ContinueSpeech"><strong>PITA PARAONE</strong>: The Pacific is, in a word, vast, and it is easy for us to forget how big some of these land masses are. And my cousin from South Auckland is quite right. That role was part of the Labour Government, and it just gives credence to the saying that I mentioned earlier on—that the waka must be paddled on both sides. </p><p class="a">Papua New Guinea is larger than New Zealand in both land area and population. It is arguably richer in natural resources, but poorer in terms of economic and social indicators. It also suffers from being an even closer neighbour to Australia than we are. But compare such a colossus as Papua New Guinea with Tuvalu. It is among the smallest States on earth, with a population about the same size as Gore's. It faces multiple challenges, and both these countries highlight how diverse and challenging the Pacific is. Yet, with the 21st century, it is Asia's century. We ought to be focused on helping generate Pacific tigers off the back of that. </p><p class="a">As Mr Peters said a few years ago, New Zealand has a clear expectation that the Pacific region and individual Pacific countries will take up the challenge of development and do the work necessary to lift their own citizens out of poverty. New Zealand First believes this must be about policies and practices to grow Pacific economies and increase their standards of living. New Zealand for too long has acted like a magnet for their brightest and best, and that only hollows their countries out. Conversely, we see that with the way Auckland is acting like an economic black hole for the rest of the country. But our contribution must be about preventing corruption, poor governance, and, of course, conflict. We do not pretend for one second that it can be done by a few words or that we have all the answers, because it is about partnership. What happens in the Pacific impacts directly on our country and on the quality of life, safety, health, and security of New Zealand, and, may I add, its success on the rugby field.</p><p class="a">The more successful the Pacific is the better it is for us. The problem we are dealing with is clear: the Pacific is not very prosperous. It sounds a bit like New Zealand in some respects, but economic growth around the region is failing to keep up with population growth. Youth unemployment is a growing problem, and basic poverty indicators are far too high. We could be talking about parts of New Zealand in that respect, which is why we must use proven means to help these countries and to help us. </p><p class="a">As Mr Peters noted a few years ago, the Pacific is at risk of falling victim to all the wasted potential and social and economic chaos that poverty brings. New Zealand's aid in the Pacific has helped get more children to school, it has improved health services, it has helped fight the spread of HIV/AIDS, and it has assisted countries to build and maintain the critical infrastructure needed to support economic development. We say aid can work, but well-managed and strategically planned aid works even better. </p><p class="a">New Zealand First remains committed to do that and to the notion that for trade to be fair, it must be free. The Pacific, rightly, asks for trade, not aid. The biggest problem that the Islands face are trade barriers. Initiatives like Aid for Trade say that well over US$200 billion has been mobilised in funding since 2005. This sounds impressive until you consider that over the same period of time, the United States and Europe have between them paid out over $600 billion - plus in agricultural subsidies to their famers. Instead, the easiest solution is trade, not aid. </p><p class="a">The Pacific, like New Zealand, faces trade tariff, non-tariff, and subsidy blockages. Trade helps to even out demand and supply, helping to meet the world's need for food. It provides island economies with increased market opportunities and helps to improve incomes, prosperity, and economic growth. It benefits all of our communities. Above all, it helps to lift them out of poverty. </p><p class="a">Up to today New Zealand has provided over $2 billion in development assistance to the Pacific, so there needs to be a concentrated effort by the Governments of Pacific nations, including our own, to lift performance. We cannot preach when war veterans here are forced to live in mouldy, leaking caravans or families are split up due to a lack of housing. New Zealand must practise what it preaches. That is why all leaders and decision makers, including our own, need to make more choices based on national interest and not self-interest. We need to reinforce success and eliminate failed ways of doing things. Most importantly, encouragement needs to be given to all citizens to participate in the political process. As another Winston—Winston Churchill, that is—once said, democracy is the worst form of government, except for all the others. </p><p class="a">New Zealand will also prioritise infrastructure, which is in light of our deficits in provincial New Zealand, and after the Culverden earthquake it seems to be a bit like saying: "Do as I say and not as I do." The Culverden earthquake and regular calamities across the Pacific show we are under-equipped in defence, and I know my colleague Ron Mark is preparing a detailed plan when it comes to boosting humanitarian assistance and disaster relief. New Zealand must do its share of the paddling, and we must also be realistic. </p><p class="a">I just want to conclude, and I want to refer to what has become an oft saying within my tribe of Ngāti Hine. However, I have taken the licence of substituting two words so that it reflects the call of not only me and my caucus colleagues but all of us of this House. </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.</p><p class="a">—we have come too far not to go further; we have done too much not to do more. Those words I leave to this House and, hopefully, to our visitors, who have come to our wonderful country. Kia ora mai.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 15:59:29" ></a><strong>ALFRED NGARO (National)</strong>: Thank you, I appreciate the support. In the Pasifika languages of the members of the Pacific Parliamentary Forum who are here: talofa lava, faakalofa atu ki a mutolu oti, ni sa bula vinaka, </p><p class="a">namaste, bonjour, gidday, and in the heavenly language: </p><p class="IndentMarginalone">[Cook Island Māori text to be inserted by the Hansard Office.]</p><p class="a">It is a great thing to be here today because this marks the second time in the whole of Parliament's history where Parliament, in all its business and all its dealings, has stopped to take a moment to be mindful of those things that are Pacific. The motion that was moved talked about the partnership and the linkages that we have had in the present and also in the past, and the potential of what we will have into the future. </p><p class="a">This Pacific Parliamentary Forum was an idea that was formed and thought about many times over by different leaders. I am sure there is going to be mention of some of those leaders who talked about it and thought about it. But I want to acknowledge that in 2009 and 2010 the Foreign Affairs, Defence and Trade Committee put together a report and talked about the importance of the fact that there should be a dialogue that happens. We have the Pacific Islands Forum where all the leaders of the nations come together, but what we need also is a deepening of the understanding of those issues with other parliamentarians who exist in the Pacific.</p><p class="a">Hence, in 2010 the idea began to form that we should fund this, we should create this dialogue, and in 2013 we had the first such forum here in New Zealand. Seventy members from throughout the Pacific were here. I want to acknowledge the 41 members who are here today, representing 15 different nations. You play an important role. Your presence, your thoughtfulness, and the expertise that you bring are absolutely important. I want to say to you, this is not a one-way conversation or a dialogue whereby you have come to hear, to look, to learn, and to listen for yourselves; this is also about us.</p><p class="a">The intent of this Pacific forum was that we would share collectively together. I want to remind you about the fact that—I shared a story at the Auckland Art Gallery, at our dinner, where I talked about what my grandmother said. She said: "We were not born to live in swimming pools. We were not born to exist in small places where Pacific was just for Pacific. Instead, we are out for the ocean. Our sense of who we are, and what we contribute, is for all peoples—it is for all peoples." I want to reiterate that. That is who we are. If we sell ourselves short—if we think that we are only for Kiribati, Nauru, Fiji, Vanuatu, Samoa, and the Cook Islands. Instead, what our tūpuna had destined for us is that we would not only be a blessing to our nations but to all nations—to all nations. So can I put that challenge out to you, first and foremost. </p><p class="a">Last night in this House many of you were present when we had a re-enactment of over 100 years ago, when 45 young Cook Island men were taking up the call to serve Queen and country. In that re-enactment we talked about that</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">whose father, at the tender age of 18 or 19, came along and stood over here. He was also to not only karanga but there was a mihi from Tau Henare, the great-grandfather of Peeni Henare. What a moment it was when the two of them came together and they began to meet, tupuna to tupuna, and talk about the importance of that. In that place it was significant. </p><p class="a">When we talk about those linkages—as I was researching I thought about our linkages to the Pacific. You see, although we reminisce about the importance of our friendship treaty with Samoa, the Cook Islands, Niue, and the islands of Tokelau, we are the nations of the Realm of New Zealand. In fact, in our national anthem it talks about the protecting of our triple star—those are the nations of the Realm. There are different relationships, but still New Zealand for a while struggled to understand that. </p><p class="a">Can I say that, as I read through, I want to acknowledge, again, Peeni Henare's grandfather, Sir James Hēnare. This is what he said: "It must listen to the north wind blowing from the great Hawaiki—the wind that brought Māori to Aotearoa." The reason why it is significant is this: it is because your presence here is also about bringing us your wisdom, your understanding, from where you come from, and the things that you have struggled with. So when we debate tomorrow in this House the issues of climate change, Pacific resources and fisheries, and when we talk about governance, come with all that you have, all that you are, because that is what this place demands; that is what our tūpuna demand of us. Do not sell them short and do not sell yourselves short, and neither should we, because that is what we are here for. We are here to make a difference—we are here to be able to do that as well.</p><p class="a">Ladies and gentlemen, can I just say this: the importance of the messages that we give, not only today in this House but also tomorrow, when we begin to put together resolutions, are resounding enough to hopefully go back not only to our nations, but they should be resounding enough so they go back into the Pacific Islands Forum. That is the intent of this forum. We are to debate the issues, put around the issues, that are important to us. </p><p class="a">So on our journey, can I just say that—is it not wonderful that we had a little bit of a tiki tour in the vans? I think we had the best van—our van; we did. We tiki-toured around—and I know that Dr Puakena Boreham is up there in the gallery. I know the beautiful Alofa Tautogia who is over there—who almost everywhere we went said: "I am meeting family everywhere." I threatened her. I said: "I am going to tell the consulate-general that I think you came here just to meet your family, rather than to do the business of Parliament." But is it not wonderful, because that is Pacific humour—that is Polynesian humour. We laugh together, we cry together, but we also work hard together. </p><p class="a">So what did we do on our travels? For instance, we went to Beca Group. We talked about the importance of the role of the Ministry of Foreign Affairs and Trade in ensuring that some of the development issues around climate change were being developed. We saw the work it was doing around coastal engineering that was important to those issues. Here is what Beca said to us: "You need to tell us how we need to do our job better. You need to let us know what we need to be informed about, so that we can make a difference."  Those are the things that are great.</p><p class="a">We went to Unitec. We saw vocational training. That is where my good friend from the Marshall Islands, Sherwood Tibon, stood up and listened when he heard about their apprenticeship schemes for Māori and Pacific Islanders, and heard about what they were doing to make a difference there. It is where a young man called Kamuka Pati, who was at a crossroads in his life, could stand up, and now has received an award, over a month ago, for being one of the top vocational trainers not only for the Pacific but in the mainstream. He talked about what he was doing for our Pasifika—making a difference. Sherwood turned around and said: "That will make a difference for us. Why? Because there is an emerging social issue back in the Pacific that we need to have those sorts of supports and that sense of understanding to benefit us as well."</p><p class="a">We went to Fono West, which is now The Fono, where Tevita Funaki was talking about dealing with all sorts of issues, whether they be non-communicable diseases, rheumatic fever—all of these. But here is the difference: it was a Pacific provider, with Pacific health practitioners, making a difference for our Pacific people, and that is something we have got to be proud of. Why? Because it shows what we can develop. When we asked about the demographics, they said that it is not only Pacific people but also other mainstream people. Well, they actually said they had a lot more Samoans that were there—OK? That is great, because they are serving our population, they are serving our Pacific people, and they are truly making a difference. It is something that we can absolutely be proud of. </p><p class="a">Ladies and gentlemen, we are more than just comedians; we are more than just the show people who play songs and sing well and also do sports. In fact, we are so good we can even do that at the same time as doing the business to make a difference.</p><p class="Interjection"><strong>Kris Faafoi</strong>: Stop talking about yourself. </p><p class="ContinueSpeech"><strong>ALFRED NGARO</strong>: That is right. We can even be journalists and come to this House and make a difference—we can even be journalists and make a difference. </p><p class="a">Ladies and gentlemen, today is the day, for us, when we should be proud. When we talk about prosperity—and I know that Su'a William Sio, Jenny Salesa, and I were at a panel, and young people got up and talked to us, asking: "Is it affordable to be able to have a house and have a home in Aukilani—in New Zealand, even?".</p><p class="Interjection"><strong>Hon Member</strong>: No.</p><p class="ContinueSpeech"><strong>ALFRED NGARO</strong>: But here is the question that I—that is right; they said no. But here is what I said. Here is the bigger question. Here is the most important question: who is defining prosperity for us? Who is defining prosperity for us? Because do you know what? From another world view, prosperity is the house, the home, the bach, the boat, and everything else that goes with it. </p><p class="a">I told the story about the fact that when I was growing up, we used to do a thing called fund-raising, and here is what it was—bring and buy. So, my mum and dad used to go along. We would buy the food from the supermarket and we would come home and make the food: the chop suey, the taro. Then we would go down to the church hall, we would pack it up and put it on plates, and guess what? We would sell it back to ourselves. What sort of a fund-raiser is that? It did not matter. Do you know why? Because it was enough for us to be able to buy the hall and to develop the church—to do the things that were important. Why? Because that is part of our social construct. </p><p class="a">Can I say this: do not let anyone else define what prosperity is for us. We should define it. And guess what? It is not an either/or. You do not have to be Western to be successful. You can be Pacific, Polynesian, and you can have the best of the West that is in there, and make a difference to us. That is what we should do. We define it. We define what prosperity is to us as well, and we do not let anyone take that away from us. </p><p class="a">Can I say this in my last few seconds: we are the ones who make a difference. If we want to make our people proud, stand up for what is important to us. Let our young people see that we have a vision for prosperity, because we define it. That is why our people brought us here today.</p><p class="IndentMarginalone">[Cook Islands Māori text to be inserted by the Hansard Office.]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 16:09:35" ></a><strong>Su</strong><strong>'</strong><strong>a WILLIAM SIO (Labour—Māngere</strong><strong>)</strong>: In the words of a former colleague of ours, the Hon Luamanuvao Winnie Laban, I simply say warm Pacific greetings to one and all. I acknowledge the representatives from the various parliaments throughout the Pacific. We welcome you and we look forward to continuing this debate tomorrow. </p><p class="a">I also cannot help but reflect a little bit on the first forum of this nature. We had Parekura Horomia, who is no longer with us, but who led the pōwhiri on that particular occasion. I remember him and I remember his love and support of Pasifika people. I acknowledge also Mātua Shane Jones, who is well-known now throughout the Pacific region, and I know that he is very much appreciated by the Pacific countries. I also want to thank Charles Chauvel, a former colleague of ours, who took the time to travel all the way from New York to share some of his experiences with our delegates from throughout the Pacific.</p><p class="a">In 2009 a submarine earthquake hit the Pacific, which generated a tsunami, and that tsunami devastated land, properties, food crops, and the people in Samoa, American Samoa, and Tonga. I think the casualty of life was in the vicinity of about 200 lives—people who died. I recall the response of New Zealand, from the Government, from local government, from business, from community groups, from sports organisations, and even from early childhood centres. I remember one from Whangarei, up north; your way, mātua Shane. They all responded generously. They responded because there was a need for them, and I think the way that the New Zealand community responded to that tsunami and the devastation it left behind in the Pacific was best described when His Highness Tupua Tamasese Ta'isi Efi said: "He or she who comes to my aid in times of crisis is kin, is family."</p><p class="a">I want to state categorically for this House, and for all members who come to this House in the future, that one of the significant reasons—the most important reason—why we in this House should support the motion as moved, and support our efforts in the Pacific, is that New Zealand is a Pacific nation. It is squarely accepted by all in the Pacific region as family, as kin.</p><p class="a">That is also reflected in the make-up of our populations today. Once upon a time, in the 1950s, there was a handful of Pacific people who came here. Now we number more than 300,000, of which almost 60 percent are Samoans. We have more Cook Islanders living here—about 50,000—than there are back in the Cooks. We have about 50,000, again, from Tonga, more than those—about 120,000—who are in Tonga. We have about 40,000 Niueans calling New Zealand their home, and there are probably fewer than 1,000 back in Niue. New Zealand has become the home of the new Pacific generation. They are not going to go anywhere. They are born here, they are married here, and they will be buried here, as were their parents and grandparents before them, which causes me concern because of these linkages back into the Pacific.</p><p class="a">As I preside over my extended family, who live in New Zealand, Australia, and America, the issue of concern that I, as the father figure for our family and as the head of our family, is how do we reside in New Zealand, achieve our dreams and aspirations to be successful in this country, and still maintain our languages and our traditional cultural values? How do we do that?</p><p class="a">That is a challenge that we face here in Aotearoa New Zealand. It is a challenge that I do not believe we can find the answers for alone. I believe that we have got to work together with the countries of this Pacific region in maintaining those things. I have said often to my family in Samoa: "If you do not maintain these strong links with the young people who are born here in New Zealand, you will not be able to ensure that those links remain strong in the future." That will have an economic impact, not only on my family but on many Pacific communities. Many countries in the Pacific, I am aware, depend on remittances, and New Zealand is a significant contributor of remittances back to the Pacific. Again, that is an issue that I am hopeful our colleagues in the Pacific take into consideration when they are looking at their economic plans for the future. I say that because they are issues that concern me.</p><p class="a">Earlier this year I took the opportunity to travel to Tuvalu and Kiribati, with the support of my colleagues here, because I wanted to see firsthand the impact of climate change on both Tuvalu and Kiribati. I saw in Tuvalu how they are faced with rising seawater levels on a day-to-day basis. I saw how some families in some parts of Funafuti struggled with putting up appropriate and credible sea walls. I saw how the Government is dredging its lagoon with sand, to try to reclaim some of that land in front of the Government building.</p><p class="a">Similarly, in Kiribati, I saw the same issues: not only rising sea water levels destroying coastal lines and destroying grave sites, but the acidification of the sea water—the warming of the sea water—is not just causing problems to ecosystems and marine life, but also polluting the land and polluting their water supply. I came back and I said to my colleagues: "We have an issue here. We have to work with some sense of urgency." All the science says that if we do not put a stop to our pollution into our atmosphere, then not only will these islands fall, but then the second line will fall, and the third, and so forth. What I am saying is that what is happening in the Pacific is going to affect New Zealand. It will affect Australia. It will affect every single country in this part of the world.</p><p class="a">But there are other issues that Pacific countries face in addition to climate change—the sovereignty rights. If in fact some of these islands go under water, who will benefit from their exclusive economic zones—their minerals, their fishing rights, their space, their website rights? What happens when these islands are under water? There will be loss of lands, language, culture, and practices. This is something that the young people in both Tuvalu and Kiribati said to me: "Whom do we hold accountable—whom do we hold accountable? Is it New Zealand? Is it Australia? Is it Russia? Is it America? Whom do we hold accountable for the loss, harm, and damage that is affecting the Pacific?".</p><p class="a">I want to say to New Zealand: what do we do? We cannot just sit by if this continues to happen. What is our plan if an emergency does occur? What is the worst-case scenario? How would we deal with it—are we prepared? Do we have sufficient housing and jobs? Imagine having 12,000 Tuvaluans turning up on our doorstep. Imagine having 110,000 Kiribatians turning up on our doorstep. If we are unable to recognise and deal with the housing crisis right now, how are we going to cope when that crisis is at our doorstep? Can our schools and other infrastructure cope with a sudden influx of young people? Do we know how our other regional partners will act—in Australia, in Fiji, in the Pacific forum, and other international people and countries that make use of the resources in the Pacific and ought to give something back? We need to plan for this. That is my plea to this House. It is my plea to my colleagues, and I hope that other parties here pick up that challenge.</p><p class="a">Earlier today, in the opening remarks by Andrew Little, he indicated some of the things that we need to do—review our immigration policy and also consider whether it is fair, for those who are living here in Aotearoa New Zealand, to return them forcibly to Island countries where there is no future for them. Those are some of the things that we have to consider, and I hope that in the next couple of days we are able to have constructive discussion, because the future of the Pacific is interlinked with the future of Aotearoa New Zealand.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 16:19:43" ></a><strong>JOANNE HAYES (National)</strong>: </p><p class="IndentMarginalone">[Foreign language greeting to be inserted by the Hansard Office.]</p><p class="Interjection"><strong>The ASSISTANT SPEAKER (Lindsay T</strong><strong>isch)</strong>: Just one moment. Is this a split call?</p><p class="ContinueSpeech"><strong>JOANNE HAYES</strong>: No. I am pleased to take a call in this important debate today, as the only female speaker on this side of the House. Before I do, I just want to acknowledge our Pacific parliamentarians up in the Speaker's gallery: Talofa lava, malo e lelei, bula vinaka, faakalofa lahi atu, kia orana, </p><p class="a">namaste, bonjour, g'day mate, kia ora, and greetings. Nau mai, haere mai ki Te Whare Pāremata o Aotearoa. I also want to acknowledge the ambassador, sitting up the gallery, Matua Shane Jones. Tēnā koe, Matua.</p><p class="a">Before I get into my speech, I want to give my condolences to the families who lost loved ones in the earthquake on Monday in Kaikōura. It was in the early hours, and it was a tragedy for them. I want to also acknowledge the resilient families and communities of Kaikōura and the Hurunui. I have found a whakataukī that was said in this House during the Christchurch earthquakes, and it goes like this:</p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">Although a branch may be broken off a tree, if the foundations are strong, the survival is assured. And I am confident that the survival and the future prosperity of Kaikōura and the east coast of that area and the farmland will once again be prosperous in the future.</p><p class="a">As the woman speaker on this side of the House, I want to talk a little bit about being a woman MP, and how we get to be women MPs. I want to talk about encouraging Pasifika women to stand for office, to get in there and to show that they are just as good, if not better, than the male counterparts that they stand against. I want to talk about this because those were some of the issues that were brought up when we attended the Pacific Women's Parliamentary Partnerships Project in Samoa this year. </p><p class="a">At this conference we spoke about a lot of things, but we spoke mainly about Pacific Island women standing for office. And it is really, really important because women bring a certain element to Parliament. They bring about a softness that only women have. They think about things from a broader perspective as mothers, as daughters, as friends to each other. They bring about that openness that only women have, because we are sisters: sisters as one.</p><p class="a">When we look across the House and we look at all the women in this House, that is exactly what we bring to the debates in this House. We have a group here called Commonwealth Women Parliamentarians. We are a cross-party group and our job, our main core job, is to support women—to support women within the Pacific areas to be able to stand, not just for Parliament, but also in local government areas.</p><p class="a">I want to talk about women's health, because women know what women need. Women do not need to be told what they want. They know what they want. They know what they need, and they need that voice to be able to do that and to be able to express that. As I listened to the chair of our subcommittee, Alfred Ngaro, he mentioned three words: lead by example. And that is exactly what women do. Women parliamentarians, they lead by example. We are strong. That is what we are here for. We are strong. And we need to carry that on. We need to demonstrate that and be role models for our daughters and our mokopuna. We need to do that. That is the burden that we carry. Is it a burden? No. It is a love. It is a love that we carry.</p><p class="a">In the last few days that I have been participating in the Pacific Parliamentary Forum, I have had some interesting discussions with a number of you. One of them was an area around—and I am moving across, into some of the environmental issues faced within the Pacific Islands, which have not been discussed today. One of the areas I talked about with a couple of you was around domestic waste. It was actually around sanitation, and the issues of sanitation on small islands and on some bigger islands. One of the areas that was about was how New Zealand can help the Pacific Islands to manage sanitation issues in the Islands. Some of the things that I asked some of the MPs were: "So, what kind of information have you gained from that, from your discussions, from your meetings?".</p><p class="a">I am pleased to say that New Zealand has been able to share information, to share ideas, and to hand over some precious information about how sanitation is managed here in New Zealand and what will actually work within the various and respective islands that you come from. That, to me—when we start picking up little pieces of information that we can take back to our respective islands, then we know that our forum, this forum here, this year, is a big success. </p><p class="a">The second area is—we were visited last week by two MPs from Kiribati. They came to talk about fisheries and the issues that they have with fisheries management in Kiribati. One of the things that they talked about was managing their fishing zones and their fishing vessels. I said to them, when we met with them last week: "Were we able to help you? Were we able to share that information about how you manage fishing vessels, the staff, the whole area around looking after the fisheries area, besides the ocean management side of things—the business side of fisheries as well?". I was pleased to hear them say: "Yes, we have been given all the information we need, to take home and be able to sort out the things that will work for us in Kiribati." </p><p class="a">Thirdly, I want to talk a little bit about coastal erosion, because that is so big, with climate change, with rising sea levels. The meeting that we had with Beca in Auckland actually helped me to see the work that we are doing in the Islands, through Beca and the Ministry of Foreign Affairs and Trade. We can see the type of work especially around the management of coastal erosion. As I was listening to the discussion that we had in Auckland, one of the presenters talked to me about going to Apia and helping with the seawall—maintaining and strengthening the seawall in Apia. I have walked along that seawall, and it is lovely. It is absolutely beautiful there in Apia, and you can see that there needs to be some more help there, to build it up and strengthen it. Those are some of the things that this organisation, Beca, is doing. </p><p class="a">Not only did we see that at the presentation, but we also saw extension of runways, rebuilding of runways, making sure that existing runways are maintained so that there is safe transport throughout the Islands. That is absolutely critical to the connection that the Islands will have with other places besides New Zealand and Australia. That is the key way—the transport in and out. </p><p class="a">When we start to look at things like that, the impact of the Western World, the Western things—the trinkets of the Western World have made their way back to the Islands. The waste that has actually come from Western World trinkets is starting to pile up in the Islands—rusted old cars, plastic bottles, all of those things that we see here, that we are managing, are building up in the Islands and making a very big headache for those living there. It is taking over. So anything we can do to help, to give some advice about how to manage that type of waste, and it is a big type of waste—New Zealand has a few tools in its kete, which it will share with the Islands. </p><p class="a">Finally, as I start to wrap up my speech, our Minister for Climate Change Issues, the Hon Paula Bennett, is in Marrakech at the moment, and our fabulous Minister for Ethnic Communities and Minister of Local Government, the Hon Peseta Sam Lotu-Iiga, talked a little bit about that, about COP-22 Marrakech 2016. Our Minister got up and she gave an amazing speech, but she also talked about being so proud to announce that she has advised the secretariat of the United Nations that New Zealand's ratification of the Paris Agreement should also include Tokelau. So it is absolutely amazing that Tokelau can be included in our agreement as well. </p><p class="a">It has been a privilege to stand and speak today, to be able to address our manuhiri up in the gallery. I hope that you have enjoyed your time here and will enjoy tomorrow, when we sit and watch you speak in the House. I wish you well. Any time that you need some help, please—the door is open for you to contact us here in New Zealand. So, without any further ado, thank you.</p><p class="Speech"><a name="time_20161117 16:30:02" ></a><strong>The ASSISTANT SPEAKER (Lindsay</strong><strong> Tisch)</strong>: The next call is a split call. Poto Williams—5 minutes.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 16:30:06" ></a><strong>POTO WILLIAMS (Labour—Christchurch East)</strong>: Meitaki Ma'ata Mr Assistant Speaker. Kia orana kotou katoatoa na roto I te aroa ma'ata o Te Atua. I have the privilege of being a New Zealand Commonwealth Women Parliamentarians (CWP) representative to the Pacific steering committee. I currently hold the honour of chairing that committee and working alongside many of the women who are present in the gallery today. We are committed in CWP to increasing representation of women across the parliaments of the Pacific. </p><p class="a">It may interest you to know that in the Pacific, unfortunately, our rates of representation in the Houses of Parliament are some of the lowest in the world. Our male counterparts have been instrumental in supporting our drive to increase the number of women in our parliaments. I would like to thank Mr Speaker for his efforts in support of the CWP mentoring programme, which has enabled women MPs from this Parliament to support Pacific women MPs to be mentored and supported in their roles. Further, I would like to thank Mr Speaker for furthering the discussion with regard to Parliamentary Service secondments, as we learn firsthand how best to support the parliaments across the Pacific.</p><p class="a">There is much to be done. With regard to the challenges that face us—building infrastructure, connectivity, overfishing, transportation, and who has the right to resources should the sea level rise and force us off our home islands—these issues are not necessarily of our making. In this increasingly diverse political world, we must meet these challenges head-on, but we must do this together—men and women sharing the burden. I look to the inspiration of Samoa and its temporary special measures, which have been enacted to bring a quota of women MPs into their House. I acknowledge and I celebrate, along with every Pacific woman across Aotearoa New Zealand, that we have been able to secure a woman as Deputy Prime Minister of Samoa, Fiame Naomi Mata'afa. </p><p class="a">There are many things that we can do to increase our numbers in parliaments where there are no or few women. To the male MPs across the Pacific, I send out a challenge: I send out the challenge to you to become the champions of change, to actively seek out and support women into your parliaments, and in your succession plans to take an affirmative action - approach to ensuring that you bring women into Parliament. I also send out the challenge for you to encourage your parliamentary services to employ women in prominent positions—to create workplaces that support women not only as leaders but also as employees.</p><p class="a">To the women members of Parliament who have had to climb mountains to become MPs: do not let these efforts go wasted. Yes, it is hard, and as women we have had to endure much. But we have made it, and others look to us to help them and encourage them and lead the way. We need your support to make it happen, and we need to send out the message to our women in our constituencies to vote for women. Do not be afraid that our women will suffer the same kinds of political abuse that we have had to endure. We are stronger than that. We are the equal of any man; in fact, we are the better of many in our Houses of Representatives. The argument of merit is spurious, and I encourage all of us to support women, to encourage women, and to vote for women.</p><p class="a">In the few seconds I have left, I want to say one thing about climate change and its impact on the economic empowerment of women. Unless we do something to ensure that the sea level does not rise and the salination of our groundwater does not happen, our women will not be able to grow their crops to be able to provide for their families and to grow the crafts that they need to ensure that they have the ability to feed their families and have an income. The time has passed for talk; it is time for action. Above all, I urge you to become the leaders of change in your nations.</p><p class="Speech"><a name="time_20161117 16:35:19" ></a><strong>The ASSISTANT SPEAKER (Lindsay Tisch)</strong>: I call David Shearer—5 minutes.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 16:35:20" ></a><strong>DAVID SHEARER (Labour—Mt Albert)</strong>: Kia ora tātou, and warm Pacific greetings to all who are here today. It is really lovely to see you. It was certainly good to see the representatives who made it into our select committee this morning. I know that our committee learnt an enormous amount about some of the issues that you face, and I think that is what this forum is all about. It is about reaching out and understanding each other.</p><p class="a">I am following on, I should point out, from a woman in the Labour Party caucus, and there are a number of women who are going to be following behind me in speaking. I am not quite sure why the National Party could not come up with other women, but I have to say that I am very pleased to see so many women in the group who have come from across the Pacific, and so many young people as well. So a special welcome and a warm welcome to you all who are here.</p><p class="a">As Su'a William Sio said, New Zealand is part of the Pacific. The tangata whenua who came here came from the Pacific. We have a huge Pacific population in Auckland, where I come from. But it was interesting that although I grew up in South Auckland—I guess I should have been aware of it—I was not really aware of how much the Pacific meant to me until I was working in Iraq a few years ago, before I came into politics.</p><p class="a">Iraq being quite a dangerous place at that time, we had protection. In our protection ring were Fijians, who were in the protection group. In the evenings they would get the guitar out and they would be playing various hymns and various other songs in fantastic harmony, and I just recognised, I guess, how much that was part of me and the way that I had grown up, played football, and done all these other things with these people. But in a sense, it kind of felt so familiar and so much part of who I was a Kiwi and as a New Zealander.</p><p class="a">We are friends, we are part of the Pacific, but we also recognise the fact that the Pacific is made up of sovereign nations. We want to work with those sovereign nations as partners in the Pacific. It is to our great advantage to have prosperous nations that are economically viable and are able to sustain themselves, whether it be through tourism or, increasingly, through fisheries—and I want to acknowledge matua Shane Jones, who is here today and who is doing a lot of work in that area—and that work with fisheries cannot be done individually but has to be done as a group and as a whole.</p><p class="a">Many people have mentioned climate change, and I want to mention that as well. This Government we have in New Zealand prides itself on being a "fast follower" on climate change. [<em>Interruption</em>] That was exactly the terminology that your leader, I say to those members over there, was using before. A fast follower means you are at the back—you are at the back of the pack. If we want to have credibility in the Pacific and right across the world, we have to be at the front, not at the back. So although we might agree on a lot of things in this Parliament with regard to the Pacific, on the issue of climate change we are at odds. </p><p class="a">We want to work with the Pacific in developing their education and giving young people—because there are so many young people—those opportunities. We will always, always extend a helping hand whenever we can when there is need. I was reminded the other day, because I am the Labour Party's spokesperson on defence, about our military's involvement in Fiji and Vanuatu during the cyclone and in the tsunami of Samoa and Tonga. We proudly stood up and lent a hand.</p><p class="a">We have operated as peacekeepers in Timor-Leste, in Bougainville, in the Solomons—we will do our bit as much as we can, and as much as we can in partnership with our Pacific Island nations. We are friends, as I said. We are partners; and we will always be there, because we are part of the Pacific as well. Kia ora tātou.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 16:40:12" ></a><strong>MARAMA FOX (Co-Leader—Māori Party)</strong><strong>:</strong> </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">Talofa lava. Malo e lelei. Ni sa bula vinaka. Faakalofa lahi atu. Kia orana. Namaste. Taloha ni. Halo olaketa. Nau mai. It is a great honour to be here and to address you today, and we are grateful that we have a reciprocal relationship in the Pacific. Reciprocity means that it is give and take; it is learning from one another.</p><p class="a">Although I have heard much said about how New Zealand should be a leader against climate change, given that the Pacific Islands are the most affected by climate change and given that they contribute the least to climate change, I actually believe it is the members of the Pacific Island community who should lead the debate on climate change—given that you are the ones who will find yourselves, in the near future, if we do not do something about it now to halt the march of the conditions that contribute to climate change, looking for other whenua. I cannot understand or even contemplate what that means to a people, to have lost their whenua completely.</p><p class="a">Yes, we know a little bit about that in Aotearoa, where Māori have been dispossessed of their whenua in numerous ways. But we still live here. We still have feet on the land, and no matter who owns it, I still believe it is mine. So I understand a little bit about that, but to be dispossessed of your whenua through rising sea levels—I cannot image what it might be like for a people and a country to be left landless, to be left without a sovereign State to call your own, and to be at the whim of other nations, which may or may not welcome you with open arms.</p><p class="a">So I say to our House, to the Parliament of Aotearoa, that we must, indeed, allow the Pacific Island nations to lead the conversation on climate change, and we must listen. We need to hear you. Before we seek to be understood, we must first understand, and so welcome to you all.</p><p class="a">Earlier, in France, we all agreed that we would do our level best to not contribute any more to the conditions that exacerbate climate change—that we would do our best to eliminate the use of fossil fuels. And while I say that, here in the waters of Aotearoa we have just welcomed one of the biggest exploration boats the world has, to look for more fossil fuels. If we are going to commit to the stages and to the things that we sign up to on the world stage—</p><p class="Interjection"><strong>Su'a William Sio</strong>: It's your Government. You sort them out.</p><p class="ContinueSpeech"><strong>MARAMA FOX</strong>: That is why we are here—we sort them out.</p><p class="a">If we are going to commit to the world stage and to the things that we sign up to, then, surely, we must put into place—surely, we must put into place—a strategic plan to take us there. If we say that we are going to eliminate the use of fossil fuels in 50 years, then, surely, we should stop digging for them and invest our funds in the development of sustainable energy. I know that there is a big long debate about that, but given that that boat is about to do seismic testing, after the earthquakes we have had, along the Hikurangi Trench, which links us to the islands of the Pacific and which is the greatest migration route of our fish species, our whale species, and our tuna—our eels—then surely, surely we must commit with action to the things we sign up to with words.</p><p class="a">So welcome. I think it is time that we give greater voice to our neighbours and our whānau in the Pacific nations. We know something about that, in the Māori Party—we do. We talk about te rangatiratanga. We talk about the opportunity to have self-determination—to be able to let the Government and the people in public office know that we have the solutions for ourselves, that we can tell you how we would like to have our services offered to us, that we will show you the way in which we connect with our most vulnerable communities, and that we can tell the Government that, actually, we are the ones who have the relationship with our people. Let us take the funding and we will show you how to do it. We call that Whānau Ora.</p><p class="a">In fact, in New Zealand the Māori Party not only advocates for Māori as value-add to the nation, but also for Pasifika. So we have Pasifika Futures, which is an arm of Whānau Ora. Let me tell you a little bit about that. The Māori Party ensured that there was a place for our Pacific whānau when our former co-leader, Tariana Turia, established three Whānau Ora commissioning agencies: Te Pou Matakana, Te Pūtahitanga o Te Waipounamu, and Pasifika Futures. Pasifika Futures works with, provides for, and partners with Pasifika families to achieve their aspirations—what they would like to see for themselves in the areas of health, housing, education, training, and economic development. And, yes, that is exactly why we are a support partner to the Government—because this Government had the foresight and the good sense to recognise that that was a good plan.</p><p class="a">The Pasifika Futures whānau has to date engaged with over 30,000 of our Pasifika whānau: 130 families have become smoke-free; 230 families have enrolled their children in early childhood education for the first time because of that engagement; 620 families are learning their own Pasifika language; 125 have saved for a deposit for their first home—their first home, in a place where we are told we cannot afford a home, and yet this is what Pasifika Futures has done; 218 people are in trade training and 65 of those have now gone on to full-time employment—and that is called the Māori and Pasifika Trades Training Initiative, which is another one of the Māori Party's policies; 113 families have learnt about financial literacy and, as a result, have reduce their debt; and 8 families have set up businesses, which, in turn, have created 44 jobs for their family members. That is Whānau Ora in the hands of Pasifika, where we give you the voice and allow you to be the determinants of your own future to fulfil your aspirations.</p><p class="a">It is time that, as a nation, New Zealand listen to our Pasifika cousins, because, actually, you are our tūakana. We are here because we descend from you, and we have to learn from our old people so that we can put the future in the hands of the Millennials—yes, that is a new term we have all learnt about following Donald Trump's election as President of the United States. Those Millennials who are out there protesting because they do not like the choice that everybody else had voted on—well, here is the thing: they are the ones who inherit the whenua, they are ones who inherit the oceans, and they are the ones who inherit the outcomes of the decisions that we make. We need to listen to them also.</p><p class="a">The last thing I would like to say is about our women. Yes, I am a co-leader of our party. We have shared responsibility—male and female roles, recognising that they go hand in hand together. There is a woman here called Ans Westra, who is a photographer who took a picture of a young Māori girl standing on an open oven, which was deemed to be culturally inappropriate. But when she spoke to that young woman later on, when she was a fully grown mother, the woman said: "I knew what I was doing was wrong. I knew that that was not my culture, but I was stronger than the culture." Sometimes our religious practices and our cultural beliefs inhibit the advancement of women. We must at every opportunity push the boundaries of those limitations so that we can see our value-add to our nation as women, as parliamentarians, as Pasifika peoples, and as people of the world. Tēnā koutou. Kia ora mai tātou katoa.</p><p class="Speech"><a name="time_20161117 16:50:20" ></a><strong>The ASSISTANT SPEAKER (Lindsay Tisch)</strong>: The next call is a split call. Mark Mitchell—5 minutes.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 16:50:25" ></a><strong>MARK MITCHELL (National—Rodney)</strong>: Firstly, can I acknowledge and welcome our delegation from the Pacific Islands here to our Parliament. Although I am a Palagi, I would like to—</p><p class="Interjection"><strong>Carmel Sepuloni</strong>: Really?</p><p class="ContinueSpeech"><strong>MARK MITCHELL</strong>: Yes, that may be a surprise, but that is true. After having seen the Speaker make such a valiant effort at greeting everyone in their own languages I thought that I would do the same thing today in the House. Talofa lava, malo e lelei, bula vinaka, faakalofa lahi atu, kia orana, fakatalofa atu, malo ni and mauri.</p><p class="a">Can I also acknowledge our Minister for Pacific Peoples, the Minister Peseta Sam Lotu-Iiga. Can I acknowledge our ambassador, Matua Shane Jones, who was also a very famous parliamentary rugby player and prop for many years with Kris Faafoi: welcome. It is great to see you back in the House. Can I also take the opportunity as the chair of our Foreign Affairs, Defence and Trade Committee—and I acknowledge David Shearer; Assistant Speaker Lindsay Tisch is also a member of that committee and David Bennett—to say that we took the decision that we felt it was very important to support this forum and we therefore, as a committee, sponsored it.</p><p class="Interjection"><strong>Carmel Sepuloni</strong>: Isn't Megan Woods on the committee too—the only woman?</p><p class="ContinueSpeech"><strong>MARK MITCHELL</strong>: I am coming to that, Carmel—be patient. We decided as a committee that we would form a subcommittee to make sure the planning was done properly, so that the experience that you had here had plenty of substance and you would go away knowing that you had had some positive engagement. So the subcommittee was formed. It was chaired by Alfred Ngaro and Jo Hayes, Carmel Sepuloni, Su'a William Sio, and Fletcher Tabuteau from New Zealand First were the members of that subcommittee. They have been meeting now for several months, and they have worked very hard together as a team to make sure that we could do the best that we could to provide you with a forum that had some real value. </p><p class="a">Can I please also put on the record, in the <em>Hansard</em>, an acknowledgement of our Ministry of Foreign Affairs and Trade officials, Anton, Jonathan, and Jessica, who have supported that committee; the Speaker's office—Steve, and Winton. Can I acknowledge our Foreign Affairs, Defence and Trade Committee secretariat—John, Matthew, and Charlie—who also provided support to the committee. </p><p class="a">I want to just very quickly touch on a point that David Shearer made in terms of the engagement that we had this morning with some of you in the delegation. We had Selina Napa from the Cook Islands, we had Madame Sylvana Puhetini from French Polynesia, we had Isabelle Kaloi-Bearune from New Caledonia, we had the Hon Johnny Koanapo Rasou—whom I see in the gallery—from Vanuatu, we had England Iuta from Kiribati, and we had Dr Puakena Boreham, whom I also see still in the gallery. I want to acknowledge you, and I just want to say that the level of engagement—unfortunately, we had only an hour and a half; I think we would all agree that was not long enough. We had some wonderful engagement with you. </p><p class="a">Some of the issues that were raised and discussed were women's participation and representation in Government, climate change, and diversifying the economy. It was raised that New Caledonia is going through a big transition at the moment because of the drop in the price of nickel, which is one of its primary sources of income. We spoke about West Papua—there was a very good engagement discussion around West Papua. We spoke about foreign investment, which is obviously a very sensitive subject in terms of attracting good foreign investment and what that means for your countries. I have to say that there was a very good discussion led by the Hon Johnny Rasou around corruption and the development of very robust governance to be able to deal with that and address those sorts of issues. We all know that corruption is the thing that will hold economies and countries back—if there is anything that will do it, it is prolific corruption. </p><p class="a">So I just wanted to acknowledge and say that just the level of engagement that we had on the committee signified to me that this forum is incredibly important. Everyone who was invited to it has been recognised as having a leadership role in the future of their nation, in the nation  that they are representing, and I just want to acknowledge you and thank you for making the effort to come here and engage with us. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 16:55:28" ></a><strong>DAVID BENNETT (National—Hamilton East)</strong>: Talofa lava, malo e lelei, bula vinaka, namaste, faakalofa lahi atu, kia orana, fakatalofa atu, malo ni, mauri, bonjour. Welcome everybody. </p><p class="Interjection"><strong>Hon Member</strong>: Bonjour.</p><p class="ContinueSpeech"><strong>DAVID BENNETT</strong>: Yes, bonjour to our friends who have a French background in the Pacific region. I would just like to thank the organisers of this event, my colleague Alfred Ngaro and his team, who have done an excellent job in making people feel welcome here, but also especially to all those people who have travelled from the Pacific and the wider region to be here and to engage in this weekend of discussion and dialogue and, hopefully, to have the ability to look forward as a region together. </p><p class="a">New Zealand is a very fortunate country in that we have a very strong Pasifika culture and tradition and large Pasifika populations. That means that our country is blessed with a variety of languages, people, music, culture, religion, and also food, which make our country much stronger and are things that we all treasure as a big part of the New Zealand culture going forward. </p><p class="a">I wish to focus just on culture today. Earlier this year I went to Niue. It was a fantastic experience. It was my first time going to a Pacific Island and it was a beautiful island—beautiful people and food and culture there. The thing that I really took away from that trip, apart from the beauty and traditions and welcome and friendship, is the fragility of the Pacific. In those islands we have small populations, and it is difficult to maintain those cultures and traditions going forward, especially as a lot of the young people leave those islands and come to New Zealand and Australia to make their home and their future, and especially as those islands will face increasing competition from people wanting to go and live there who come from different cultures and traditions. I think that the fragility of the culture and traditions of the Pacific is something that we need to make sure we have some structures and processes around—to enhance and maintain—because we do not want to lose that. It is so vibrant and so important to New Zealand, what Pasifika brings to us. We do not want to lose the home of those Pasifika cultures and their traditions. </p><p class="a">So, from a New Zealand Kiwi, I guess my message is to be proud to be a Pacific Islander. Be proud of your individual countries and your heritage, but maintain them. Take the necessary steps to ensure that your people have a future in your land, or wherever, so that those traditions and cultures are maintained, and that they enhance the wider world as they do at this stage in New Zealand. I think that is the biggest challenge for Pacific Island countries: how to actually maintain what you have and to share that with everybody and not lose it.</p><p class="a">In New Zealand we have had that issue for many years, and the Māori Party and now the Māori MPs in this Parliament have been great advocates for their people over many years. One of the big things that they have always pressed is that language is the first stage of retaining a culture. So please treasure what you have. It makes us stronger and richer. Please do not lose it. Take the necessary steps you need to make sure that the culture and traditions of the Pacific endure for us all to benefit from. Thank you.</p><p class="Speech"><a name="time_20161117 17:00:00" ></a><strong>The ASSISTANT SPEAKER (Lindsay Tisch)</strong>: The next call is a split call. Kris Faafoi—5 minutes.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 17:00:02" ></a><strong>KRIS FAAFOI (Labour—Mana)</strong>: Taloha ni. Can I begin by doing what we do in our culture, and that is acknowledging our visitors to the second Pacific Parliamentary Forum being held here in New Zealand. Can I also acknowledge the Hon Shane Jones, our ambassador to the Pacific-at-large. As Mr Mitchell pointed out, he is a notable member of the Parliamentary Rugby Team. Can I also acknowledge someone who is not here with us today, and that is someone who has been mentioned already, the Hon Parekura Horomia who hosted the pōwhiri for the first Pacific Parliamentary Forum. I think that the way he did that and the way he carried himself, and also his humour, really set a great tone for the success of the first forum, and we miss him on our side of the House every day.</p><p class="a">I am very proud to be speaking in this debate—first of all as a Labour member of Parliament, and I acknowledge my Pacific colleagues Su'a William Sio, Jenny Salesa, Carmel Sepuloni, and Poto Williams, who is currently in the gallery. I also want to take this opportunity to acknowledge two members across the House, who are also of Pacific origin—the Minister for Pacific Peoples, Sam Lotu-Iiga, and Alfred Ngaro. We may have some political differences with our brothers on the other side of the House, but I know them both very well, and I know they both have strong Pacific hearts, and in my books that is very, very good.</p><p class="a">I welcome the delegation here. You have had the opportunity to talk about a lot of common issues that we have with the Pacific Islands—whether they be global warming, or whether they be fisheries management, economic opportunities for your Pacific islands, or governance in general. I know that global warming has been talked about a lot, and I acknowledge that the Government has, in the last week, included Tokelau—the place of my parents' birth—in New Zealand's agreement to the Paris Agreement, which was signed earlier. </p><p class="a">I just wanted to tell a quick story about some of the advocacy for Tokelau's inclusion in that. Earlier this year my colleague Su'a William Sio hosted a meeting of Pacific leaders. One of them was from Tokelau, and she made a very strong and very angry case that Tokelau should be included within New Zealand's agreement. My colleague Megan Woods was at that meeting—I was stuck in a select committee—and Megan said: "There's a Tokelauan woman in this meeting, getting very angry, and telling the Labour Party that we should do more about making sure that Tokelau should be included in this agreement." I said to Megan: "Can you please send me a photo.", so she sent me a photo to my iPhone, and I said: "That's my auntie. I'm on my way." Ha, ha! I would like to acknowledge my Auntie Paula for her very aggressive advocacy for that. The Government saw sense and has included Tokelau within that agreement.</p><p class="a">It is not very often that we get a chance to talk carte blanche about Pacific issues, and many speakers have already spoken about the success of Pacific people within New Zealand, whether that be in business, or in the fields of arts, culture, or academia in New Zealand. But I am going to take this opportunity to confront an issue that is an issue for the Pacific community here in New Zealand, concerning youth, and that is the increasing rate of Pacific youth suicide. I think it is something we should confront head-on. It is an issue that is growing. I think we need to—as a culture that has in the past not talked about mental health issues and suicide issues—start being much more comfortable with talking about this.</p><p class="a">As the member of Parliament for Mana, the heart of the Pacific community in Wellington, there have been far too many times—as the member of Parliament who represents the city of Porirua—when I have been told about young Pacific people who have taken their own lives. I think it happens far too often, and I think many of them are preventable. I think it is really an obligation on all of us, whichever Pacific island grouping we come from, to start talking more about the mental health issues of our young people.</p><p class="a">Earlier this year, during Tokelau Language Week, it was said that only one in eight can speak Tokelauan. For my particular community that means, I think, we have got many identity issues that our youngsters have to deal with. They have to live in many worlds—in their New Zealand world, and also in their Tokelauan world—and I think that puts a lot of pressure on our young people, to be able to survive in those two worlds. I think that talking about that much more often, having those difficult discussions with children, and with grandparents, is something that we need to do much more often to save our young people from taking their own lives. Pacific people are about family, and those discussions need to happen to make sure our families are stronger.</p><p class="a">I wish the delegation the safest of travels home, and we look forward to our dinner with you tonight.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 17:05:11" ></a><strong>Dr MEGAN WOODS (Labour—Wigram)</strong>: Kia ora koutou, and thank you for the chance to speak in this debate. Like my colleagues, I would like to acknowledge the Hon Shane Jones, who is in the gallery and to thank, from the bottom of my heart, the Pacific delegation for coming to our Parliament. I have never heard so many people talk about climate change in this House. As Labour's spokesperson on climate change issues this is indeed a very happy day for me. It seems that my portfolio is one that everyone wants to discuss today. Along with my colleague Su'a William Sio within Labour we address the issue of what New Zealand needs to do on the issue of climate change, both here in New Zealand, in the Pacific, and in terms of our international responsibilities.</p><p class="a">I know that Su'a spoke earlier about his journey around the Pacific earlier this year, and what he saw first hand was that climate change is not theoretical in the Pacific. It is an everyday lived reality, and we have to do more. This morning John Kerry—in the middle of the next wave of the Paris arrangements—talked about not taking leadership on climate change being a moral failure. If New Zealand wants to assert its leadership role in the Pacific it has a moral obligation to take a firm stand on climate change.</p><p class="a">This is our job. I do not think our current action on climate change is enough. I do not think it is the kind of moral leadership that we need to be showing to the world in addressing what is the most pressing issue of our time: the survival of parts of our region. We tabled, at the Paris conference last year, an intention to decrease our global emissions to 11 percent below 1990 levels. This will not get us to limiting temperature increase to 1.5 degrees. This will see temperatures in our world rise 2 to 3 degrees, and the Pacific simply cannot withstand that kind of temperature increase. It is not sustainable, and it is not something that we can do. New Zealand needs to do more.</p><p class="a">I enjoyed, like my colleagues on the Foreign Affairs, Defence and Trade Committee—we do actually let one woman on that committee in this country—the talk that we had with members of the delegation this morning around issues around climate change in the Pacific. I note that one of the issues that this motion is addressing is security in the Pacific, and climate change goes straight to the heart of the continued security in the Pacific in the 21st century.</p><p class="a">We know we are already seeing droughts in parts of the Pacific. Su'a could not get out because of rain and only a very short distance away the drought was going on. We talked about salinisation only being a problem on islands when there is not enough rain to flush it away. We know that the issue of drought is going to be an ongoing issue.</p><p class="a">We also talked about the need for there to be technical expertise available, and, I think this was one of the interesting parts of our discussion this morning. Technical expertise is needed around the kinds of crops that are more drought resistant and could be grown as the climate does change in some of these places. Technical expertise is needed in terms of addressing many of the issues. As Su'a often reminds me, some of the technical expertise that we are seeing in the Pacific, in terms of adapting to climate change, New Zealand needs to learn from—that you are on the front line already and that it is being dealt with. I know that Su'a came back very strongly with that as a message to our caucus: that there is much for us to learn.</p><p class="a">We need to think about the aid that we give in terms of climate change. We need to think about the best way that we can serve our region. Is it through big multilateral funds, which we know that Pacific nations struggle to be able to get money out of? Or is it through bilateral aid, which is about adapting to the ravages of climate change in your homes?</p><p class="a">They are all things that as parliamentarians, if we are going to take climate change seriously, we need to grapple with, and I disagree with the previous speaker from the National Party who said that "Your future was solely in your hands." We have a part to play. We have a responsibility, and it is our moral obligation to do more to combat climate change.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 17:10:21" ></a><strong>GARETH HUGHES (Green)</strong>: Talofa lava, kia orana, bula vinaka, kia ora. Ngā mihi nui ki a koutou, kia ora. I want to welcome our many parliamentary friends from the Pacific Islands, who are watching this special debate in the House tonight. Right now in Morocco 197 other nations—many of your representatives—have gathered to discuss our greatest shared threat: climate change. I would like to reflect on what it means for our home—the Pacific. The Pacific Islands are on the front line of climate change. The islands are seeing the impacts of climate change right now. They are experiencing more severe storms, droughts, rising seas, and are facing the very real prospect of seeing whole nations being submerged.</p><p class="a">I remember visiting Kiribati a few years back and talking to people on this heavily populated, low-lying coral atoll, no more than about half a metre above sea level. I was talking to people about what they were doing, because the seas were already rising over the beaches. They were using whatever they could, including rubbish and garbage, to try to build sea walls to keep out the waves, which keep getting higher every year. It is something that has stuck in my mind powerfully since then. What can you say to someone—perhaps a child—on that beach when you know that in their lifetime they may need to flee those rising seas and leave their homeland for ever? How can I, as a New Zealand MP, say that my country knew about the science, knew about the threat, and knew about the urgency, but still, as emissions that contribute to climate change and cause climate change grew, its Government's ambitions were to follow. All I can say to that child is: I am sorry.</p><p class="a">I believe in taking responsibility. I am a citizen of New Zealand. Although I am in the Opposition, this Government represents me on the global stage. Its claims, its actions, and its inactions reflect on me and all New Zealanders. On climate change, all I can say is that I am sorry. I am sorry that New Zealand increased its emissions 19 percent above where we promised they would be when we knew we had to reduce them. I am doubly sorry that following this the Government's own projections are a doubling of our emissions of what they were in 1990. I apologise for the inaction of our leaders—that they have made an argument that New Zealand is just a small part of global emissions, so we do not really matter. Hell! You live in small countries. Imagine making that argument. Climate change will not give anyone a free ride.</p><p class="a">I am sorry that New Zealand is the fifth highest polluter per person in the developed world. We did try to reduce emissions with a trading scheme, but I am sorry that we knowingly traded in fraudulent carbon credits from Russia and Ukraine, which did not actually reduce the pollution we claimed. I am sorry we then undermined the whole thing when we exempted our biggest source of pollution, agriculture, and subsidised them to give them a free ride.</p><p class="a">I apologise, and I am horrified, that we are often the bad guys of these international climate talks that are happening right now in Morocco, trying to disrupt and weaken global climate action. Just last night we were singled out of amongst 197 countries for being an obstructionist at the talks. I am sorry that last year in Paris we took a meagre reduction target, described by the experts as inadequate, because we had not actually bothered decreasing emissions beforehand, and we said it was too hard. I am also sorry that at those historic talks we promised $2 million in climate aid for the Pacific, but it actually turned out to be a reduction on previous years, much like the chocolate ration from 1984. I am talking about the book. </p><p class="a">At least we had 80 percent renewable electricity in New Zealand—right? That is more than most countries, but we forget—and I am sorry—that that is less than we had in 1980 and it is less than we had in 1990. I am remorseful that New Zealand announced this year that our single-biggest source of emissions and pollution, the Huntly power station, would not close as was planned, and will continue burning coal into the next decade. At least our transport Minister announced an electric vehicle policy—eight times for the same policy. But I am sorry that his targets are less than his officials' own do-nothing scenario. </p><p class="a">I am sorry that we are subsidising trying to find oil deep off our coasts when we know we cannot afford to burn it, if we want to stop those rising seas. I am regretful that this year my country opened up an area that is a size bigger than Spain for oil exploration off our coasts. I am gutted that our Government then called out the navy on indigenous protesters protecting their moana from deep-sea drilling, and then under urgency this Parliament made protesting oil drilling at sea a criminal act. I am sorry our Minister sent the message that fossil fuels were OK when the Government opened new polluting power stations, supported fracking, and opened coal miners' offices. I am sorry we did all that, but then signed a piece of paper at Paris and pretended we were doing our bit. For future generations and our friends from the Pacific, I am sorry we have not done what has been needed on climate change, but, in fact, done the exact reverse. </p><p class="a">I think it is important to acknowledge and apologise, because these are not the values of New Zealanders, and it goes against our history. These are actions by politicians selfishly and myopically looking at the world. They take an approach to the climate negotiations as you would a trade deal: trying to maximise individual advantage, trying to get a better deal; not thinking of the global picture or your homes. This is not New Zealand. We have been proud that we have always pulled our weight on the world stage. Imagine if we had taken the same approach as we have taken on climate change to World War II. Imagine if New Zealand had argued against going nuclear-free because it would not matter, because we are so small. As a country, New Zealand has borne the impacts and the skin cancers of the ozone hole, despite us being amongst the least responsible on the planet. We, of anyone on earth, should be more sympathetic to reducing our pollution—the fifth-highest in the developed world—because of those impacts on people who are the least responsible. </p><p class="a">I believe the greatest, biggest challenge to tackling climate change is the new President-Elect, Donald Trump. Although he may deny the science, what we are doing here is denying meaningful action. Our climate policy has been more insidious. Rather than brash speeches and ignorant tweets, we have worked the back rooms of international negotiations, we have developed political strategies with other polluting nations, and we have worked just as busily, if not more effectively, at slowing climate change action and encouraging those loopholes. </p><p class="a">In my last couple of minutes I do want to offer hope though. Kiwis are a good people and we have pulled our weight in the past. This is not just an economic, or a political, or a scientific issue; this is a moral issue, and New Zealanders care about people living in other countries. We can act altruistically and reduce emissions—it sure is the right thing to do—but we can also act in our own interests and grow jobs by investing in greentech and clean energy. In New Zealand we have a wealth of solutions available. We are a smart and innovative people, and we could be the leaders in developing the new technology for a low-carbon world.</p><p class="a">As emissions inexorably increase, so does the global movement and opposition to pollution. And many at the front lines are our Pacific leaders—out in front at these negotiations. In New Zealand just today we saw Canterbury Regional Council add its name to Dunedin, to Auckland, and to Christchurch City Council, opposing the Government's oil drilling agenda. We have seen our investors move away from fossil fuels. Our churches are divesting. We have seen strong, principled opposition to pollution, like the Dakota Access pipeline in Standing Rock, and we have seen it here as Te Whānau-a-Apanui and others have led as the oil companies flee. We have seen more—but $100 billion more—invested in renewable electricity generation over fossil fuels last year. We have seen the price of solar plummet, we have seen China close 1,000 coal mines, and we saw Australia this week announce it is shutting down one of its biggest coal-fired power stations. </p><p class="a">Climate change does not have to be a reality. Rising seas do not have to be a reality. Growing jobs, cleaner energy—these can be a reality. We can choose to invest in 100 percent renewable electricity. We can choose to electrify our public transport fleets. We can choose to do the right thing. To future generations and Pacific leaders, I do not want to say sorry. I want to say, much like our most famous New Zealander once said: "We knocked the bastard off." We can knock the climate change bastard off, too.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 17:20:11" ></a><strong>FLETCHER TABUTEAU (NZ First)</strong>: It is a genuine pleasure to stand in the House today as a member of New Zealand First and as a member who works under the auspices and the leadership of the Rt Hon Winston Peters. I stand with this observation in mind to start with: I often stand to speak against the Government and I take a great deal of pleasure in doing so, because, invariably, it has got it wrong, so to stand here now and share in a celebration of our visitors, of our neighbours, of our friends, of our whānau is truly a wonderful experience for me. So may I say in welcome: kia ora tātou, nau mai, haere mai, welcome to New Zealand once again, and welcome to those of you who are here for the first time. It is a wonderful privilege to have you here today. </p><p class="a">The reason I stand in celebration of this week's event is that it has been a privilege for me to be a member of the Foreign Affairs, Defence and Trade Committee. More so, it has been a pleasure and an honour to be part of the organising subcommittee, as some have acknowledged today. Firstly, I would like to acknowledge Alfred Ngaro and recognise his efforts as the chairman. He has done a fine job, and it has been a subcommittee that has worked very well together. I would also like to acknowledge the words of the chair of the Foreign Affairs, Defence and Trade Committee who said: "Because we wanted to get it right, because we needed the details to be sorted properly, we had to give it to others." I think he spoke very wisely with those words earlier today.</p><p class="a">I would like to say that it was a cooperative endeavour and that those on the committee were passionate about making the visit work for our friends and our whānau from the Pacific. The modus operandi and the outcome was about engagement—about letting you have a voice here in New Zealand, and about us hearing what you have to tell us and what is important to you. I think that was significant this morning, in the Foreign Affairs, Defence, and Trade Committee, when we were visited by some of our visitors here today. Thank you for being honest and thank you for telling us about the issues that you are facing now, and how you see New Zealand playing a part in that. </p><p class="a">I would like to take this opportunity to speak very briefly about a former Minister of Foreign Affairs, the Rt Hon Winston Peters. I genuinely think it appropriate to highlight that it was the Rt Hon Winston Peters who redefined our relationship with the Pacific Islands—redefined this country's relationship with our Pacific neighbours. He realised the meaning and the importance of moving together as one region—one people—and understood that together, and by listening to one another, we could do more together, and, hopefully, in terms of culture and in terms of economic outcomes, New Zealand could be a significant player in enabling the future of our whānau here today. </p><p class="a">That is simply all I wanted to say, because it is something that I am proud of as a member of New Zealand First, and I acknowledge the Rt Hon Winston Peters in his efforts and his work in the past—and today. I say "in the past", but today he is still a passionate advocate. I iterate that fundamental belief of New Zealand First: we must have strong ties, we must work together, and it is about mutual economic and social development. </p><p class="a">Much thought was given to the debate topics that will dominate the House's time tomorrow. Much debate was undertaken by the subcommittee about what those topics would be, and what it is that is significant to New Zealand and to our Pacific Island whānau right at this moment. I understand, being part of that committee, that the normal televised facility, which we have taken for granted over the last few years, will not be available tomorrow. So I would like to take this time to highlight to the New Zealand public what will be debated, and I suggest to those of you who are able and who would like to that you come down and be a member of our gallery and hear the debates and contributions from our friends, our whānau, and members here in the House today.</p><p class="a">Because I am speaking in a collective celebration here today, I will only highlight what those debates are and not use them as an opportunity to attack the Government. Suffice it to say, we are here today as one—as a parliamentary team—to work together in camaraderie and to move forward as a Pacific nation. But as I read these out, I do ask the Government members here today to acknowledge that there is a lot of work that needs to be done, and we cannot take for granted our role in moving forward together. </p><p class="a">The first topic of debate tomorrow will be climate change. Obviously, these are not threats. Events are happening now and they are affecting everyone in this room adversely, actually. The second debate is about Pacific resources and the sustainable management of those, and, in my mind, extracting the value from them in their home country—taking the value from them, rather than shipping them off as raw product. Security and governance is the next debate, and how best to move forward together while at least encouraging more secure and better governance environments among our Pacific nations. The last debate is about Parliament and the community—maximising the benefits available from stronger engagement between parliaments and their communities. So I celebrate the ability we have to debate those tomorrow. It will be an engaging day and an important day in our history. </p><p class="a">I finish by celebrating all members who have made the trip to be here this week, but I especially acknowledge the women Pacific Island leaders here today. I celebrate your success with you not just in being here today but being the role models that you are—kia ora. As a new member of Parliament, I look forward to making friends with you all—our whānau in the gallery today. There is so much more for New Zealand to do within the Pacific, but today I speak in celebration of those who have travelled a great distance to join us. May we move forward as one. Kia ora.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 17:28:11" ></a><strong>LOUISA WALL (Labour—Manurewa)</strong>: Tēnā koe e Te Māngai o Te Whare. </p><p class="IndentMarginalone">[Authorised Te Reo text to be inserted by the Hansard Office.]</p><p class="IndentMarginalone">[Authorised translation to be inserted by the Hansard Office.]</p><p class="a">Talofa lava, malo e lelei, kia orana, bula vinaka, and wunya, which is an indigenous greeting to our whanaunga from Longman in Queensland. Greetings to all of our Pacific parliamentarian colleagues—nau mai, haere mai. I am proud to stand as the member of Parliament for Manurewa in South Auckland. I want to acknowledge our tuakana Su'a William Sio. In my electorate 35 percent of the whānau whom I represent are Pacific and 28 percent are Māori. So my electorate is very much a Māori-Pacific electorate.</p><p class="a">I really want to focus on the key theme of Parliament and the community, and I do that within the capacity of my role as co-chair—with my colleague Joanne Hayes—of our Commonwealth Women Parliamentarians group. I have now attended three of our Pacific Women's Parliamentary Partnerships forums, the last of which was held in Samoa in April of this year. That is part of the Pacific Women Shaping Pacific Development initiative, which comes directly out of the Pacific Leaders Gender Equality Declaration signed by the Pacific Islands Forum in 2012. Our focus has been on women's economic empowerment and freedom from violence, but I think the most important one has been on developing women as leaders within our respective democracies.</p><p class="a">I would like to take the opportunity to acknowledge my colleagues: Selina Napa, Tetangi Matapo, Ali'imalemanu Alofa Tuuau, Dr Puakena Boreham, and Sherwood Tibon, who is a male, but he has been to our forum representing the Marshall Islands. It has been amazing for us to come together to focus on these initiatives. I also want to highlight that, in addition to these initiatives in Samoa, we also focused on climate change. My colleague Poto Williams has highlighted what climate change means in terms of the informal sector and the ability of our women in our villages to make the crafts to take to market to feed the whānau.</p><p class="a">We have also made strong stances on West Papua. I want to tautoko the Pacific Islands Forum, and, in fact, those countries that have led the way at the United Nations about what is happening in West Papua. We must do something about it, so it is a wonderful opportunity for us to discuss what we should be doing in the future about this particular issue. Obviously, from the Pacific Islands Forum itself there is only one women-specific priority, which is about cervical cancer. We have had a concerted effort about how we can tautoko that particular issue. I really would also like to acknowledge in her absence our tuakana—I call her our matriarch of the Pacific—the Hon Fiame Naomi Mata'afa. This year, particularly, in Samoa, it was an opportunity for us, as women, to celebrate the temporary special measure that Samoa introduced.</p><p class="a">Having a goal of 10 percent of your parliamentarians being women is a goal that I think every democracy in the Pacific should have. In addition to Samoa, I also want to acknowledge Bougainville and I want to acknowledge Tonga. Tonga, apparently, is considering it. I actually would urge that you do it. I think if you follow Samoa's lead, then it could provide a really good opportunity to ensure that you have women in your House. In addition, I want to acknowledge that you do have a woman in your Parliament—she got in 3 months ago through a by-election.</p><p class="a">I also want to acknowledge Vanuatu. I believe Vanuatu is also considering temporary special measures. In highlighting Vanuatu, I also want to acknowledge that at a local government level, Vanuatu actually has been doing a lot of work. It has an aspiration for 30 to 34 percent of its local government representatives being women, and, in fact, in Port Vila and Luganville they have nine women counsellors and they have two deputy mayors. So there is a lot of work happening. </p><p class="a">What I want to finish on is that human rights are women's rights. Probably the only other human rights issue I want to take the opportunity to highlight is that LGBTI rights are human rights. In too many of our countries, LGBTI people are still treated as criminals. I think it is time that we face this issue as an issue of principle. Are LGBTI members of whānau? Yes. Are they members of aiga? Yes. Do they have whakapapa? Yes. We should stop calling them criminals, because the Palagi brought that into our countries. It is time that we addressed that issue. Kia ora.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 17:33:20" ></a><strong>CARMEL SEPULONI </strong><strong>(Junior Whip—Labour)</strong>: Faakalofa lahi atu, Mr Assistant Speaker, kia orana, mauri, bonjour, wunya, and kia ora koutou.</p><p class="a">I am trying to get through those quickly, as I have only 5 minutes to speak in this debate. My job as the last speaker for the Labour Party is to just sum up the debate that we have had today. Can I start by acknowledging all of the 41 parliamentarians who have travelled here from your own countries ; thank you for coming here to share with us your insights—to teach us. Thank you for coming here to strengthen the really important relationships that we, as a New Zealand Parliament, have with your parliaments. </p><p class="a">Can I also acknowledge all the people who have contributed to the forum—the Ministry of Foreign Affairs officials, the Pacific Cooperation Foundation, all of the community leaders who have come out to meet you. Can I also acknowledge the organisations that have hosted you while you have been here, and, of course, can I acknowledge the No. 1 man looking after you during this week, the man who has more titles than there are Pacific Islands, and that is the "Honourable Ambassador Matua Professor His Worship Shane Jones". Good to see you, Shane. Can I also acknowledge the guest speakers who have been part of this event, including two former parliamentary colleagues, Charles Chauvel and the Hon Luamanuvao Winnie Laban. </p><p class="a">I am one of the five Pacific MPs from the Labour Party. I am the youngest of the five Pacific MPs—I just thought I would point that out. There are eight Pacific MPs in this House—five from our side, and you would have heard from all of them today: Alfred Ngaro, Sam Lotu-Iiga, and also our friend from New Zealand First, Darroch Ball, who not only has Kiribati and Tongan genealogy, but, I think, has strong connections to Fiji as well. </p><p class="a">So I am acknowledging the importance of Pacific representation in this Parliament. As one of the five Pacific MPs in the Labour Opposition, I think it is really important to acknowledge that being Pacific, that Pacific journey, and that understanding for everything that Pacific have to contribute, but also the challenges that we face have been a very big part of what has driven me to be in this place as a representative. I know that that is the case for many of the Pacific parliamentarians in here. Pacific, living Pacific, and knowing Pacific are what has shaped my belief that not only are we here as Pacific people to serve our communities, but that we also have a lot to offer in terms of serving other communities, particularly those who need advocacy in some way, those who need a hand up, those who need an opportunity, and those who are under-represented in any way. </p><p class="a">I think, on that note, I will acknowledge that that issue has been traversed quite widely by many of the speakers, in terms of women's representation. We know that that is an issue for our Pacific parliaments. It is also an issue for us here. Can I note that, although it is important to talk about the under-representation, it is also important to acknowledge the Pacific women who have come along to be part of this forum, particularly the most recent Pacific parliamentarian for Tonga—the only female Pacific parliamentarian for Tonga—Akosita Lavulavu. Thank goodness for the by-election that got Akosita into Parliament.</p><p class="a">Can I say that today in the House we have talked about a wide range of issues that affect Pacific, not only in the Pacific Islands but Pacific here in New Zealand. We have talked about the inextricable links between New Zealand and the Pacific, the importance of that relationship, the history that we share, and the whakapapa that we share—that being the most important part of that relationship. We have talked about the aspirations and achievements of our Pacific people, the successes that we celebrate across our region—whether those successes be in academia, sports, culture, arts, heritage, or business, we celebrate those successes.</p><p class="a">We have also talked today about the many challenges that we share, and for many of the speakers, as my colleague Megan Woods alluded to, climate change was a primary issue that was discussed. And we know that for many of you, that is at the forefront of your minds as an issue that you have expectations that New Zealand and Australia will stand up for. And can I just say that it is right for you as Pacific nations to demand that New Zealand and Australia stand up and address those issues.</p><p class="a">The time is winding down, but can I just refer to one quote from a mentor of mine, Associate Professor Tracey McIntosh. Recently, she said: "New Zealand won't flourish until Māori and Pacific flourish." I believe that when she talks about Pacific, she is not just talking about Pacific here but Pacific across the region. New Zealand will flourish when Māori and Pacific flourish. Fa'afetai lava.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 17:38:38" ></a><strong>SIMON O'CONNOR (National—Tāmaki)</strong>: I will not begin by greeting in all languages, as my colleagues have done that, but I will begin in a language close to my heart: ni sa bula vinaka. Ni sa bula vinaka, sa bula vinaka saka. Na yacaqa ko Simon O'Connor. Ko Member of Parliament e Tamaki; Tamaki e koro e Auckland. Au koro, au bure ki a waitu o Auckland. Na gauna e liu cakacaka e Tavuni. Na koro o Tutu, Wairiki. Au cakaka e vuli beti, Ko Marist Fathers. E totoka vanua; e totoka kai, e kai vitit. Au taleitaka, au lomani, e yagona. Sa kena sosoqo, so kina vinaka. Tulou, visoti au. Au kila valalai na vosa vaka viti—au vosa vakavālagi.</p><p class="a">You will excuse me, particularly those from Fiji—my Fijian is getting a bit rusty after all these years. But, for the House's benefit somewhat, I spent a wonderful 2 years living and working up in the garden island of Taveuni, in that wonderful area of Cakaudrove, working in a place called Tutu, just south of Wairiki. It was an absolutely marvellous time in my life, working with the people there and often into the far north of Vanua Levu as well. </p><p class="a">It would be remiss of me also in terms of languages not to wish a fakalofa lahi atu to those from Niue. I have had the great pleasure of having an intern called Salote Talagi working in my office for a while, who has been a great advocate for Niue and has been a great encourager of me to come and visit not just the island but to make sure that I get to Matapa, which I believe is a most special place to visit and spend time in.</p><p class="a">In speaking somewhat roughly in my old Fijian, I do actually just want to acknowledge particularly those in Fiji, but also those across the region, who were affected months ago by Cyclone Winston. I particularly want to add a few words to friends still in Taveuni who have been contacting me and sharing what their struggles are as they are trying to rebuild. Those of you who are in the gallery today, and particularly those in Fiji, know that you are not forgotten, and even this little Palagi is still trying as hard as he can to provide for and encourage the support that is needed. </p><p class="a">I do want, as we are sort of wrapping this debate up, to acknowledge all of you who are here from the islands. Today, in some ways, it is a bit of a monologue. There are 15 MPs looking up and speaking at you. It is a monologue as such today, but it is actually sitting on a background of great dialogue today, and I know again tomorrow. I am hoping too it is a dialogue that has been established between our countries over a good number of years. Your countries and your nations, as will ours, will be much stronger when we work closely together. </p><p class="a">I am a great believer that in order to work closely together we first and foremost must understand our own cultures. I think, therefore, it is very important for all of the countries that you represent, just as I represent New Zealand, that we first and foremost know who we are and we be proud of our own cultures and our own traditions, because from that we stand strongly on both feet, and from there we are able to embrace each other and speak with confidence and reach out across the divide to find those areas of commonality but also be able to engage in those points of difference with confidence. </p><p class="a">I think in listening to the debate here today we have heard many of the commonalities that exist, but I think, importantly, too, from a number of speakers we have heard of the commonalities that we seek to pursue into the future. The fact that all parties have been speaking today, and from the heart, is just fantastic. I think if it were completely appropriate, as it would be for a number of cultures—I cannot speak to all the various islands in the Pacific—at the end of this we should really be bringing our tanoa down here on to the floor with a mat and getting some of that yangona going and having a real old chat. I suspect it would probably make me, as I remember, very sleepy and, if I remember rightly, milamila—very itchy too—after too much of the stuff. We will not go into that; I do not think parliamentary privilege protects me. </p><p class="a">Amongst many other things, and different topics have been highlighted, I look carefully into the health sector. I chair the Health Committee. I am not going to bore you with all the statistics and figures, but Government after Government has done what it can as best it can to support Pasifika communities, and this Government is no different. We know that Pasifika people often suffer a higher degree of some of the diseases in this country—be it diabetes or, right through to our young people, the likes of obesity, and so forth. I just want to assure you that there are a number of Government programmes in play to support that. But, as I said a bit earlier, this is not always about monologue. So I hope that over the coming days—and perhaps the days that you have already been here—you get to share with us your experiences of your own countries, and your perspectives too, so that we may do a better job, obviously, on your behalf to your people and to those who now call New Zealand home.</p><p class="a">I want to wrap up by acknowledging particularly my colleague Alfred Ngaro, who is sitting behind me. I know that many people have been involved in pulling this together, right across the Parliament. But I think it is right and proper to acknowledge Alfred for his work chairing and facilitating this. So well done, Alfred; thank you for your work. </p><p class="a">Thank you to each and all of you who have come down here to New Zealand. I think it is a real privilege for us to have you here. I look forward to hearing more of what you have to say tomorrow, as you join us in this Parliament. But I really just want to revisit what I was saying at the start: we are all strengthened in our nations when we work together, when we speak together—that talanoa, that conversation. It is a conversation that, again, for me personally, is fundamentally based on great confidence in who we are first and foremost. We do not move ahead by compromising our values and our cultures; we move ahead by being strong in who we are, knowing who we are, and confidently speaking with one another. That common humanity eventually comes forward, but it is a commonness with just so much colour and life, because it is imbued with our different cultures.</p><p class="a">So, again, it is wonderful to have you here. It is probably a great relief to you all that this is the last speech of the day—probably a great relief to all of them here as well. But it has been marvellous to have you all here. May you have a lovely evening, a lovely time in New Zealand. Sa moce mada.</p><p class="IndentMarginalone">Motion agreed to.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20161117 17:46:32" ></a><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: Can I, on behalf of the presiding officers, also wish delegates well for their next day, and for you to remember that our House is your House too.</p><p class="a">The House stands adjourned for our purposes until 2 p.m. on Tuesday, 29 November—but, for better purposes, until tomorrow.</p><p class="CentredEndingBold"><strong>The House adjourned at 5.4</strong><strong>6</strong><strong> p.m.</strong></p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

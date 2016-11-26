@@ -1,0 +1,776 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Keep Kiwibank Bill — Second Reading - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_24" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_24/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Keep Kiwibank Bill — Second Reading</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20160629_20160629_24/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_24" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_24/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_24/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_24/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_24/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_24/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>KEEP KIWIBANK BILL</strong></p><p class="SubDebate"><strong>Second Reading</strong></p><p class="Speech"><a name="time_20160629 20:31:07" ></a><strong>Hon DAVID PARKER (Labour)</strong>: I move, <em>That the Keep Kiwibank Bill be now read a second time.</em> I want to recount the history of this bill, which was introduced by my colleague the Hon Clayton Cosgrove.</p><p class="a">The background to the bill is that the Government sold roughly half of the major electricity companies to private investors, and it did not need to have recourse to Parliament to make that sale because there is nothing enshrined in legislation that requires parliamentary approval for the sale of shares in publicly owned institutions like those generators. So Clayton Cosgrove brought a bill to this House that said, well, parliamentary approval ought to be required if a future Government wants to sell Kiwibank. It is our only significant bank competing against foreign banks in the New Zealand market. There are some others, but they are not very big when it comes to taking on the dominant banks from Australia.</p><p class="a">There was parliamentary support for this piece of legislation to go to select committee, and to select committee it went. One of the reasons why I think Opposition parties and some of the other parties supported the legislation is that the Government was saying that it had no intention of selling Kiwibank anyway, so they thought: "We'll keep the Government honest by putting forward a piece of legislation that says you have got to get parliamentary approval before you sell Kiwibank." When the bill got to the Finance and Expenditure Committee, it became apparent that the mechanism that was proposed in the bill, which was to require a supermajority, which is more than just a bare 50 percent vote plus one in the Parliament in support—the bill wanted a supermajority and that was perhaps a step too far, with the committee requiring instead that a supermajority be in reserve for important things like reforms to electoral law. Clayton Cosgrove and the other members, on behalf of the Labour Party, agreed with those propositions and said: "Well, we should change the bill so that it requires a bare majority of Parliament before Kiwibank can be sold, but none the less it requires parliamentary approval." National used its numbers on the select committee to block those amendments being made, and it has referred the bill back to Parliament without those amendments being incorporated.</p><p class="a">At about that time Kiwibank decided that it wanted to raise more capital. Kiwibank was created at a time when New Zealand Post was a much larger organisation, when there was a lot more mail, and it could be supported in part by New Zealand Post for its expansion plans. Because postal volumes have dropped by 80 percent, New Zealand Post is no longer in a position to provide additional capital to Kiwibank to expand. The Government has refused to give Kiwibank additional capital, so the board of Kiwibank has found an alternative mechanism to raise more capital, which is to sell some shares to some Government-owned entities, those being the ACC and the New Zealand Superannuation Fund. A good idea—we support that, in the circumstances that New Zealand Post faced—but, of course, the effect of that is that unless there is some protection around that share sale, those organisations can onsell those shares without recourse to Parliament and, through that sale, in the future those shares could, effectively, be privatised.</p><p class="a">We have Supplementary Order Paper 185—which has already been tabled in this House—which changes this bill so that parliamentary authority is required for any future sale of Kiwibank shares; sales to Crown-owned entities are allowed, but only if there is a first right of refusal to the Crown to purchase those shares back from the entities, which it owns anyway, if those entities are to sell; and there is a requirement that the Crown exercise that first right of refusal, because otherwise you cannot effectively stop these shares being privatised in the future without further recourse to Parliament. That is the effect of this bill, and we hope that we will gain support for this bill from other members of Parliament so that democracy has a say in respect of whether the only significant banking institution in Government ownership cannot be sold at the whim of a Government but, rather, requires a parliamentary majority to authorise that sale. That is, in a nutshell, what this bill does.</p><p class="a">The Supplementary Order Paper has been available for a long time for people to consider, and I know that other political parties have given it due consideration. We will know in an hour or two whether we have the votes for this piece of legislation to pass its second reading, so that the Supplementary Order Paper can then be considered at the Committee stage of the whole House.</p><p class="a">I would make another point in respect of the unwillingness of the Government to try to improve this bill at the select committee. Michael Woodhouse, in a contribution last Thursday, criticised Opposition members in the Commerce Committee for not having made changes to the Easter trading legislation that he thought were necessary. This legislation is another instance of where a select committee could have improved a bill, but, because of this politicisation of it—on this occasion by the National Party members—it refused to do so. It can still, of course, be done by this House, because it is, in the end, Parliament that decides whether legislation should proceed or not, not select committees. On that basis, I am urging other political parties in this House to consider the Supplementary Order Paper that I have already tabled, which has been considered by members, and to pass this legislation so that if in the future someone wants to privatise Kiwibank, they have got to get parliamentary authority.</p><p class="a">The legislation does not block the sale of the shares and the capital raising presently under way in respect of ACC and the New Zealand Superannuation Fund. I know that to be the case. I have checked that, and on that basis I think that the House should support it. I do think that, given that the National Government has said that it is not going to sell Kiwibank—that is the promise that it has made the New Zealand electorate—it should have no objection to passing this piece of legislation, which ensures that that principle is in place and that any future Government that wants to change that status quo just has to come to this House, get a bare parliamentary majority to change this legislation or to authorise the sale, and it will be right. If a Government cannot get that parliamentary majority, then it ought not to sell Kiwibank. It is one of those important New Zealand institutions that ought not to be able to be done away with at the whim of a Government that perhaps is trying to achieve other purposes and does not want to come to Parliament for the tick-off of Parliament before that happens.</p><p class="a">So the earlier impediment in this legislation to support from some parties, which was that the supermajority was inappropriate for this sort of legislation, is dealt with by the Supplementary Order Paper that I have tabled. Clayton Cosgrove and the other members of the parliamentary team on the select committee agreed that it was appropriate that we should have just a bare majority needed for this sort of authorisation. That is the effect of the Supplementary Order Paper that lies on the Table. The underlying effect, then, is that the Keep Kiwibank Bill places a restriction on the sale of Kiwibank to private interests, and, effectively, says that for the Crown to sell its shares other than to a Crown-owned organisation, it needs parliamentary approval. If it is to sell it to a Crown-owned organisation, the sale has to be subject to a first right of refusal in favour of the Crown, which the Crown must exercise if it is triggered by the offer under that first right of refusal.</p><p class="a">The final thing I will say is that first right of refusal has to cover not just the shares that are required by a Crown-owned entity like the ACC or the Superannuation Fund at the time of the original transaction but also, if there are additional shares issued to that organisation—for example, by further raising of capital—then the first right of refusal applies to those additional share allocations as well, so that at all times the Crown has the ability to reacquire those shares if they were otherwise to be sold to private interests.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:40:59" ></a><strong>DAVID BENNETT (National—Hamilton East)</strong>: National does not support this bill, and that was a particularly weak speech from a member who had no interest in this bill and who has taken no interest in it through the select committee process. That really shows that he and the Labour Party intend to butcher what was Clayton Cosgrove's baby and turn it into something that is a weak form of the Keep Kiwibank Bill. Such a watered-down version of the bill really reflects the nature of the Labour Party in that last speaker, at this time.</p><p class="Interjection"><strong>Grant Robertson</strong>: Do you want a stronger bill?</p><p class="ContinueSpeech"><strong>DAVID BENNETT</strong>: Well, bring on the strong bill. Why has the Labour Party reduced it from 75 percent to a bare majority of 51 percent? Well, it has not actually yet. That is subject to Supplementary Order Paper 185 coming to this House. The bill as it stands is still 75 percent, and the arguments against that are well-tracked in this House and are very obvious. Why is it 75 percent for this organisation and not for any other Government-owned organisation? What makes Kiwibank special compared with KiwiRail or any other organisation? Why has the Labour Party got a special interest in Kiwibank? The board actually, effectively, makes the decision, not the Government, because it is not owned by the Government. It is owned by a State-owned enterprise, which would make the decision.</p><p class="a">Take the scenario that Kiwibank actually gets into trouble. If Kiwibank was in trouble and something like what happened to the BNZ in the mid-1980s happened and there was a decision to sell it, then this legislation would, effectively, stop that sale going through, and that could be to the detrimental position of many New Zealand households that could lose out in a time of negative gearing for that bank. </p><p class="a">This bill does not make sense in any way, shape, or form. The Labour Party members know that. They have watered it down through a Supplementary Order Paper process. They do not actually stand behind what they believe. If they really believed in entrenching it by 75 percent, why do they not stand behind that and take it all the way through the House? No, they had to water it down, and it is still a pathetic bill and does not deserve to go through this House.</p><p class="Speech"><a name="time_20160629 20:43:23" ></a><strong>The ASSISTANT SPEAKER (Lindsay Tisch)</strong>: Can I just have some quiet, please. I am calling Grant Robertson but I would like to hear what he has to say.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:43:33" ></a><strong>GRANT ROBERTSON (Labour—Wellington Central)</strong>: Thank you very much, Mr Assistant Speaker. It will be well worth it. That was the member for Hamilton West—the member whom time has passed by, quite frankly.</p><p class="Interjection"><strong>Tim Macindoe</strong>: No, Hamilton East.</p><p class="ContinueSpeech"><strong>GRANT ROBERTSON</strong>: East—sorry. I truly should withdraw and apologise for that, should I not? Far be it from me to implicate Tim Macindoe in that abomination of a speech by David Bennett. Time has passed Mr Bennett by. Actually, there are two explanations for that speech. Either time has passed him by or his listening comprehension skills are up there with his reading comprehension skills, because he clearly did not hear David Parker describe what has occurred. So let us fill in the gaps for Mr Bennett.</p><p class="a">In between times from when this bill was introduced to now, there has been quite a big change in the future for Kiwibank as a part of the New Zealand Post Group. As David Parker said, there has been a change in terms of capital structure. The Government—with Michael Cullen as the chair of the New Zealand Post board, working with Bill English—has come up with what is quite an elegant solution, actually, for keeping Kiwibank in public ownership and for supporting New Zealand Post through the transition from being largely a postal services company to now working in the modern technological age. That means it stays in public ownership with strong capital investment from the Superannuation Fund, ACC, and the Government as well. So the Labour Party did what a good Opposition would do: it decided to update its member's bill to keep up with the times. </p><p class="a">I congratulate my colleague David Parker on putting forward this Supplementary Order Paper (SOP) 185 on a bill that he inherited. He inherited this bill and, being the agile member of Parliament that he is, he said "I'm going to put forward an SOP that recognises where we've got to.", and that is what he has done. I will return to the detail of that in a moment, but I think it is important to look into the history of how we came to be here—</p><p class="Intervention"><strong>The ASSISTANT SPEAKER (Lindsay Tisch)</strong>: I am sorry to interrupt the member. Can I ask the Government members just to quieten it down, please. There are so many discussions going on that I am having difficulty hearing the member.</p><p class="ContinueSpeech"><strong>GRANT ROBERTSON</strong>: And that will be the only time you will ever say that in this House, Mr Assistant Speaker. For the history of this situation, we do have to go back to the beginning of Kiwibank. It is right for members on this side of the House to be sceptical about the commitment of the National members to Kiwibank. They hated it from the beginning. They hated the idea that there might be a player in the banking industry that was going to be a bit disruptive and get a better deal for New Zealand consumers and customers of banks. That is what Kiwibank has fundamentally done. It has come into the market, and it has played an important role in giving New Zealanders a fairer go when it comes to their banking services. But National members did not like that when it was introduced. They hated Kiwibank—all those great achievements of the fifth Labour Government, with Kiwibank, KiwiSaver, Working for Families, and paid parental leave. Of all the things that they voted against, Kiwibank was right in there, but it has sustained itself.</p><p class="a">Let us not forget that Bill English gave the game away on this when he was recorded, I understand, at a party conference function. He said: "We can't get rid of it this term, but don't worry, we're going to have another crack at it later." </p><p class="Interjection"><strong>Chris Bishop</strong>: Who recorded it?</p><p class="ContinueSpeech"><strong>GRANT ROBERTSON</strong>: I do not know who recorded it, Mr Bishop. Do you know who recorded it? I do not know who recorded it. But that happened and Bill English was indeed caught out telling the truth on this matter. </p><p class="a">So New Zealanders and the Labour Party are right to be sceptical about the National Government's commitment to the ownership of Kiwibank, and that is what lay behind this bill originally. It was that and the fact that it was drafted—and I think it was my former colleague Charles Chauvel who was responsible for the drafting of this bill; I think it was in his name originally—at a time when the National Government had launched into its asset sales programme. It was hocking off the family silver like no one's business, and right around New Zealand people were saying "We know what's going to happen—Kiwibank is next.", and, of course, it had form. Bill English said he wanted to do it—maybe in the second term, not the first term. So this bill was drafted to ensure that Kiwibank was kept in public ownership, and that is the history of how it got here. That is the goal of the bill. It is to make sure that Kiwibank stays in public ownership and does not lose what is important to its many thousands of customers around New Zealand—that it is a New Zealand bank, and that it does represent something of their money being part of our country. I think that is an incredibly important goal, and that is what this bill tries to do.</p><p class="a">In the context of the National Government's asset sales programme, the idea came up of a 75 percent majority—a supermajority—it is true. We got excellent advice at the Finance and Expenditure Committee, including from the Clerk's Office, about the significance of using a provision like that for a bill like this. I do not think there is any harm in having raised that for debate, because it is such an important issue that we retain control of our public assets. But, as Mr Parker has already said, Labour Party members were prepared to recognise that the supermajority was not an appropriate vehicle to take this forward, and we were looking at the idea of a simple 50 percent parliamentary vote. But then, as I say, there was a major and fundamental change in the capital structure of Kiwibank. The goal of the bill then had to be altered in order to meet the new arrangements and the new circumstances, and that is what is covered in Mr Parker's SOP.</p><p class="a">Essentially, proposed clause 6 in the SOP does two things: in the first clause, it makes sure that the only way any sale or disposal of New Zealand Post's interest in Kiwibank can proceed is if it is a disposal to the Crown or an organisation that is wholly owned by the Crown. So that is the principal level of the original bill, which says public ownership is the default setting. </p><p class="a">I want members opposite to stand up tonight—Chris Bishop will do this. I know he will, because he is a huge fan of public ownership of assets, is he not? He is a huge fan of public ownership of assets. So what I want National Party members to do is stand up tonight and commit to Kiwibank remaining in public ownership—commit to it. He is not very vocal right now, Chris Bishop—he is thinking through the consequences of betraying his principles of mass privatisation versus getting into trouble for committing to the public ownership of Kiwibank. We await with interest. Mr Seymour, you do not need to speak. We already know what you think, so you can stay quiet. But other National Party members, we do want to hear from you. Are you committed? Because that is what the new clause 6(1) that David Parker has put into this bill is all about—the commitment to public ownership.</p><p class="a">Then we want to deal with the precise situation that we now face, which is that the Government has inserted the possibility of a first right of refusal for the Crown, should any of the subsidiaries decide that they want to onsell their shares. The first right of refusal is a good thing, but at the moment it is not automatically triggered. What David Parker is trying to do in this bill is say that the Crown must exercise that first right of refusal. That, to us, is actually essential because our commitment and support to the elegant solution that I mentioned before—of giving Kiwibank or New Zealand Post a bit more capital, a bit more chance to survive, because they are not going to get it out of the Government in the new world—is predicated on those shares and that capital remaining in public ownership. That is why we have to make sure that we put the Government on notice that the first right of refusal has to come back to the Crown. Clause 6(2) and (3) on the SOP say that if the first right of refusal is triggered, the Crown must exercise that right unless it obtains the support of Parliament to do otherwise. This puts it back into this House. It puts it back into this House's hands that unless the Government does what we believe is right, then Parliament will have the final say.</p><p class="a">I think Mr Parker has come up with an excellent SOP that keeps the essence of the original bill—the concept of public ownership, and the concept of a parliamentary final decision-making point—but also it acknowledges the new situation around the first right of refusal and around an injection of capital via the Superannuation Fund and ACC. It is a very good approach, and one that I hope other members of the House will look at and see that it achieves the goals that, certainly on this side of the House we want which is the public ownership of Kiwibank. I look forward to Chris Bishop's commitment to ongoing public ownership of our important assets.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:52:29" ></a><strong>CHRIS BISHOP (National)</strong>: This is an embarrassing bill for the Parliament to consider. It was an embarrassing bill when it was put up by Clayton Cosgrove as a political stunt. It is a slightly less embarrassing bill for the Labour Party now with David Parker in control of it, who has clearly realised that the idea that Parliament would put the ownership of Kiwibank on the same level as the entrenched provisions in the Electoral Act and the Constitution Act 1986—he has clearly realised that is a silly idea and has moderated the bill somewhat, or, at least, has indicated that at the Committee of the whole House stage, if it gets there, he will moderate the bill somewhat. But it is still an embarrassing bill.</p><p class="a">This bill was put up as a political stunt. We just had the admission, essentially, by Mr Robertson that it was done so. It is a seven-clause bill. At the select committee Mr Cosgrove could barely bring himself to defend it. He did so with a smirk on his face, knowing the entire time the bill was put into the ballot as a stunt. It had the good fortune to be voted on at first reading and sent to the select committee. The Finance and Expenditure Committee received 15 submissions, seven of which were form submissions. So, having put the bill into the ballot and having had the good fortune to have it drawn, and having had it sent to the select committee, the Labour Party cared so little about this hugely important constitutional issue of public ownership of Kiwibank that it could not even be bothered to organise form submissions through a website to blockade—well, not blockade, but at least bombard—the Finance and Expenditure Committee with a lot of submissions. It could not even be bothered to do that.</p><p class="a">This bill was an embarrassment when it was drawn, it was an embarrassment when it was debated at first reading, and it remains an embarrassment today. It is actually to the credit of Mr Parker that he has realised that, and he had the misfortune to inherit this bill. Clearly a ballot went round the caucus at some point when Mr Cosgrove decided he was going to indicate he would shuffle off the political mortal coil at some point and he could not take command of the bill any more, and David Parker drew the short straw. David Parker drew the short straw and the bill went in his name. To his credit he has put forward a slightly less constitutionally dubious and outrageous Supplementary Order Paper, but the bill is still a silly bill. The National Party remains opposed to this piece of political chicanery, and we will continue to vote against it at second reading.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:55:19" ></a><strong>JULIE ANNE GENTER (Green)</strong>: I am pleased to take a call on the second reading of this bill. Despite what the previous speaker, Mr Bishop, said, I do not think this bill is entirely a stunt at all. I think it is actually quite germane to what is happening at the moment because although the National Government has found it politically difficult to carry out its ambitions of privatising Kiwibank, that is its intention. That is because it does not see the purpose and the benefit to New Zealand of having a New Zealand - owned bank, a Government-owned bank that can help achieve greater competition in the banking sector for New Zealanders, and that is exactly what Kiwibank has done. The Green Party supports the bill, particularly with the excellent amendments from the Hon David Parker.</p><p class="a">I will note again, in clause 3 of the bill, there is a very clear purpose: "The purpose of this Act is to ensure that Kiwibank continues to be owned by the New Zealand people, unless and until it is absolutely clear that they no longer wish to own Kiwibank." I think it is fair enough for the Labour Party to introduce such a bill, given the history of what has happened in the last few terms of Parliament, when the public actually made it very clear that they did not agree with the partial privatisation of the energy companies, and yet the Government went ahead and did it anyway, with its one-vote majority, even though a significant portion—I think even the majority of its own voters—did not support that policy. The Government still went ahead and did that.</p><p class="a">Of course, that privatisation did not make any economic or fiscal sense. There were a lot of arguments put forward that we needed to do it to pay down debt. Of course, that is not what happened. We ended up flooding the market with shares in energy companies, receiving a much lower value than what they were worth, and now the cost of selling them has almost been the benefit. The money that we received from selling those shares has actually almost been exceeded by the cost that we have forgone by not receiving the dividends from those companies. Of course, once you have that partial privatisation it means that private shareholders who have an interest in maximising their returns do not necessarily have in mind the interests of the New Zealand people when they are looking at policy. When you have an oligarchic situation, which is very—[<em>Interruption</em>] I raise a point of order, Mr Speaker.</p><p class="Interjection"><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: Before you take the point of order, I will ask Mr Robertson to stay on his backside, thank you.</p><p class="ContinueSpeech"><strong>JULIE ANNE GENTER</strong>: I just found it unbearably annoying to listen to Mr Seymour interject in everybody's speeches this evening, and I did not get up to do a point of order because I did not want to interrupt other members' speeches, but I am going to interrupt my own speech to ask you—</p><p class="Intervention"><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: Sure, and I know, because I have—being a foolish person—been in the car and been listening to Parliament on the radio for some time, and I could hear Mr Seymour interjecting. I could hear Mr Seymour interjecting, and there is a convention here that people are more reasonable interjecting from the cross-benches, especially to colleagues on the other side who are near them. I ask Mr Seymour to respect that convention and to keep his interjections occasional, and, preferably, witty.</p><p class="ContinueSpeech"><strong>JULIE ANNE GENTER</strong>: Thank you, Mr Assistant Speaker. It is a very similar situation, and I think it is entirely relevant and fair that the Labour Party brought this bill to the House, given that we already have a similar situation where we have, effectively, an oligarchy in energy markets, and yet the Government went ahead and partially privatised shares in the energy companies.</p><p class="a">Now what we have in the banking sector is definitely an oligarchy. We have nearly 90 percent of all banks in this country dominated by the four big Aussie banks. That lack of competition has even been noted by Standard and Poor's which called it oligopolistic. Just for the benefit of Mr Seymour, in particular, who I know is very ideological and has a blinkered understanding of economics, in standard economic theory an oligopoly is a bad thing because it means there is a lack of competition and you get excessive profits, which are actually not efficient because, of course, when you have excessive economic profit it means that the price that people are paying for a good or service is greater than the marginal cost of production of that service.</p><p class="a">Excessive economic profit is inefficient and bad for New Zealand, in particular, because those profits are flowing offshore. We are paying up to $4 billion a year to foreign-based shareholders in these banks, and that is not getting us better services. It is not getting us better banking services and it is not getting us better mortgages; it is actually quite inefficient.</p><p class="a">When Kiwibank was introduced in 2001 it was very effective at lowering bank fees and ensuring the New Zealand public, whether they banked with Kiwibank or one of the big four banks, were actually getting a fair deal in terms of the price they paid for banking services and were more likely to receive fair mortgage interest rates. It is entirely reasonable and important that the New Zealand public are assured that there will not be a sale of Kiwibank unless there is a parliamentary majority in favour of that for good reason. It would be very difficult for me to understand what the purpose of selling Kiwibank would be, because it is incredibly beneficial to New Zealanders to have a Government-owned bank that is there to compete with the big four Aussie banks.</p><p class="a">Of course, the Green Party supports strengthening Kiwibank even further so that it can do more to compete with the big four Aussie banks. We support legislative changes that would help the credit unions and other New Zealand - owned institutions grow and be more competitive with the big four Aussie banks. That is one of the ways that we can ensure that we will not be paying too much on mortgage interest and it means real savings for New Zealanders—I mean, up to $600 or $700 a year—on their mortgages if we have a more competitive banking sector, not to mention ensuring that we have lower rates and fees.</p><p class="a">Of course, the National Government has come up with its own solution. Rather than investing in Kiwibank and enabling it to compete with the big four Aussie banks, it has found a solution which is, effectively, a back-door route, potentially, to privatisation. Rather than more directly providing the capital that Kiwibank needs, the board has had to make the decision to raise capital by selling shares—probably at an undervalued rate—to Government institutions with no assurance that those shares will not be onsold to private investors. If at one point the Crown did intend to buy them back in a period of 5 years, it could end up costing taxpayers up to $800 million. It makes more sense, I think, for the Government to put $100 million directly into the bank, allow it to grow its business—[<em>Interruption</em>]</p><p class="Interjection"><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: Order! Thank you.</p><p class="ContinueSpeech"><strong>JULIE ANNE GENTER</strong>: I suppose it just speaks to the very limited understanding of the overall social and economic benefits that Government can provide to its citizens on the part of this National Government that it looks at short-term ways of finding a surplus and it has a very accounting-focused approach to evaluating benefits, rather than looking at the overall picture of what is going to be better for New Zealand households. Why does it make sense to have a New Zealand Government - owned bank if we are not going to use that bank to deliver greater benefits to the New Zealand public?</p><p class="a">So, of course, the National Government's approach, just as it is with public television or public energy companies, is to run them on commercial grounds and to eventually, potentially, sell them off. Of course, although you might get some very, very short-term benefit from that from the point of view of trying to achieve a surplus, eventually there will be enormous costs to the New Zealand public of not having a well-established New Zealand - owned bank that can compete with the four big Aussie banks. The Green Party very much supports retaining public ownership of Kiwibank, strengthening Kiwibank so it can do more to benefit New Zealanders. </p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 21:04:39" ></a><strong>MELISSA LEE (National)</strong>: I rise to take a short call in this Keep Kiwibank Bill second reading. Obviously, as a member of the National caucus, I oppose this bill. Even the title of the Keep Kiwibank Bill seems a little bit redundant to me. Although I was not part of the select committee that actually looked at this bill, the Government has committed to retaining 100 percent ownership of Kiwibank, and so to actually debate this in this Chamber seems a little redundant.</p><p class="a">But before I actually go on to the bill, I just want to address some of the comments that the member who just took her seat, Julie Anne Genter, actually mentioned about wanting to sell off Kiwibank. I just recently—actually, last week—was part of a Māori business delegation that went to Korea and Japan to look at businesses and look at the markets over there so that Māori businesses could, potentially, look for bigger markets overseas. Some of them were even looking for business partnerships—they were looking for investors. Sometimes when businesses are actually running and want to expand to grow their markets, having investors can actually build their business so they can take their products and their business to bigger markets. Actually, if that member cannot see the benefit of that, I just do not know what we can help her with. </p><p class="a">This is currently a proposal for New Zealand Post—the fact that we are going to keep 100 percent ownership of Kiwibank. We will sell part of Kiwibank to ACC and to the New Zealand Superannuation Fund. This will see Kiwibank remain 100 percent Government-owned. Although Kiwibank will not be 100 percent owned by New Zealand Post, it will be wholly Government-owned. The proposal will give Kiwibank access to extra sources of capital for future growth and will broaden its exposure to commercial expertise. The bill, as it is currently drafted, would prevent this transaction from happening.</p><p class="a">The New Zealand Post proposal includes a right of refusal to ensure that, should ACC and the Superannuation Fund ever want to actually sell part of their Kiwibank ownership, they will then have to give their first right of refusal to the Government. So, to me, this bill is actually redundant and unneeded. I oppose this bill.</p><p class="IndentMarginalone">Debate interrupted.</p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

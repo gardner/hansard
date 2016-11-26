@@ -1,0 +1,806 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Oral Questions — Questions to Ministers - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_12" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_12/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Oral Questions — Questions to Ministers</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20160915_20160915_12/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_12" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160915_20160915_12/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_12/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160915_20160915_12/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_12/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160915_20160915_12/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="QOA"><strong>ORAL QUESTIONS</strong></p><p class="QType"><strong>QUESTIONS TO MINISTERS</strong></p><h4 class="QSubjectHeading"><strong>Economy—</strong><strong>Reports</strong></h4><p class="SubsQuestion"><strong>1. </strong><strong>DAVID BENNETT (National—Hamilton East)</strong> to the <strong>Minister of Finance</strong>: What reports has he received on the economy?</p><p class="SubsAnswer"><a name="time_20160915 14:04:29" ></a><strong>Hon BILL ENGLISH (Minister of Finance)</strong>: Today Statistics New Zealand released the GDP figures showing the New Zealand economy grew by 0.9 percent in the June quarter and by 3.6 percent in the year to 30 June. This puts New Zealand's growth rate at third in the developed world, behind Luxembourg and the Slovak Republic. Overall growth was broad-based with 11 of 16 industry sectors growing and 15 of those sectors growing over the previous year, which shows that the New Zealand economy is continuing to diversify and growth is broad-based.</p><p class="SupQuestion"><strong>David Bennett</strong>: What were the main drivers of economic growth in the year to June?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: Unsurprisingly, growth was driven by construction or led by construction, which grew 5.1 percent over the quarter. Residential construction is up 10 percent over the year, reinforcing the fact that New Zealand is in a significant building boom. Growth was broad-based. Even though the dairy sector has been doing it tough, exports were up $3 billion, and in the last quarter, exports grew at the fastest rate in 18 years. This growth means that the value of the New Zealand economy passed the quarter of a trillion mark for the first time ever.</p><p class="SupQuestion"><strong>David Bennett</strong>: How does New Zealand's growth rate compare with the average among OECD countries?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: A lot of OECD countries are caught in a situation of pretty high public debt, high unemployment, and relatively low growth rates, so the average for the OECD is just 1.6 percent. Our rate of 3.6 percent compares with 2.2 percent in the United Kingdom, 1.2 percent in the US, and 0.8 percent in Japan. It is a solid result for the economy, but there are many risks around and if we want to continue to deliver higher incomes and more jobs for households, there is plenty to do.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Is it not correct that our real per capita growth of 0.7 percent puts us behind Germany, Canada, the United States, the UK, and Japan, and is not real per person growth, the measure that his Budget says we should be looking at?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: As we have discussed at some length, actually, in the House, it is another measure of the economy, and in the long run, per capita income matters a lot. At the moment it is not surprising it is a bit soft, because we have faster population growth than any of those countries. So, with a surge in population and New Zealanders staying home rather than leaving, it is not surprising income growth per head is softer, but as immigration turns down it is quite likely that that number will rise again.</p><p class="SupQuestion"><strong>David Bennett</strong>: How does the growing economy help support vulnerable New Zealand families?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: The Household Incomes Report recently published by the Ministry of Social Development notes that a growing economy is having a noticeable impact, particularly on measures of hardship, helping those who are in not quite so severe hardship and those who describe themselves as "just getting by". However, it is still the case that even in a growing economy those who are suffering persistent deprivation do not see an automatic uplift from higher growth rates, which is why the Government has such an active programme of working with the most vulnerable to deal with the barriers that they face, particularly getting into work but also to getting better incomes.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Children—</strong><strong>Government Actions and Legislation</strong></h4><p class="SubsQuestion"><strong>2. </strong><strong>METIRIA TUREI (Co-Leader—Green)</strong> to the <strong>Minister for Social Development</strong>: Ka whakaae a ia ki tā Te Kaweneti o Te Kotahitanga o Ngā Whenua o Te Ao mō Ngā Tika tamaiti, e tono rā kia whakatūturu tana Kāwanatanga, me noho taungaroa rawa atu ngā pānga pai o te tamaiti, i roto i te hinengaro, ka whakamanahia ana ngā ture e pā ana ki ngā tamariki?</p><p class="a">[<em>Does she accept that the United Nations Convention on the Rights of the Child requires her Government to ensure the best interests of the child shall be the paramount consideration in the enactment of laws relating to children?</em>]</p><p class="SubsAnswer"><a name="time_20160915 14:09:27" ></a><strong>Hon HEKIA PARATA (Acting Minister for Social Development)</strong>: Ko te whakautu tuatahi ki te mema nāna i pātai mai, kāo! Ēngari mō te whai haere i tōna pātai, te āhua nei e kōrero kē ana a ia mō tētahi atu kaupapa.</p><p class="a">[<em>The first response to the member who asked the question, no! But in terms of following up her question, </em><em>it </em><em>seems like she is referring to some other matter.</em>]</p><p class="a">I accept that article 3 of the convention states: "In all actions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be a primary consideration." The member, however, appears to be referring to principle 2 of the Declaration of the Rights of the Child, which dates back to 1959 and was the basis of the convention adopted by the United Nations in 1989 and signed up to by New Zealand in 1993. Minister Tolley is currently leading a delegation to Geneva to discuss New Zealand's report under the United Nations Convention—</p><p class="Interjection"><strong>Metiria Turei</strong>: I raise a point of order, Mr Speaker. My question was actually quite simple: it was whether she accepts the convention. The issue of Minister Tolley travelling wherever she is is of no relevance to the question that was on notice.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: It was a very lengthy question. I am listening very carefully to the answer. I think the Minister is certainly addressing the question. If the member does not like the inclusion of the visit of the Hon Anne Tolley to somewhere, that is her problem. I am the sole determinant as to when the answer has gone on for too long, or whether I think it is moving into areas that are unnecessary to be an answer to the question. At this stage, I am not at that position. The Hon Hekia Parata—does she wish to continue?</p><p class="ContinueSpeech"><strong>Hon HEKIA PARATA</strong>: I raise a point of order, Mr Speaker. I answered the first part of her question in Māori, since she had asked it in Māori, so I gave a very definitive answer to the first part—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: And I have addressed that matter.</p><p class="ContinueSpeech"><strong>Hon HEKIA PARATA</strong>: —and I went on to elaborate in answer to the second part of the question.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: And I have accepted that, so there is no need to raise that as a point of order. I was then allowing the Minister, if she wanted, to add anything further to complete her answer. But I think, in view of the time and that we have now had such a substantial break, we will move immediately to the supplementary questions.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: How does the fining of sole mothers $28 a week protect the best interests of their children?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: Benefit entitlements have long been associated with child support, and in those arrangements there are both expectations and sanctions. In the particular case that the member is asking about, there are sanctions where both parents are not contributing, but there are also exemptions against which an application can be made.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: How has the convention been considered in the Government's decision to keep benefits so low that the poorest parents in New Zealand are now paying over 50 percent of their income in rent alone?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: The relevance of Minister Tolley reporting to the United Nations at this time is to report on the significant range of support that this Government has put in for the most vulnerable, of whom the large proportion are children. That has included the $790 million increase in hardship support; it has included the establishment of the Ministry for Vulnerable Children, Oranga Tamariki; it has included the children's teams; and it has included—for instance, in the education area—the targeting of operation grants to those young people who have spent a significant amount of their time in benefit-dependent families.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: How many of the 148,000 New Zealand children currently in hardship will be brought out of that hardship because of the $25 a week benefit increase?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: I do not have that detail to hand, but I can say that it is not one thing or another; it is the mix of investments that the Government is making that are directed at how we help all New Zealanders, including those most vulnerable.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: How many of the more than 20,000 children and parents currently homeless will be housed as a result of the $25 a week increase?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: Again, I cannot provide that detail, but in respect of the previous question that the member asked, I can tell her that over 17,000 children are affected by fathers who are not contributing to child support. [<em>Interruption</em>]</p><p class="Interjection"><strong>Metiria Turei</strong>: They don't get it; that's right.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order!</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Is it not a fact, Minister, that the payments that are made by those fathers, in the main, do not go to sole parents—the sole mothers—who are potentially fined; they just do not go to those parents if they are on a benefit?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: Well, there are two avenues by which a father can contribute. One is by meeting their requirement under the benefit dispensation to the sole mother, and another is by contributing directly to the mother of their child.</p><p class="Interjection"><strong>Metiria Turei</strong>: I raise a point of order, Mr Speaker. It was a clear question. She did not answer it.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Can we just have the question again please for the benefit of the Minister.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Is it not a fact, Minister, that the payments made by those fathers do not go to the sole parents—mothers—who are responsible for those children?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: As I answered the first time, there are two ways by which support is received by young people. One is by the father paying his apportioned share to the Ministry of Social Development so that it supports the benefit paid. Another is whereby the parent pays directly.</p><p class="Interjection"><strong>Metiria Turei</strong>: I raise a point of order, Mr Speaker. It was a straight question, it was a clear question, and it has not been answered.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I accept that it has not been answered to the satisfaction of the member. It has been asked twice now and the answer has not been clear. I will allow the member two additional supplementary questions.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Will the Minister meet the challenge from the Children's Commissioner, Andrew Becroft, this morning and set clear targets for child poverty reduction to make sure that the Government meets its obligations under the United Nations Convention on the Rights of the Child?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: I can say that she is already right now reporting on the commitments and the investments and the actual practical arrangements that this Government has made in respect of young people. In terms of whether or not she will choose to respond directly to the invitation that has been made publicly today, I cannot pre-empt her decision on that.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Will the Government meet the challenge set out by the Children's Commissioner, Andrew Becroft, this morning to change the age of criminal justice from 17 to 18?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: That was one of the recommendations included in the expert panel. My understanding is that Ministers Adams and Tolley are working on that now, and we are yet to receive their recommendation.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Finance, Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>3. </strong><strong>GRANT ROBERTSON (Labour—Wellington Central)</strong> to the <strong>Minister of Finance</strong>: Does he stand by all his statements?</p><p class="SubsAnswer"><a name="time_20160915 14:18:32" ></a><strong>Hon BILL ENGLISH (Minister of Finance)</strong>: Yes.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Does he stand by his statement, made as recently as yesterday, that what really matters for higher material living standards is real per capita GDP; if so, is annual per capita GDP growth of 0.7 percent going to give Kiwis meaningfully higher living standards?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: The Hon Bill English. There were actually two questions; the Minister can address either one.</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: Yes, I do stand by that statement, particularly in the context in which it was given. As I explained to the member, when you are looking at per capita income, two things drive it. One is the number of people, and that has been rising strongly in New Zealand because New Zealanders have stopped leaving for Australia in their thousands, so there has been sharp population growth. In respect of income, that has been held down by a significant drop in dairy income. So it is not surprising that growth in per capita income—which was, I think, 0.5 percent in the quarter, which is not too bad—is a bit soft under those circumstances. It is likely to grow as dairy incomes grow and migration turns.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Why is he pleased about a growth rate per person that is at a level that has been described by leading economists as lacklustre, far from perfect, and subpar?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: If the member spent a bit more time with economists, he would find out what a miserable bunch they are.</p><p class="Interjection"><strong>Grant Robertson</strong>: I'm tempted to ask what his degree is, but, anyway.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No, we will have the supplementary question.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Does annual per capita GDP growth of 0.7 percent represent acceptable value creation from the population growth New Zealand has experienced?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: I am not exactly sure what the question means, but if the member means "Is it enough?", well, of course it is not enough. We would like it to be higher. That is the whole point of a raft of policies run, particularly, under the Business Growth Agenda, which are all designed to promote more investment and capital deepening so that we can deliver higher incomes. I am pleased the member understands that the Government is not complacent in any way, even though the top-line GDP number is pretty good.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Is it correct that today's Statistics New Zealand release shows that real disposable incomes for New Zealanders have dropped in the last quarter?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: What impresses me—and surprises me—is that the member got through 20 pages of statistics before he found that one. I used to think he hardly ever got past the first two pages, but there you go. That measure is a negative number in this quarter, and, actually, it is historically quite a volatile measure. In some quarters it has been plus 5 percent—way higher than GDP—and today it is lower than GDP. In the long run—</p><p class="Interjection"><strong>Dr David Clark</strong>: It's soft, isn't it? It's soft. You're meant to say it's soft this month.</p><p class="ContinueSpeech"><strong>Hon BILL ENGLISH</strong>: Of course, we want real disposable income per capita to be positive.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: In light of that answer, if, per person, New Zealanders are not getting welfare and their disposable income has actually dropped, can he blame New Zealanders for feeling that whatever spin he puts on it, the economy is not working for them? [<em>Interruption</em>] </p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! The question is to the Minister of Finance.</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: With the amount of confidence in the economy, it does not need any spin for New Zealanders to believe that, actually, they are not doing too badly under the circumstances.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Is it not correct that no amount of spin that he puts on the numbers can get away from the fact that, as Paul Glass of Devon Funds Management says, "We only grow our share of the economic cake when GDP per capita grows, otherwise we are running hard to stay still."?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: As I think I said the other day, I do disagree with Mr Glass, actually. For the 30,000 Kiwis who decided to stay home this year instead of going away—we do not regard that as some kind of statistical blip that upsets that per capita calculation; we regard it as an indication of success that New Zealanders have decided to stay here instead of going to Australia. If that makes that particular statistic a bit "soft" for a few quarters, it is a small price to pay for success, when people are voting with their feet to stay home.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Science and Research—</strong><strong>Funding</strong></h4><p class="SubsQuestion"><strong>4. </strong><strong>MATT DOOCEY (National—Waimakariri)</strong> to the <strong>Minister of Science and Innovation</strong>: What new investment has the Government announced in high-quality scientific research?</p><p class="SubsAnswer"><a name="time_20160915 14:23:52" ></a><strong>Hon STEVEN JOYCE (Minister of Science and Innovation)</strong>: This week I announced funding of $209 million over 5 years for 56 new scientific research programmes through the Government's Endeavour Fund. The fund, which is part of the Budget 2016 Innovative New Zealand package, is also part of the Government's 10-year vision for a highly dynamic New Zealand science system. It supports both Smart Ideas initiatives and larger research programmes. Smart Ideas catalyses and rapidly tests promising innovative research ideas, and contracts are awarded for that one for 2 to 3 years. Research Programmes are awarded for 3 to 5 years and support ambitious research programmes with high potential to deliver a significant impact on New Zealand's economy, environment, and society.</p><p class="SupQuestion"><strong>Matt Doocey</strong>: What sort of research is being supported by the Endeavour Fund?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: There have been a large number of high-quality proposals received, with 56 of them being granted across a range of research areas. Otago University and Crown research institutes the National Institute of Water and Atmospheric Research, Scion, and Landcare Research were particularly successful with research programmes, along with Nelson's Cawthron Institute, which has a project on improving feed efficiency in salmon; a world-first proof of application test of trojan female pest control by AgResearch, and a University of Canterbury project to produce high-quality titanium from waste products. Overall, this wide variety of projects will help lift innovation in economic growth and improve the lives of all New Zealanders over time.</p><p class="SupQuestion"><strong>Matt Doocey</strong>: Why did the Government create the Endeavour Fund?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: The new Endeavour Fund replaces the previous Ministry of Business, Innovation and Employment contestable fund and refocuses our investment towards longer-term, high-impact, mission-led programmes of science. Although the economy, as we have heard today, is performing very well compared with most of the OECD, it is important we continue to invest in new scientific technologies and areas of growth. This fund, along with other investment the Government has made to grow the level of scientific research in areas like health research, the Marsden Fund, and the Catalyst Fund, plus business-led research and development, will continue to ensure we diversify and grow our economy.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Education—</strong><strong>Global Budget Proposal</strong></h4><p class="SubsQuestion"><strong>5. </strong><strong>CHRIS HIPKINS (Labour—Rimutaka)</strong> to the <strong>Minister of Education</strong>: Will she now recommend to Cabinet that the global budget proposal not proceed, given the sector advisory group recommended it not proceed and the Prime Minister has said that the Government "wouldn't really be progressing the issue unless they could get the other stakeholders on board—the unions and others"?</p><p class="SubsAnswer"><a name="time_20160915 14:26:39" ></a><strong>Hon HEKIA PARATA (Minister of Education)</strong>: As I have said many times in this House, we are in a process and no decisions have been made. It would also not be appropriate for me to be discussing what I would recommend before Cabinet. What I can say is that I have read the advisory group's report, I am taking it seriously, and I look forward to an education funding system that has at its heart the achievement of the children and young people of New Zealand.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Does she agree with the advisory group's concern that the proposal has the potential "to either reduce the number of teachers in the system or lead to more casualisation of the school teacher workforce,"; if not, why not?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: As I said, I am in a process of considering the arguments that it is making. They will be weighed up and taken seriously, and they will form my advice to Cabinet.</p><p class="Interjection"><strong>Chris Hipkins</strong>: I raise a point of order, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No, I am just going to invite the member to have that question again.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: OK, thank you. Does she agree with the advisory group's concern that the proposal has the potential "to either reduce the number of teachers in the system or lead to more casualisation of the school teacher workforce,"; if not, why not?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: It is my intention to provide my analysis of the advisory group's report, first, to Cabinet, and to do so at the end of this process, which we are still in.</p><p class="Interjection"><strong>Chris Hipkins</strong>: I raise a point of order, Mr Speaker. That is a fairly straight question about a consultation process the Minister has engaged in that has reported back, and I am asking her to, basically, give a response to the advisory group's report, which she has received. I do not think those are unreasonable questions, and the Minister is not answering, or not even coming close to answering them.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Well, I think it is very similar to a case we had earlier, where I can accept that the member is not satisfied with the answer. I am not responsible for the answer. We have had two goes at the answer. The best way forward is I will allow the member an additional supplementary question.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: How could schools reduce the number of teachers whom they employ under a global funding model without either increasing class sizes or reducing the number of subjects that they offer?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: Just to be very clear about the process that we are in: the proposals are ideas to be tested, and that is why they have not been modelled. We wanted to understand how much support there would be for them before we went to the next step. All of the questions that the member is asking are legitimate ones that would be considered in that process, but we are not yet at that stage. So to be giving the member arbitrary answers to each independent question when there are a mix of variables would be misleading.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: How can members of the education sector test the proposals that she has put forward if she will not actually explain what they are?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: By referring the member to the Cabinet paper that has been online for the last 3 months, which elaborated to the extent necessary to know whether or not testing these ideas was something that should be pursued. The member may also then ask why there are paid union meetings to make a decision if they do not yet know the full detail.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Does she agree with the advisory group chair, Allan Vester, who said regarding the proposal "The fear is that if the Government squeezes the budget, as it sometimes does, effectively that squeeze will be downward pressure on staff."; if not, why not?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: I can acknowledge that that was Mr Vester's fear, but it is not one that I share.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: How many fewer teachers would schools be able to employ if global budgets were in place today, given that this Government cuts schools' operations budgets, in real terms, in this year's Budget by $7.8 million?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: I reject the presumption that that question is based on. In the years between 2010 and 2015, Consumers Price Index inflation went up by 9.6 percent, whereas operational grants went up by 15 percent.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Are the figures that she just quoted in nominal terms or real terms?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: I think that they are in real terms. [<em>Interruption</em>]</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! I just need substantially less interjection from both sides, so I can hear the question and the answer.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Is it not the case that the only additional flexibility schools would have is the flexibility to employ fewer teachers so they can cover their running costs with reduced Government funding, and that she refuses to rule out implementing that proposal because she has a long-running commitment to increase class sizes one way or the other?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: No.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Road Safety—</strong><strong>Overseas Drivers</strong></h4><p class="SubsQuestion"><strong>6. </strong><strong>DENIS O'ROURKE (NZ First)</strong> to the <strong>Associate Minister of Transport</strong>: Is he satisfied with current requirements for overseas drivers in New Zealand?</p><p class="SubsAnswer"><a name="time_20160915 14:32:37" ></a><strong>Hon CRAIG FOSS (Associate Minister of Transport)</strong>: If the member is asking about the requirements for those with overseas licences who drive in New Zealand, then yes. Under the relevant driver-licensing rule, New Zealand accepts—and has under successive Governments since the late 1990s—drivers' licences issued by any overseas authority, provided they are written in English or are carried with an accurate English translation. We also accept international driving permits issued under the 1968 Vienna Convention on Road Traffic. This Government, in partnership with other organisations, has introduced numerous initiatives to better inform and educate visitors who intend to and who do drive in New Zealand. Those initiatives cover all stages of an overseas visitor's trip: planning, booking, in flight, on arrival, and on our roads.</p><p class="SupQuestion"><strong>Denis O'Rourke</strong>: If it is good enough for countries like China to require visitor drivers to sit a driving test, what are the reasons his Government does not require the same here, given the number and seriousness of accidents involving foreign drivers?</p><p class="SupAnswer"><strong>Hon CRAIG FOSS</strong>: To put the member's last point there on the number of serious accidents involving foreign drivers in perspective, in the year to March 2016 there were 3.3 million international visitors to New Zealand. In 2015 there were, sadly, 291 fatal crashes in New Zealand, and, sadly, 1,822 serious injury crashes. Of those, overseas drivers were at fault in 16 fatal crashes and 79 serious injury crashes. I reiterate: any crash, any fatality is a tragedy, but we must keep it in perspective and context.</p><p class="SupQuestion"><strong>Denis O'Rourke</strong>: In the case of the Chinese nationals recently caught driving tour buses on fake or borrowed licences, has he seen to it that Alps Travel's transport services licence is cancelled or at least suspended pending a full investigation; if not, why not?</p><p class="SupAnswer"><strong>Hon CRAIG FOSS</strong>: I will not comment particularly on that case because actions are being undertaken, but we take driver's licence fraud and driver's licence misdemeanours very, very, very seriously. I would note that on the allegations in that particular case, many laws, rules, and regulations have, allegedly, been broken.</p><p class="SupQuestion"><strong>Denis O'Rourke</strong>: Is he concerned that his Government's softness on overseas drivers is being reflected in similarly soft sentences for overseas drivers who cause fatal accidents here; if so, when will he do something about it?</p><p class="SupAnswer"><strong>Hon CRAIG FOSS</strong>: I will not comment on matters that are under investigation and/or before the courts.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Conservation, Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>7. </strong><strong>JAMES SHAW (Co-Leader—Green)</strong> to the <strong>Minister of Conservation</strong>: Does she stand by her statement that Vote Conservation has not been cut?</p><p class="SubsAnswer"><a name="time_20160915 14:36:12" ></a><strong>Hon Dr NICK SMITH (Minister for the Environment)</strong> on behalf of the <strong>Minister of Conservation</strong>: Yes. Vote Conservation is estimated this year to be $451 million, and that compares with $362 million in the last year of the previous Government.</p><p class="SupQuestion"><strong>James Shaw</strong>: When adjusted for inflation, has Vote Conservation been cut since her Government took office?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: Inflation has been at record low levels, and that is good news for households as well as for departments like the Department of Conservation (DOC). But if you calculate the increase that the Department of Conservation received in this year's Budget, as compared with that in the last full year of the previous Government, it is more of an increase than that from inflation.</p><p class="Interjection"><strong>James Shaw</strong>: I raise a point of order, Mr Speaker. My question was short, straight, and factual. It was whether Vote Conservation has been inflation-adjusted since her Government took office, not in the last 12 months.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I am going to invite the member to repeat the question.</p><p class="SupQuestion"><strong>James Shaw</strong>: When adjusted for inflation, has Vote Conservation been cut since her Government took office?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: I repeat the figures: in the last full year of the previous Government the Department of Conservation's budget was $362 million. The estimated budget for this year is $451 million. If the member calculates, that is an increase greater than the rate of inflation.</p><p class="Interjection"><strong>James Shaw</strong>: I seek leave to table this graph, prepared by the Parliamentary Library, which shows cuts to real funding for Vote Conservation since National took office.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I will put the leave, and the House can decide. Leave is sought to table that particular graph. Is there any objection? There is none. It can be tabled.</p><p class="IndentMarginalone">Document, by leave, laid on the Table of the House.</p><p class="SupQuestion"><strong>James Shaw</strong>: Does she now accept that when adjusted for inflation, Vote Conservation has been cut since her Government took office?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: No, and can I give you a very simple example of why the member's figures are incorrect. In the 2008 year, the previous Government, as the member will recall, spent $40 million on the St James Station. That artificially increased the appropriation in that year, but was actually taken from the budget for the next 7 years for the Nature Heritage Fund. Labour did that quite openly—it raided the fund to buy that particular station. But that distorts a fair assessment of what the actual level of commitment has been by this Government to the important work of conservation.</p><p class="SupQuestion"><strong>James Shaw</strong>: So is she saying that the corrosive effects of 13 percent inflation since 2008 have had no impact on the Department of Conservation's operating budget?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: No, the Minister is not saying that; what the Minister is saying is that this year she secured $28 million for the Predator Free 2050 initiative. In last year's Budget she secured more than $11 million for the kiwi recovery initiative. In this year's Budget she also secured—</p><p class="Interjection"><strong>James Shaw</strong>: I raise a point of order, Mr Speaker.</p><p class="ContinueSpeech"><strong>Hon Dr NICK SMITH</strong>: —with the Minister for Primary Industries, $4 million for wilding pines. The member also secured substantive funding—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! [<em>Interruption</em>] Order! I was diverted, trying to attract the Minister's attention to bring his answer to a conclusion. Point of order, James Shaw.</p><p class="Interjection"><strong>James Shaw</strong>: Thank you, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: What is the point of order?</p><p class="Interjection"><strong>James Shaw</strong>: My question, again, was about the effect of inflation on DOC's budget—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! [<em>Interruption</em>] Order! No, no, absolutely wrong. On this occasion the Minister, with his very first word, answered the question. He was then given some significant lenience to explain why he had said no. I was pleased to see that the answer was finally coming to a conclusion.</p><p class="SupQuestion"><strong>James Shaw</strong>: What, if anything, will she do about making up the cumulative shortfall of $424 million, in real terms, to DOC's budget over the last 8 years?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: The member is not listening to the answers. Let me give it in very simple terms: this year's estimated DOC budget is $451 million. In the last full year of the previous Government it was $362 million. That is an increase. That shows the commitment that this National Government has got to the important work of the Department of Conservation.</p><p class="Interjection"><strong>James Shaw</strong>: I raise a point of order, Mr Speaker. The Minister was not clear whether those figures were nominal or real-terms funding, and that was the nature of the question.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Then that is a debating issue or a topic for a further supplementary question. But on this occasion, again, the Minister has addressed the question that was asked.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Education—</strong><strong>Asian Language Programmes</strong></h4><p class="SubsQuestion"><strong>8. </strong><strong>MELISSA LEE (National)</strong> to the <strong>Minister of Education</strong>: What recent announcements has she made regarding teaching Asian languages?</p><p class="SubsAnswer"><a name="time_20160915 14:41:50" ></a><strong>Hon HEKIA PARATA (Minister of Education)</strong>: Ni hao, Mr Speaker. It is New Zealand Chinese Language Week. I recently announced in Auckland, alongside my colleague the member for North Shore, Maggie Barry, the next round of funding for new or expanded Asian language programmes at 63 schools across the country. A total of $10 million was set aside by the Government in 2014 to provide two contestable funding rounds that would increase Asian language programmes in our schools. In this most recent round, $2.36 million is being provided from the fund to the 63 schools that applied. I am really impressed by the way schools are working together to share resources and teaching skills; many are establishing links with language and cultural organisations, helping them to get the most out of the programme.</p><p class="SupQuestion"><strong>Melissa Lee</strong>: How will this announcement support our young people to engage in the global economy?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: Languages are an important tool for our young people to have as they venture out into the world. Today's announcement is part of our drive to encourage and support our young people to truly become global citizens. Learning a language helps to build closer relationships with other cultures and countries, and currently there are now 203 schools, from Southland to Tai Tokerau, receiving support for Mandarin, Japanese, or Korean language programmes. Kamsahamnida.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Police, Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>9. </strong><strong>STUART NASH (Labour—Napier)</strong> to the <strong>Minister of Police</strong>: Does she stand by all her statements?</p><p class="SubsAnswer"><a name="time_20160915 14:43:36" ></a><strong>Hon Dr JONATHAN COLEMAN (Minister of Health)</strong> on behalf of the <strong>Minister of Police</strong>: Yes.</p><p class="SupQuestion"><strong>Stuart Nash</strong>: When she said in 2011 that the Government wanted to "send a message that offending against law enforcement officers was unacceptable", does she think that this is reflected in charging a man who knocks out an officer being charged with only assault and not aggravated assault?</p><p class="SupAnswer"><strong>Hon Dr JONATHAN COLEMAN</strong>: I know what the member is trying to get at here, and, as he knows, it would be entirely inappropriate for the Minister of Police to comment on the judicial process. That is quite different from offering really firm backing for police officers in terms of condemning behaviour—two very different things, which that member is very trickily trying to conflate. </p><p class="SupQuestion"><strong>Stuart Nash</strong>: In light of that, can she confirm that when she openly spoke about Constable Kane's assault in 2011 the case was still before the court; if so, what has changed between then and now, when she claims she cannot comment at all?</p><p class="SupAnswer"><strong>Hon Dr JONATHAN COLEMAN</strong>: I would have to say that they are two very different cases, different timings. That member knows that the Minister of Police cannot possibly comment on the judicial process. It would be inappropriate in this case. </p><p class="SupQuestion"><strong>Ron Mark</strong>: Can the Minister explain to the House why neither her Government nor the previous Labour Government has ever introduced mandatory jail sentences, called for by New Zealand First, for anyone convicted of assaulting emergency responders like police?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: The Hon Dr Jonathan Coleman, in response to the Government's position, not—</p><p class="SupAnswer"><strong>Hon Dr JONATHAN COLEMAN</strong>: Well, if it is a Ron Mark idea, it is a pretty suspect one. </p><p class="SupQuestion"><strong>Stuart Nash</strong>: What makes them two different cases when, in fact, they involve the same police officer and the same charge, but only 5 years apart?</p><p class="SupAnswer"><strong>Hon Dr JONATHAN COLEMAN</strong>: No, the circumstances were totally different. In the earlier case, the Minister of Police was condemning behaviour. But as that member knows, it would be inappropriate for the Minister of Police to interfere in the judicial process—totally. </p><p class="SupQuestion"><strong>Stuart Nash</strong>: Does she agree with the comments made by Police Association President Greg O'Connor that police are unhappy with the light sentence handed out to Kane's attacker? </p><p class="SupAnswer"><strong>Hon Dr JONATHAN COLEMAN</strong>: If his comments are that the police are unhappy, you would have to take that at face value, would you not?</p><p class="SupQuestion"><strong>Stuart Nash</strong>: When will she and the PM deliver on her admission that they got it wrong in the 2016-20 strategic plan when they said that no more police were needed, and deliver on their now promise for more police in our communities?</p><p class="SupAnswer"><strong>Hon Dr JONATHAN COLEMAN</strong>: The premise of that question is fundamentally flawed.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Primary Industries, Ministry—</strong><strong>Import Health Standards for Mushroom Compost</strong></h4><p class="SubsQuestion"><strong>10. </strong><strong>RICHARD PROSSER (NZ First)</strong> to the <strong>Minister for Primary Industries</strong>: Why is the Ministry for Primary Industries developing an import health standard for mushroom compost which contains animal manure?</p><p class="SubsAnswer"><a name="time_20160915 14:47:27" ></a><strong>Hon NATHAN GUY (Minister for Primary Industries)</strong>: The reason why the Ministry for Primary Industries (MPI) is developing an import health standard is so that mushroom compost, which contains animal manure, can be imported in a regulated and safe way. </p><p class="SupQuestion"><strong>Richard Prosser</strong>: To the Minister—[<em>Interruption</em>]</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! [<em>Interruption</em>] Order! Sorry to interrupt the member; I just want a little less interjection so I can clearly hear the supplementary question.</p><p class="SupQuestion"><strong>Richard Prosser</strong>: Can he categorically rule out any risk of importing the foot-and-mouth virus, equine influenza, or the virus that causes porcine reproductive and respiratory syndrome in mushroom compost that will contain bovine excrement as well as, probably, the faeces of horses, pigs, and other farm animals?</p><p class="SupAnswer"><strong>Hon NATHAN GUY</strong>: What we have from the member is another crappy question. MPI—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I will have just the answer, please.</p><p class="ContinueSpeech"><strong>Hon NATHAN GUY</strong>: MPI will be assessing all of the risks to do with the import health standards, which will then go out for public consultation. It will be based on scientific evidence, and the public will be able to have their say before the import health standard is implemented, if they can indeed satisfy and manage the risks.</p><p class="SupQuestion"><strong>Richard Prosser</strong>: Why is he trusting European certification given that in 2013 certificates labelled horse meat as beef, and, this year, MPI was assured that fodder seed shipments from Europe did not contain pest plant seeds when they were full of velvetleaf?</p><p class="SupAnswer"><strong>Hon NATHAN GUY</strong>: On this side of the House it is all about fair trade. MPI, of course, has been over and investigated the Netherlands plant through the whole process. They are now working on the technical aspects of the import health standard. As I said before to the member, that will then go out for public consultation. I am sure that if the member looks in his Rangiora supermarket on the weekend, he will find that there is New Zealand meat and there is imported meat as well.</p><p class="SupQuestion"><strong>Richard Prosser</strong>: If the Government is prepared to put New Zealand's biosecurity at risk and expose local producers to unfair competition on the basis of nothing more than trade ideology, will it take responsibility for the economic and other catastrophic consequences when it all goes wrong?</p><p class="SupAnswer"><strong>Hon NATHAN GUY</strong>: We have many import health standards. As the member is aware, and as I have told the select committee, we are reviewing the import health standards on the seed pathway. These are very technical—we balance up the risks. This is all about fair trade and making sure that we have very strong biosecurity processes. And if the member is interested, he might want to read this week's <em>Farmers Weekly</em> article where it talks about how "Nathan proves to be a good Guy" when it talks about the focus I have on the biosecurity system. If the member has not seen a copy, I am happy to table it for him.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>2015 Small Business Development Group Report—</strong><strong>Implementation of Recommendations</strong></h4><p class="SubsQuestion"><strong>11. </strong><strong>NUK KORAKO (National)</strong> to the <strong>Minister for Small Business</strong>: How is the Government addressing the recommendation from the 2015 Small Business Development Group report to continue to make it easier for small businesses to access information and advice?</p><p class="SubsAnswer"><a name="time_20160915 14:50:56" ></a><strong>Hon CRAIG FOSS (Minister for Small Business)</strong>: In its response to the 2015 Small Business Development Group's working report, the Government outlines how it is making it easier for small business to access information and advice. The Government is providing support and advice through a number of channels, such as business.govt.nz, which provides many online tools to assist business; support through the regional business partners network, such as mentoring for small business owners; and through the Better for Business initiative the Government is working to make it simpler for business customers to work across more than one Government agency. Small businesses have also had the opportunity to access information and advice directly from Government agencies at the Taking Care of Business events that I have been hosting around the country.</p><p class="SupQuestion"><strong>Nuk Korako</strong>: What opportunities have small businesses had to engage directly with Government agencies at the Taking Care of Business events?</p><p class="SupAnswer"><strong>Hon CRAIG FOSS</strong>: I have now hosted more than a dozen of those Taking Care of Business events, which bring together a number of Government agencies and local agencies. Small businesses have the opportunity to engage directly with agencies to learn more about what support is already available to them to make it easier to do business and access information and advice. Over 1,200 small businesses have already benefited from this opportunity. In fact, the road shows have been so successful, earlier this afternoon I announced five more events—</p><p class="Interjection"><strong>Grant Robertson</strong>: Wow! </p><p class="ContinueSpeech"><strong>Hon CRAIG FOSS</strong>: —to be held in Porirua, Masterton, Rotorua, Blenheim, Christchurch, and one last location that will be of interest to that member.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Kermadec Ocean Sanctuary—</strong><strong>Consultation with Māori</strong></h4><p class="SubsQuestion"><strong>12. </strong><strong>RINO TIRIKATENE (Labour—Te Tai Tonga)</strong> to the <strong>Minister for the Environment</strong>: Does he accept that consultation with Māori was inadequate prior to the announcement of the Kermadec Sanctuary; if so, will he now apologise for that mistake?</p><p class="SubsAnswer"><a name="time_20160915 14:53:07" ></a><strong>Hon Dr NICK SMITH (Minister for the Environment)</strong>: No. I do note that the member's party committed to establishing the sanctuary in 2014, prior to any consultation with iwi or Te Ohu Kaimoana (TOKM).</p><p class="SupQuestion"><strong>Rino Tirikatene</strong>: What compromise is he offering, if any, that would allow the Kermadec Ocean Sanctuary to go ahead without running roughshod over Māori fishing rights?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: If you are going to have an ocean sanctuary, it needs to be an area in which there is no mining or fishing for it to have integrity. The challenge we have with the Kermadec Ocean Sanctuary and other marine protected areas around New Zealand is not just in terms of quota rights of Māori but quota rights of others. I do not think it is a sustainable position to say that non-Māori fishers who have fished in that area for the last 20 years cannot but Māori who have not been fishing can.</p><p class="Interjection"><strong>Rino Tirikatene</strong>: I raise a point of order, Mr Speaker. I asked the Minister what compromise is he offering.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: On this occasion—</p><p class="Interjection"><strong>Hon Annette King</strong>: He said none.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I do not agree. The question has been addressed, but, I accept, not to your satisfaction. If the member wants to continue with supplementary questions, he is welcome to do so, but if he would rather move on, I am happy to do that as well.</p><p class="SupQuestion"><strong>Rino Tirikatene</strong>: Why has he put the future of the Kermadec Ocean Sanctuary at risk by disrespecting Māori, taking away Treaty settlement rights, giving no recognition of loss, and refusing a reasonable compromise?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: In my discussions with TOKM, the only Kermadec Ocean Sanctuary legislation that it was prepared to accept was one in which the fishing bans specifically exempted TOKM and enabled it, at its choice, to be able to fish at any time in the future. In my view, that would not be a Kermadec Ocean Sanctuary that had integrity, and that is why we were not able to reach agreement. We have said we are going to have ongoing discussions with the Māori Party. In my view, it would be the right thing for New Zealand and this Parliament to still establish that sanctuary.</p><p class="SupQuestion"><strong>Rino Tirikatene</strong>: Why does he think Māori property rights are dispensable, as he ignored Ngāti Whātua over Crown land last year and is now trying to extinguish Māori fishing rights this year—is it disrespect, or just flat out incompetence? What is his problem with Māori?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: I would quote from the policy that that member campaigned on in the last election. In that, it sets out where Labour would create a world ocean sanctuary—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! [<em>Interruption</em>] Order! I have not been able to hear the answer because of the yelling coming from my left-hand side. It is to cease, and the Minister can now give his answer.</p><p class="ContinueSpeech"><strong>Hon Dr NICK SMITH</strong>: The policy that that very member campaigned on at the last election was to provide—</p><p class="Interjection"><strong>Iain Lees-Galloway</strong>: I raise a point of order, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! I will listen to the point of order, but if it is one to suggest that there is no ministerial responsibility, the member will be wasting his time. I invite the member, before he raises it, if that is the point—when you ask a question like that and you effectively accuse a Minister of incompetence, which was the word used in the question, it gives a very wide licence for the answer. I will hear from Iain Lees-Galloway.</p><p class="Interjection"><strong>Iain Lees-Galloway</strong>: So what is the ministerial responsibility for Opposition policy?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! I have explained that, if the member had only bothered to listen before he raised his point of order.</p><p class="ContinueSpeech"><strong>Hon Dr NICK SMITH</strong>: I seek leave of the House to table Labour's 2014 policy—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No. [<em>Interruption</em>] Order! [<em>Interruption</em>] Order! If Mr Smith wants to stay for the balance of question time—and I acknowledge that that is not long—when I rise to my feet I expect the Minister to sit down. There has been one other occasion when it happened on a second day, and that particular person was ejected from the House. The same rules will apply to Dr Nick Smith. Does the Minister want to give his answer?</p><p class="ContinueSpeech"><strong>Hon Dr NICK SMITH</strong>: No, I was seeking leave, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No, I said I am not prepared to put the leave. That information is publicly available to any member who wants it.</p><p class="SupQuestion"><strong>Rino Tirikatene</strong>: After running yet another Government policy aground, will he excuse himself from further negotiations with Te Ohu Kai Moana so that the Kermadec Ocean Sanctuary can go ahead or will he go down with the ship?</p><p class="SupAnswer"><strong>Hon Dr NICK SMITH</strong>: I have been involved in creating 18 different marine protected areas around New Zealand—for instance, in Akaroa. In every one of the ones I have been involved in, there have been some bumps and there has been some controversy. I think the reality is that people are reluctant to give up their rights to mine, to recreationally fish, or to commercially fish, and I am equally confident that in this case, with time, we will find a solution.</p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

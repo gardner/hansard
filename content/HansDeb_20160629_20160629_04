@@ -1,0 +1,806 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Oral Questions — Questions to Ministers - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_04" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_04/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Oral Questions — Questions to Ministers</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20160629_20160629_04/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_04" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_04/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_04/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_04/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_04/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_04/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BeginningOfDay"><strong>WEDNESDAY, 29 JUNE 2016</strong></p><p class="a"><a name="time_14:00:00" ></a><strong>Mr Speaker</strong> took the Chair at 2 p.m.</p><p class="a"><strong>Prayers</strong>.</p><p class="QOA"><strong>ORAL QUESTIONS</strong></p><p class="QType"><strong>QUESTIONS TO MINISTERS</strong></p><h4 class="QSubjectHeading"><strong>Finance, Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>1. </strong><strong>JONO NAYLOR (National)</strong> to the <strong>Minister of Finance</strong>: Does he stand by his statement that "a priority for this Government is to build a more productive and competitive economy that supports jobs and higher incomes"?</p><p class="SubsAnswer"><a name="time_20160629 14:03:03" ></a><strong>Hon BILL ENGLISH (Minister of Finance)</strong>: Yes, in the context in which it was made. The Government does not create jobs; businesses do. Under this Government we have seen jobs, growth, and higher wages for New Zealand families. There were 200,000 more jobs in the last 3 years, and average annual wages are up $11,000 since 2008, to almost $58,000. That is a 24 percent increase in the average wage at a time when inflation went up 11 percent.</p><p class="SupQuestion"><strong>Jono Naylor</strong>: What recent reports has he seen on unemployment in New Zealand?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: Statistics New Zealand today revised its household labour force data as a result of more accurate data-collection techniques. This provisionally reduced the current unemployment rate from 5.7 percent to 5.2 percent, although this will need to be confirmed at the next survey release. Unemployment of 5.2 percent would give New Zealand the 11th lowest rate in the OECD, compared with 5.7 percent in Australia. I would stress that this is a result of changes in measurement technique only.</p><p class="SupQuestion"><strong>Jono Naylor</strong>: What is the outlook for jobs and wages?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: As I have mentioned, in the last 3 years there have been 200,000 new jobs added to the economy. Treasury is projecting a further 170,000 jobs by 2020. If the average wage follows the projections, it will rise from $58,000 to over $63,000 per year by 2020.</p><p class="SupQuestion"><strong>Jono Naylor</strong>: What specific steps is the Government taking to reinforce business confidence to invest another dollar and employ another person?</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: There are any number, but I will mention just a few that are in the process of being implemented. We are reducing ACC levies to where they are now $2 billion lower per year than in 2012—that is $2 billion left in the hands of ACC levy payers—and we are spending, along with local government, $110 billion on infrastructure in the next 10 years, with particular success in the roll-out of ultra-fast broadband and the completion of the Rural Broadband Initiative project.</p><p class="SupQuestion"><strong>Grant Robertson</strong>: Does he agree with the statement of Pope Francis I that "Inequality is the root of social evil.", given that inequality has risen in New Zealand on his watch, and is it not time he got back to confession?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Either of those two supplementary questions—the Hon Bill English.</p><p class="SupAnswer"><strong>Hon BILL ENGLISH</strong>: I am bound to, because the Pope, of course, is infallible, unlike the member, who is wrong. There is no evidence that inequality in New Zealand is increasing. [<em>Interruption</em>]</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! I do need a little more cooperation, particularly from members to my left.</p><p class="SupQuestion"><strong>Rt Hon John Key</strong>: Is it true that at confession you say sorry, and if that is the case, should Andrew Little not just say sorry?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No. [<em>Interruption</em>] Order! [<em>Interruption</em>] Order! No, that question—</p><p class="Interjection"><strong>Andrew Little</strong>: I raise a point of order, Mr Speaker. [<em>Interruption</em>]</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! All members need to settle down. [<em>Interruption</em>] Order! I am on my feet. That question is ruled out of order. I am now going to deal—[<em>Interruption</em>] Order! I am now going to deal with a point of order from Andrew Little, if he still has one, and it will be heard in silence.</p><p class="Interjection"><strong>Andrew Little</strong>: Thank you, Mr Speaker. There is a growing track record on the part of the Prime Minister of raising questions, and sometimes points of order, that are clearly designed to lead to chaos and disorder in the House. It is a bit rich for that member, who has a track record of making things up and never acknowledging—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! The member—[<em>Interruption</em>] Order! The member was on solid ground with the first part of his point of order. It was not a point of order from the Prime Minister; it was a supplementary question. I cannot anticipate what that supplementary question is going to be until it is stated, and as soon as it was stated I then ruled it out of order. [<em>Interruption</em>] Order! Question—[<em>Interruption</em>] Order! My patience will run out very quickly today, and some members may be asked to leave the Chamber.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Prime Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>2. </strong><strong>METIRIA TUREI (Co-Leader—Green)</strong> to the <strong>Prime Minister</strong>: Ka tū a ia i runga i te mana o tana korero, "I will lead a Government that will govern for all New Zealanders"?</p><p class="a">[<em>Does he stand by his statement, "I will lead a Government that will govern for all New Zealanders</em><em>"?</em>]</p><p class="SubsAnswer"><a name="time_20160629 14:09:03" ></a><strong>Rt Hon JOHN KEY (Prime Minister)</strong>: Yes, and we are doing that.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Does the Prime Minister think he has been successful in governing for all New Zealanders, when the top 10 percent of households now control more than 50 percent of the country's wealth, and while 40 percent—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! Bring the question to a conclusion.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: —of families share just 3 percent between them?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: In answer to the first part of the question, yes, that statistic has not changed—that around 50 percent of net worth is held by about 10 percent of households is the same as was reported in 2003-04. But also, as the report itself says—the member needs to look at a number of different reports, including income inequality, which has been quite static over the last decade.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Does the Prime Minister regret giving tax cuts to the wealthiest, cutting KiwiSaver for everybody else, and not building homes after the global financial crisis, given the effect has been a broken economy where 40 percent of families—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! Bring it to a conclusion.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: —now have to share 3 percent of the country's wealth between them?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: I utterly reject the proposition in the member's question. But also, if one looks at the tax switch, interestingly enough, of course, it raised GST, which is paid, in large part, by those who consume the most, and that is obviously high-income earners. It took away the impacts that were enjoyed by some of those who own properties, which, by definition, tend to be rental properties owned by higher-income New Zealanders and generated, I think, nearly a billion dollars annually for the Crown. And, of course, it was distributionally neutral across all different income cohorts.</p><p class="Interjection"><strong>Rt Hon Winston Peters</strong>: I raise a point of order, Mr Speaker. My concern that I am raising with you is the length of the Prime Minister's answers. Twice you have asked the questioner to truncate her question, and then let him ramble on with a tissue of lies and think it is adequate.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! If the member continues to raise points of order like that, I will be asking him to leave the Chamber. [<em>Interruption</em>] Order! I am on my feet, Mr Brownlee, in case you had not observed. The problem is with these long supplementary questions, which are becoming, in themselves, statements. Upon receiving a very long and lengthy supplementary question, it obviously then gives whichever Minister is answering it the opportunity to give a longer answer. But as I have told Mr Peters on many occasions, I will be the sole determiner of when I think an answer has gone on for too long.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Does the Prime Minister understand that to most New Zealand families the fact that some people who own a lot of homes are doing well out of the housing crisis, while everyone else is finding it harder to get a decent home to live in, is just not fair?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: Firstly, as I say, those numbers have not changed dramatically. Secondly, what I would say is that is why the Government is trying to support New Zealanders to move into their own homes, through things like KiwiSaver HomeStart.</p><p class="SupQuestion"><strong>David Seymour</strong>: Has the Prime Minister seen any other recent reports that 3 percent of income tax payers pay a quarter of all income tax?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: I have seen that report. I have also seen one that says that 11 percent of taxpayers pay 50 percent of all tax in New Zealand.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Does the Prime Minister understand that it is not just about data and graphs but about the kids who are growing up without a warm, dry, safe home to live in, parents who have to choose between paying the rent and putting food on the table, and elderly people who are shivering through this winter because they cannot afford to turn the heater on?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: The member, then, would be well versed to understand the changes to New Zealand superannuation. Under a National-led Government it has gone up, I think it is, $124 a fortnight for a married couple. The member would also then be well versed to explain to New Zealanders why she congratulates this Government on insulating 300,000 homes and why the Government is spending $10.4 billion annually supporting the most vulnerable New Zealanders.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Does the Prime Minister understand that this increasing gap between the haves and have-nots is also about people's inability to build up wealth over time, to save for a rainy day, for young people to be able to save to buy a house, and for middle-aged people to save for their retirement—all of which have gotten harder under his Government?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: I think the member is wrong in the assertions she makes, but that is one of the reasons why the Government has been so focused on growing the economy. It is why we are proud of the fact that the economy generated 200,000 extra jobs over the last 3 years, and why we are confident that the economy will generate about another 170,000 jobs by 2020.</p><p class="SupQuestion"><strong>Metiria Turei</strong>: Will the Prime Minister take responsibility for the fact that 40 percent of New Zealand families are struggling with a tiny percentage of the country's resources, and that that gap is what is driving families to have to live in garages and cars, and their kids to be getting sick, in hospital, and at risk of dying? Take responsibility.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: That is two supplementary questions. The Prime Minister can address one.</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: I certainly do take responsibility for the fact that we spend $10.4 billion supporting the most vulnerable New Zealanders. I take responsibility for the fact that we were the first Government in 43 years to raise benefits. I take responsibility for the fact that we have provided free doctors visits for under-13s. I take responsibility for the fact that we have run a breakfast in schools programme and that we have maintained Working for Families.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Prime Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>3. </strong><strong>ANDREW LITTLE (Leader of the Opposition)</strong> to the <strong>Prime Minister</strong>: Does he stand by his statement in relation to new statistics showing increased wealth inequality under his Government that "it's not surprising it's getting a little bit more that way"?</p><p class="SubsAnswer"><a name="time_20160629 14:16:00" ></a><strong>Rt Hon JOHN KEY (Prime Minister)</strong>: I stand by my full statement, which focused on the impact of house prices, and that was: "I think it is largely consistent with what we have seen over the last 20 or 30 years. It is not surprising it is getting a little bit more that way because, in reality, better-off New Zealanders will own assets, particularly houses, and those house prices have been rising. So that's what will be driving that." But, as I said earlier on, the numbers have been pretty consistent with the last 10 years. [<em>Interruption</em>]</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! [<em>Interruption</em>] Order! The member may get a chance for supplementary questions later.</p><p class="SupQuestion"><strong>Andrew Little</strong>: Given the median individual's net wealth has fallen by $16,000—that is 14 percent—since just after he took office, does this mean that middle New Zealand is going backwards under his watch?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: No, and I would refer the member to Bryan Perry's income inequality work and statistics, and to the fact that if you look at the latest estimate that around 50 percent of the total net worth is held by 10 percent of households, that was the same as was reported when Labour was in Government in 2003 and 2004.</p><p class="SupQuestion"><strong>Andrew Little</strong>: Is the fading Kiwi Dream of homeownership, with just a quarter of adults under 40 now owning their own home, contributing to increased wealth inequality under his Government?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: We would need to check the facts from the member, because the member cannot even remember whether or not he was asked to say sorry.</p><p class="SupQuestion"><strong>Andrew Little</strong>: Have the five separate cuts that he has made to people's KiwiSaver entitlements had a negative impact on middle New Zealand's ability to save and grow their net wealth?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: Well, what is certainly true is that the Government made adjustments to Working for Families. We accept that. That was all part of ensuring that the Government's books got back in order. We are one of the few OECD countries that are in that position, and that certainly gives New Zealanders a much stronger platform for employment and growth.</p><p class="SupQuestion"><strong>Andrew Little</strong>: Will Treasury's forecast of wages being outstripped by inflation in the coming 2 years mean that middle New Zealand gets wealthier, or poorer?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: Under the National-led Government, middle New Zealand is getting wealthier. We have seen average wages rise by $11,000. Real wages have been rising faster than inflation under this Government, something that did not happen under the previous Government. Treasury's estimates are that real wages will rise by another $5,000 over the next few years.</p><p class="SupQuestion"><strong>Tim Macindoe</strong>: What are some of the measures the current Government has taken over its term of office to support vulnerable families?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: This year alone taxpayers will provide $10.4 billion of welfare support to vulnerable New Zealanders, and that excludes New Zealand superannuation. The Government has a strong track record—including being the first Government in 43 years to increase benefits for families and children, by $25 a week. We have increased Working for Families for very low-income working families by over $24 a week, and for other families by up to $12.50. We have increased childcare assistance for low-income working families. We have provided free GP visits and prescriptions for under-13s. We provide breakfast in schools—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Bring the answer to a conclusion.</p><p class="ContinueSpeech"><strong>Rt Hon JOHN KEY</strong>: —to all schools that want it. We have insulated over 300,000 homes across the country, and we have increased the minimum wage.</p><p class="Interjection"><strong>Tim Macindoe</strong>: I raise a point of order, Mr Speaker. I am the person who asked that supplementary question and I am sitting directly behind the Prime Minister, but, because of the constant barrage of interjection from the other side, I could not hear most of the answer. While we are constantly hearing from the Opposition—[<em>Interruption</em>]</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! I did hear the answer. I was listening very carefully. I can understand why Mr Macindoe had difficultly hearing it. There is simply too much interjection, particularly from the senior front bench. It was constant throughout that answer, making it difficult for people to hear the answer. I do not mind some interjection, but when it becomes so loud that other members who have asked a question do not get a chance to listen to the answer, then it is an unreasonable level of interjection.</p><p class="Interjection"><strong>Chris Hipkins</strong>: I raise a point of order, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Are you speaking to the point of order?</p><p class="Interjection"><strong>Chris Hipkins</strong>: Yes. I think, on a day when members who have been asking longer questions have been asked to shorten their questions, that when a short question is asked and a very long answer is given, a level of disorder is then to be expected in the House.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I think that is a reasonable point, but, of course, when there is a level of interjection, then the Ministers are maybe also responding to the interjection, and I think that is also legitimate. So if the members to my left can keep their interjections down, I will certainly make sure that I keep the answers relevant. I will be the determiner of when they conclude.</p><p class="Interjection"><strong>Grant Robertson</strong>: I raise a point of order, Mr Speaker. I wonder whether you would care to consider the way that you intervened in what was a very long answer versus the way that you intervened in what was a relatively long question. You sat in your seat and asked through the microphone for the question to come to an end. You did not even attempt to do that for the Prime Minister.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! That is not right. [<em>Interruption</em>] Order! That is not correct, Mr Robertson. I was the one who stood to my feet and brought the answer to a conclusion.</p><p class="SupQuestion"><strong>Andrew Little</strong>: In light of that last answer, and the Prime Minister listing the highlights of the last Labour Government—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! Just keep the question short.</p><p class="SupQuestion"><strong>Andrew Little</strong>: —does he remember telling this House "We would prefer that we were a more equal society"; if so, does not his own Government's data, showing increasing inequality, prove that he has failed?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Again, there were two supplementary questions.</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: Yes, and we reject the last part of the question.</p><p class="SupQuestion"><strong>Andrew Little</strong>: When he is shrugging his shoulders at even more inequality and at the same time energetically defending tax dodgers, is he governing for middle New Zealand or just the wealthy few?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: We govern for all New Zealanders, and that is why we enjoy widespread support.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Adult Literacy—</strong><strong>Reports</strong></h4><p class="SubsQuestion"><strong>4. </strong><strong>JACQUI DEAN (National—Waitaki)</strong> to the <strong>Minister for Tertiary Education, Skills and Employment</strong>: What recent reports has he received on improvements in adult literacy?</p><p class="SubsAnswer"><a name="time_20160629 14:23:11" ></a><strong>Hon STEVEN JOYCE (Minister for Tertiary Education, Skills and Employment)</strong>: Overnight last night the OECD released its survey of adult skills, which showed New Zealand's ranking in adult literacy has improved significantly to fourth out of 33 participating countries in the OECD, up from 12th in 1996. New Zealand is also amongst the world leaders in problem solving using technology, a skill that has been tested for the first time in the survey. We rank fifth of developed countries in this important skill and have the highest proportion of adults with moderate to high problem-solving skills using computers. These skills are increasingly called for in today's working environments. Adult numeracy skills have remained steady since 2006, and in that category New Zealand is ranked 13th in the OECD, ahead of Australia, Canada, Singapore, and the overall OECD average.</p><p class="SupQuestion"><strong>Jacqui Dean</strong>: Why are literacy and numeracy skills crucial for adults?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: The Government invests heavily in this area because literacy and numeracy skills are crucial for people to participate in everyday modern life and gain the skills they need to find sustainable employment, and improving those skills is one of the important priorities of the Government's tertiary education strategy. These results are great news for our society and our economy. Our workforce needs world-class skills and knowledge that boost the productivity of the New Zealand economy. The progress we have made is a real tribute to the adult educators and all those involved in working hard to improve literacy in New Zealand.</p><p class="SupQuestion"><strong>Jacqui Dean</strong>: What is the Government doing to further lift adult numeracy and literacy skills?</p><p class="SupAnswer"><strong>Hon STEVEN JOYCE</strong>: The survey results follow years of intensive focus by this Government on improving adult literacy and numeracy, with the number of adults accessing help with their literacy and numeracy quadrupling between 2010 and 2013 to 175,000 people. We are also seeing earlier identification of problems though the adult literacy and numeracy assessment tool introduced by this Government. Improving skills is supported with significant investment of over $300 million in 2015 alone, and was further boosted in this last Budget with $14.6 million invested over 4 years so that foundation education at levels 1 and 2 on the New Zealand Qualifications Framework is now completely fee-free from 2017.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Prime Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>5. </strong><strong>Rt Hon WINSTON PETERS (Leader—NZ First)</strong> to the <strong>Prime Minister</strong>: Does he stand by all the statements he made at the Chinese Business Summit on 9 November 2015?</p><p class="SubsAnswer"><a name="time_20160629 14:26:27" ></a><strong>Rt Hon JOHN KEY (Prime Minister)</strong>: Yes. Xiexie.</p><p class="SupQuestion"><strong>Rt Hon Winston Peters</strong>: How does he reconcile his Overseas Investment Office statement that "the length of time it is taking to make a decision is far too long." with a statement he made a month earlier that "we do not want to see excessive rural land sold to overseas buyers."?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: Because both are correct. It is not about what is being purchased; it is about the amount of time investors are having to wait. I think if they had a speedier process, it would not affect the amount of land that is either approved or not approved, but it would be a more predictable process for people. </p><p class="SupQuestion"><strong>Rt Hon Winston Peters</strong>: If his Government's proposal for "less screening, less consent processing", and a quicker turn-round is a direct result of consultation with foreign applicants, how is that working for all New Zealanders?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: Firstly, if New Zealand wants to have higher levels of economic growth and job opportunities than we currently have—and, in fact, that we have had over the last decade or so—then we will need foreign investment to supplement that. Secondly, the changes that the Government is proposing have been quite clear when it comes to the Overseas Investment Office, and that has been an increase in resourcing to allow it to make its decisions in a faster manner, but also to make sure that those who make commitments to the Overseas Investment Office honour those commitments.</p><p class="SupQuestion"><strong>Rt Hon Winston Peters</strong>: If he does not want New Zealanders to become "tenants in their own country", then why is he altering the laws of this country to serve the needs of wealthy foreign buyers?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: I am not.</p><p class="SupQuestion"><strong>Rt Hon Winston Peters</strong>: Does the 25 June report of an interview with him suggesting "Local government's infrastructure-building monopoly could be removed and Chinese contractors could potentially take the lead." really mean that he is utterly selling the country down the drain?</p><p class="SupAnswer"><strong>Rt Hon JOHN KEY</strong>: I know the member is trying to outdo Nigel Farage at the moment, but even his best attempts are going to have to improve, from what I saw on TV this morning. Simply having investment in horizontal infrastructure by others, rather than just local government, may well actually speed up developments and, therefore, the opportunity for New Zealanders to get houses. [<em>Interruption</em>] </p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! [<em>Interruption</em>] Order! Mr Ron Mark!</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Independent Schools—</strong><strong>Funding</strong></h4><p class="SubsQuestion"><strong>6. </strong><strong>CHRIS HIPKINS (Labour—Rimutaka)</strong> to the <strong>Minister of Education</strong>: How much do independent schools currently receive per student on average under the current funding model and how much would they receive per student if they received the cost to the Crown of fully funding a student in the State mainstream system?</p><p class="SubsAnswer"><a name="time_20160629 14:29:44" ></a><strong>Hon HEKIA PARATA (Minister of Education)</strong>: I would like to give a somewhat longer answer than would be usual to be accurate for the House, if you would give me some latitude.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! The normal course of events is the Minister's office would advise me before question time. I will acknowledge it will be a slightly longer answer, but I expect two clear dollar figures to be given. </p><p class="ContinueSpeech"><strong>Hon HEKIA PARATA</strong>: Current funding arrangements across the education system are complex, and do not easily translate into what differences in learning outcomes occurred for individual students, whatever option of schooling has been chosen. That is why we are having a comprehensive funding review; we are in the middle of that consultation process. In responding to questions yesterday, explaining the rationale for different proposals under consultation, I may have led others to believe that I was proposing that independent schools receive the same level of support as a student in the mainstream system. That was not my intention. As I stated in my answers, the proposal that independent school funding be linked to per-student funding—which itself is a proposal—is simply a further proposal. The focus is the mechanism, not the amount. Independent schools currently receive a capped amount of funding per year. An average can vary from year to year depending on how many children there are, and at which year levels. Equally, in the mainstream system, depending on what schooling option, how many children there are at each level, in which communities, and with what kind of property provision will drive an average at any given time. Averages for different purposes at different points in time could end up being very misleading. Independent schools receive $41.5 million per year, as well as the Aspire Scholarship fund, which is $4.1 million per year—</p><p class="Interjection"><strong>Rt Hon Winston Peters</strong>: I raise a point of order, Mr Speaker. [<em>Interruption</em>] </p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! [<em>Interruption</em>] Order! I have a point of order from the Rt Hon Winston Peters.</p><p class="Interjection"><strong>Rt Hon Winston Peters</strong>: If it is the Minister's intention to correct misinformation to the House yesterday, this is not the time to do it. She should have done it the moment the House sat this morning.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: The member is making a very valid point. It seems to me that the longer answer certainly started earlier with an explanation, trying to give some context and meaning to an answer given in the House yesterday. I am still waiting for the answers to some dollar questions. If you cannot give them, then advise the House and I will deal with that matter afterwards. Bring the answer to a quick conclusion—it has been going on for long enough.</p><p class="ContinueSpeech"><strong>Hon HEKIA PARATA</strong>: I was explaining in the introduction why there is not a reliable average, so I am giving the totals. Independent schools receive $41.5 million as well as $4.1 million per year for Aspire Scholarships. Total enrolments in 2015 were just under 26,900. Last year in primary and secondary schooling we spent over $5.1 billion on more than 728,000 kids. It would be misleading the House to state that there is a useful or reliable average, for all of the above reasons.</p><p class="Interjection"><strong>Chris Hipkins</strong>: I raise a point of order, Mr Speaker. That was indeed a very long answer and I listened very carefully to it. The question was quite specific. It was asking for averages based on current student numbers. The Minister has not actually answered the question. [<em>Interruption</em>] </p><p class="Interjection"><strong>Mr SPEAKER</strong>: No. I agree entirely with Mr Hipkins. There are some figures given, and if you have access to a calculator in the House you will be able to work it out for yourself. It is an answer that, I think, could have been given. I am not going to ask the question to be repeated, because we may find the answer will be repeated and we could be here for a very long time. The way forward is to grant the member two additional supplementary questions.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Thank you very much, Mr Speaker. Why did she tell the House yesterday that her proposal was to give private schools funding "equivalent to how much the Crown would incur if those students were being fully funded in the State mainstream system."?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: And, as <em>Hansard</em> will reveal in my further answers, I said: "I am not proposing—and I want to confirm to the House that these are proposals and available for discussion—that the education system fund all of the costs. I am simply saying that the equitable approach would be to fund more closely to what it would cost the system if those students were fully educated in the publicly funded system."</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: How much more closely to what students are funded in the public school system is she proposing to fund private schools?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: That would be a matter that would be a consequence on deciding whether or not a per-student funding approach in the three components that are currently in the proposal actually are finalised.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Would funding private schools equivalent to the level that State schools are funded on a per-student basis result in private kids' school funding increasing from around $1,400 per student per year to nearly $7,000 per student per year—a total of around $150 million extra on a yearly basis?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: No, because we have different entitlements, for instance, for funding for kids in Māori-medium. We have different funding levels for kids in alternative education provision. We have different—</p><p class="Interjection"><strong>Hon Ruth Dyson</strong>: Average.</p><p class="Interjection"><strong>Hon Trevor Mallard</strong>: And averages don't work.</p><p class="ContinueSpeech"><strong>Hon HEKIA PARATA</strong>: No, averages do not work. Thank you—that is exactly what I have been explaining to the House. So what I am saying is that we are doing a funding review precisely because it is so complex, precisely because we cannot have a line of sight to how much we are putting in and to the actual educational outcomes, and because they vary from year to year. So that is why we are in the middle of a review, and I welcome your submissions.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: Why should private schools, which charge parents thousands of dollars per term and some of which currently make significant yearly profits, receive additional taxpayer funding when State schools are barely able to make ends meet?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: Well, the member is making assertions for which there is no actual evidence at the moment. So we know that we are putting a lot of taxpayer funding into Vote Education, but we are not getting the equivalent lift in achievement for all children and young people, and that is why we are going through a funding review now. We are interested in every New Zealand kid being educationally successful.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: If providing additional resources and linking resourcing to students who are not achieving is the Government's objective, how does increasing funding to students who attend private schools—who already do better, on average, than students attending State schools—contribute to that objective?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: Because that is not the objective. The objective is that we consider a per-student funding approach that begins from how much does it cost to deliver a year of the curriculum, how much more does it cost for those kids who are not being successful, and how much more in addition for those kids who are at isolated rural schools. The proposal is set out clearly. We do not do per-student funding in the way that the member is reaching for: it differs according to the schooling option. We are getting different outcomes and we are interested in—actually, we are committed to—how do we get the best outcomes for every kid in our education system.</p><p class="SupQuestion"><strong>David Seymour</strong>: Is sending one's children to an independent school a legitimate choice for a parent to make?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: It absolutely is a legitimate choice for parents to make, as it is to send them to partnership schools or to Māori-medium schools, to single-sex schools, and to coed schools.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: How does pumping millions of dollars more taxpayer funding into private schools increase choice for the vast majority of parents who cannot afford to pay thousands of dollars a term in tuition fees to send their kids to those schools?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: The member seems to be labouring under the misapprehension that only certain parents send their children to independent schools. It is absolutely untrue. There are a range of parents who prioritise that as their choice and they make sacrifices to do that—these are New Zealand students—in the same way that parents choose to send their kids to total immersion Te Reo Māori schools.</p><p class="SupQuestion"><strong>Chris Hipkins</strong>: If the Government's stated goal is to direct extra resources to the students who are the most disadvantaged and most at need, how many of the students attending private schools fit into that category?</p><p class="SupAnswer"><strong>Hon HEKIA PARATA</strong>: That is one of our objectives, and that is why I explained that the funding model that is up for consultation is a base unit cost for the curriculum, and then on top of that, for those kids who are disadvantaged. How do we pay more for that? I do not run the rolls of private schools—or indeed of mainstream schools—so I cannot give you those specific answers.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Road Safety—</strong><strong>Funding</strong></h4><p class="SubsQuestion"><strong>7. </strong><strong>MATT DOOCEY (National—Waimakariri)</strong> to the <strong>Minister of Transport</strong>: What recent announcements has he made regarding the Government's commitment to funding improved road safety across New Zealand?</p><p class="SubsAnswer"><a name="time_20160629 14:40:49" ></a><strong>Hon SIMON BRIDGES (Minister of Transport)</strong>: Last week the Associate Minister of Transport and I announced a $600 million nationwide road safety programme to help bring down the country's road toll. The programme of work will see safety improvements made to more than 90 high-risk sites on rural State highways, including nearly all high-risk roads where there have been five or more fatalities in the last 5 years. It is forecast that the Government's investment will result in 900 fewer deaths and serious injuries on our roads over the next 10 years. This investment is a significant step up in road safety investment by the Government and reinforces our commitment to reducing death and serious injury crashes on New Zealand's roads.</p><p class="SupQuestion"><strong>Matt Doocey</strong>: What road safety improvements are planned for State Highway 1 north of Christchurch?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: The Waimakariri is one of the fastest-growing areas in the country, and we know that many of those living there are commuting in and out of the area on a daily basis. However, the stretch of State Highway 1 between Ashley and Belfast, to the north of Christchurch, has been identified as one of the country's 90 high-risk sites. That is why, as part of the Government's safer roads and roadsides programme announced last week, we are going to make this stretch of road safer through a range of improvements. Planning for the project will start later this year, and construction is likely to begin next year.</p><p class="SupQuestion"><strong>Ian McKelvie</strong>: What road safety improvements are planned for the rural State highways of the lower North Island?</p><p class="SupAnswer"><strong>Hon SIMON BRIDGES</strong>: There is a significant range of improvements that are going to be made to the State highway network in the lower North Island to make it safer for road users. One such project is the stretch of road between State Highway 1 and State Highway 57 in Shannon. Ten million dollars will be spent on a series of improvements that may include side barriers at high-risk spots along the road, as well as improved road markings and signage. These improvements will make the road more forgiving of human error, helping to reduce the occurrence of crashes in the first place and limiting the severity quite significantly when they do.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Corrections, Minister—</strong><strong>Statements on Electronic Monitoring Bracelet</strong></h4><p class="SubsQuestion"><strong>8. </strong><strong>KELVIN DAVIS (Labour—Te Tai Tokerau)</strong> to the <strong>Minister of Corrections</strong>: Does she stand by her statement in regards to corrections' new electronic monitoring bracelets that they are almost impossible for offenders to remove without taking off their leg, "so they have a choice, leg or no leg"?</p><p class="SubsAnswer"><a name="time_20160629 14:43:44" ></a><strong>Hon JUDITH COLLINS (Minister of Corrections)</strong>: Yes.</p><p class="SupQuestion"><strong>Kelvin Davis</strong>: Given her previous confidence in the new bracelets, saying that they would need a chainsaw to cut them off, how were they cut through on TV with blunt scissors by Billy Weepu?</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: As any competent teacher could tell that member, almost is not the same as definitely.</p><p class="SupQuestion"><strong>Kelvin Davis</strong>: Why will corrections still be using 1,000 of the new bracelets, rather than asking for a refund from the provider, given they have been shown to be a complete failure?</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: Of course they are not what the member has described. In fact Dan Parker, that very wiry reporter from NewsHub, could not cut through, and nor could I, but, instead, NewsHub brought in a brother of an All Black, and he eventually got it through.</p><p class="SupQuestion"><strong>Kelvin Davis</strong>: Given that answer, can the Minister then assure the public that no offender, many of whom have nothing to do in prison but work out, has the strength of the mighty Billy Weepu?</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: The member might not realise that most people who go into prison or who have one of these community sentences do not, in fact, get any sort of electronic monitoring, and he should know that.</p><p class="SupQuestion"><strong>Kelvin Davis</strong>: How much has the Department of Corrections spent, to date, on the thousand new bracelets, and does she think that it is an appropriate amount, considering they failed to stand up to the ordinary kitchen scissors test.</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: I am sure if that member really thought about it he would realise that these bracelets are simply one of the tools that corrections uses to monitor offenders in the community, and, in fact, the cost of these is significantly less than the cost of putting people in prison. [<em>Interruption</em>] </p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order!</p><p class="SupQuestion"><strong>Kelvin Davis</strong>: So is the Minister saying that the choice New Zealand faces is (a) to acquire sturdier bracelets, or (b) for the Warehouse to sell blunt scissors?</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: No, not at all.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Police, Minister—</strong><strong>Statements</strong></h4><p class="SubsQuestion"><strong>9. </strong><strong>DARROCH BALL (NZ First)</strong> to the <strong>Minister of Police</strong>: Does she stand by all her statements?</p><p class="SubsAnswer"><a name="time_20160629 14:47:02" ></a><strong>Hon JUDITH COLLINS (Minister of Police)</strong>: Yes.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: How can the Minister publicly claim that the Government has reduced crime by 16 percent when the complete data set simply does not exist to back this claim up?</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: Because those are the statistics provided by Statistics New Zealand.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: How can the Minister advise Bill English with any accuracy, credibility, or validity that crime is reduced by 16 percent when it is based on piecemeal, cherry-picked data and the Minister herself has admitted: "No single data source is able to provide a complete picture of offending in New Zealand."?</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: I am sorry, but the member needs to go to the website for Statistics New Zealand.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: Is the Minister aware that, of the three sources of data that she quoted to me in answer to a written question as needs for her "fuller picture of crime", the Crime and Safety Survey was conducted in 2014 and is not scheduled again for another 2 more years; her recorded crime victim statistics actually show an increase in victims of crimes for the year ending April; and her recorded crime offender statistics also show an increase in offences for the year ending April?</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: As I think I have made pretty clear to that member, the official site for all statistics of this nature is Statistics New Zealand. In fact, if the member wants to ask me about information that we have, he is going to get those answers, which I have provided to him.</p><p class="SupQuestion"><strong>Darroch Ball</strong>: How can the Minister say that since 2012 crime has dropped by 16 percent when in 2014 the entire system of crime recording changed and offence and apprehension statistics were discontinued, meaning that the total number of criminal offences is now not recorded; resolution rates are now not recorded; victimisation data does not include every type of offence; and if an offender has not been identified at an incident, it is not even recorded as an offence?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: A very long two questions—the Hon Judith Collins.</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: Mr Speaker, I think there are probably about four in there somewhere. But I think that I have made this pretty clear: Statistics New Zealand is the official provider of statistics, and I suggest that that member finds its website. It is quite easy, really.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Offenders—</strong><strong>Employment Support</strong></h4><p class="SubsQuestion"><strong>10. </strong><strong>KANWALJIT SINGH BAKSHI (National)</strong> to the <strong>Minister of Corrections</strong>: What initiatives has corrections undertaken to support offenders into employment?</p><p class="SubsAnswer"><a name="time_20160629 14:49:43" ></a><strong>Hon JUDITH COLLINS (Minister of Corrections)</strong>: Oh, thanks for that excellent question. The department is partnering with Horticulture New Zealand in the lower north region to develop an industry-specific employment package for prisoners. This programme will see prisoners trained behind the wire in horticultural skills that will then lead directly to employment upon release. A number of Horticulture New Zealand members already employ prisoners released from Hawke's Bay Regional Prison on a Release to Work scheme, and this kind of continuity that transitions prisoners from training behind the wire to employment on release has the potential to assist in offenders' transition back into the community. This initiative will be piloted at Hawke's Bay Regional Prison and expanded to other sites around the country if successful.</p><p class="SupQuestion"><strong>Kanwaljit Singh Bakshi</strong>: What else is the department doing to get offenders into work?</p><p class="SupAnswer"><strong>Hon JUDITH COLLINS</strong>: Corrections currently has signed 53 memoranda of understanding with employers, which provide 429 job placement opportunities to offenders annually. These jobs range from construction to traffic control to meat processing. The department also works with a number of employers informally who take on ex-offenders with suitable jobs post-release. Corrections is continually working with the private sector to expand the number and range of employment opportunities for ex-offenders. Programmes that provide prisoners with the kinds of skills that meet industry needs and target labour shortages in the community benefit both ex-offenders and the community. </p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Foreign Affairs, Minister—</strong><strong>Consultants</strong></h4><p class="SubsQuestion"><strong>11. </strong><strong>Hon DAVID PARKER (Labour)</strong> to the <strong>Minister of Foreign Affairs</strong>: What part did he have in the Ministry of Foreign Affairs and Trade's engagement of Alex Matheson or his consultancy company to work on Middle Eastern issues, and what other roles has Mr Matheson, or his consultancy companies, previously carried out for Hon Murray McCully or other entities he has been responsible for?</p><p class="SubsAnswer"><a name="time_20160629 14:51:35" ></a><strong>Hon MURRAY McCULLY (Minister of Foreign Affairs)</strong>: Mr Matheson was appointed special envoy for Government-commercial partnerships by the Secretary of Foreign Affairs and Trade after consultation with myself. He had previously served as director of the office of the chief executive at Industry New Zealand, as the New Zealand trade commissioner in Singapore, and as head of commercial partnerships for the Rugby World Cup in the Ministry of Business, Innovation and Employment. Mr Matheson ceased to be a full-time employee of the ministry quite some time ago. He has undertaken a range of other tasks for public and private entities, but those are not necessarily within the responsibilities of the Ministry of Foreign Affairs and Trade.</p><p class="SupQuestion"><strong>Hon David Parker</strong>: Did he know that while Mr Matheson was working on the Rugby World Cup he was also being paid as a New Zealand Trade and Enterprise (NZTE) employee, meaning he was being paid twice by the Government?</p><p class="SupAnswer"><strong>Hon MURRAY McCULLY</strong>: Any contractual or employment relationships that Mr Matheson had with Government departments or public entities at any time would have been subject to all of the normal rules associated with the Public Service, and I would be very confident that they would have ensured those rules were followed.</p><p class="Interjection"><strong>Hon David Parker</strong>: I raise a point of order, Mr Speaker. He was the Minister responsible for the Rugby World Cup; there is none now. I asked the Minister about whether he knew that fact. He does know, and he should be asked to answer that question.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: The first part of your point of order I cannot agree with. The Minister may well have been the Minister for the Rugby World Cup; he is not now. He is the Minister of Foreign Affairs. This question is to the Minister of Foreign Affairs. He can only answer from that perspective.</p><p class="Interjection"><strong>Chris Hipkins</strong>: I raise a point of order, Mr Speaker. I think the second part of David Parker's point of order is indeed very relevant, which was the question: "Did he know?". He then went on to talk about Government department employment practices, but that was not the question. The question was: "Did he know?".</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No, I do not think that is the point, because—[<em>Interruption</em>] Order! The question confused the role of the Minister as to whether he was now Minister for the Rugby World Cup, and then there was a reference to payment for NZTE. I let the question stand, accepting that, I think, there is some ministerial responsibility as Minister of Foreign Affairs for NZTE. But there is no ministerial responsibility at all for a portfolio held previously by that Minister. The question—</p><p class="Interjection"><strong>Hon David Parker</strong>: I raise a point of order, Mr Speaker. You will be aware from the answer to the primary question that the Minister has worn a number of hats, and under those various hats he has used the services of Mr Matheson on a number of occasions. How can the House get to the bottom of this if the Minister, having acknowledged those different hats, is not willing to answer the question that I asked in respect of those interconnections?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I will hear from the Hon Gerry Brownlee.</p><p class="Interjection"><strong>Hon Gerry Brownlee</strong>: Speaking to the point of order, the Minister, I think, gave a very full answer, in an attempt to be quite open with Parliament, etc., etc. What the member is now not accepting are the bounds of responsibility that any Minister has to this Parliament at any given time. I think the member over there knows that that is the case. It would perhaps be like if we could use question time—as you, Mr Speaker, have warned us not to in the past—to rake up all sorts of bad dealings by former Labour Ministers, for example. But that is not permissible. Time moves on; responsibilities change.</p><p class="Interjection"><strong>Chris Hipkins</strong>: Speaking to the point of order, Mr Speaker—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No, I need no further assistance from any member on this matter. I sympathise with the position that Mr Parker finds himself in. I am aware of the article that he used for authentication. To have this question raised today I spent some time with the Clerk discussing how the member could, perhaps, get the answers that he wants. Under the Standing Orders, Speakers' rulings, and convention in this place, a Minister can be asked a question relating only to portfolios that he currently holds. The way forward, I think—in answer to the point raised by the Hon David Parker—is that he must potentially try a series of questions addressed to different Ministers who have responsibility. I know that uses some questions up for the Opposition, but I can see no other way forward, except perhaps to consider whether he could frame a question to the Prime Minister, who, clearly, has a wider responsibility for all his Ministers.</p><p class="Interjection"><strong>Chris Hipkins</strong>: I raise a point of order, Mr Speaker. </p><p class="Interjection"><strong>Mr SPEAKER</strong>: No, I—</p><p class="Interjection"><strong>Chris Hipkins</strong>: It is a fresh point of order.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: It is a fresh point of order? Then I would be delighted to hear it.</p><p class="Interjection"><strong>Chris Hipkins</strong>: It is relevant to what the Speaker has ruled, but it is new. It is that although Ministers may not have ministerial responsibility for something, they may have awareness of other matters that relate to their ministerial responsibility. In the case of conflicts of interest, for example, where somebody is appointed and there may be a conflict, the conflict may not arise directly out of the appointment they have been given but from another role they have, for which the Minister is not responsible or may have been previously responsible. Ministers can be questioned on that in their current portfolio if it relates to a decision made in their current portfolio.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I think the first point was relevant. A Minister may well be aware because of previous portfolios they held, previous history of this place, etc. I think the final point the member made in his point of order is not right. Just because the Minister may be aware of a role that he held previously in another portfolio, he certainly does not have to answer questions about that when he no longer holds that portfolio.</p><p class="Interjection"><strong>Hon David Parker</strong>: I raise a point of order, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No, unless it is a fresh point of order. We are now getting to the stage where we are just debating.</p><p class="Interjection"><strong>Hon David Parker</strong>: It is a fresh point of order. I seek leave to put my next question to the Minister in his capacity as Minister for the Rugby World Cup.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: There is no Minister for the Rugby World Cup.</p><p class="Interjection"><strong>Hon David Parker</strong>: I raise a point of order, Mr Speaker. How do I ever ask the Minister to answer a question that he has personal knowledge of in respect of this matter?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I will hear from the Hon Gerry Brownlee.</p><p class="Interjection"><strong>Hon Gerry Brownlee</strong>: Speaking to the point of order, there is the whole point here—and I want to bring up another matter with you when I have finished this. The point of question time is for Ministers holding warrants in the Government of the day to be questioned about them. This is not a Star Chamber, where anybody can bring up any old allegation and throw it around any old way they like. Mr Parker, who prides himself on being a reasonably respectful juror and a person who has a degree of standing in the law, should know that. My second point is that the problem here is that this question, frankly, should never have stood. You do need, I think, to have further discussions with the Clerk's Office about the potential for questions lodged like this to get into this exact sort of quagmire. It is not clear, when there are two parts here, why on earth the question could be asked about "previously carried out for Hon Murray McCully". That is a specific question about an individual member; it is not a question about a Minister or a Minister's responsibilities, now or in the past.</p><p class="Interjection"><strong>Chris Hipkins</strong>: Point of order, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No, no. We are spending a lot of time on this, which is now unnecessary. Mr Brownlee, I do not accept your final point. There was a lot of time that went into this question. It was actually changed so that it was then accepted by the Clerk as being relevant. It is an acceptable question, asking the Minister of Foreign Affairs to respond to any involvement he might have had in the appointment of this particular person to a job and then going on to ask whether there were other entities. Clearly, those entities would only relate to anything within the portfolio of the Minister of Foreign Affairs. The question was accepted and, as indeed I think the member himself raised in an earlier point of order, the question was then addressed by the Minister—quite legitimately, too. I can—[<em>Interruption</em>] Order! I sense the difficulty that the member, the Hon David Parker, is expressing, and the frustration. I have suggested a couple of ways forward; he can take that advice. He can seek further advice from the Clerk as to how to word questions. But on this particular occasion, unless he asks a question that is relevant—and asking it to a former Minister for a portfolio that is not even held at the moment is not a satisfactory way forward.</p><p class="Interjection"><strong>Chris Hipkins</strong>: I raise a point of order, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: A fresh point of order?</p><p class="Interjection"><strong>Chris Hipkins</strong>: Yes, it is a fresh point of order.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I hope so.</p><p class="Interjection"><strong>Chris Hipkins</strong>: Where portfolios are disestablished completely, the accountability for the decisions that were made within that portfolio when it was in existence still remains with the Government, otherwise the Government could simply say "Right, we're no longer going to have a Minister of Education or housing.", and therefore not answer any questions based on decisions they have previously made in those portfolios. The fact that the position of Minister for the Rugby World Cup no longer exists does not mean that there is no longer Government accountability for decisions that they made when there was such a portfolio. If we allow that to stand, then question time could become a farce because Governments could just disestablish portfolios to avoid questions.</p><p class="Interjection"><strong>Hon Gerry Brownlee</strong>: That is very interesting. If Governments were enduring, then of course any Minister on any day could answer questions about previous Ministers of previous Governments' activities. We would have a field day on questions about the Minister who was responsible for Auckland matters, for example. Mind you, it would be very hard to find any work ever done in that portfolio. But the point is that a Government stands for the period of its election only, not in an enduring way, as Mr Hipkins is trying to suggest.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I think the matter has been discussed enough. I do not accept the final point made by Mr Hipkins. If a Government at any time was going to subtly do away with the Minister of Education or the Minister of Health or any other portfolio simply because times were getting difficult—[<em>Interruption</em>] Order! I think the public of New Zealand would then notice it and react accordingly. Have we got further—</p><p class="Interjection"><strong>Chris Hipkins</strong>: I raise a point of order, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No.</p><p class="Interjection"><strong>Chris Hipkins</strong>: It is a fresh point of order.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Well, the three other times I have asked you that, you have then continued to relitigate. But I will take your word for it, Mr Hipkins.</p><p class="Interjection"><strong>Chris Hipkins</strong>: It is absolutely a fresh point of order, Mr Speaker. On that ruling, to whom does the Government direct questions relating to the Canterbury Earthquake Recovery Authority, now that the portfolio position has been abolished?</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I think the question could easily be reframed. There is still a Minister responsible for the earthquake issues of Christchurch.</p><p class="Interjection"><strong>Hon David Parker</strong>: Further to that point—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: I will hear one more point, but that is it. We are now wasting members' time.</p><p class="Interjection"><strong>Hon David Parker</strong>: The situation does not apply in respect of the Rugby World Cup, because there is no successive portfolio-holder.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Exactly right. We have moved now to the 51st Parliament. The Rugby World Cup was quite some time ago, Mr Parker. We are now getting ready, in fact, for the next Rugby World Cup.</p><p class="SupQuestion"><strong>Hon David Parker</strong>: When the Ministry of Foreign Affairs and Trade (MFAT) appointed Alex Matheson on Middle Eastern issues, was the Minister of Foreign Affairs aware that Mr Matheson had previously been paid by two Government departments at the same time—one being NZTE, and the other the Rugby World Cup?</p><p class="SupAnswer"><strong>Hon MURRAY McCULLY</strong>: As I stated in my response to the primary question, Mr Matheson was appointed Special Envoy for Government Commercial Partnerships. He was given that appointment by the Secretary of Foreign Affairs and Trade after consultation with myself. In terms of the second part of the question, I can confirm, as I also said in my primary answer, that Mr Matheson was employed by the Ministry of Business, Innovation and Employment in relation to the Rugby World Cup, and at other times had served with New Zealand Trade and Enterprise. In respect of neither of those two appointments am I familiar with the detail of any contractual or employment relationships.</p><p class="Interjection"><strong>Hon David Parker</strong>: I raise a point of order, Mr Speaker. My question was very specific and asked: at the time when the ministry made the appointment, was the Minister aware—not the ministry—that Mr Matheson had previously been paid—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! No, I listened very carefully to the answer and I think that, if the member had listened, the question was definitely addressed. The answer was given to the member.</p><p class="Interjection"><strong>Hon David Parker</strong>: I raise a point of order, Mr Speaker.</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Is this a fresh point of order?</p><p class="Interjection"><strong>Hon David Parker</strong>: Yes. I still do not know the answer to the question I asked—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! The member will be very lucky to stay. If he has any more supplementary questions, listen to the answers.</p><p class="SupQuestion"><strong>Hon David Parker</strong>: When Alex Matheson was appointed as the Middle Eastern representative of MFAT, did the Minister know that Mr Matheson had previously been paid twice by the Government for services delivered at the same time, for the Rugby World Cup and for NZTE?</p><p class="SupAnswer"><strong>Hon MURRAY McCULLY</strong>: As I indicated in both my primary answer and in answer to the recent supplementary question, Mr Matheson was never appointed to the role that the member describes. He was appointed Special Envoy for Government Commercial Partnerships, an appointment made by the Secretary of Foreign Affairs and Trade after consultation with myself. I have also been clear that I was aware at that time that Mr Matheson had, as I described in my primary answer, been employed by New Zealand Trade and Enterprise and on another occasion by the Ministry of Business, Innovation and Employment. I do not know whether those were employment or contractual relationships, whether they were, at all stages, full time or part-time, or whether there was overlap between them. I simply did not have that command of detail.</p><p class="SupQuestion"><strong>Hon David Parker</strong>: Is the Minister telling the House that he did not know that Mr Matheson was double-dipping?</p><p class="SupAnswer"><strong>Hon MURRAY McCULLY</strong>: I am just going to respond very carefully to this, because Mr Matheson is somebody who has served in a range of roles, across a number of departments. I have thought highly of his work on behalf of the New Zealand Government, and I am not at all surprised to see that senior officials in the Ministry of Foreign Affairs and Trade, the Ministry of Business, Innovation and Employment, and New Zealand Trade and Enterprise have also thought sufficiently highly of Matheson to appoint him to significant roles. Can I suggest to the member that if he wants to make defamatory statements about individuals, he best make those outside the House, where he can face the full legal consequences of those statements.</p><p class="Interjection"><strong>Hon David Parker</strong>: I raise a point of order, Mr Speaker. My question was a very simple one, as to whether he knew, and he has not answered that question—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: Order! No, no. I have now heard the question asked three ways, and three answers have been given—not to the satisfaction of the member, I accept. But the question, in my opinion, was addressed.</p><p class="SupQuestion"><strong>Hon David Parker</strong>: Did the Minister at the time of Mr Matheson's appointment in his MFAT role know that Mr Matheson had been paid concurrently for two roles by the Government, one by NZTE and one by the Rugby World Cup?</p><p class="SupAnswer"><strong>Hon MURRAY McCULLY</strong>: I have already been very clear about what I knew about the relationships that Mr Matheson had—</p><p class="Interjection"><strong>Hon Annette King</strong>: What about the payment?</p><p class="ContinueSpeech"><strong>Hon MURRAY McCULLY</strong>: —with a range of Government departments. I have no idea about the payment relationships between him and those departments, whether they were full or part-time employment or contractual, or whether there was any concurrency between those payments.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><h4 class="QSubjectheadingalone"><strong>Environmental Reporting—</strong><strong>Confidence</strong></h4><p class="SubsQuestion"><strong>12. </strong><strong>EUGENIE SAGE (Green)</strong> to the <strong>Minister for the Environment</strong>: Does he have confidence in the quality of the Government's environmental reporting?</p><p class="SubsAnswer"><a name="time_20160629 15:08:54" ></a><strong>Hon CRAIG FOSS (Minister for Small Business)</strong> on behalf of the <strong>Minister for the Environment</strong>: Yes. The reporting programme draws from the scientific expertise of the Ministry for the Environment and the independence and statistical rigour of the Government Statistician. I also welcome the Parliamentary Commissioner for the Environment's (PCE) response to <em>Environment Aotearoa 2015</em> and the associated website and data service. The report has been enabled by the environmental reporting regime established by the Environmental Reporting Act. I value the PCE's views, and note her comments that those who worked on <em>Environment Aotearoa 2015</em> are to be commended for producing an entire synthesis report so soon under the new system. </p><p class="SupQuestion"><strong>Eugenie Sage</strong>: Why should New Zealanders trust the Government's state of the environment report when the Parliamentary Commissioner for the Environment says it provides very little information about how good or bad aspects of the environment are in different parts of the country, and that it presents environmental statistics without context?</p><p class="SupAnswer"><strong>Hon CRAIG FOSS</strong>: I totally reject that attack on the independence of Statistics New Zealand and the good work of the officials in the Ministry for the Environment. The original report is a joint report using the expertise of both those agencies and organisations to assist the Government. I do note that it is this Government that has probably done more for environmental reporting and taking action than that party over there forever speaks about.</p><p class="SupQuestion"><strong>Eugenie Sage</strong>: Can the Minister explain why his ministry has only 1.4 full-time staff working on responding to the impacts of climate change, when the Parliamentary Commissioner for the Environment describes climate change as the most serious environmental issue we face?</p><p class="SupAnswer"><strong>Hon CRAIG FOSS</strong>: As other Ministers have answered and said in this House, we take climate change—and all things environmental—very, very seriously. We do not measure it by simple headcounts and blunt instruments such as that member is describing. I was quite happy to stand by this Government's record in all things environmental than whatever that party claims to represent.</p><p class="Interjection"><strong>Eugenie Sage</strong>: I seek leave to table the Ministry for the Environment's answers to the select committee, which are not publicly available, that show only 1.4 full-time ministry—</p><p class="Interjection"><strong>Mr SPEAKER</strong>: No. No. Order! [<em>Interruption</em>] Order! The purpose of tabling that information is to make members more aware of it. It is available to all members.</p><p class="SupQuestion"><strong>Eugenie Sage</strong>: Why has the Minister still not produced an action plan, as the Parliamentary Commissioner for the Environment recommends, to fix the environmental issues that were identified in the state of the environment report released last October; and when can we expect to get such a plan?</p><p class="SupAnswer"><strong>Hon CRAIG FOSS</strong>: We welcome the report today, and we are looking forward to the further reports that are coming from our various reporting regimes. The original report builds on previous reports, and I am quite sure that the advice, or some of the recommendations, from the PCE, are taken seriously. In today's report she commends the Ministry for the Environment, and its statistics, for the actions it has taken subsequent to her report on the earlier report.</p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

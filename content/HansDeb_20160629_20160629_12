@@ -1,0 +1,801 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Royal New Zealand Foundation of the Blind Act Repeal Bill — Second Reading - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_12" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_12/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Royal New Zealand Foundation of the Blind Act Repeal Bill — Second Reading</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20160629_20160629_12/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_12" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_12/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_12/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_12/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_12/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_12/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>ROYAL NEW ZEALAND FOUNDATION OF THE BLIND ACT REPEAL BILL</strong></p><p class="SubDebate"><strong>Second Reading</strong></p><p class="Speech"><a name="time_20160629 16:17:56" ></a><strong>Hon NICKY WAGNER (National—Christchurch Central)</strong>: I move, <em>That the Royal New Zealand Foundation of the Blind Act Repeal Bill be now read a second time</em>. In the last 126 years the Blind Foundation and some of its previous iterations have been looking after low-vision and blind New Zealanders very, very successfully. Originally, it was the Jubilee Institute for the Blind, which was followed by the New Zealand Foundation for the Blind and then the Royal New Zealand Foundation of the Blind. They have all done invaluable work supporting blind and low-vision New Zealanders. </p><p class="a">It was in the late 1800s that the first formal service began. It was established as a school and a residence in Parnell. It was originally a wooden building, but it developed over a long time and the new brick, gracious buildings that are still there today were built in 1909-10. During that time it developed its services. It offered sheltered employment, a workshop, and residential programmes. Through the work of the foundation over nearly 100 years, it managed to change the attitude of people and the perceptions of blind people and made it more possible for them to be fully integrated into New Zealand life. As we went on and as the 20th century came, it gave up the workshops, it closed the schools, and other institutional activities were wound up. </p><p class="a">Today the foundation's aim is to provide services and to support blind people and people with low vision to be self-reliant, to live in the community, to let them have more choice about their lives, and to help them reach their full potential. In anticipation of the Helen Keller Communication Day, the foundation recently put out a press release, and this is what it said: "The Blind Foundation is New Zealand's main provider of practical and emotional support for the thousands of Kiwis who are affected by sight loss, enabling them to face the future with confidence. It provides practical support in living independently, help with technology, ways to continue reading, and advice on staying in or looking for work". </p><p class="a">The Royal New Zealand Foundation of the Blind Act 2002 signalled a major turning point in the organisation's history. The Act provided the foundation with an option to register as an incorporated society, and it was structured in such a way as to become spent if the foundation chose to exercise that option. The foundation registered as an incorporated society on 10 January 2012, and accordingly that Act is now spent. When the foundation approached me later last year seeking advice on repealing the 2002 Act I was really pleased to be able to assist it, because we know it wants to journey towards more independence. The foundation seeks to repeal the Act for two main reasons. The first is that it is concerned that keeping the Act on the statute book causes confusion, and suggests that the foundation is still a statutory body, which, of course, it is not. Secondly, the repeal of the Act will emphasise the foundation's status as an entity that is completely independent from Parliament. </p><p class="a">I know that the Blind Foundation was very grateful for the supportive approach the members of the Health Committee took as they worked their way through this bill. It also appreciated the opportunity to be able to inform the committee about the work that it has been doing for 126 years. I would like to thank Simon O'Connor, who was the chair of that select committee; the Health Committee; and all the members of that committee for the service that they did and for working so well together. The support offered through the foundation ensures that all low-vision or blind New Zealanders are empowered to live independent lives, and I am sure all members in the House will join me in thanking the foundation for delivering such an invaluable service for 126 years. I commend this bill to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:23:01" ></a><strong>POTO WILLIAMS (Labour—Christchurch East)</strong>: I am pleased to rise to take a call on the second reading of the Royal New Zealand Foundation of the Blind Act Repeal Bill. As the previous speaker, Nicky Wagner, has noted, it has two main functions. I do want to commend the Blind Foundation, as it is now known, for its advocacy and support and the work that it does for New Zealanders who have low vision or vision impaired by blindness. The bill does two main things. The first thing it does is repeal the Royal New Zealand Foundation of the Blind Act 2002. This Act on the statute book is no longer consistent with the way the modern Blind Foundation needs to provide services to people with vision impairment. The Blind Foundation has set up as an incorporated society because it has wanted to really become an organisation that is far more membership based and accountable to its members. It is an important aspect of ensuring that it can continue to do the work for its members.</p><p class="a">Why become an incorporated society? The Blind Foundation has made it really clear that in the passage of the last 126 years it has ensured that it has taken advantage of new ways of doing things, new ways of providing services. As technology has come along, it has needed to keep up with the pace of those changes to ensure that it is delivering the best types of services to its members. Its membership is very important, and it takes the role of accountability to its membership very seriously. It ensures that the governance group that supports the work of the Blind Foundation is made up of people who have vision impairment, who are blind, or who have low vision. So it is very much accountable to the members and the people who require its services.</p><p class="a">What are some of its services? The Blind Foundation does a whole range of things, from adaptive communications, recreation, and peer support, to things such as helping people with low vision be able to orient and get on with normal types of work through the use of guide dogs, special equipment, and access to information through its library and through its advice services. It also provides some really specialist services to children and young people, to the deafblind community, and to Māori and Pacific people.</p><p class="a">The other part of this bill looks at the aspect of making amendments in respect of copyright to section 69 of the Copyright Act 1994, which provides "persons who have a print disability with copies that are in Braille or otherwise modified for their special needs, without infringing copyright in those literary or dramatic works." In that regard I want to talk about the Marrakesh VIP Treaty. The Marrakesh VIP Treaty is a treaty that has been signed by 16 other countries. It has two main obligations. The first obligation is to provide a limitation on or exception to copyright. Of the several million books that are provided and published worldwide each year, only between 1 and 7 percent are available to people who have low vision or people who are blind. The Marrakesh VIP Treaty seeks to remedy that by allowing an exception to copyright so that those publications can then be turned into Braille so that they can be accessed by people who are blind.</p><p class="a">The second part of the Marrakesh VIP Treaty allows the exchange across borders. This is important because New Zealand has yet to ratify the treaty. It is something that the Blind Foundation has advocated for, for some time. I understand that the Government is considering signing the treaty, and once 20 countries have signed, the treaty will be enacted and come into force. It is currently at 16 countries, so I am encouraging the New Zealand Government not only to sign that treaty but also to encourage those other countries that have yet to ratify it to sign.</p><p class="a">The other aspect of this issue that I want to talk about is the Blind Foundation's work on ensuring that we have access to audio description for people who have got vision impairment. Audio description, much like captioning for the Deaf community, allows our blind community to be able to have the ability to have programmes on television described to them, so that they can fully enjoy things such as the Olympics, which is coming up in about 30 days, and also test match rugby. Currently in New Zealand we provide audio description on TV ONE and TV2 only. The Blind Foundation has been very, very influential in supporting that to happen, and it would be encouraging broadcasters to look further to ensure that people who have vision impairment could get access to programmes on the Olympics and rugby, to name just a couple.</p><p class="a">This is a bill that is useful in ensuring that the Blind Foundation can continue to adapt, evolve, and change for the people whom it supports, and I commend it to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:29:23" ></a><strong>SIMON O'CONNOR (National—Tāmaki)</strong>: I am very pleased to take a call on this Royal New Zealand Foundation of the Blind Act Repeal Bill. I want to start by acknowledging the Minister, in two capacities—obviously as a person who takes great interest in this area, but also for personally taking charge of this bill. So, thanks to Nicky Wagner for that. Importantly, this is a private bill. Often we talk in this House about private members' bills; in fact, there is no such thing. There are members' bills and there are private bills, and this is one of the latter. </p><p class="a">The bill itself is incredibly simple. It is ultimately taking the Blind Foundation out from the governance of statute, and allowing it to basically be what it is and wants to be today, which is an incorporated society. I want to commend the foundation for that. As I say, it was relatively simple. The bill came to the Health Committee, and we appreciated the opportunity to go through it and to return that report to the House a few weeks back. As I like to do, as chair, I want to thank the various members of the select committee, across all parties, for their cooperation. I suppose a bill of this nature, being relatively, if not completely, uncontroversial, makes that quite easy. But, importantly, it provided us with a welcome opportunity to hear people from the foundation talk us through the services they are providing and the vision they have for the future, so I would like to thank all of those who came in.</p><p class="a">It did not take us very long as a select committee to hear, effectively, the endorsement for the bill. There is no surprise in that—the foundation put it forward—but, as I say, it became a welcome opportunity to hear a little bit more about what the Blind Foundation has in mind for New Zealanders; what it sees as its current opportunities, but also its challenges. So, again, my thanks to the team that came down, and, on behalf of the committee, I thank them for that opportunity. </p><p class="a">I personally am looking forward to engaging with the foundation next week. I believe I am visiting its facilities in Auckland to have a little bit of a chat around the work of the select committee and engaging as a constituent MP. I see that as continuing the conversation, if you will, that this bill has delivered.</p><p class="a">At this point I am looking forward to it progressing to the Committee stage. I do not expect that to be overly controversial—again, partly because it is a pretty simple bill and also because the select committee was very happy to report it back with no amendments. I commend this bill, at its second reading, to the House.</p><p class="Speech"><a name="time_20160629 16:32:07" ></a><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: The question is—I call Jan Logie.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:32:09" ></a><strong>JAN LOGIE (Green)</strong>: That was rather quick, far more quick than I expected—ha, ha! Moving along, I guess that is not too surprising, considering the rather straightforward nature of this legislation, but I would like to add a voice from the Green Party and put our support on record again, at this stage. </p><p class="a">This is a bill that has been brought to the House by the Hon Nicky Wagner, as a private bill, in support of the Blind Foundation. This is, as has already been stated, the final step in the evolution of the independence of the foundation. The foundation has existed for 126 years and was made a statutory body by legislation in 1963. As we have seen over time, our attitudes are changing towards our understanding of people who are in our community who have disabilities. Rather than them being seen as people whom we need to take care of, they are seen as people for whom we need to remove the barriers that are getting in the way of their full participation. We have moved from a charity model to an empowerment model, and so it is completely right that the next step should be the full independence of the foundation as the representative body of people who are blind or have low vision. This is the last step in that process.</p><p class="a">In the 2002 legislation there was the change in the name of the foundation, from the Royal New Zealand Foundation for the Blind—those taking care of those people who are blind—to the Royal New Zealand Foundation of the Blind, which is an organisation made up of people working in solidarity to ensure people's participation. It was also shifted to a model that looked a lot like an incorporated society, so it was not so Government-associated; it was actually membership-driven.</p><p class="a">In that 2002 legislation there was the provision for the foundation to go to that next step, to formally become an incorporated society, and that is what it has done. Within the legislation at that stage there was an acknowledgment that there would be the need to repeal the legislation—that 2002 Act. This is what this bill does. The foundation has said that that is important because it removes the confusion that people may have, that perhaps it is still a statutory body. When there is an Act about it on the books, you can understand any potential confusion around that. So this removes that confusion and it asserts, again, the foundation's independence.</p><p class="a">These are two very simple and important things to do, and the Green Party is happy to support this legislation.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:35:19" ></a><strong>JACQUI DEAN (National—Waitaki)</strong>: It was with great pleasure that we had representatives of the Blind Foundation give evidence to our committee during the consideration of this bill. It was very interesting to me to hear of their activities around the country and the services that they provide for the vision-impaired folk by looking after their well-being and providing a range of services that have been, over time, adapted to the modern world. It really highlighted for me, first of all, the reach that they have into our communities and into our towns, but also the fact that the delivery of the Blind Foundation has evolved and changed over the years, to reflect the needs of the people at the time.</p><p class="a">This bill does exactly that. As other members have said, it is a simple bill. We returned the bill without amendment. Really, the foundation sought the repeal bill because keeping the Act as a statute on the statute book was contrary to what it was about and caused confusion. The suggestion really, in that case, is that the Blind Foundation is a statutory body. It is not, and so the repeal of this Act will emphasise the foundation's status as being completely independent from Parliament and serving the people who seek it out for its services. It is a good bill. I commend it to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:37:06" ></a><strong>DENIS O'ROURKE (NZ First)</strong>: This is a particularly straightforward, simple, sensible, and very much necessary bill so far as the Royal New Zealand Foundation of the Blind is concerned. For those reasons New Zealand First will, of course, like other parties, have no hesitation in supporting it. The Foundation of the Blind does very wonderful work throughout New Zealand, and has done so for a very, very long time. It has extremely widespread community support for the work that it does.</p><p class="a">I had some early insight into this, firstly in my early professional career as a lawyer when I worked for the Public Trust Office. I did many wills—in fact, hundreds—and other testamentary trusts in favour of the Foundation of the Blind and, in fact, many, many inter vivos trusts as well in favour of the Foundation of the Blind, simply because it is such a popular charity. In fact, it is one of the most popular charities, if not the most popular charity, in New Zealand. It is good that that is the case because it is a charity that really needs the funding that it gets, and it is that funding that enables it to do things for the blind that would not otherwise be possible.</p><p class="a">In fact, even earlier than that, when I was a very young person, a toddler in fact, there was a blind lady who lived next to us in Christchurch. I have a very enduring memory of that woman. She was quite an old woman even then, but she was a very determined and very independent woman. She could not see at all. I remember that she would toddle off in the early morning down to the shops and do her shopping and come back—blind and alone. How she did that, I am not really sure, but she managed it. I do remember, on one occasion, looking out the window one frosty morning and seeing her on our front lawn. The lawn was totally white with frost, and there she was, groping around. She had gone into the wrong driveway and ended up on our front lawn. So I remember vividly, as a young kid in my pyjamas and in bare feet, going out on to the frosty lawn, crunching through the frost, and taking her by the arm and leading her next door, back to her home. But I learnt from that the resilience that blind people have, and the sort of dignity that they have in the way that they live their lives. It was a very great lesson to me about human nature. It has left me with a long—lifelong, I should say—desire to see that the blind are well cared for.</p><p class="a">I know that almost everybody in this country would want the same thing. It also left me with what I would call an appreciation for the courage and positivity that people with that degree of disability have towards their lives. Also, I learnt that they have a lot to teach us—that is, the rest of us who do not live with such disabilities. They have a lot to teach us about how we should treat each other, because you never hear of blind people saying bad words about other people. I do not know why it is, but they always have a very positive, courageous, and kindly outlook on the world. They can teach us a lot.</p><p class="a">I want to just say that I think that those people and the foundation that has committed—for so long—so much time, effort, and money to looking after those people, deserve all the support that they can get, however we may give it, in assisting them to raise the funds they need to do their very valuable work. I note that in 2012 the foundation decided that it should become an independent incorporated society under the Incorporated Societies Act, and therefore it obviously no longer needs a special Act of Parliament. From its point of view that is a very good idea. As other speakers have said, it shows the public that this is not a Government organisation, that it needs public support, and that it needs public donations in order to continue to do its work. So there is a very good reason behind the repeal of this particular Act. We all are supporting it, and it does need support.</p><p class="a">But it needs, more than that, an appreciation by the people of New Zealand that they do need to continue their support, as they always have, whether it be in wills or in donations or otherwise; to continue to support this very excellent organisation and the work it does. So it only remains for me to say on behalf of New Zealand First that we wish the foundation well in continuing its work. It is good to see it flourishing in doing that work, and I hope that it will continue to receive all the public support and funding that it needs to have. For all those reasons, New Zealand First will be very happy indeed to continue to vote in favour of this bill.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:42:50" ></a><strong>ALASTAIR SCOTT (National—Wairarapa)</strong>: I also rise in support of this bill. If you look at the history of the Blind Foundation—125 years of history—you can see that the foundation continues to adapt and evolve over time. Currently it is in a situation where there is no need for it to be governed by an Act. In fact, an incorporated society is the most appropriate means to govern the foundation. It gives the foundation a greater ownership and more flexibility. In the changing times that we are in, that flexibility is absolutely required—whether it is through technology changes or ways to raise funds—to satisfy the needs of the 11,500-odd people whom the foundation serves. The repealing of the Act, which this bill does, is an excellent progression. I support this bill.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:43:54" ></a><strong>CARMEL SEPULONI (Labour—Kelston)</strong>: It is great when we have members' bills, in particular, from different sides of the House that we can support. I just want to acknowledge the Hon Nicky Wagner for this private bill, the Royal New Zealand Foundation of the Blind Act Repeal Bill. I just want to say, as has been said earlier, that Labour does support this bill. There is not much really to say, except, in general, just to talk a little bit, I guess, about the Royal New Zealand Foundation of the Blind.</p><p class="a">The foundation was originally constituted under the Royal New Zealand Foundation for the Blind Act 1963, under the name Royal New Zealand Foundation for the Blind. In 2002 the foundation wished to change its name to the Royal New Zealand Foundation of the Blind—so "of the Blind" rather than "for the Blind"—to clarify its status as a body controlled primarily by, and for the benefit of, people who are blind and vision impaired. The foundation also wished to modernise its structure, giving it the characteristics of an incorporated society, and to provide for the possible future registration of the foundation as a society incorporated under the Incorporated Societies Act 1908. To that end, the Royal New Zealand Foundation of the Blind Act 2002 was enacted. The Act was structured in such a way as to become spent if the foundation chose to exercise the option to register as an incorporated society. The foundation registered as an incorporated society on 10 January 2012. Accordingly, the Act is now spent. The foundation considers it desirable that the Act be repealed, for two reasons: (1) keeping the Act on the statute book causes confusion, as it suggests that the foundation is still a statutory body when it is not; and (2) the repeal of the Act will emphasise the foundation's status as completely independent from Parliament. The foundation's members and associated parties regard—</p><p class="Interjection"><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: Order! I am going to interrupt the member. She cannot just read out the front page of the bill. It is not debating.</p><p class="ContinueSpeech"><strong>CARMEL SEPULONI</strong>: Thank you, Mr Assistant Speaker. So it is good to be in the House today supporting this bill, supporting the Royal New Zealand Foundation of the Blind, and supporting our blind community. I will again just acknowledge the Minister for bringing this private bill to the House. It is good to be able to positively acknowledge a National Minister sometimes—it happens on the very rare occasion. I am pretty sure it will not happen again for a very, very long time after this. Thank you very much. </p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:46:55" ></a><strong>SCOTT SIMPSON (National—Coromandel)</strong>: It is a pleasure, as a member of the Health Committee, to take a call on this private bill, which is in the name of my friend and colleague the Hon Nicky Wagner. I was really impressed with the submission made by the foundation at the select committee. It is an organisation that, as New Zealanders, we have all grown up knowing about—what its purpose and what its history has been. Most of us, however, who are not involved with the blind community probably do not really fully understand the nitty-gritty of the good work that it does; we understand the guide dogs and we understand the support that it gives to blind and vision-impaired people, but we do not really understand the nitty-gritty of all the good work that it has done over so many years.</p><p class="a">What most New Zealanders probably, also, do not understand is that the foundation has been bound—for what were initially really good reasons—by parliamentary statute. This bill seeks to remove those binds. It enables the foundation to take full incorporated society status under that piece of legislation. It will give the foundation the freedom and the governance structures that are needed to ensure that its good work is continued for many, many years to come. I think that this little piece of legislation—and as the chairman of the Health Committee made clear in his presentation, it is a very small, relatively simple bill—is endorsed and supported across the House. I am very pleased to add my support to the bill, and I commend it to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:48:31" ></a><strong>KEVIN HAGUE (Green)</strong>: I spoke in the debate on the first reading of this bill, and mentioned some of the personal connections that I had to the work of the Blind Foundation through my father-in-law, Jim Newcombe, who is blind. He uses the services of the foundation extensively—he uses the talking book service, he achieves internet access through services provided by the foundation, his globe is one that he bought from the Blind Foundation shop. My mother-in-law, his wife, Joan Newcombe, is a very active fund-raiser for the foundation. So I have a strong association with the foundation, and indeed I have noticed how it has grown and changed over the years. It is that changing role of the foundation over time, its seeing itself in a different way, that is at the heart of this bill. I am a member of the Health Committee and I want to, in the second reading, take the normal role of thanking members of the committee, the officials who assisted the committee with its work, and the foundation itself. The foundation's submission and supplementary material were very interesting indeed.</p><p class="a">Members have spoken in this debate about the importance of clarifying the legal status of the foundation through repealing a superfluous law that might otherwise be confusing. But it is the other purpose for this bill that I think is more important and more interesting. It reflects a journey that many organisations in civil society have been on, and the Minister, the Hon Nicky Wagner, in her remarks referred to the 19th century origins of this organisation. That was at a time when the prevailing model for social assistance, for supporting members of our community who required support, was very much a charity model—the model of doing good works—but the good works were being done to the people who had needs: to blind people and to people with low vision. We have moved away from that model, and yet that is the model that has been enshrined in statute. </p><p class="a">I worked for 10 years for the New Zealand AIDS Foundation. The AIDS Foundation, as some members of this House will know, had its origins in the 1980s at a time when it became extremely clear that if we as a society were to take effective action against the HIV epidemic that was hitting our shores, we needed to empower the communities that were most affected. So both Labour- and National-led Governments at that time in fact saw the wisdom of empowering organisations from those communities rather than running programmes from the Ministry of Health for people at risk from HIV. Actually, if we were trying to deal with a community of men who had sex with men, or communities of injecting drug users, or communities of sex workers, the only source for messages that those communities would trust would not be the Ministry of Health—it would be sources from within their own communities. So it is very much a model of empowerment of those communities.</p><p class="a">It has been great to see in the subsequent years that model being replicated and rolled out to other community-based organisations. So the model is very much now one of community-based organisations reflecting that empowerment. That empowerment results in better outcomes for, in this case, blind people and people with low vision. It is great to see that purpose being honoured in this bill, and I look forward to better outcomes for blind New Zealanders as a result of this bill passing. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 16:53:53" ></a><strong>CLARE CURRAN (Labour—Dunedin South)</strong>: I just want to make a few comments about this bill before the House this evening, the Royal New Zealand Foundation of the Blind Act Repeal Bill. It is a relatively simple bill and it is a "cleaning up the statute book" kind of bill, and we support it. But I just want to make a couple of wider comments around the context for vision-impaired people in New Zealand, and I will draw on some of the comments made by my colleague Poto Williams, particularly around audio-captioning and participation—the ability to participate.</p><p class="a">This bill is basically just cleaning up a change that has already occurred. It ensures that legislation that is no longer relevant does not remain on our statute book, and that is good and sensible. But if we come to the 2016 context for the 70,000 vision-impaired people in New Zealand, there are pressing issues around participation—their ability to fully participate in society—and in particular, one of those ways is audio-captioning of television. There is a lack of audio-captioning. I note that New Zealand On Air provides funding through Able for TV ONE, TV2, Prime, TV3, and Channel 4 for some audio-captioning for the hearing-impaired and some audio description on selected programming on TV ONE and TV2.</p><p class="a">There is no doubt, though, that the small nature of that captioning has an impact in terms of how people with vision impairment, and hearing impairment as well, obviously, have the ability—or the lack of ability—to properly participate. The point I am making is that perhaps this bill could have gone a little bit further as to spelling out the wider context for people with vision impairment in New Zealand. Seventy-thousand is a significant number of people who have difficulty participating in New Zealand society and receiving information and the same sorts of entertainment and news that able-bodied people do.</p><p class="a">So I just want to put on the record tonight that a bill that tidies up the statute book, removes confusion that suggests that the foundation is still a statutory body when it is not, and repeals an Act that emphasises the foundation's status as completely independent from Parliament has some value. But there are some significant other measures that Parliament and individual members who want to put bills forward could be doing—things that have inordinate value for people with vision impairment. Thanks.</p><p class="IndentMarginalone">Bill read a second time.</p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

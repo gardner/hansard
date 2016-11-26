@@ -1,0 +1,791 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Agricultural Compounds and Veterinary Medicines Amendment Bill — Second Reading - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_24" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_24/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Agricultural Compounds and Veterinary Medicines Amendment Bill — Second Reading</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20160915_20160915_24/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_24" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160915_20160915_24/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_24/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160915_20160915_24/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_24/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160915_20160915_24/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>AGRICULTURAL COMPOUNDS AND VETERINARY MEDICINES AMENDMENT BILL</strong></p><p class="SubDebate"><strong>Second Reading</strong></p><p class="Speech"><a name="time_20160915 16:58:53" ></a><strong>Hon CHRISTOPHER FINLAYSON (Minister for Treaty of Waitangi Negotiations)</strong> on behalf of the <strong>Associate Minister for Primary Industries</strong>: I move, <em>That the Agricultural Compounds and Veterinary Medicines Amendment Bill be now read a second time</em>. This bill changes how Government agencies both use and protect data supplied to them with applications to register agricultural compounds and veterinary medicines. Data protection is obviously hugely important, as it provides time for businesses to recoup the costs of developing data to support a registration application. With greater certainty about being able to recoup their costs, businesses are more likely to invest in research and development, and register new products or uses in New Zealand. New products and uses will support better productivity, competitiveness, and safety outcomes for our primary industries. Before I talk about the bill in detail, I want to thank the Primary Production Committee for its very good work in considering this bill. I also want to acknowledge the valuable input provided by the submitters.</p><p class="a">It is very important to distinguish between data protection and patents. Data protection prevents Government agencies from using data that they hold to assess subsequent applications to register similar products for the duration of the protected period. Data protection does not stop other parties from generating their own data and registering a competing product. Patents, on the other hand, enable the holder of a patent to restrict other parties from using their idea without their approval. </p><p class="a">The committee has recommended a number of revisions to this bill. At a high level, the revisions extend, expand, and clarify data protection. The committee has recommended the following revisions: first, for innovative products and uses, extending data protection to 10 years and simplifying how it applies; secondly, for non-innovative products and uses, extending data protection from 3 years to 5 years; thirdly, for new uses for innovative and non-innovative products, clarifying what qualifies as a new use; and fourthly, for data supplied as part of reassessments, introducing 5 years' protection. The bill now also clarifies transitional arrangements and the scope of data protection. So, as one can see, the changes are quite significant, and so I want to explore them in just a little more detail.</p><p class="a">First of all, innovative products and uses: for registrations of new innovative products the revised bill would establish a base data-protection period of 10 years, in place of the current 5 years. This would apply to applications under both the current Agricultural Compounds and Veterinary Medicines Act and the Hazardous Substances and New Organisms Act. Innovative products are those that contain an active ingredient not previously registered under the principal Act. Nearly all submitters called for a longer period of data protection, with many supporting a base protection period of at least 10 years. I consider that 10 years is about the right period of time. It should result in more registrations and greater competition in the medium and long term, without too much impact on competition in the short term. Where companies are applying to register new uses for their innovative products, the revised bill would confer data protection for whichever is greater: the period remaining of the original innovative product's 10-year data-protection period, or 5 years. This approach should encourage suppliers to register new uses early to take advantage of the 10-year period, without deterring registrations later once there is less than 5 years remaining. This new approach is much simpler than the original policy and, I submit, would create the right incentives for suppliers.</p><p class="a">Then there is the issue of non-innovative products and uses. For these types of uses, the revised bill would establish a base data-protection period of 5 years, in place of the 3 years that was in the bill when it was introduced. These products are those that contain an active ingredient previously registered under the Act. Nearly all submitters called for a longer data-protection period for these types of applications, but I consider that 5 years strikes the right balance between encouraging registrations of non-innovative products in an appropriate period on the one hand, and allowing for competition on the other.</p><p class="a">Then there is the issue of new uses. The revised bill clarifies and expands what qualifies as a "new use", both for innovative and non-innovative products. The bill, as introduced, proposed that a new use should qualify for data protection if it enabled a product to be used on an additional species of plant or animal. Submitters thought that this proposal was unclear and too narrow. They were concerned that it would not encourage products to be registered for a sufficiently broad range of new uses. The revised bill seeks to address this issue by making new use applications qualify for data protection if they enable one of the following: the product can be used on one or more additional species of crop or animal; the product can be used on one or more additional pests or diseases; or the product can have different application rates, methods of application, or withholding periods. I support these changes, as they are going to ensure that our growers and farmers have the tools they need to be productive and internationally competitive.</p><p class="a">Finally, with the issue of reassessments, the revised bill introduces 5 years' data protection for information supplied in support of reassessments. These reassessments involve a Ministry for Primary Industries (MPI) review of all products containing particular agricultural compounds. These reassessments determine whether the agricultural compound should remain on the market and, if so, under what conditions. To inform reassessment decisions, MPI often needs access to data held by other product suppliers. Originally, the bill did not propose data protection for reassessments—however, nearly all submitters commenting on reassessments supported data protection being introduced. Submissions by both suppliers and users alike argue that in the absence of data protection for reassessment, suppliers have little incentive to supply data as part of reassessment processes.</p><p class="a">I want to conclude by talking about why this bill is so very important. It is going to give suppliers of compounds longer to recoup their data development costs, so suppliers are more likely to register new products and uses when there is more likelihood that they will recoup their costs. Suppliers are also more likely to provide the data needed to support the ongoing registration of reassessed products. Increased data protection should, therefore, result in the latest products, with more uses being available to the market, and that is going to create a number of benefits.</p><p class="a">First, new products and uses mean higher levels of investment in research and development. Secondly, it means higher productivity and international competitiveness, particularly for the smaller sectors. Thirdly, new products and uses mean new options to manage pests and diseases. Fourthly, new products and uses mean less off-label use, resulting in fewer trade risks associated with breaching default maximum residue levels. Finally, new products and uses mean stronger supply-side competition, as substitute products are introduced into the market over time to compete with registered products. So, all in all, I believe these benefits will more than offset the short-term impact on competition associated with longer data-protection periods. So, before commending the bill to the House, can I say how much I have enjoyed reading this, because I feel that I have learnt a lot in the last 10 minutes.</p><p class="Speech"><a name="time_20160915 17:08:36" ></a><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: I hope so.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 17:08:40" ></a><strong>Hon DAMIEN O'CONNOR (Labour—West Coast - Tasman)</strong>: This is quite a technical bill, and those people who do not understand that now were asleep before Minister Finlayson started, if not by the time he had finished. I will not go into the technical details of the bill—I know that the chairman of the Primary Production Committee will probably do that—other than to say that Labour supports the bill. It is basically about updating the protections for people who do some research to investigate whether a product is safe to use in the New Zealand agricultural system.</p><p class="a">The select committee worked across the board with all parties to try to get the most sensible outcome here, and the balance was one of ensuring that the people who did the work—the research—and spent the money, got some ability to recoup that investment by being able to sell their products for a specific purpose for a reasonable period of time, be that from 5 to 8 years or to 10 years. We have heard the Minister explain the adjustments that the select committee, on balance, thought were necessary to ensure that the people who spent the money got some ability to get a return on it. </p><p class="a">Why is this important? Well, Kiwis are great innovators, and the terms that the Minister used—innovative products, non-innovative products, and all the rest of it—which put most of us to sleep, are, effectively, about trying to protect Kiwis from ourselves, because when we see a chemical that kills certain weeds or certain pests in a crop, or when we get provided with that chemical, the classic Kiwi farmer or grower will say: "Well, that could be quite good to use on this other crop or pest." That probably occurred in the past, more often than it should have, but in the new world of maximum residue levels, of off-label use—and that is the kind of innovation—the reality is that all of our food products, all the produce that comes from our country, are scrutinised by the importing countries around the world to ensure that we have not, by mistake or by design, incorporated the use of a product that they may consider a contaminant. </p><p class="a">The ability now for people to test, right down to parts per million, if not parts per billion, and identify an unwanted chemical means that we have to ensure our systems are right up to speed and do not allow the use of chemicals in an inappropriate way. But we want to continue to innovate, so just as we are breeding new plant species, improving productivity rates across the board, and looking to chemical companies to assist us to control disease, we want to make sure we are doing it in the right way. </p><p class="a">The major change in this bill is actually encouraging the innovative use of products, but only when the research has been carried out to ensure that if they are applied, there is no danger to consumers or to the land or to the people applying the chemicals. So there will be research that arrives at recommendations, and if you pick up a can of chemicals and you have got very good eyesight or you have got a magnifying glass, you can read the instructions, because they are quite detailed—and they have to be. It is important that people get trained to use chemicals properly to ensure that they do not use them at twice the rate they should, meaning that there are chemicals left behind in the food they produce. It is important too that they apply them at the right time. All of these things are absolutely crucial if we are to run the finest, safest, food production systems in the world. </p><p class="a">So what we have done in this bill is we have made some adjustments to say to the companies—they might be New Zealand companies or they might be offshore companies that are selling into New Zealand: "If you see the potential for the use of an active ingredient in one chemical and you think it may be useful on another crop, then you can do that, but you have to abide by the process to get registration. But if you do that, we'll ensure that you get 5 years' or 8 years' or 10 years' protection of the intellectual property that you've developed." The alternative is that someone just comes along, gets access to that information, writes a different recommendation on their spray, or changes a compound, and then sells it for a price just under that of the company that has done all the work, and makes, perhaps, an unfair profit. </p><p class="a">We need to encourage innovation across the agrichemical sector, and we need the sector to be able to make a fair return. There is always an interesting debate about what is fair and what is excessive. On the other hand, the farmers and the growers want to buy the product as cheaply as they can. They want competition in the market. They want two or three or four people producing the same kinds of chemicals so that there is competition to keep the prices down. But there does have to be discipline, and that is where Government and agencies such as Agcarm and others come in—to ensure that, in having healthy competition, we do not cut corners and we do not put at risk any part of our food production system and do not end up with a product offshore being tested, a residue being discovered, and that consignment being rejected or sent back to New Zealand with the reputational damage that that would cause us. </p><p class="a">I think every member of the select committee had that at the back of their mind—that we are trying to protect our food production systems. As I say, I am sure that the chairman of the committee will explain in detail the reasons for the change in the time line protections. They were quite complex, I have to say, but as chairman of the committee, he is in the positon to do that, plainly. </p><p class="a">I will speak to the general principles and say that Labour does support the bill. We have worked with committee members to come up with what we think is a fair and reasonable solution that protects those who are doing the innovation and those who are carrying out the research but does not protect their rights so as to remove competition and downward pressure on those chemicals. The reality is that the production of the chemicals themselves usually costs very, very little, but the research required to get them approved as safe, and to get them approved to be used in a safe way that must be upheld—that is where all the money has to be spent. I guess it is an ongoing dilemma in the pharmaceutical sector, but also in the agrichemical area. </p><p class="a">I am not going to speak for too much longer, other than to say that I think we have a reasonably robust system. I think we do need to keep ahead of international guidelines around maximum residue limits. We do have traditional practices in agriculture that need to be updated and upgraded, and we need to look carefully at a number of things that we are still using that might end up being unwanted over time. </p><p class="a">The ongoing use of conventional fertilisers and other chemicals, such as glyphosate, are coming under scrutiny around the world. In Europe they are looking to ban it. I have to say that we have got to stay ahead of that and look for alternative, safer chemicals—or chemicals that they consider are safe—so that we can continue to sell our high-value produce into high-value markets around the world. </p><p class="a">So Labour supports the process we have gone through as a select committee and supports the outcome of this but does leave a word of warning by saying that this is a very active area of monitoring and management. The passage of this legislation will be good for a short time, and we will then need to stay ahead of monitoring of maximum residue levels and other chemicals that we are using across New Zealand, to ensure that our reputation is not ever undermined by the sale of produce that people perceive may be unsafe for consumption. Labour supports this bill.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 17:18:06" ></a><strong>IAN McKELVIE (National—Rangitīkei)</strong>: Thank you, Mr Assistant Speaker, for the opportunity to speak on the Agricultural Compounds and Veterinary Medicines Amendment Bill. It gives me great pleasure to follow that very well-known farmer from Rongotai, who introduced this topic today. I say that with very good reason, because if you think about the contribution that Minister Finlayson has made to agriculture in New Zealand—in my electorate particularly, where you have got Ngāti Apa and Atihau-Whanganui Incorporation partnering in a pretty amazing farming arrangement—he will be known in the future as someone who established some of New Zealand's great farms in his time as a Minister. So I think that it is very appropriate that he should introduce this bill.</p><p class="a">I want to go into the background of this bill a little bit because—</p><p class="Interjection"><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: He'll be calling you "hayseeds".</p><p class="ContinueSpeech"><strong>IAN McKELVIE</strong>: There are no hayseeds on him! I want to go into the background of this bill a little bit because there was a lot of discussion in the industry leading up to this bill coming to the House, and some disagreement as to how this bill might, I guess, take place. As it turned out in the end, it was pretty much unanimously supported by all participants and all those who commented on the bill and made submissions on it.</p><p class="a">I just want to go into the history of it a bit, though, because you have got to remember that we are a small country—not a very attractive market place. If our compliance and costs of entry are too high, we are then precluded from accessing some of the best products in the world. We are a small but very diverse market for both veterinary medicines and agricultural compounds, and many of these are multi-use. If the cost of application for that use is too great, they will not come to New Zealand.</p><p class="a">The introduction of new generations of products into the New Zealand market is hugely important for us—and I am sure that will be gone into, a little later. One of the reasons it is so important is it enables us to get rid of a large number of older products that no longer have a useful place in agriculture but are being used in places in the world simply because the new products either have not got there or are not able to be utilised in those markets. It is very important that we enable that to happen. It has also been a long-held view in the industry that too long a period of protection for data or patent was deferential to the industry, as the prices stayed high for too long. However, the access to new product is seen as a much greater advantage to the industry than the fact that the price might, I guess, remain a little higher for a little longer. So there was almost universal agreement among the submitters as to the best solution for New Zealand. I think that was quite exciting. I think it is also a very opportune time to be putting through legislation like this, because we have probably never seen changes like this in the agricultural and pastoral sector at the rate that we are seeing at the moment. The opportunity is amazingly different from what it has been in the past, and we need to keep up with the times and enable change to happen very quickly.</p><p class="a">As a matter of interest, there are about 300 companies with about 3,000 products that are registered for sale in New Zealand under the principal Act. It can be as simple a product as an insect repellent that can be claimed under this Act. It can be rat poison. Clearly, under the Act there are a number of the products that have already been talked about, like some of the chemicals that are very prevalent in New Zealand today, particularly in pasture farming. For those of us who have been around the industry for a long time, it could be the simple old drench—all those drenches that we use for worm control and things like that in animals. They are all registered under this Act as well.</p><p class="a">I want to thank the Primary Production Committee for its pretty good work in the course of getting through this bill, and also Minister Goodhew, who brought this bill to the committee.</p><p class="a">I want to make a very brief comment on the Greens' opinion. They have chosen to introduce a minority view on this bill, which I think makes a number of political points—the relevance of some are questionable. Of course, the Greens have every right—everyone has every right—to bring a minority report to a bill, but I do think that, from a New Zealand Inc. point of view, as I said earlier, it is very important that we enable these new-generation products to come on to this market and be utilised as they are.</p><p class="a">I just want to comment on a few of the changes to the bill as introduced. We are extending the base level of data protection from 5 years to 10 years in New Zealand, for the reasons I have outlined before. Just as an example from around the world, in Australia, I think, the time that this data protection is in place is for about 8 years. In the USA and the European Union it is for 10 years, and in Japan it is for 15 years. We have placed ourselves at 10 years, which I think gives us a much stronger place in the market. It enables our companies to come into the country with some confidence.</p><p class="a">There are new uses for innovative compounds. The previous speaker, Damien O'Connor, went into this to some extent. With New Zealand being an innovative kind of country, we have always found ways of using products designed for one thing that can easily be used for something else. In the past they have been used in that way, but not necessarily in a manner that we would perhaps approve. This legislation enables that to happen. It allows those compounds to be protected for the remaining period of either the original 10-year period or 5 years after the new-use application is decided, whichever is the longer. The committee decided to do this because it encourages the early registration of new uses. It covers what I just talked about, where there are so many different uses we can have for these products.</p><p class="a">We also went into the ability of the Ministry for Primary Industries (MPI) to reassess this stuff. That is necessary because MPI—and I am sure this will be raised later in the discussion—needs the ability to look into these products if they are suspicious or if it is suspected that they are not performing as they should.</p><p class="a">I have probably used my time. I look forward to the discussion that will take place during the Committee stage of this bill. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 17:24:44" ></a><strong>RINO TIRIKATENE (Labour—Te Tai Tonga)</strong>: It is a pleasure to speak on the second reading of this bill, the Agricultural Compounds and Veterinary Medicines Amendment Bill. That is quite a hefty title, but this is a very important piece of legislation. For those who may not know what we are talking about here, we are talking about the regulation of agricultural compounds. These are agricultural chemicals, also known as pesticides, veterinary medicines, vertebrate toxic agents—for example, pest control agents—and a range of other compounds used to manage plants and animals, such as fertilisers and some other—</p><p class="Interjection"><strong>Richard Prosser</strong>: Surfactants</p><p class="ContinueSpeech"><strong>RINO TIRIKATENE</strong>: Surfactants, that is it. That is what we are talking about here.</p><p class="a">It was a pleasure coming in midstream on this bill, on to the Primary Production Committee, just to hear the submitters and to find out the rationale of what we were doing. This came down to a fine balance: ensuring that suppliers of these agricultural compounds were able to recoup the significant investment that they had put into, in particular, new and innovative products. Under the existing legislation there was a 5-year protection for new innovative products. The bill that was introduced extended that to 8 years. But following quite detailed examination by the committee, it was felt that 10 years would be a more appropriate protection for the confidential information that accompanies these applications. As we know, once the protections have expired it is open slather for any other competitor to create their own generic products, based on the data that had been protected.</p><p class="a">So we are increasing that data protection period out to 10 years. It may seem like a significant period of time, but in the context, and as has been touched on by the Minister, that extended period is a fair amount of time for the suppliers to recoup that investment. It also allows the suppliers a bit more flexibility to apply for new uses of those compounds, and also to have the benefit of the extended time frame. At the end of the day it was a call that needed to be made, but I think that the committee has come to a pragmatic outcome. We listened to the concerns of the industry. Giving it that extra period of protection seemed a very sound, pragmatic move. I know it was not wholly supported. There are concerns, I guess, in terms of making sure that there is competition available, more choice, more competition for the consumer, for our farm producers, and for our horticultural industries, right across the country. But at the end of the day I am comfortable with the extended period that we have included in the bill at its second reading.</p><p class="a">I know that Mr Prosser, who I think is about to make his contribution, wanted to extend the protection for 20 years, 30 years, or 50 years. I think he might be putting in place a Supplementary Order Paper to extend the time. But I think 10 years is a very good, even-handed outcome that we have come to. Of course the bill does make the extension for innovative products, and also the same applies to non-innovative products. Initially it was 3 years' protection—that has been extended to 5 years. Also, for the applications on new use, we have expanded the definition of "new use" as it was considered a bit too narrow in the bill as it was initially introduced.</p><p class="a">We certainly hope that we will see the benefits from this legislation: that we will see more applications made to extend through more uses of existing products. And that also, because of the confidence that companies will have, they will be able to go through the process to register their compounds in the knowledge that they will have extended data protection. That will, hopefully, lead them to reinvest and to look into other various innovative products that they can come up with—because we need these products. At the end of the day, they are vital to our economy, and vital to our food production, especially. They underpin our whole GDP and our whole standard of living that we have as a nation, so it is very important that we do have access to world-class products, agricultural compounds, and veterinary medicines. The bill may seem full of jargon—in terms of the language of the bill—but, practically, it is very, very important to the livelihood and, indeed, to the standard of living that we have as a nation.</p><p class="a">I do commend the Minister Christopher Finlayson for his second reading speech. He did sound like an absolute expert on the area—much like I do—the great farmer from Rongotai, who has single-handedly boosted the Māori economy, exponentially, in his time as Minister for Treaty of Waitangi Negotiations. So I do acknowledge the Minister for his contribution there. I do look forward to seeing greater productivity, greater innovation, and the greater exports and foreign exchange earnings that can be achieved through this piece of legislation. I commend it to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 17:31:59" ></a><strong>STUART SMITH (National—Kaikōura)</strong>: It is a great committee to work on, the Primary Production Committee. Having a bill like the Agricultural Compounds and Veterinary Medicines Amendment Bill, we really got our teeth into it—no pun intended—and we had a lot of good evidence that came before the committee. It was fantastic.</p><p class="a">I think the heart of this bill is about protection of data, and, I guess, the only crunch point that came—particularly with the Green member of the committee—was around the length of the data protection. I think that that is obvious in the report back to the House. I think, certainly from my own practical point of view, that where you have a chemical, which I have seen, like a fungicide that is commonly used in cereal production, and was registered in New Zealand for that use, to be able to use that in horticulture and viticulture, a company needs to do the work behind the scenes—do all the research, get all the data—around making a label claim. You cannot use it until it has a label claim for a particular crop, and that costs a lot of money.</p><p class="a">I have seen the trial work in the field. It is a lot of work out there, it is hard work, and all of that data and the costs associated with that—companies simply will not do the work if they will not get a return on that investment. As it stood in the past, if they did not have an adequate period of time, as has already been alluded to, the size of the market dictates that they just will not make enough money to recoup that investment, so they simply will not do it. The same thing goes for veterinary medicines. So a medicine or compound that could be used for a particular ailment or condition in an animal—they may not necessarily want to claim for another animal, but they would need to have trial work done for it using either a slightly different formulation or for a different condition, which would need different doses, and so on. All that work costs a lot of money.</p><p class="a">I think the bill has covered all of that, but during our select committee work, we expanded what was in the bill. We have gone back and recommended an extension on periods due to the evidence that came back to that select committee, and it was really quite heartening to hear from the industry. As I say, it was not unanimous on those particular points—the length of time—but very important, none the less.</p><p class="a">I also want to talk about reassessments for data protection. There was no existing protection for data when products were being reassessed, and that can happen from time to time, so we recommended extending that to be covered in section 29(3) amended by clause 4A, and section 30 amended by clause 4B. We are taking that out to 5 years—once again, the evidence was that that data costs a lot of money to be collected, and it deserves some protection under the Act. We also amended section 74A(1)(a) in clause 6 to clarify confidential information because, as it stood under the Act, there was some room for doubt that the Director-General could disclose confidential data to Ministry of Primary Industries officials. I think this is a fantastic bill, and I really commend it to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 17:35:55" ></a><strong>STEFFAN BROWNING (Green)</strong>: I rise to speak to the Agricultural Compounds and Veterinary Medicines Amendment Bill. Colleagues have waxed lyrical on the need for safety and training, and some sort of reliance on the regulatory authorities for getting it right around the safety of these chemicals. I note that Damien O'Connor said that some of them will become unwanted over time—of course they will become unwanted, because they are patently dangerous. They are patently risky for the community, for the workers, and for the environment. Over time—</p><p class="Interjection"><strong>Hon Damien O'Connor</strong>: I didn't say that.</p><p class="ContinueSpeech"><strong>STEFFAN BROWNING</strong>: —is too late—yes you did—for far too many in our communities. It is far too late. It took a long, long time to rid us of DDT—and it is still in our soils—and it will have caused many, many cases of breast cancer in its time. And then there is endosulfan: the Government has sat on its hands because it was seen to be convenient for industry, for the primary production part of New Zealand. But was it necessary? No, it was not, as a lot of agriculture chose not to use that; it did not need it. It is totally dangerous but was taken off only when trade was affected—when trade in meat into Korea was affected, which it was when it was taken out. Our Environmental Protection Authority (EPA)—or Environmental Risk Management Authority in the day—did not look at that in terms of the community health in the way it should and nor will the EPA or Ministry for Primary Industries (MPI) for the raft of pesticides that this bill is meant to be allowing, or encouraging, in. That is what they want. They want better data-protection so that it seems more lucrative for those big pesticide companies like Syngenta and Bayer and BASF and the numerous other ones—DuPont and so on. They somehow need help? No, they do not.</p><p class="a">We in the Green Party did a minority view and clearly opposed this, and I am very disappointed that other colleagues in the House have not persuaded their parties to oppose this as well, because 5 years' data protection was any amount—absolutely any amount. It was seen as maybe being too small, and deterring companies from registering products because they would not get enough time to get their loot back out of developing them. Well, actually the statistics prove otherwise. Since 2008—the time National has been in—1,100 new agricultural compounds and veterinary medicines were registered but only 239 were cancelled or expired. During that time industry could have applied for new ones, MPI or the EPA could have pulled them. We are getting a gross increase in pesticides—there are some other products in there; it is not all pesticides, but a lot are—and this is meant to encourage more of them.</p><p class="a">There is the Covec report—and I will have to read this: "Considering the widening [use] of existing products," ahead of this bill, "the fact that most innovative agricultural compounds were eligible for a 20-year period of patent protection meant that a 5-year period of data protection did not appear to have a significant impact on the registration of new products." So what is this about? Why are we doing this? It is actually to increase the monopoly for those big corporates. I call it a Trans-Pacific Partnership agreement (TPPA) bill. It is listed as one of the bills to give effect to the TPPA because it goes right to it. It changed from an extension to 8 years—5 plus 1 plus 1 plus 1 to get to the 8 years and new uses—up to 10 years' data protection to go in sync with the TPPA. In fact, the Law Society did that in its submission and said we should do that to match the TPPA. It is a TPPA bill, looking after those big corporates that do not give a toss about the community health of New Zealanders. All those kids with endocrine disruption, all those cancers that we are seeing in our friends and relatives—how many of them are from these pesticides? We know that some are.</p><p class="a">Covec went on: "Companies' apparent reluctance to carry out the extra testing to add other uses to innovative compounds for the New Zealand context is therefore more likely to reflect the small size of the market rather than the lack of data protection." Here we are, doubling data protection to give these guys even more protection. We think it will lead to more monopoly by the large companies. Yes, there may be two or three small companies in New Zealand that may see some gains. There may be some intellectual property that some innovation in New Zealand has seen to be an advantage. Overall, there will not be an advantage and it will not be an advantage for our producers, because the costs will be held up—less competition—and if they want to go down the pesticide route, they will still be paying more for their pesticides because of the monopolistic outcome of this bill.</p><p class="a">The regulatory impact statement from MPI focused on the cost of new innovative or non-innovative products to the market, to the users. It at no time reflected on the real externalities of these pesticides. It did not look at the cost to the environment, the cost to human or animal health. MPI will be leaving that to the EPA under the Hazard Substances and New Organisms Act and its ability to assess properly. It has no ability to do a decent job and I will go into some of that in the few minutes that I have left. </p><p class="a">I will mention glyphosate—</p><p class="Interjection"><strong>Hon Members</strong>: Oh!</p><p class="ContinueSpeech"><strong>STEFFAN BROWNING</strong>: —and hear the orchestra over here—because they are not addressing that properly in this country. Glyphosate-based herbicides are the dominant herbicide used in the world. In New Zealand we have 91 different formulations—91 formulations—and I cannot find out what the adjuvants are—those stickers, those penetrants, and whatever is in those—because of data protection.</p><p class="a">Europe has just banned a dominant one, called "POEA" for short—something like polyoxyethylene tallow amine. It is a big name—POEA. They have just said to their countries "Ban it." Guess what? It is in 69 of our 91 glyphosate-based herbicides and I cannot find out, even with writing to the Minister, which ones they are. So POEA should be pulled in New Zealand. Has our EPA got the presence of mind to reassess it and kick it out of use in New Zealand? What this Government is doing—and unfortunately is supported by some in the Opposition—is that it wants to double that data protection so that people like myself, people in the Pesticide Action Network, the Safe Food Campaign, and others who have the vested interest of the community's health cannot get that information. They cannot get that. They cannot find that out. They cannot tell the New Zealand community: "Steer away from that product. The EPA is not doing a good job for you." </p><p class="a">The EPA was also saying: "Hey, roll on with the use of it in our streets and our parks and our kids' playgrounds. We think it's OK, because we're only looking at industry science."</p><p class="Interjection"><strong>Ian McKelvie</strong>: What about Monsanto?</p><p class="ContinueSpeech"><strong>STEFFAN BROWNING</strong>: Industry science, provided a lot by Monsanto—thank you, Ian. Monsanto has given the biggest dump of information to our EPA around the safety and risks of glyphosate. It is a good example—yes, I talk about glyphosate a lot because it is a clear, ready example, and it is in our streets, our parks, and our playgrounds, and we need it out of there. </p><p class="a">I went to Europe in the last major adjournment to look at pesticide reduction strategies and some other policy issues, and I went and met with officials and the like. Denmark has a strategy to protect water, nature, and human health. It has a strategy to reduce pesticide use by 40 percent in a very short time. We will be opposing this bill, still.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 17:46:02" ></a><strong>RICHARD PROSSER (NZ First)</strong>: Does time not fly? It has been 11 months, almost to the day, since we debated this bill last. I was going back through my notes and I knew that we supported the bill—I had to refresh myself as to precisely why, or, more to the point, find reasons that we should not if we were not going to. Yes, it was 11 months ago the day before yesterday that we first debated this. </p><p class="a">When we did last examine this bill, we in New Zealand First indicated that we would support it to the select committee stage, but not necessarily beyond, depending on what we might find within it. Once we got it on the operating table, so to speak, and cut it up and dissected it and had a look, we would decide again. So we did that, and I am happy to report that New Zealand First is sufficiently satisfied with the bill and will continue to support it. That does not mean that we think it is perfect. We do still think that it can be improved, and this has actually become a bit of a recurring theme for New Zealand First—we find ourselves in agreement with some of the Government's proposed legislation. </p><p class="a">In the roughly 50 percent of the cases where we are in agreement with Government legislation, we find ourselves thinking that, in some ways, it just does not go far enough. In one aspect, at least, that is the case with this bill. I want to focus on that, and I want to raise a flag—if in fact the psychic and perhaps prescient Mr Rino Tirikatene has not beaten me to it—that New Zealand First does intend to introduce a Supplementary Order Paper, come the Committee stage, when we reach the Committee of the whole House, to address an area where we feel this bill could be significantly improved to the benefit of "New Zealand Inc." as a whole. </p><p class="a">I say that now because I would very much like the Government members and the Minister—and I thank the Minister for his informed contribution—to take the time to look at what we are calling for and think about how that could be incorporated into the bill and why the outcomes that it could produce may be of benefit to "New Zealand Inc." They will be in the area, as other members have alluded to, of the length of time that intellectual property (IP) owners have as a protected period for their IP. It centres on the fact that we regard the proposed increase, even as it has been extended by the officials after the select committee stage, as being insufficient, or if not insufficient then at least not as good as it could have been. </p><p class="a">So what we will be asking Parliament to consider at the Committee stage is an increase beyond the levels that even the industry itself was asking for. I do not know why the consensus of the industry—and it was a consensus amongst many of the submitters—was to request an extension from the existing 5 years to 10 years, rather than the 8 years that was proposed. I am wondering whether perhaps they had a think about this and thought that maybe it was as much as they were going to get. I did question a number of submitters and make suggestions. It became apparent that almost all of them were certainly open to the idea and keen on the idea of getting as much protection as they could get. So I do wonder whether it goes back to them perhaps making a value judgment as to how much extended protection Parliament is likely to offer and aiming at that, and I wonder whether perhaps we could go beyond that. </p><p class="a">There has been some discussion as to the relevance—and my colleague from the Greens raised the issue—of the Trans-Pacific Partnership (TPP) agreement. There was some concern that whatever we did in terms of the length of the period of protection for IP under this bill, the TPP agreement would overwrite it. The 10-year period, which was suggested, would be the same as that which was suggested within the TPP agreement, some technicalities aside. I do not actually think that is relevant, because for all the contention around the TPP agreement and the fact that we do not support it as a party, it is not going to happen anyway, because both Hillary Clinton and Donald Trump have come out and said that they oppose it. One of those two will become the next President of the US, they will veto it, and the TPP agreement as we have been negotiating it will not fire. </p><p class="a">But that is not to say that something else may not grow out of the negotiations that have led up to it. In a few years' time other countries may get together and may create something else that started life as the TPP agreement and became something else. But what we are faced with now is an industry that requires some changes. We have this proposal, which is the TPP agreement, which is kind of a side issue. We have got some extensions that have been proposed to it, and, irrespective of any other legislative changes or treaty changes that may come to affect this, what we have got at the moment with this bill is a set of alterations to current legislation that we are looking at as a Parliament, regardless of what may or may not happen in the future. </p><p class="a">On the face of it—and other members have made mention of it—the bill does ostensibly extend the protected period from 5 years, as it currently is, beyond the 8 years, which was originally proposed, to 10 years, as the officials have recommended, following the submissions process in the select committee, and that, supposedly, will bring us into line with Australia. But when you actually look at the fine print, it is not quite that straightforward, because what happens in Australia is that IP owners get a 10-year, blanket protection on any first use. What is being proposed for us under this 10-year extension is that we have the period extended to 8 years and then there is a further 3 years that can be tacked on to that for additional uses. They will get the total of 10 years but only if more innovative uses are added on to it, so it is not really quite the same degree of protection that other jurisdictions provide. </p><p class="a">So what that means is that if you are an owner of IP, you can get the maximum protection only if you continue to evolve the uses, the applications, that the particular compound that your IP refers to can be utilised for. As I think the select committee chair mentioned, some jurisdictions do have a greater degree of protection—running out to 12 and 15 years in Europe, the US, and Japan—and, again, that is a variety of blanket protections and then additional protections, depending on changes in use types. So what New Zealand First will be doing by way of a Supplementary Order Paper is proposing that the complex 10-year period that has been proposed by officials and accepted by the select committee be extended to a blanket period of 12 years, with an extension possible to 15 years, when the additional new uses and so forth are added on to it. </p><p class="a">The reason we are doing that is that this will encourage agrichemical companies and veterinary medicines companies to look seriously at it. It will give them another reason to look at relocating their current research and development activities and their manufacturing activities from where they are currently based to New Zealand, because this is the sort of foreign investment that New Zealand First welcomes.</p><p class="Interjection"><strong>Todd Barclay</strong>: What!</p><p class="ContinueSpeech"><strong>RICHARD PROSSER</strong>: You did hear that right—New Zealand First does welcome the right kind of foreign investment. There are companies that do not currently operate here and are not going to because of the environment. When you can give them a reason to come here and to bring in new money that would not have come here otherwise, and to invest in new businesses that would not have existed otherwise, and to create new jobs that would not have existed otherwise, and to generate new foreign exchange that the country would not have had the advantage of otherwise, that is good foreign investment. Foreign companies coming here and simply buying up houses, buying farms, and buying existing businesses, and not injecting any new capital into the country, and directing their money offshore is not good investment. </p><p class="a">We believe that a bill that gives companies of this type an incentive—a further incentive—to bring their business to New Zealand and to do their high-tech research and development here is a good thing for New Zealand, and that is the primary reason why New Zealand First is proposing this further alteration to the bill. Irrespective of that, we are continuing to support the bill. We do think, as I say, that it can be further improved. I reiterate that I would like the Government members, and the Minister in particular, to seriously look at the proposal when we bring it up, to have a look at how they think it may be able to be incorporated in how the bill functions in their approach to the industry as it relates to the bill. Perhaps they could consult with some of their industry contacts. </p><p class="a">OK; we are making this bill better than it was when originally proposed—I think we can make it better again. That is what our suggestions and proposals will be based upon. Irrespective of that, we do support the aims and intentions of the bill. We do think that it will be a good thing for New Zealand, for the companies that operate here, for the farmers and horticulturalists, and for everybody else in the sector who takes advantage of those advances in chemical science that make agriculture easier, better, cleaner, and safer. For those reasons we will continue to support the bill anyway, but we would like the Government and other parties to give serious consideration to making it even better than it is going to be. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 17:55:18" ></a><strong>TODD BARCLAY (National—Clutha-Southland)</strong>: Well, I will eat my hat. Mr Prosser and New Zealand First saying they support foreign investment—that is fantastic.</p><p class="Interjection"><strong>Richard Prosser</strong>: The right kind.</p><p class="ContinueSpeech"><strong>TODD BARCLAY</strong>: One more time, Mr Prosser: New Zealand First supports foreign investment.</p><p class="a">It is a privilege to be able to speak on the Agricultural Compounds and Veterinary Medicines Amendment Bill in its second reading. It was quite an interesting bill to hear submissions on in the Primary Production Committee, because it was quite a unanimous view—it was not a fully unanimous view, but it was a strong steer that we got from the industry and the participants who came to present to us, around the direction that the bill should be heading in and the large levels of support that it had.</p><p class="a">As we know, the bill extends the period of protection for confidential information given in support of an application to register an innovative trade name product from 5 years to 8 years. One of the recommendations that the committee put forward following the submissions was to extend that period to 10 years' time. We think that it strikes the right balance, as has been remarked by a number of members so far, between incentivising the registration of products that our primary sector needs and encouraging competition in the agricultural workplace—and the market place, indeed, as well.</p><p class="a">My electorate, the electorate of Clutha-Southland, is a significant food producer. A significant part of our local economy is primary industries—agriculture, food production—whether that is crops or whether it is animals into meat produce. The thing is that our producers say the same as every producer in the primary sector across the country, and that is that the sector flourishes when competition is enabled and when we have got the right protections in place to be able to protect our brand internationally and also incentivise home-grown innovation in this space. The Government, across a various array of disciplines, has been heavily focused, particularly over the last 6 years, in trying to incentivise investment in New Zealand. If you look at the Primary Growth Partnerships and the Sustainable Farming Fund managed by the Ministry for Primary Industries, there are a number of examples within them that incentivise innovation in New Zealand.</p><p class="a">I will remark on one of the points that the Green member Steffan Browning just mentioned. For a strong supporter of the organic sector, he neglected to acknowledge that the organic sector stands to benefit quite considerably from the changes that have been set out in this piece of legislation. There were participants from that sector who contributed towards some of the recommendations that the committee has put forward and that are being debated today.</p><p class="a">As I say, we got a pretty clear steer from submitters, and both sides of the industry—suppliers and users of these products—were concerned that before this bill was introduced, the current data-protection level was not sufficient and actually inhibited registration of the latest technologies. That was also backed up by a Government review that found that the incentives were not as strong as what they could have been in order to incentivise innovation in agricultural compounds and veterinary medicines in New Zealand.</p><p class="a">It was a privilege to have sat in on the submissions and to have heard from our submitters. I would just like to acknowledge the other members of the committee, acknowledge the Minister for Food Safety for bringing in this bill, and also acknowledge the people who took the time to come and submit to the select committee to make this bill even better. Thank you very much.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 17:58:52" ></a><strong>EUGENIE SAGE (Green)</strong>: Tēnā koe, Mr Assistant Speaker. I am pleased to take a short call on the Agricultural Compounds and Veterinary Medicines Amendment Bill.</p><p class="Interjection"><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: It will be, tonight.</p><p class="ContinueSpeech"><strong>EUGENIE SAGE</strong>: Yes. The Green Party, as my colleague Steffan Browning explained, does not support this bill, and that is largely because we think the Government, through the bill, is interfering in the market to actually benefit the big multinational companies. We think that the balance is weighted too heavily in their favour and too far against the public's interest in what is in these agricultural compounds, what the active ingredients are, and what their impacts are on crops, on animals, and on human health.</p><p class="a">The Primary Production Committee, in terms of the changes that it has made, has actually worsened the bill by increasing the period for which the information must be maintained in confidence by the Ministry for Primary Industries. We have got some information that has come through in terms of the Covec report, but there is not the solid information that actually justifies—</p><p class="Interjection"><strong>The ASSISTANT SPEAKER (Hon Trevor Mallard)</strong>: I regret interrupting the member. This debate is interrupted and set down for resumption on the next sitting day. The House stands adjourned until 2 p.m on Tuesday, 20 September 2016.</p><p class="IndentMarginalone">Debate interrupted.</p><p class="CentredEndingBold"><strong>The House adjourned at 6 p.m</strong>.</p><p class="a" ></p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

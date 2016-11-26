@@ -1,0 +1,811 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Official Information (Parliamentary Under-Secretaries) Amendment Bill — Third Reading - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_20" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_20/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Official Information (Parliamentary Under-Secretaries) Amendment Bill — Third Reading</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20160629_20160629_20/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_20" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_20/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_20/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_20/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160629_20160629_20/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160629_20160629_20/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>OFFICIAL INFORMATION (PARLIAMENTARY UNDER-SECRETARIES) AMENDMENT BILL</strong></p><p class="SubDebate"><strong>Third Reading</strong></p><p class="Speech"><a name="time_20160629 19:49:25" ></a><strong>ADRIAN RURAWHE (Labour—Te Tai Hauāuru)</strong>: I move, <em>That the Official Information (Parliamentary Under-Secretaries) Amendment Bill be now read a third time</em>. Tēnā koe e Te Māngai o Te Whare, ahakoa ngā piki me ngā heke o ngā kōrero, kua tae mai ki tēnei pire hōhonu ki Te Motu nei.</p><p class="a">[<em>Thank you, Mr Assistant Speaker. Despite the ups and downs of the contributions, we have come to this esoteric bill for this nation.</em>]</p><p class="a">I am very happy that we have arrived at the third reading of the Official Information (Parliamentary Under-Secretaries) Amendment Bill. The Official Information Act is one of the few mechanisms of democratic accountability: it gives taxpayers and voters the confidence that decisions are made on their behalf, and that they are right and proper. The purposes section of the principal Act that this bill wishes to amend leads off with the following words: "The purposes of this Act are, consistently with the principle of the Executive Government's responsibility to Parliament,". It then goes on to talk about the availability of official information. It talks about effective participation in the making and administration of laws and policy. It talks about the accountability of Ministers of the Crown and officials. It talks about respect for the law. It talks about promoting good government, and proper access to official information. It talks, also, about the protection of official information.</p><p class="a">As a Parliament, we expect to have in place robust mechanisms to hold the executive to account, and the Official Information Act is one of them. That is why this bill is before the House. The executive Government is at the forefront of the purpose of the Official Information Act 1982, and as the Government Administration Committee was advised by the New Zealand Law Society, parliamentary under-secretaries are part of that executive. Therefore, there is an anomaly in how parliamentary under-secretaries are treated in respect of the Official Information Act, and my bill will correct that anomaly.</p><p class="a">To do this, clause 4 of the bill inserts "Minister of the Crown includes a Parliamentary Under-Secretary", to amend Section 2(1) of the Act. This simplifies the bill and gives it the flexibility to accommodate continued evolution of the executive roles and functions. This amendment refers only to official information held by parliamentary under-secretaries in their official capacity subject to the Official Information Act 1982. In its report to the Government Administration Committee, the Ministry of Justice considered that this bill is consistent with the purposes of the Official Information Act, with the constitutional position of parliamentary under-secretaries as part of the executive with the ability to exercise delegated ministerial powers. Therefore, the Ministry of Justice recommended that this bill should proceed.</p><p class="a">I would like to make some acknowledgments. I want to acknowledge all of the submitters who made submissions, and there were only a few. But I want to acknowledge, in particular, the submissions from the New Zealand Law Society and the New Zealand Law Commission. I reflect back to the first reading of this bill, and there was some substantial opposition to this bill. Since then I think that the weight of evidence provided by the New Zealand Law Society and the Law Commission, as well as the report from the Ministry of Justice, has, at the very least, persuaded—but I would go so far as to say, has kind of forced the hand of—the Government parties to reconsider their positions.</p><p class="a">As we saw in the second reading and at the Committee stage, that reconsideration has been forthcoming, albeit with some elements of discussion—some of which I thought were quite irrelevant. I reflect on some of the questions asked at Committee stage, and I would have to say that where I come from we have a saying. It is only four words, but it goes: "Good kaupapa, wrong hui". That basically means that some people have brought up good topics within the discussion, but it is at the wrong meeting or at the wrong process. So I wanted to just let people know that despite calling this bill a "silly" bill, you must surely have to be beyond silly to vote for something that you think is silly. I will let the general public make their own decision about the ability of someone to be able to make that kind of statement in this House. But I do want to acknowledge the Government and the National Party members for reconsidering their position. As I said, I think the weight of evidence from both the New Zealand Law Society and the Law Commission was such that it helped that process along.</p><p class="a">It would be an unusual situation for a Government, I guess, to vote against its own Ministry of Justice, because the Ministry of Justice was very clear on its position on this bill. I want to acknowledge the members of the Government Administration Committee, led by the Hon Ruth Dyson, for the work that they did on this bill. I want to also acknowledge Chris Hipkins, who originally submitted this bill and whom I inherited it from. I was very pleased to do so, actually—as a then member of the Government Administration Committee I was very happy to accept that on behalf of the Labour Party. We are about open government. This is what this bill is about.</p><p class="a">As I said, the executive Government is at the forefront of the purpose of the Official Information Act. The parliamentary under-secretaries are part of that executive, and they should also be part of the Official Information Act where it is relevant to their work as a parliamentary under-secretary.</p><p class="a">I want to also just thank the House. This process has been a learning process for me as a first-term MP—to help a bill through its entire stages and to come to the third reading. I have learned a lot about this process—I have probably learned a lot more about people's own way of dealing with things, and they have not always been upfront and honest about it. I think that as we are at the third reading it is actually time to either vote for this bill with real determination and purpose, or just do not vote for it at all, Mr Seymour. Nō reira, ka nui te mihi atu ki Te Whare e tū ake nei, ahakoa ngā piki me ngā heke e pā ana ki tēnei pire, e tino mihi atu ki a tātou o tēnei Whare. Nō reira, Mr Assistant Speaker, tēnā koe.</p><p class="a">[<em>Theref</em><em>ore, I extend a huge acknowledg</em><em>ment to the House standing before me, and regardless of the ups and downs relating to this bill, I really commend us of this House. So thank you</em><em>,</em><em> Mr</em><em> Assistant</em><em> Speaker.</em>]</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 19:59:32" ></a><strong>MARK MITCHELL (National—Rodney)</strong>: I want to acknowledge my colleague on the Government Administration Committee Adrian Rurawhe, and congratulate him on getting his bill through the House. I just want to make an observation: the Labour Party for the 9 years it was in Government had two parliamentary under-secretaries. I think those parliamentary under-secretaries probably did a very good job. We went through those 9 years, then we came into two terms of Government with National—that is 15 years. Fifteen years went past and they were very lucky that Mr Rurawhe came in and saw that when Mr Seymour became a parliamentary under-secretary they had to do something about this. He reacted quickly and he made sure that he got a bill into the House. It is funny that after 9 years of actually having their own parliamentary under-secretaries, Labour members never saw any need to make any changes around the Official Information Act. I just wonder whether there was something going on in those 9 years, that they realised: "Oh, we have to make some changes."</p><p class="Interjection"><strong>Iain Lees-Galloway</strong>: What did the National Opposition do about it? Nothing.</p><p class="ContinueSpeech"><strong>MARK MITCHELL</strong>: I said in one of my speeches—maybe I am being a bit cynical about this, Mr Lees-Galloway, but it seems very strange that Mr Seymour comes in as a parliamentary under-secretary, with a policy that is not popular with the Labour Party, and all of a sudden we have got this bill in the House. On saying that, it was obvious through the select committee process that people want more transparency—and I remember Mr Seymour bringing in a whole lot of folders showing that he is already operating like that—but we are very happy to be able to support this bill. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:01:07" ></a><strong>Hon RUTH DYSON (Labour—Port Hills)</strong>: Can I first of all acknowledge Sue Moroney, who led the paid parental leave bill, and say that it is really disappointing that as we celebrate what looks like unanimous support for this bill, we are not doing the same with her bill.</p><p class="a">When my colleague Adrian Rurawhe—not "Rua-why", or whatever Mr Mitchell called him; certainly the wrong surname—stood to take the first call in this debate, one of the National front-benchers interjected: "And now on to a substantial topic." Actually, it is important, this topic, but I have to say that despite accountability and transparency being important, they are not as important as the opportunity to give families of newborn babies or adopted babies extra financial support in the first few weeks of their life. That would have been a great bill to pass, and I am outraged that for the first time ever in New Zealand we had the financial veto exercised. But with this bill it sounds like we are going to get support.</p><p class="Interjection"><strong>David Seymour</strong>: The member had a couple of wines at dinner, and came back and talked about the wrong bill!</p><p class="ContinueSpeech"><strong>Hon RUTH DYSON</strong>: The member who is chirping obviously had a nice break earlier this evening. He has come back to the House well rested and full of energy. When he saw this bill he said it was a silly bill. He said "What a silly bill."—he was not going to support it. Then his mates in National said: "Well, we are.", and he said: "Oops, I can't be the only one in the whole of Parliament voting to protect my own ability to keep stuff secret." That would not have been a good look. Even for that member it would not have been a good look. So he is now supporting what he described as a silly bill. I think my colleague is correct—it makes him look a lot sillier than any legislation that has come in.</p><p class="a">I think Mr Mitchell made a valid point—that not one single member of the then National Opposition, through the entire 9 years of a Labour-led Government, had the common sense to put up a bill like this. It was a lazy Opposition, just like it is lazy in Government now. It should have spotted the opportunity and put forward a member's bill itself, but it did not. So it was up to a Labour member in Opposition to do that, and I am delighted that we are doing it now.</p><p class="a">We did not get many submissions on this bill, but I think the quality of the submissions from the Law Society and the Law Commission particularly was extremely high. It was very helpful to us. The three parties represented on the Government Administration Committee had good cross-party discussion and debate about the bill, and I think we have returned it in a better state. I think the Committee of the whole House stage was a valuable contribution to democracy. This bill will make our Parliament more accountable and more transparent, and that is something that the whole of our Parliament should pursue. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:04:09" ></a><strong>DAVID SEYMOUR (Leader—ACT)</strong>: I rise on behalf of the ACT Party in support of this bill. I have to say I have kind of warmed to Mr Rurawhe's bill throughout the process of passing it. Of course, I maintain my earlier position that it is a completely pointless bill. Just this afternoon I was reading and preparing information to be released proactively in one of my portfolios, for all the world to see, and at the second reading I showed the House just how many piles of that information have already been released. And, of course, any member who had any kind of gumption could make an Official Information Act request to either the Minister for Regulatory Reform or the Minister of Education for any official activity I have had assigned to me. Any member could have accessed all my official information through that route. So the bill makes no difference whatsoever to my functioning as a parliamentary under-secretary.</p><p class="a">However, the bill has become attractive because it opens up some very interesting questions. Sadly, my amendments in the Committee stage were ruled out of scope, but I respect the procedure and traditions of our Parliament and, as a result, I have come to support the bill in the hope that it will be a launch pad for much greater transparency and more open government. My amendments proposed that the judiciary and the Ombudsmen, for instance, should also have the Official Information Act applied to them.</p><p class="a">Now that we have blurred the line between executive decision-making power and the Parliament, why stop there? I think many people in New Zealand would regard it as being in the public interest to find out where exactly the Green Party members go, given that they have the highest level of air travel spending of any party in this Parliament. Where do they go, given that none of them has an electorate? I think that is something that the public of New Zealand would have a great interest in knowing, so why do we not in future introduce the Parliamentary Service to the Official Information Act, because I would like to know where the Greens go. Many of us would like to know where Denis O'Rourke goes, just out of curiosity. He himself probably does not know. If we were to bring the Parliamentary Service under the Official Information Act all members, including Denis O'Rourke, could find out where Denis O'Rourke goes.</p><p class="a">I think that we have actually come upon a touchstone of what open government should mean for New Zealand, and I predict that over time this bill will be a launch pad for many more members of the Government establishment in New Zealand coming under the Official Information Act. Just as an example, in respect of the member who just resumed her seat, Ruth Dyson, people might like to know when she drives home and how she drives home. People might like to know all sorts of things about members' activities—whether they get stopped and breath-tested, for instance. I can see all sorts of scope for people to want to know more about how members of Parliament and members of the Government establishment in New Zealand behave.</p><p class="a">So I support this bill because it makes no difference to me, but it will make a very large difference to the tradition of public interest in New Zealand, to which the Official Information Act should apply. I commend this bill to the House. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:07:52" ></a><strong>CATHERINE DELAHUNTY (Green)</strong>: Tēnā koe, Mr Assistant Speaker. Tēnā koutou e Te Whare ko tēnei pō. I am very pleased to say a few things right now. One of them is: would it not be great if we actually lived up to the expectations that the public has of us? Actually, what the public wants are people who make speeches in the House that do not denigrate others, that do not attack other people, that do not try to undermine the reputations of other people, and that actually stick to the issues of the day. That would be pleasant. That would be what democracy was about. That would inspire people, and then maybe we would not have to use the Official Information Act (OIA) so much to try to find out what on earth is going on, because, actually, this place would be a place of genuine dialogue and genuinely constructed debate instead of nasty, unpleasant behaviour from people who should know better.</p><p class="Interjection"><strong>David Seymour</strong>: Oh, because Catherine Delahunty would never do that.</p><p class="ContinueSpeech"><strong>CATHERINE DELAHUNTY</strong>: I myself am not always perfect in these matters, but I am very disappointed to be talking about an issue like the OIA in this manner.</p><p class="a">The issue tonight is that we have this wonderful unanimity for Mr Adrian Rurawhe's bill. I am pleased to acknowledge Adrian Rurawhe's effort to make sure that parliamentary under-secretaries are under the OIA. Why am I so pleased about that? Because when the National Government did a deal with the ACT Party over charter schools, that was not taken to electorates prior to the election—a whole lot of public money and public time has been spent trying to find out what is really going on with a secret contract between the charter schools and the Government. Because the parliamentary under-secretary's work is not subject to the OIA, we have not been able to find out those things by sending an OIA request to the Minister of Education, because the Minister of Education would just say: "Well, this is not what I'm doing. This is not part of it."</p><p class="a">The whole secrecy around charter schools has been very, very deleterious to good scrutiny of what was supposed to be a pilot. It was supposed to be this new model that we would be able to scrutinise and that there would be proper evaluation of. There has not been transparent evaluation of charter schools, and so this bill is very pertinent to something very current, very contemporary.</p><p class="a">Apart from that, the OIA has also been an instrument of citizens' rights. It has been eroded, and it is pleasing to see a bill that will help extend and strengthen the OIA, instead of endless battles to get information. All of these battles, all of these struggles that we have in order to find out what is behind policies, what is meant by actual words—all of these attempts to get information at both local government level, I have to say, and at national Government level are gradually getting harder and harder. We really need to be challenged in this House. We really need citizens to have the right to use the OIA in all aspects of Government business; otherwise, what is the point? We may as well forget question time, we may as well forget the OIA system, if we cannot ask questions of people who are in charge of policies. David Seymour is in charge of the charter school policy—</p><p class="Interjection"><strong>David Seymour</strong>: Um, I'm actually not.</p><p class="ContinueSpeech"><strong>CATHERINE DELAHUNTY</strong>: —and we need to ask him questions. If we cannot ask him questions—we cannot even ask him whether he is in charge of charter school policy or not, because he is not under the OIA yet—it is not helpful to the coherent dialogue about what the nature of education is and what the point is of having a failed model from overseas imposed upon our country at great expense in order to experiment on children, some of whom have already experienced great losses.</p><p class="a">That is what this bill is about. It is about the OIA for parliamentary under-secretaries. Parliamentary under-secretaries should be subject to the OIA; it is good that we all agree about that. It is an excellent thing.</p><p class="Interjection"><strong>Hon Christopher Finlayson</strong>: Sit down and shut up.</p><p class="ContinueSpeech"><strong>CATHERINE DELAHUNTY</strong>: But there are reasons why this is a problem—and no, I will not sit down and shut up, because that is not my job, Mr Finlayson. My job is to hold the Government to account. It is to hold the Government to account and that is why I support this bill, because it is about that. If anybody thinks that some of us are voting for it because of what happened with the charter schools—we are voting for it for that reason, but also because it is a good example of everything that is wrong with imposed policy that is not open to scrutiny. We are very pleased that there will be greater scrutiny, and the Green Party is happy that it will apply broadly and it is happy that it will apply to the particular issue, which has inspired us to support this bill. I commend the bill to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:12:45" ></a><strong>DENIS O'ROURKE (NZ First)</strong>: Listening to Mr Seymour justifying why he is going to vote for this bill seemed to me a little bit like listening to a turkey voting for a midwinter Christmas, because it just did not make sense. In fact, his whole argument was weird and it did not at all explain his flip-flops in originally opposing the bill and now supporting it.</p><p class="a">And, by the way, he talked about whether people wanted to find out where other MPs went, without mentioning that one of the things they might want to find out would be why one particular MP on one occasion stayed far too long at the Back Bencher when he should have been in the House. Maybe they would want to find that out, but I cannot believe that many people would want to find out where MPs generally go to have a beer or whatever. That seems to be not a good argument to justify his position but that is what he based his argument on, so that is his right—and fine—but I think I will get on to something more important, which is this: why New Zealand First actually is not going to support this bill, which we do think is a little bit of a gimmick.</p><p class="a">I understand why—to be fair to the proposer of the bill—the bill is being proposed. Ostensibly, it is because it would make parliamentary under-secretaries fully accountable under the Official Information Act (OIA), and, on the face of it, there is of course nothing wrong with that, but that is not really what this bill is about. I suspect it is actually driven by a desire to see that David Seymour, as a parliamentary under-secretary for charter schools and for regulatory reform, can be challenged under the Official Information Act and possibly—perhaps a little bit uncharitably, but possibly—for political reasons. To put it in a nutshell, I doubt whether this bill would have been proposed if Mr Seymour had not been a parliamentary under-secretary.</p><p class="a">So why are we going to vote against it, then? I want to say, first of all, that I listened closely to what David Seymour has had to say in his various weird speeches on this subject. He started off, of course, by originally opposing it. He said that the bill was "inconsequential in every practical sense", given that all of his actions as parliamentary under-secretary would be copied to his supervising Minister and an OIA request would be better used to discover those decisions from the Minister direct. We totally agree. We cannot understand why anyone would waste an OIA request on David Seymour when they could get the information from a much better source—in particular, the Minister. </p><p class="a">So what is the point of doing an OIA request to David Seymour or, indeed, other parliamentary under-secretaries? There is not any, so what, therefore, is the point of this bill? Answer—not a hell of a lot. Not a hell of a lot. In Mr Seymour's original first reading speech he said that the Official Information Act was there to "keep tabs on what the executive was doing", apparently believing that he was not a part of the executive and that, therefore, this bill would mean that "We have not abandoned that principle." He, strangely, saw himself as not part of the Government executive because he was just a lowly parliamentary under-secretary—and, again, I totally agree. But now he seems to have woken up to the fact that, actually, he did join the Government in an executive position, so he now supports the bill—and good for him because he accepts that he should be part of that transparency process. But as I have said, anyone actually wanting information would be better to go direct to the Minister.</p><p class="a">What the bill actually does is to redefine the term "Minister of the Crown" to include parliamentary under-secretaries—a very weird definition, I would have to say, of the term "Minister of the Crown". It is a very weird definition, and when I think of that definition applying to David Seymour, I shudder—surely he cannot be a Minister of the Crown after a few months in Parliament? I mean, I can barely sleep at night considering that possibility. So for that reason New Zealand First sought no amendment to the bill because we think it is appropriate just to oppose it at this stage. It cannot possibly achieve anything useful. The better source of official information would be the actual Minister responsible, not a parliamentary under-secretary because of some weird definition that it is included in the term "Minister of the Crown".</p><p class="a">Finally, I want to say this: it is a shame that this bill concentrates on such a low priority when you consider all of the issues that there are around official information. Furthermore, that legislation does need attention, but this is not the attention that it needs. Government agencies and local government too often do not genuinely comply with requests for official information, and flout the obvious intention of the Act to provide information to the public whenever it is possible for them to do so. Instead, they tend to take the opposite tack, which is to withhold information as much as they possibly can and to make it as hard as possible for people to get that information. That is the reality and that is the reform that this bill really needs.</p><p class="a">In addition to that, the Ombudsman needs more power to order the release of information and there should be sanctions on agencies and local government alike if they do not provide information in the way that is intended under the legislation. Indeed, we need to build a much better culture in both Government agencies and local government so that they see their role as being public service, which includes providing information to the public unless there is a genuine reason for not doing so. I fear that on far too many occasions the reasons given are not genuine, are obstructive, and are often excessively delayed. The Ombudsman does not have the power to do much about that. Those are the sorts of reforms that this legislation needs; not this silly little bill looking at the most minor possible issue, which will make little or no progress towards a better official information regime in this country.</p><p class="a">We are voting—opposing the bill—against it in protest that so much time and effort is being put into this when it could be put to much better use to make genuine and much needed reforms of the Official Information Act. This bill is not needed. It will achieve nothing. It is, really, about David Seymour. It would not have been proposed at all if he had not been an under-secretary. We do not agree with the Labour Party on this; it should not have done this. This is a waste of time and effort, it is most inappropriate, and we will be voting against it.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:20:49" ></a><strong>DAVID BENNETT (National—Hamilton East)</strong>: It is bizarre that the New Zealand First Party is voting against this bill, because we know that the true New Zealand First Party stands up for accountability, and that is something that it has prided itself on over many years. We have always heard that from its leader. Every time the leader of the New Zealand First Party comes into this Parliament, every little detail is so important. Yet tonight New Zealand First members can throw a bill away. They can say no to accountability on the basis that details do not matter.</p><p class="a">What has happened to the real New Zealand First Party? What happened to that party of principle that was supposed to be there—that came out of the National Party, that was born out of principle? What happened to that New Zealand First Party that was supposed to be in this House to keep us honest? To keep us honest was its role. I believe I know the reason why New Zealand First members are voting against it. It is because they know that Ron Mark will be an under-secretary—ha, ha! What will Ron Mark be the under-secretary of? That is the question.</p><p class="Interjection"><strong>Brett Hudson</strong>: Maybe Statistics.</p><p class="ContinueSpeech"><strong>DAVID BENNETT</strong>: Yes, yes. And then there is Fletcher Tabuteau, and we know he is going to be an under-secretary as well. That is right—that is going to be right. He is going to be an under-secretary. Who else? There is nobody else who can be an under-secretary in that party. Well, maybe the Rt Hon Winston Peters might be an under-secretary, but New Zealand First will be an under-secretary to the Labour Party, which will ditch the Green Party at the first opportunity. Watch and learn, Green Party. This is the first step of the Labour Party ditching you at their first opportunity and putting under-secretaries in from the New Zealand First Party. That is what this bill is about. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:22:35" ></a><strong>SIMON O'CONNOR (National—Tāmaki)</strong>: Primum non nocere. This bill does no harm.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:23:00" ></a><strong>BRETT HUDSON (National)</strong>: I rise to support this, the Official Information (Parliamentary Under-Secretaries) Bill. Mr Seymour has made many comments about how the bill will not actually achieve any real purpose, because he is so open with information in the work he does and in his office. That is very, very true. If there is one positive we could say about this bill, and the passage of this bill, it is that at least the New Zealand public can take confidence that the openness that Mr Seymour has been exhibiting now in this term of Parliament is now going to be enshrined in a piece of legislation. They do not get anything more out of it except the good, warm feeling and confidence that comes from seeing some words in the Act. I commend this bill to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:23:48" ></a><strong>CLARE CURRAN (Labour—Dunedin South)</strong>: Injecting a bit of seriousness into this debate, first of all I would like to thank and congratulate my colleague Adrian Rurawhe and also my colleague Chris Hipkins on the work that they have put in to bringing this bill to the House, and putting it through.</p><p class="a">This is not a gimmick. This is a serious piece of legislation. It is a small step towards better, open government, but it is an important demonstration of the principles of open government. I do want to really stress that, because that is what it is—no more, no less. It is a small but important demonstration of the important principles of open government.</p><p class="a">There is a lot being said tonight, particularly by the members of the Government on that side of the House, about open government and their commitment to it. Well, I will tell you that this Government pays lip service to the principles and the practice of open government. The Government claims that it is interested in transparency, but it abuses in general the spirit of the Official Information Act by responding as late as possible to Official Information Act requests, by redacting large tracts of information, and in many cases refusing to answer Official Information Act requests, on spurious grounds, resulting in enormous numbers of complaints to the Ombudsmen and weighing down the Office of the Ombudsmen. The Official Information Act is one of the few mechanisms for public scrutiny of government decision-making and government process. And this bill, which, as I said, is small, by opening up parliamentary under-secretaries to scrutiny under the Official Information Act, is important; it is an important part of that.</p><p class="a">There have been some pretty silly contributions in the course of the debate on this bill, the silliest being that of the ACT Party member, David Seymour, who opposed it and then provided silly Supplementary Order Papers, and now, I understand, is supporting it. The weight of evidence has been clear about the sensible nature of this small but important step towards better accountability.</p><p class="a">The final comment that I will make is that in terms of this Government's commitment to open government—the farcicality of its commitment to open government—there is nothing clearer than the warning letter that has been sent to the New Zealand Government by the Open Government Partnership, which is the partnership of 69 countries working to implement national commitments to promote greater transparency, accountability, and engagement of citizens in policy making. New Zealand signed up to the Open Government Partnership several years ago, but it is expected to demonstrate its commitments. Well, these commitments have not been demonstrated, and a warning letter was sent by the acting director of the Open Government Partnership support unit in March this year to our Government, warning us that we have acted contrary to Open Government Partnership process by not completing the assessments that we should have done, by not undertaking the processes of engagement with the public that we should have done, and we have been warned.</p><p class="a">The consequences of that may be that we can no longer participate in the Open Government Partnership. If that was to occur, would that not be a farce—with all of the calls, all of the claims of transparency, openness, and accountability—if New Zealand was turfed out of the Open Government Partnership? Well, we are in danger of that happening. Tonight we have a demonstration from this side of the House that we are committed to real principles of open government, to a pathway to better engagement with New Zealand citizens, to real accountability and honesty and scrutiny of the processes of Government. So I commend this bill to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:29:16" ></a><strong>JOANNE HAYES (National)</strong>: Just to reiterate what my colleague Simon O'Connor said: no harm can come from this bill. I just want to thank—</p><p class="Interjection"><strong>Hon Christopher Finlayson</strong>: A fan of Latin.</p><p class="ContinueSpeech"><strong>JOANNE HAYES</strong>: Ha, ha!</p><p class="Interjection"><strong>Iain Lees-Galloway</strong>: Say it in the way he said it.</p><p class="ContinueSpeech"><strong>JOANNE HAYES</strong>: Say it in Latin! Ha, ha! I just want to thank Adrian for bringing it to the House, and I commend it to the House. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160629 20:29:38" ></a><strong>TIM MACINDOE (National—Hamilton West)</strong>: I join others in congratulating the member Adrian Rurawhe on having his bill progress to this point. It is a very significant achievement for an Opposition member, and it is, no doubt, something in which he takes a lot of pride. So I congratulate him and I also support the bill.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="VoteReason">A party vote was called for on the question, <em>That the Official Information (Parliamentary Under-Secretaries) Amendment Bill be now read a third time.</em></p><p class="VoteCount"><strong>Ayes 109</strong></p><p class="VoteText">New Zealand National 59; New Zealand Labour 32; Green Party 14; Māori Party 2; ACT New Zealand 1; United Future 1.</p><p class="VoteCount"><strong>Noes 12</strong></p><p class="VoteText">New Zealand First 12.</p><p class="VoteResult">Bill read a third time.</p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>

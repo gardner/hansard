@@ -1,0 +1,796 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 8 ]>	<html class="no-js tb-fixed oldie" lang="en">	<![endif]-->
+<!--[if IE 9 ]>		<html class="no-js tb-fixed ie9" lang="en">	<![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="en" class="no-js">
+ <!--<![endif]-->
+<!-- p2 -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>
+	Policing (Cost Recovery) Amendment Bill — Second Reading - New Zealand Parliament 
+</title>
+
+	<meta name="description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+
+<meta property="og:title" content="Read Hansard Reports" />
+
+	<meta property="og:description" content="Hansard editors report what politicians say in the House of Representatives. Here you can read our near-verbatim reports on all debates, including oral questions and proposed laws (bills)." />
+<meta property="og:url" content="https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_20" />
+<meta property="og:type" content="article" />
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+	<!--[if (gt IE 9) | (IEMobile)]><!-->
+	<link rel="stylesheet" type="text/css" href="/content/css/style.DPrIjA.css">
+	<!--<![endif]-->
+	<!--[if (lt IE 10) & (!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="/content/css/style-fixed.DPrIjA.css">
+	<![endif]-->
+	
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="icon" sizes="192x192" href="/apple-touch-icon.png">
+
+	
+	
+
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-48145468-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	<script>
+		var _trackPreloadEvents = [];
+	</script>
+
+	<!--[if (lte IE 9) | (IEMobile)]>
+		<script src="/content/scripts/dist/lib/matchMedia.DPrIjA.js"></script>
+	<![endif]-->
+			<script src="/content/scripts/dist/bootstrap.DPrIjA.js"></script>
+
+
+	
+</head>
+<body class="theme--cyan template---HansardListing">
+	<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="koru" viewBox="0 0 2212 1024">
+			<path d="M2211.582 872.010c-448.242-19.321-846.249-365.806-998.239-748.357 215.104-7.728 410.888 32.201 546.133 154.566-23.185 64.403-79.859 118.501-171.311 114.636 33.489-72.131-74.707-163.582-149.414-87.587-59.25 59.25 3.864 166.158 155.854 170.023 115.925 3.864 195.784-46.37 265.338-100.468 42.506 32.201 95.316 83.723 112.060 146.838-99.18-51.522-215.104 43.794-153.278 153.278 21.897 38.642 97.892 66.979 146.838 64.403 41.218-1.288 83.723-25.761 106.908-61.826 114.636-238.289-226.697-583.487-577.047-651.753-198.36-36.065-542.269-46.37-726.46 45.082-276.931 148.126-435.361 376.111-559.014 676.226-75.995-96.604-97.892-280.795-59.25-400.584 48.946 10.304 83.723 33.489 100.468 77.283-21.897-12.881-50.234-14.169-64.403 0-92.74 78.571 46.37 185.479 112.060 100.468 73.419-95.316-25.761-218.969-94.028-276.931 14.169-50.234 56.674-72.131 105.62-88.875-28.337 21.897-37.353 32.201-41.218 64.403-18.033 133.957 162.294 133.957 194.496 41.218 29.625-83.723-6.44-158.43-75.995-194.496-285.947-110.772-409.6 249.882-383.839 535.829 11.592 124.941 105.62 342.621 140.397 381.263 516.508 70.843 725.172-276.931 708.428-417.328-6.44-68.267-18.033-170.023-158.43-164.87-109.484 3.864-225.409 167.447-123.653 217.681 56.674 28.337 141.686-23.185 94.028-94.028 65.691 16.745 88.875 136.533 23.185 171.311-70.843-69.555-292.387-59.25-294.964 52.81-1.288 52.81 70.843 90.164 117.213 52.81 25.761-27.049 14.169-68.267-11.592-88.875 56.674-21.897 97.892 23.185 112.060 64.403-50.234 101.756-203.512 123.653-311.708 88.875 126.229-421.192 510.068-656.906 593.791-698.123-15.457 101.756-46.37 284.659-16.745 427.633 38.642 186.767 144.262 332.317 287.235 401.872 151.99 60.538 385.127 2.576 341.333-194.496-41.218-182.903-354.214-105.62-217.681 82.435-79.859 9.016-149.414-43.794-182.903-100.468 95.316-38.642 184.191-197.072 117.213-306.556-59.25-95.316-271.779-45.082-182.903 88.875 39.93 39.93 88.875-2.576 100.468-34.777 37.353 73.419-33.489 123.653-88.875 141.686-83.723-153.278-61.826-342.621-6.44-519.084 47.658 66.979 81.147 144.262 123.653 212.528 124.941 199.648 512.644 620.84 1042.033 650.465v-149.414z"></path>
+		</symbol>
+	</svg>
+	
+
+
+
+<div class="header">
+	<div class="wrapper cf">
+		<div class="header__primary">
+			<a href="/en/" class="header__masthead" title="New Zealand Parliament - Pāremata Aotearoa">
+				<span class="header__title">New Zealand Parliament</span>
+				<span class="header__subtitle">Pāremata Aotearoa</span>
+			</a>
+			<div class="float--right">
+				
+
+
+<div class="header__language">
+	<span class="header__label">Language</span>
+	<ul class="header__language-menu">
+				<li class="header__language-link is-selected" title="English version of the site - currently selected">
+					English
+				</li>
+				<li>
+					<a href="/mi/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_20/" class="header__language-link" title="Māori version of the site">
+						Māori
+					</a>
+				</li>
+	</ul>
+</div>
+				<div class="header__search">
+	<span class="header__search-label header__label">Search</span>
+	<a class="header__search-advanced" href="/en/search">Advanced Search</a>
+	<div class="header__search-combo input-combo">
+		
+
+
+
+<form action="/en/google-search" method="get"><input class="header__search-input input-combo__input" id="term" name="term" type="text" value="" />	<button class="header__search-button input-combo__button input-combo__button--icon iconf-search"><span class="visuallyhidden">Search</span></button>
+</form>
+	</div>
+</div>
+			</div>
+					<ul class="megamenu" role="navigation">
+				<li class="megamenu__item megamenu__item--cyan template---ParliamentaryBusinessLanding is-selected">
+					<a href="/en/pb/" class="megamenu__heading" title="Parliamentary Business">
+						Parliamentary Business
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item one-whole">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/bills-and-laws/" class="megamenu__list-link" title="Bills and Laws">
+														Bills and Laws
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/" class="megamenu__list-link" title="Select committees">
+														Select committees
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item is-selected">
+													<a href="/en/pb/hansard-debates/" class="megamenu__list-link" title="Hansard (Debates)">
+														Hansard (Debates)
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/daily-progress-in-the-house/" class="megamenu__list-link" title="Daily progress in the House">
+														Daily progress in the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/order-paper-questions/" class="megamenu__list-link" title="Order Paper &amp; Questions">
+														Order Paper &amp; Questions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/journals-of-the-house/" class="megamenu__list-link" title="Journals of the House">
+														Journals of the House
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/papers-presented/" class="megamenu__list-link" title="Papers presented">
+														Papers presented
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/petitions/" class="megamenu__list-link" title="Petitions">
+														Petitions
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-rules/" class="megamenu__list-link" title="Parliamentary Rules">
+														Parliamentary Rules
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/research-papers/" class="megamenu__list-link" title="Research papers">
+														Research papers
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/parliamentary-relations/" class="megamenu__list-link" title="Parliamentary Relations">
+														Parliamentary Relations
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/watch-parliament/" class="megamenu__list-link" title="Parliament TV and Radio">
+														Parliament TV and Radio
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--blue template---GenericLanding ">
+					<a href="/en/mps-and-electorates/" class="megamenu__heading" title="MPs and Electorates">
+						MPs and Electorates
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>In the New Zealand Parliament there are seven parliamentary parties represented by 121 MPs. These MPs represent 64 general electorates and seven Māori electorates. The other 50 MPs are selected from the party lists.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/members-of-parliament/" class="megamenu__list-link" title="Members of Parliament">
+														Members of Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/political-parties/" class="megamenu__list-link" title="Parliamentary parties">
+														Parliamentary parties
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/electorate-profiles/" class="megamenu__list-link" title="Electorate profiles">
+														Electorate profiles
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/contact-and-mailing-lists/" class="megamenu__list-link" title="Contact and mailing lists">
+														Contact and mailing lists
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-financial-interests/" class="megamenu__list-link" title="MPs&#39; financial interests">
+														MPs&#39; financial interests
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/house-seating-plan/" class="megamenu__list-link" title="House seating plan">
+														House seating plan
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/mps-expenses/" class="megamenu__list-link" title="MPs&#39; expenses">
+														MPs&#39; expenses
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/mps-and-electorates/pay-and-entitlements/" class="megamenu__list-link" title="Pay and entitlements">
+														Pay and entitlements
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--yellow template---GenericLanding ">
+					<a href="/en/get-involved/" class="megamenu__heading" title="Get Involved">
+						Get Involved
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+									<div class="megamenu__lede grid__item one-third">
+										<p><span>Parliament's decisions affect all New Zealanders. Have your say and influence the laws passed by Parliament. You can get involved by voting in elections, contacting an MP,  making a submission or petitioning Parliament.</span></p>
+									</div>
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/" class="megamenu__list-link" title="Have your say">
+														Have your say
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/pb/sc/make-a-submission/" class="megamenu__list-link" title="Make a submission">
+														Make a submission
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/topics/" class="megamenu__list-link" title="Topics">
+														Topics
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/features/" class="megamenu__list-link" title="Features">
+														Features
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/media-centre/" class="megamenu__list-link" title="Media Centre">
+														Media Centre
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/have-your-say/contact-an-mp/" class="megamenu__list-link" title="Contact an MP">
+														Contact an MP
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/the-week-in-parliament/" class="megamenu__list-link" title="This week in Parliament">
+														This week in Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/virtual-house-app/" class="megamenu__list-link" title="Virtual House App">
+														Virtual House App
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/join-a-parliamentary-study-group/" class="megamenu__list-link" title="Join a Parliamentary study group">
+														Join a Parliamentary study group
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/get-involved/youth-parliament/what-happened-at-youth-parliament-2016/" class="megamenu__list-link" title="Youth Parliament">
+														Youth Parliament
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="megamenu__item megamenu__item--coral template---GenericLanding ">
+					<a href="/en/visit-and-learn/" class="megamenu__heading" title="Visit and Learn">
+						Visit and Learn
+					</a>
+					<div class="megamenu__dropdown">
+						<div class="wrapper">
+							<div class="grid">
+																	<div class="grid__item two-thirds">
+										<ul class="megamenu__list">
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/" class="megamenu__list-link" title="Visit">
+														Visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/visit/planning-your-visit/" class="megamenu__list-link" title="Planning your visit">
+														Planning your visit
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/teachers-and-students/" class="megamenu__list-link" title="Educators and students">
+														Educators and students
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/tertiary-and-special-interests/" class="megamenu__list-link" title="Public servants and special interest groups">
+														Public servants and special interest groups
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/our-system-of-government/" class="megamenu__list-link" title="Our system of government">
+														Our system of government
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/office-of-the-speaker/" class="megamenu__list-link" title="Office of the Speaker">
+														Office of the Speaker
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/" class="megamenu__list-link" title="How Parliament works">
+														How Parliament works
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/how-parliament-works/how-laws-are-made/" class="megamenu__list-link" title="How laws are made">
+														How laws are made
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+												<li class="megamenu__list-item ">
+													<a href="/en/visit-and-learn/history-and-buildings/" class="megamenu__list-link" title="History and buildings">
+														History and buildings
+														<span class="megamenu__link-icon iconf-arrow-right" aria-hidden="true"></span>
+													</a>
+												</li>
+										</ul>
+									</div>
+								
+									<div class="grid__item one-third megamenu__promo-wrap ">
+											<div class="megamenu__promo">
+												
+
+
+<div class="megamenu__contact cf">
+	<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank" class="figure">
+		<img src="/Content/images/interface/map-nav.png" />
+	</a>
+	<div class="contact__body">
+			<h4 class="contact__heading">Parliament Buildings’ street address</h4>
+					<p>
+				<a href="http://maps.google.com/?q=Wellington+Parliament+Pipitea+Wellington+6011" target="_blank">Parliament Buildings<br />Molesworth Street<br />Wellington 6160<br />New Zealand</a>
+			</p>
+					<h4 class="contact__heading">Visitor Centre contact details</h4>
+					<p><a href="tel:+ 64 4 817 9503">+ 64 4 817 9503</a></p>
+	</div>
+</div>
+											</div>
+											<div class="megamenu__promo">
+												
+
+
+	<a href="/en/visit-and-learn/visit/" class="megamenu__cta cf">
+		<div class="figure">
+				<img src="/content/images/placeholder/lazyload/thumbnail.DPrIjA.png" data-original="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="js-lazy-auto " title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE"/>
+	<noscript>
+		<img src="/media/1778/ph-and-bhive-with-school-helena-photo.jpg?center=0.47949526813880128,0.50210084033613445&amp;mode=crop&amp;width=200&amp;height=150&amp;rnd=131122098280000000" alt="A school group visit New Zealand&#39;s Parliament buildings" class="" title="A school group visit New Zealand&#39;s Parliament buildings DUPLICATE" />
+	</noscript>
+
+		</div>
+
+		<div class="megamenu__cta-body">
+			For more information about tours and visiting Parliament, click here.
+		</div>
+	</a>
+
+											</div>
+									</div>
+							</div>
+						</div>
+					</div>
+				</li>
+		</ul>
+
+		</div>
+			<div class="header__secondary cf">
+				
+
+
+	<div class="header__house-session hidden show--xl">
+			<div class="rel figure">
+				<a href="/en/pb/meetings-of-parliament/">
+					<img src="/media/2691/house-of-representatives.jpg?anchor=center&amp;mode=crop&amp;width=920&amp;height=518&amp;rnd=131112374740000000" alt="House of Representatives" title="House of Representatives" class="house-session__img" />
+				</a>
+
+							</div>
+
+			<div class="house-session__summary">
+				<a href="/en/pb/meetings-of-parliament/">
+					<span class="house-session__text">The House next meets on Tuesday, 29 November 2016</span>
+				</a>
+			</div>
+	</div>
+
+
+<ul class="header__quick-links">
+	<li class="quick-links__item">
+		<a href="/en/calendar" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-calendar" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Calendar
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/ondemand" class="quick-links__link theme__bg--hover">
+			<span class="quick-links__icon iconf-play" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Watch
+			</span>
+		</a>
+	</li>
+	<li class="quick-links__item">
+		<a href="/en/watch-parliament/audio" class="quick-links__link theme__bg--hover ">
+			<span class="quick-links__icon iconf-headphones" aria-hidden="true"></span>
+			<span class="quick-links__text">
+				Listen
+			</span>
+		</a>
+	</li>
+</ul>
+
+
+
+			</div>
+	</div>
+</div>
+<div class="wrapper education-header"></div>
+
+
+	<div id="main-content">
+		
+
+
+<div class="content gutter-top--loose gutter-bottom--loose">
+	<div class="wrapper cf">
+		<div class="main main--two-col" role="main">
+			<h1>Policing (Cost Recovery) Amendment Bill — Second Reading</h1>
+
+			<div class="page-info page-info--bordered">
+				
+
+	<ol class="nav breadcrumb">
+			<li>
+				<a href="/en/" class="theme__link" title="Home">Home</a>
+			</li>
+			<li>
+				<a href="/en/pb/" class="theme__link" title="Parliamentary Business">Parliamentary Business</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/" class="theme__link" title="Hansard (Debates)">Hansard (Debates)</a>
+			</li>
+			<li>
+				<a href="/en/pb/hansard-debates/rhr/" class="theme__link" title="Read Hansard Reports">Read Hansard Reports</a>
+			</li>
+	</ol>
+
+				<a href="/en/document/HansDeb_20160915_20160915_20/metadata" class="page-info__metadata-link metadata-link theme__link js-metadata" title="Metadata (opens in new window)">Metadata</a>
+			</div>
+			
+				<div class="lede"><p>This page displays your selected transcript. You may view the recorded PTV video using the "Video" tab. Please note that the video tab displays all available video for the sitting day of the transcript. A filter will be available to find the specific debate / speech you wish to view.</p></div>
+		</div>
+
+		<div class="sidebar">
+			
+
+
+<div class="section-nav pod pod--lb theme__border">
+
+	<a href="/en/pb/hansard-debates/" class="section-nav__heading theme__color--hover" title="Hansard (Debates)">
+		Hansard (Debates)
+	</a>
+
+	<ul class="section-nav__list limit js-limit">
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/rhr/" class="section-nav__list-link theme__color--hover is-selected theme__color">
+					Read Hansard Reports
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-is-hansard/" class="section-nav__list-link theme__color--hover ">
+					What is Hansard?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/how-to-understand-hansard/" class="section-nav__list-link theme__color--hover ">
+					How to explore Hansard
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/what-s-it-like-to-be-a-hansard-editor/" class="section-nav__list-link theme__color--hover ">
+					What’s it like to be a Hansard editor?
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-in-cartoons/" class="section-nav__list-link theme__color--hover ">
+					Hansard in cartoons
+				</a>
+			</li>
+			<li class="section-nav__list-item">
+				<a href="/en/pb/hansard-debates/hansard-indexes/" class="section-nav__list-link theme__color--hover ">
+					Hansard Indexes
+				</a>
+			</li>
+	</ul>
+		<a class="theme__link js-limit-btn js-display" href="#">
+			View all <span class="limit-icon iconf-arrow-down"></span>
+		</a>
+	
+</div>
+		</div>
+	</div>
+	
+	<div class="wrapper cf gutter-top--loose ajax-container koru-side-holder js-ajax-container" id="filterformsearchtarget">
+		
+
+
+
+<div class="main main--two-col section--border-bottom" role="main">
+	<div class="tab tab-listing">
+		<ul class="tab__menu">
+				<li class="tab__menu-item js-tab__item is-selected ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_20" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160915_20160915_20/transcript" class="tab__menu-link js-tab__link">
+			Transcript
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_20/tab/video" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160915_20160915_20/video" class="tab__menu-link js-tab__link">
+			Video
+		</a>
+	</li>
+
+				<li class="tab__menu-item js-tab__item ">
+		<a href="/en/pb/hansard-debates/rhr/combined/HansDeb_20160915_20160915_20/tab/relateddocuments" data-ajax-url="/en/ajax/hansardcombineddetail/6227/HansDeb_20160915_20160915_20/relateddocuments" class="tab__menu-link js-tab__link">
+			Related Documents
+		</a>
+	</li>
+
+		</ul>
+		<div class="tab__body">
+	<div class="body-text body-text--pub body-text--hansard ">
+			<ul class="hansard__level flush">
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="BillDebate"><strong>POLICING (COST RECOVERY) AMENDMENT BILL</strong></p><p class="SubDebate"><strong>Second Reading</strong></p><p class="IndentMargin">Debate resumed from 13 September.</p><p class="Speech"><a name="time_20160915 16:19:11" ></a><strong>IAN McKELVIE (National—Rangitīkei)</strong>: I am happy to just pick up, for a couple of minutes, where I left off earlier in the week, and to add a little bit more on this topic. Firstly, the bill sets out clearly—and some significant discussion was had—what these charges in the Policing (Cost Recovery) Amendment Bill apply to. The charges apply to demand services, and a demand service is described as a service that "is provided only on the request to an individual or organisation … and is of direct benefit to that individual or organisation …".</p><p class="a">During the course of the select committee discussion on this bill, there was a lot of discussion on this very topic, and, I think, some nervousness initially as to what that might extend to. I think, as we progressed the discussion on that, we got to a position where most members on the select committee were comfortable with what that would apply to. For the purposes of this debate, the discussion related to what is known as police vetting. There was a lot of discussion as to who might use that, and as I said earlier in my contribution on this, the Minister of Police has now signalled strongly that our charitable organisations will not be subject to those charges, which I think was also quite a significant relief to the select committee and to many of those charitable organisations. The fact that in overseas jurisdictions this service is almost always paid for—and I accept that that is no reason for us to implement this in New Zealand—did give us some satisfaction that, at least, we were in territory that was justifiable.</p><p class="a">It also proposed that the charge be a charge of about $7 per police vet check. When you compare that with the charge in Australia, which is some $52, it is significantly different. This charge will bring in about $2 million to the police, which will enable them to supply a significantly better police vetting service, and I think, again, that is a pretty important factor for many organisations that use that service. They need to have confidence that the service is sound and will provide them with the information and the surety they require when they are getting those police vetting checks.</p><p class="a">The discussion then moved to how broad an application these charges may be allowed to have. I said earlier that there was some discussion of what a demand service was. Again the select committee moved to tighten the primary definition of a demand service, as concern was again expressed both by members of the committee and the submitters as to what these may pertain to. So I think, having got through those two or three pretty important points, the select committee was comfortable enough with where this bill had got to. As I said, I was pleased with the decision to waive the charge on charitable organisations, and so, after some early concerns, I am pleased to be able to support this bill as it moves through the House and becomes law. Thank you.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 16:22:41" ></a><strong>EUGENIE SAGE (Green)</strong>: Tēnā koe, Mr Assistant Speaker. The Green Party is opposing this bill because it is about the Government retreating from providing a core service: policing for safe communities. We have seen today the State exercising its powers of punishing people—punishing mothers on a benefit, because they will not disclose their child's father because they may have been the victim of sexual abuse or the victim of incest. Yet here in this bill this Government is saying that we will be prepared to ensure that the police cover a lot of their costs and we are moving to user-pays policing, which is undermining the role of the police in ensuring public safety and community safety.</p><p class="a">There were a lot of submissions on this bill highlighting the major impacts on voluntary organisations from the vetting charges and from this move to user-pays and cost recovery. Yes, there have been some changes made in the select committee, but those changes are not substantial enough and they are alongside the provisions in the bill that allow the Government to introduce regulations by stealth to expand the opportunities for the police to recover charges for their services. So restrictions on the cost recovery provisions are not nearly clear enough in the bill, and, instead, we have seen this Government, because of its underfunding of the police, putting the burden on the police to try to find some money to try to move to user-pays. So there are not sufficient concessions, in the select committee's consideration of the bill, to actually provide the certainty that the Green Party needs that we are not, step by step, moving to user-pays policing and undermining their statutory role in safeguarding community safety.</p><p class="a">My colleague David Clendon has a Supplementary Order Paper (SOP), which we will be debating in the Committee stage, to make it very clear that teachers of State schools should be exempted from having these cost recovery charges applied. This is because it is essential that teachers and people in childcare situations all have the opportunity to go through that vetting process without those organisations then having to pay for that. It will have an enormous impact on their budgets, and that is what the Government has failed to recognise—the impact of these charges on the voluntary sector. The way to address this issue is to increase police funding, not to shift the charges on to the voluntary sector by requiring it to pay for vetting. So we have got major objections to the bill. We encourage the Government to seriously consider the SOPs that are being promoted to ensure that critical parts of society do not have these significant costs imposed on them.</p><p class="a">It is a bad bill. It is taking away the fundamental responsibility of the State, through the police, to provide for community security and safety. We do not want user-pays policing where community organisations, where schools, and where others are having to pay for basic police services. I think we all agree that where there is a significant commercial benefit, as with large concerts where the police provide services there, there is the potential for some cost recovery there, but not for our childcare organisations, not for our schools, not for our charitable organisations. That is just shifting the costs on to the community sector, which the Government should be paying for by adequately funding the police. We oppose this bill.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 16:26:45" ></a><strong>MAHESH BINDRA (NZ First)</strong>: I rise on behalf of New Zealand First to speak to the second reading of the Policing (Cost Recovery) Amendment Bill. The three pillars of our democracy are the Parliament, the judiciary, and the police. These three pillars are independent of each other, with specific responsibilities, and they are all fundamental to providing a safe, free, democratic society where people are free to raise their families and go about their lawful business—running their lives and raising their children with the security that if their right to exist safely in society is impeded by anybody, then the State, through the police, will protect them. </p><p class="a">Policing is a service, it is a duty, and it is a responsibility of the State. It is not a charitable commodity from which the State should derive a revenue stream. It is not a service that can in any way be equated to the services provided by the Department of Internal Affairs or the Customs Service—providing such things as passports and charging people for them. The police force is a police force. It is there to protect and serve. It is there to provide protection to all New Zealanders regardless of one's race, ethnicity, religion, socio-economic status, or, indeed, the size of their wallet.</p><p class="a">New Zealand First believes that keeping a community safe through policing is the core responsibility of the State and that police vetting is inseparable from these basic policing functions. The police force and the services it provides are funded from our main tax revenue, and we believe that it should stay that way. We believe that police should carry out vetting as part of their core police work. We see this amendment, which asks New Zealanders to pay for a vetting service with a separate fee, as the thin edge of a very, very fat National Government wedge, which will be steadily and quietly tapped into, extracting, at every tap of the hammer, money from New Zealanders who are seeking help from the police force. We believe that this bill will provide the impetus for the police to start charging for other services that they currently provide as core business, such as attending to emergencies, family violence incidents, property crime, or child abuse. </p><p class="a">Where does this stop? Will we be charging for emergency services such as attending to burglaries, or thefts, or violence? That cannot happen. We cannot support any kick-start to our police being a pay-as-you-go, or a user-pays system. That is not the Kiwi thing to do. The Vulnerable Children Act 2014 requires standard screening and vetting of all central government staff and Government-funded contractors working with children. This is a voluntary regime for business. NGOs and volunteer organisations are covered under these amendments, and it will be reviewed in 2 years. </p><p class="a">Community groups, non-governmental organisations, and other community organisations that rely on volunteers and are not resourced financially may well be prevented from going through the vetting process because of this amendment. The cost will not be bearable for them, because they do not have the resources to fund these activities, which are currently being provided by the police. When that happens, children, women, the elderly, and other vulnerable members of our society may well be put at risk, due to caregivers and others working with these vulnerable citizens not being vetted. I am sure this Government was not intending to put our vulnerable members of society at such risk. </p><p class="a">Finally, it is the State that requires all paid and unpaid staff in schools to undergo a police check. Paying for the service will increase compliance costs for those schools, which will have a negative impact on the operational budget of the schools, particularly small schools. This Government is wanting to tighten the funding belts of its public schools, and now it is adding more financial constraints with this bill—that is criminal. New Zealand First does not support this bill, because New Zealand First does not support the police charging for any of its core services. Kia ora.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 16:32:00" ></a><strong>JONATHAN YOUNG (National—New Plymouth)</strong>: I am pleased to stand in support of this Policing (Cost Recovery) Amendment Bill. It is notable that every jurisdiction in Australia has this same provision. They face similar situations to those that we do, and yet we do not have this provision. We hear, all the time, the criticisms across the House that police need further resources; this is one measure in which those resources can be increased. We are requiring greater levels of service from the New Zealand Police, and every dollar that is spent on fulfilling these requirements is taken away from front-line spending. What we are doing, in this quite complex age, when we have to place all sorts of measures and requirement upon safety and security and requirements for vetting, is putting this measure into place.</p><p class="a">There have been concerns, right through our committee hearings, from charitable organisations that they do not have the capacity to absorb these costs. It is good to hear that the Minister of Police has responded to those concerns and has signalled her intention to progress a waiver, through regulations, for registered charities. I would say that that was the greatest objection we heard from submitters—around the cost absorption that they were required to do, so there is the response that has come through on that.</p><p class="a">It is also worthy of note that there are many commercial activities and events in our communities that request the services of police. Why is it that a commercial activity that, in terms of the success of its event, can request the police, and by and large they are always very, very willing to assist those organisations and those events that make a profit—why can the police not recover some of their costs? I think that is a reasonable proposition. What this bill does is enable some of that to be done. So it is very good to see that we are having a robust debate, and I am very happy to support this bill at this stage. Thank you.</p><p class="Speech"><a name="time_20160915 16:34:36" ></a><strong>The ASSISTANT SPEAKER (Lindsay Tisch)</strong>: The next call is a split call. Marama Davidson—5 minutes.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 16:34:39" ></a><strong>MARAMA DAVIDSON (Green)</strong>: Tēnā koutou. The Green Party is opposing this bill because we support the public benefit that occurs as a result of public organisations—like the 138,349 requests from education agencies in 2013-14—who need police vetting. That is absolutely a public benefit and should not be carried by a user-pays model. It appears that this bill wants to enable police to recover costs in respect of the provision of certain police services. The process is that the Minister can recommend any regulation to establish a fee or charge. Again, I acknowledge my colleague David Clendon as our spokesperson proper on this legislation. But it appears still, in my initial reading, that there are not enough safety checks, or a check, on how far the police can expand the services that they wish to cost recover. So that is of some concern.</p><p class="a">As well as this, the police apparently have suggested a fee and provision for some exemptions for specific organisations for recovering costs, but as of August it seems that any proposed regulations still have not been presented to Cabinet. I am happy to be corrected on that, and I just seek some clarification that we might get on that in the Committee stage—so some sort of clarity around what the police are actually suggesting here, and how many services they are wanting to expand the recovery costs to, as well.</p><p class="a">I want to be quite clear—I mean, as I mentioned, this absolutely should not be a user-pays model. That is not where we want our country to go, for so many reasons, and one that sprang to my mind, as I familiarised myself with this new piece of legislation, was my experience when I went to a smaller school in Hokianga. It was a lower-decile school and not hugely resourced, and I was involved in an investigation of a teacher. I was, basically, a whistleblower with regard to a teacher—this is all on the public record; I was probably 10—who was conducting some serious sexual abuse of my fellow students at my school. This was a small, quite isolated school at that point, as well, and, you know, we need—we need—our schools to not even have to think about doing the checks, the safety requirements, that they need to do, without a single thought, because it actually, literally, does impact on the safety of the children in that community.</p><p class="a">As I pointed out earlier, a large number of the requests for police vetting come from educational agencies. Surely, with the resources of this Crown and this ministry and the Minister involved, we can actually work out how we can exempt particular public-good services. If there is a concern about commercial benefit, then let us have a look at that, but let us not scoop up too many of the organisations that would actually have to think—the fact that they would even have to think about taking the necessary steps to put in place all safety requirements for their community is why we oppose this bill.</p><p class="a">My colleague David Clendon has noted that the better-off schools, for example, often pay for their teachers' registration but poor schools do not. So we have the evidence to show that these are hindrances and these are restrictions, and we need to ensure that every single school—all schools—early childhood centres, and charity organisations do not have to think, and do not have another barrier in the way of the work that they are already doing in our communities, to be able to ensure that they can keep their workers safe, their communities safe, and their clients safe. And, primarily, that is why the Green Party is opposing this bill. Thank you.</p><p class="Speech"><a name="time_20160915 16:39:29" ></a><strong>The ASSISTANT SPEAKER (Lindsay Tisch)</strong>: I call Chris Hipkins—5 minutes.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 16:39:32" ></a><strong>CHRIS HIPKINS (Labour—Rimutaka)</strong>: The protection of the public is the core business of the police, and it seems staggering in this day and age that members have to rise in the House to state that very obvious fact. Let us look at the purpose of this bill that we are debating, the Policing (Cost Recovery) Amendment Bill, and in the Law and Order Committee's commentary it says that this bill will allow the police to charge people, effectively, for services that are "of direct private benefit to that individual or organisation".</p><p class="a">Let us look at the first one that has been identified as a service that the police might be charging for, and that is police vetting. Let us consider the example of an early childhood centre using police vetting and being charged under this bill for the police vetting that they are using. Under this bill, that would be deemed to be a private benefit to that individual or organisation, but I would put it to the members opposite: who actually really benefits from the police vetting of people working in early childhood education centres? It is not actually the centres that are the primary beneficiary of that; it is the children who are attending those services who are the primary beneficiaries of police vetting. That is why we have a regulation that requires centres to do that. So, yes, it helps centres to meet their regulatory responsibilities, but, actually, we do that because it keeps the children safe, which is the core job of the police—keeping people safe. That is why we have police vetting.</p><p class="a">So the members opposite mentioned that all the police districts in Australia do that. Interestingly enough, the cost of doing so for the organisations that pay for police vetting is over $50 per police vet. The Government is talking about a cost in New Zealand of around $7 per vet when it introduces this, so how long will it be before we catch up with Australia—which seems to be the goal of the members opposite, if you listen to what they are saying—and people are having to pay $50 per police vet?</p><p class="a">Take an early childhood education centre that might have half a dozen staff, or maybe more, actually—let us say, a dozen people are working in an early childhood education service. That is a significant cost, and, ultimately, where does its funding come from? A community-based early childhood education service—most of their funding comes from the Government. So this is the Government kind of robbing from one recipient of Government funding in order to give to another, and all of the transaction costs that go with that. Of course, we have got a Government here that does not like transfer payments; it is actually just creating a whole new regime of them. But the fundamental issue, which is missing here, is that the job of the police is to keep children safe and keep people safe, so why would they be charging and making it difficult for organisations to vet the people they are working with?</p><p class="a">Consider a voluntary organisation—a club or a society that uses police vetting in order to keep children safe. We are told by the Government to simply rely on the Minister exempting those organisations, and yet there is no guarantee in this legislation that the Minister will do so. And what is even more concerning is that if you look at the second part of this bill, which creates the regulation-making power, it basically allows the Minister of Police, without reference to the House, to impose a new form of tax. So the Minister of Police can decide which police services will be charged for. It, basically, gives the Minister of Police the absolute power to determine which police services are charged for and, aside from the ability of the Regulations Review Committee to review that, this House has no say in that. That is not right.</p><p class="a">That is why we are elected. If the Government want to come to the House and say "We think these police services should be charged for.", as it does with tax—it has got to come to the House and say "These are the taxes and levies that we think New Zealanders should be charged.", and Parliament then debates them and votes on them—this does not create the environment where that would happen. This just says that it is completely up to the Minister and they can do that without reference back to the House, and they can change that at will simply by Order in Council. That is not good enough. If the Government is going to start charging for police services, it should at least have public scrutiny around that. It should at least bring those proposals to the House and have them debated in the form of a bill, but it is not willing to do that. I think that that is wrong, and I am sure that we will get into the debate on that when this bill comes up for its Committee stage.</p><p class="a">Ultimately, this is the first step in user-pays policing. The Government has given the example of police vetting as a service that may be charged for, but there could be others. There could be plenty of others that fall within that definition, and the question becomes—go right back to that comment I made at the beginning: determining what is a private benefit to the individual or organisation is very difficult because, actually, most police services, even if they are provided directly to an organisation, are for the purpose of keeping the public safe, which is the core business of the police.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 16:44:35" ></a><strong>Dr PARMJEET PARMAR (National)</strong>: I am not on the Law and Order Committee, so it is a real privilege for me to be able to take this call to support the Policing (Cost Recovery) Amendment Bill in its second reading. Sitting here, I have heard contributions from various parties—the Green Party, the New Zealand First Party, and the Labour Party. I have to say that it is really appalling to see that they are not supporting this bill that is to support our police force.</p><p class="a">Our police officers work really hard. They do a lot more than they are required to do for law and order maintenance. We know that there are various work fields that require police clearance for their people to be employed in that industry—for example, people working with young children, people working with the elderly, and people carrying passengers, and there are so many other industries that require a police clearance for people before they are employed in that industry. These kinds of requests for a police clearance can be made on an individual basis, and this is above and beyond the role that we want our police force to focus on, which is law and order. When I say law and order, I mean preventing, reducing, and resolving crime. It also, of course, involves investigations and prosecutions.</p><p class="a">This bill is the right move because it will provide the ability for our police force to recover the cost of such services. This will also shift the cost from a taxpayer-funded service to an individually paid service, because, as we have heard, it is the individual who requests a police clearance who is actually going to benefit from that police clearance. This is about making our police force more effective. I support this bill and commend this bill to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 16:46:18" ></a><strong>Su'a WILLIAM SIO (Labour—Māngere)</strong>: Can I just say, in responding to some of the earlier remarks by the previous speaker, Parmjeet Parmar, that she is completely wrong when she says that the Opposition does not support the police force. I think if she considered that the Government has underfunded the police force by more than $300 million—</p><p class="Interjection"><strong>Hon Ruth Dyson</strong>: How much?</p><p class="ContinueSpeech"><strong>Su'a WILLIAM SIO</strong>: —$300 million—she would recognise that it is her Government that has failed to continue to support the police force, and it is forcing the New Zealand Police to skimp around and find ways of funding itself. The Labour Party will not be supporting this bill, because we just believe it is wrong. It is wrong for this Government to set the police on a course where they think it is OK to start charging the public for services that are currently being undertaken by the police force and considered under legislation as core, fundamental services—including the maintaining of public safety, crime prevention, and community support and reassurance.</p><p class="a">I suspect that the members of the public who would be listening to the debate should see a red flag with this kind of bill, because I think most New Zealanders would agree with me when I say that many of us agree with the principle of solidarity. That is that we pay our taxes and give them to the Government to collect in order for the Government to ensure that certain services are available for all—certain services are able to contribute to the general public good for all peoples. The reason that I pay my tax, and that I think most of us do so, is that we pool those resources together and we ensure that every child in our neighbourhood gets a good education. We pool our resources by taxing ourselves, ensuring that if anyone gets sick, they are able to see a doctor, or if they need medical treatment, they are able to go to the hospital without being told that they have to pay. We do so with housing, and we do so also with our police force. We pay our taxes and we collectively pool those taxes for the sake of ensuring that a police force is there to provide a public good.</p><p class="a">The public good is public safety. It is the maintenance of law and order. It is the ability to give confidence and assurance to every citizen of New Zealand that our Government is doing its job. But this bill now introduces the debate about what private good is versus public good. I have always thought—and most New Zealanders will not have a problem with this—that those in the area of business, where they are making profits for delivering a service or selling a good to the general public, have a right to make a profit. This is the same principle that this Government is now asking the police force to undertake. A service that was delivered as part of the core function of police is now being charged for. I look at what the Law and Order Committee has done, and my colleagues tell me that when they asked the officials what other services would be charged for, the officials were unable or unwilling to disclose this.</p><p class="a">So it seems to me that this is the first step on the slippery slope towards a paid police force. That is what we are heading towards. That is not New Zealand. I heard Mr Jonathan Young say earlier that this is what Australia is currently undertaking. I want to say to Mr Jonathan Young: so—so? That might be Australia—but we are not Australia; we are New Zealand. We are an independent sovereign nation. We are different from Australia. This is not the Kiwi way. So I suspect that Mr Jonathan Young might be suggesting that if Australia asks us to jump, we might be saying: "How high?". I would say that we need to maintain our Kiwi way, the way that we do things, the way that is in line with the principle of solidarity that most New Zealanders live their lives by.</p><p class="a">I want to say that the Government is saying that police vetting—as it is currently being done—is to ensure that those who are working with vulnerable people, for example children, are fit and proper people to do so and that the community's safety is assured. It now seems that under this legislation if an early childhood education centre, which is the example given by a colleague earlier, is asking for the police to vet someone, it is going to have to pay. The report suggests that it is $7, but we also know that Australia charges for this same service about A$50. Where will it stop? Some early childhood centres have more than 10 staff. Others will include volunteers. But there also is a concern from the Salvation Army and organisations that are at the coalface of trying to meet some of the challenges that have been imposed on this country because of a lack of caring and because of the direct consequence of this Government's public policy.</p><p class="a">I understand that most, if not all, of the submitters on this particular bill were opposed to this. Let me read out what they say here. Most of the people who made submissions on this said that they believed that it was totally inappropriate to make future major changes—for the police to start charging for these services. The fact that the officials were unable or unwilling to identify what other services will be charged for as part of this new regime is also concerning.</p><p class="a">I also want to raise the other part of this bill that is concerning. Hopefully, when it comes to the Committee of the whole House, we will have the opportunity to debate and consider it more. It is the fact that under this legislation changes can be made by regulation—that is, without coming to this House, which has the supreme authority of our laws. These changes can be made without any knowledge of this House. I dare say that this is the slippery slope that I do not think is appropriate. I said earlier for the public listening to this debate that this should alert them, like a red flag, as to where things are going under this Government. I say that there has been a pattern that has emerged where, in terms of the debate of private good versus public good, we are slowly but surely and more deliberately, despite the subtleness, being moved towards paying—a user-charge society. More of our services are being privatised.</p><p class="a">I give the example of our prisons. This Government came into power and invited Serco to run some of our prisons. We know that in the case where private business is involved in the delivery of public service for public good there are often bad examples that we note—in America, for example, where that sort of going-on is rife with corruption. I note, also, that last night we debated a new bill in terms of education. The Government's own reports say that the charter school system has failed—has failed—and yet the legislation that we debated last night is going to extend the charter school system and extend a failed system at that.</p><p class="a">Now, today, we are seeing the first changes in what I believe is a move towards the privatisation of our police force. I do not know what it is, but it seems like we are trying to follow the American style of providing services that benefit the public. Is it because Mr Key has suddenly found a new friend in the American President? I would hope that if he does rub shoulders with him from time to time he remembers that New Zealand is a sovereign nation, is an independent nation—and that, as small as we are, we have to maintain those things that make us different from the rest of the world. I want to say that, in terms of this bill, it is wrong. This is the start of a slippery slope: where first we are charging community organisations that may want individuals to be vetted for the sake of maintaining the safety of our community. What is next? Does that mean that if my house gets burgled, I am going to have to pay the police before they come and investigate that burglary? Is that where we are heading to? I hope not, but I do not believe that this Government knows where it is going.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="Speech"><a name="time_20160915 16:56:19" ></a><strong>JONO NAYLOR (National)</strong>: It has been an interesting debate this afternoon as I have been listening to members on the other side of the House coming up with all the reasons why this bill should not go forward. Actually, a couple of them might have had a small point, but in singling out organisations that they think would not benefit from this, they very conveniently forget that just about all the ones they have mentioned, I think, are ones that the Minister has already said will likely be exempt from this. Those members have conveniently left out those organisations that absolutely are commercial operations. They are private businesses that, at the moment, have free access to get police vetting done, and there is only a private benefit and yet the taxpayers are, in effect, subsidising those private companies to get information that they have chosen to use for their employees.</p><p class="a">For that reason, I believe that this legislation is appropriate. It is not about a carte blanche approach where we are going to charge for all police services, as the previous speaker, Su'a William Sio, alluded to and did some scaremongering on. This is a sensible approach to ensure that the taxpayers of New Zealand are not subsidising or cross-subsidising private business in this way, and, therefore, I commend this bill to the House.</p></div></body>
+						</div>
+					</li>
+					<li>
+						<div class="body-text body-text--pub">
+							<body  ><div class="section"><p class="VoteReason">A party vote was called for on the question,<em> That the </em><em>Policing (Cost Recovery) Amendment Bill be now read a second time.</em></p><p class="VoteCount"><strong>Ayes 63</strong></p><p class="VoteText">New Zealand National 59; Māori Party 2; ACT New Zealand 1; United Future 1.</p><p class="VoteCount"><strong>Noes 56</strong></p><p class="VoteText">New Zealand Labour 32; Green Party 13; New Zealand First 11.</p><p class="VoteResult">Bill read a second time.</p></div></body>
+						</div>
+					</li>
+			</ul>
+	</div>
+		</div>
+	</div>
+</div>
+
+<div class="sidebar has-koru">
+	<div class="koru-side-wrap">
+		<svg class="koru-side koru-side--top" aria-hidden="true"><use xlink:href="#koru" /></svg>
+		<svg class="koru-side koru-side--bottom" aria-hidden="true"><use xlink:href="#koru" /></svg>
+	</div>
+</div>
+
+
+
+
+
+
+
+		<div class="ajax-loader">
+	<div class="spinner">
+		<div class="double-bounce1 theme__bg"></div>
+		<div class="double-bounce2 theme__bg"></div>
+	</div>
+</div>
+	</div>
+
+</div>
+		
+<div class="footer theme__border">
+	<div class="footer__wrapper wrapper cf">
+		<a href="http://www.govt.nz" target="_blank" class="footer__govt-logo ir">New Zealand Government</a>
+
+			<ul class="footer__nav nav">
+					<li class="footer__nav-item">
+						<a href="/en/footer/about-us/" target="_top" class="footer__nav-link" title="About Us">
+							About Us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/visit-and-learn/how-parliament-works/glossary/" class="footer__nav-link" title="Glossary">
+							Glossary
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/faqs/" target="_top" class="footer__nav-link" title="FAQs">
+							FAQs
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/jobs/" class="footer__nav-link" title="Careers">
+							Careers
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/contact-us/" target="_top" class="footer__nav-link" title="Contact us">
+							Contact us
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/accessibility/" target="_top" class="footer__nav-link" title="Accessibility">
+							Accessibility
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/copyright/" class="footer__nav-link" title="Copyright">
+							Copyright
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/privacy/" target="_top" class="footer__nav-link" title="Privacy">
+							Privacy
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/alerts/" target="_top" class="footer__nav-link" title="Alerts">
+							Alerts
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/footer/website-help/" class="footer__nav-link" title="Website Help">
+							Website Help
+						</a>
+					</li>
+					<li class="footer__nav-item">
+						<a href="/en/sitemap/" target="_blank" class="footer__nav-link" title="Sitemap">
+							Sitemap
+						</a>
+					</li>
+			</ul>
+
+		<a href="#" title="Back to top" class="footer__top-link js-scroll-top theme__link">
+			<span class="weight--bold">Back to top</span> <span class="iconf-arrow-up" aria-hidden="true"></span>
+		</a>
+	</div>
+</div>
+	</div>
+
+	<ul class="visuallyhidden" id="access-keys" title="Access Keys">
+		<li><a accesskey="0" href="/en/footer/accessibility/">List of access keys</a></li>
+		<li><a accesskey="1" href="/">Go to homepage</a></li>
+		<li><a accesskey="2" href="/en/sitemap/">Sitemap</a></li>
+		<li><a accesskey="3" href="/en/search/">Sitemap</a></li>
+		<li><a accesskey="9" href="/en/footer/contact-us/">Contact us</a></li>
+		<li><a accesskey="[" href="#main-content">Skip to main content</a></li>
+		<li><a accesskey="/" href="http://www.govt.nz/" target="_blank">New Zealand Government</a></li>
+	</ul>
+
+	<script src="/content/scripts/dist/paths.2016-11-25T9-25-32.js"></script><script>require.config({baseUrl: '/content/scripts/dist/lib/'});require( ['/content/scripts/dist/main.2016-11-25T9-25-32.js'], function() { require( ['app/page/all'], function() { require( ['app/page/listing'] ); }); });</script>
+</body>
+</html>
